@@ -1,0 +1,19 @@
+# Raw PDFs — too large for GitHub, stored as Kaggle dataset
+data/raw/
+
+# Extraction cache — generated output, download from Kaggle after run
+data/cache/
+
+# RAG chunks — generated output
+data/rag/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Virtual environment
+ml-env/
+.venv/

@@ -1,5 +1,4 @@
 """
-this is what you need to see
 prepare_data.py — Extraction orchestrator for Kenya AI Executive Roundtable
 
 Runs all 170 Finance CS documents through:
@@ -7,6 +6,7 @@ Runs all 170 Finance CS documents through:
 
 Designed to run on Kaggle GPU (T4/P100) with full resume support.
 If the session times out, re-run and it skips already-cached documents.
+here we are
 
 Usage:
     python prepare_data.py                        # auto-detects Kaggle or local
@@ -18,6 +18,7 @@ Usage:
 import argparse
 import json
 import logging
+import os
 import sys
 import time
 from pathlib import Path
@@ -48,39 +49,42 @@ log = logging.getLogger(__name__)
 # ENVIRONMENT DETECTION
 # ══════════════════════════════════════════════════════════════════════════════
 
+def find_pdf_dir(base: Path) -> Path:
+    """Walk base directory and return the first folder containing PDFs."""
+    for root, dirs, files in os.walk(base):
+        if any(f.endswith(".pdf") for f in files):
+            return Path(root)
+    return base
+
+
 def detect_environment(args) -> dict:
     kaggle_input   = Path("/kaggle/input")
     kaggle_working = Path("/kaggle/working")
 
-    if kaggle_input.exists():
-        # On Kaggle — find the dataset
-        dataset_path = kaggle_input / "proffessor-kamau"
-        if not dataset_path.exists():
-            candidates = [p for p in kaggle_input.iterdir() if p.is_dir()]
-            if candidates:
-                dataset_path = candidates[0]
-                log.warning(f"Dataset not at expected path, using: {dataset_path}")
-            else:
-                log.error(f"No datasets found under {kaggle_input}")
-                sys.exit(1)
-
-        raw_dir   = dataset_path
-        cache_dir = kaggle_working / "cache"
-        log_dir   = kaggle_working
-        device    = "cuda"
-        env_name  = "kaggle"
-    else:
-        raw_dir   = ROOT / "data" / "raw"
-        cache_dir = ROOT / "data" / "cache"
-        log_dir   = ROOT
-        device    = "cpu"
-        env_name  = "local"
-
-    # Command-line overrides
+    # Command-line overrides take highest priority
     if args.raw_dir:
         raw_dir = Path(args.raw_dir)
+    elif kaggle_input.exists():
+        raw_dir = find_pdf_dir(kaggle_input)
+        log.info(f"Auto-detected PDF directory: {raw_dir}")
+    else:
+        raw_dir = ROOT / "data" / "raw"
+
     if args.cache_dir:
         cache_dir = Path(args.cache_dir)
+    elif kaggle_input.exists():
+        cache_dir = kaggle_working / "cache"
+    else:
+        cache_dir = ROOT / "data" / "cache"
+
+    if kaggle_input.exists():
+        log_dir  = kaggle_working
+        device   = "cuda"
+        env_name = "kaggle"
+    else:
+        log_dir  = ROOT
+        device   = "cpu"
+        env_name = "local"
 
     return {
         "env_name":  env_name,
