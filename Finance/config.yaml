@@ -4081,8 +4081,8 @@ documents:
     fiscal_year: na  # timeless — no fiscal year applies
     report_period: annual
     domain: constitutional
-    priority: constitutional
-    rag_weight: 2.0
+    priority: medium
+    rag_weight: 1.0
     category: 5
     chunking_strategy: legal
     chunk_by: clause
