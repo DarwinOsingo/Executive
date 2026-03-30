@@ -211,22 +211,37 @@ def _parse_thinking(text: str) -> tuple[str, str]:
 # ── CLI test ──────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
-    import json
+    import argparse, json
 
-    agent_id = sys.argv[1] if len(sys.argv) > 1 else "finance"
-    message  = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else (
-        "The Infrastructure CS is proposing a KSh 50 billion SGR extension "
-        "to be financed through a new sovereign bond. What is your position?"
+    parser = argparse.ArgumentParser(
+        description="Run a Kenya AI Executive Roundtable agent."
     )
+    parser.add_argument(
+        "message", nargs="?",
+        default="The Infrastructure CS is proposing a KSh 50 billion SGR extension to be financed through a new sovereign bond. What is your position?",
+        help="The message or question to send to the agent",
+    )
+    parser.add_argument(
+        "--agent", default="finance",
+        choices=list(AGENT_CONFIGS.keys()),
+        help="Agent ID to use (default: finance)",
+    )
+    parser.add_argument(
+        "--verbose", action="store_true",
+        help="Show retrieval debug info",
+    )
+    args = parser.parse_args()
 
-    print(f"\nAgent  : {agent_id}")
-    print(f"Message: {message}\n")
+    print(f"\nAgent  : {args.agent}")
+    print(f"Message: {args.message}\n")
 
-    agent  = Agent.from_config(agent_id)
-    result = agent.speak(message, verbose=True)
+    agent  = Agent.from_config(args.agent)
+    result = agent.speak(args.message, verbose=args.verbose)
 
     print(f"\n── {result['name']} ──\n")
     if result["thinking"]:
         print(f"[Thinking]\n{result['thinking'][:300]}...\n")
     print(f"[Response]\n{result['response']}")
     print(f"\n[Sources]\n" + "\n".join(result["rag_sources"]))
+    ##export VOYAGE_API_KEY=$(echo $VOYAGE_API_KEY | tr -d '[:space:]')
+    #docker start $(docker ps -aq --filter ancestor=qdrant/qdrant)
