@@ -1,11 +1,15 @@
 # Raw PDFs — too large for GitHub, stored as Kaggle dataset
 data/raw/
 
+
 # Extraction cache — generated output, download from Kaggle after run
 data/cache/
 
 # RAG chunks — generated output
 data/rag/
+
+# Incomplete PDFs — files with issues or missing cache
+incomplete/
 
 # Python
 __pycache__/
