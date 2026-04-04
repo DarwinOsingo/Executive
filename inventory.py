@@ -1,212 +1,514 @@
 #!/usr/bin/env python3
 """
-inventory.py — Step 1 of 4 in the multi-agent RAG pipeline.
+rename_with_llm.py — Step 2 of 4 in the multi-agent RAG pipeline.
 
-Scans all agent data/raw/ folders, records every PDF, flags obvious
-naming problems, and outputs a CSV for human review before anything
-is renamed or configured.
+Reads inventory.csv, extracts text from the first 3 pages of each PDF,
+sends it to Groq to suggest a standardized filename, and outputs
+rename_manifest.csv for human review.
+
+NOTHING IS RENAMED HERE. This script only produces suggestions.
+Script 3 (apply_renames.py) does the actual renaming after you approve.
 
 Usage:
-    python inventory.py
-    python inventory.py --base ~/PRES/Executive
-    python inventory.py --base ~/PRES/Executive --output my_inventory.csv
+    python rename_with_llm.py
+    python rename_with_llm.py --inventory inventory.csv --output rename_manifest.csv
+    python rename_with_llm.py --agent ICT          # process one agent only
+    python rename_with_llm.py --resume             # skip already-processed rows
 
 Output:
-    inventory.csv with columns:
-        agent | original_filename | filepath | size_kb | flags
+    rename_manifest.csv with columns:
+        agent | original_filename | filepath | extracted_title |
+        suggested_name | confidence | extraction_status | approved
+
+    Corrupt files appear with:
+        suggested_name  = <original filename unchanged>
+        confidence      = SKIP
+        extraction_status = corrupt_pdf
+
+Workflow after this script:
+    1. Open rename_manifest.csv
+    2. Review every row — edit suggested_name if wrong
+    3. Set approved=yes for rows you accept
+    4. Leave approved blank (or set to skip) for rows you want to skip
+    5. Run apply_renames.py
 """
 
 import os
 import re
 import csv
+import json
+import time
 import argparse
+import pdfplumber
 from pathlib import Path
-from collections import defaultdict
+from groq import Groq
 
 
-# ── Configuration ────────────────────────────────────────────────────────────
+# ── Configuration ─────────────────────────────────────────────────────────────
 
-AGENTS = [
-    "Education",
-    "Agriculture",
-    "ICT",
-    "Infastructure",
-    "AntiCorruption",
-    # "President",   # no PDFs yet — skip
-    # "Finance",     # locked — skip
+DEFAULT_INVENTORY = "inventory.csv"
+DEFAULT_OUTPUT    = "rename_manifest.csv"
+
+GROQ_MODEL        = "llama-3.3-70b-versatile"
+MAX_TEXT_CHARS    = 3500   # bumped from 2000 — covers cover page + actual title
+RETRY_ATTEMPTS    = 3
+RETRY_DELAY       = 5      # seconds between retries
+INTER_FILE_DELAY  = 0.3    # seconds between API calls (rate limit buffer)
+
+# Agent → domain description for Groq context
+AGENT_DOMAINS = {
+    "Education":      "Kenya education sector — Ministry of Education, KNEC, TSC, universities, TVET",
+    "Agriculture":    "Kenya agriculture sector — KALRO, AFA, crop research institutes, food security",
+    "ICT":            "Kenya ICT and digital economy — CA, KICTANET, digital policy, cybersecurity, fintech",
+    "Infastructure":  "Kenya infrastructure — roads, energy, ports, SGR, KETRACO, EPRA, KURA, KeNHA",
+    "AntiCorruption": "Kenya governance and anti-corruption — EACC, PPRA, PPOA, procurement, audit",
+    "President":      "Kenya cross-cutting policy — presidency, cross-ministry, national planning",
+    "Finance":        "Kenya public finance — National Treasury, CBK, KRA, debt management, fiscal policy",
+}
+
+# Document type vocabulary for Groq to choose from
+DOC_TYPES = [
+    "Annual-Report",
+    "Strategic-Plan",
+    "Policy",
+    "Act",
+    "Bill",
+    "Regulations",
+    "Budget",
+    "Audit-Report",
+    "Survey",
+    "Statistics-Report",
+    "Research-Report",
+    "Framework",
+    "Manual",
+    "Guidelines",
+    "Assessment",
+    "Conference-Report",
+    "IGF-Report",
+    "Forensic-Audit",
+    "Financial-Statements",
+    "MER-Report",
+    "Case-Report",
+    "Masterplan",
+    "Bulletin",
+    "Catalogue",
 ]
 
-DEFAULT_BASE = os.path.expanduser("~/PRES/Executive")
-DEFAULT_OUTPUT = "inventory.csv"
+SYSTEM_PROMPT = """You are a document naming expert for a Kenyan government AI research system.
+Your job is to produce clean, standardized filenames for government PDF documents.
+
+NAMING CONVENTION:
+- Format: YYYY-DocType-Issuer-ShortDescription.pdf
+- Year: use the document's publication year or fiscal year start (e.g. 2023 for FY2023-24)
+- DocType: pick the closest match from this list: {doc_types}
+- Issuer: the organization that produced the document (e.g. KNEC, PPRA, KALRO, KETRACO, EACC)
+- ShortDescription: 2-5 words max, hyphenated, Title-Case
+- If fiscal year is present use format FY-YYYY-YY (e.g. FY-2023-24)
+- No spaces anywhere — hyphens only
+- No special characters: no &, /, (), [], @
+- No leading underscores
+- Max 80 characters total including .pdf
+- If document has version info (v1, v2) preserve it at the end before .pdf
+
+EXAMPLES:
+  "PPRA ANNUAL REPORT 2023-2024.pdf" → "2024-Annual-Report-PPRA-FY-2023-24.pdf"
+  "KNEC-Audited-Annual-Report-FY-2019_2020.pdf" → "2020-Annual-Report-KNEC-FY-2019-20.pdf"
+  "Kenya AI Strategy 2025 - 2030.pdf" → "2025-Strategic-Plan-MoE-AI-Strategy-2025-30.pdf"
+  "Agricultural-Finance-Corporationauditor general.pdf" → "2023-Audit-Report-AFC-Financial-Statements.pdf"
+  "Mobile-Payments-v1.pdf" → "2023-Research-Report-CA-Mobile-Payments-v1.pdf"
+
+CONFIDENCE LEVELS:
+  HIGH   — title, issuer, AND year are all explicitly visible in the extracted text
+  MEDIUM — title is clearly readable; issuer or year requires reasonable inference
+  LOW    — text is empty, completely garbled, or the document title itself cannot be determined
+
+Respond ONLY with a JSON object — no preamble, no explanation, no markdown:
+{{"suggested_name": "YYYY-DocType-Issuer-Description.pdf", "confidence": "HIGH|MEDIUM|LOW", "extracted_title": "exact title as it appears in the document"}}"""
+
+USER_PROMPT_TEMPLATE = """Agent domain: {agent_domain}
+Original filename: {original_filename}
+
+First 3 pages of document text:
+---
+{text}
+---
+
+Suggest a standardized filename following the naming convention."""
 
 
-# ── Flag detectors ────────────────────────────────────────────────────────────
+# ── PDF text extraction ────────────────────────────────────────────────────────
 
-def detect_flags(filename: str, all_filenames_in_agent: list[str]) -> list[str]:
+# Pdfplumber error signatures that indicate a corrupt/malformed PDF.
+# These are unrecoverable at the text-extraction level.
+CORRUPT_PDF_ERRORS = [
+    "'L' format requires 0 <= number <= 4294967295",  # malformed page dimension
+    "invalid literal for int()",                       # broken xref table
+    "PdfReadError",                                    # catch-all pypdf corruption
+    "struct.error",                                    # binary struct unpack failure
+]
+
+
+def _is_corrupt_error(error_str: str) -> bool:
+    """Return True if the error string matches a known corrupt-PDF signature."""
+    return any(sig in error_str for sig in CORRUPT_PDF_ERRORS)
+
+
+def extract_pdf_text(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
     """
-    Returns a list of flag strings describing problems with this filename.
-    Empty list = no problems detected.
+    Extract text from first 3 pages of a PDF using pdfplumber.
+
+    Returns:
+        (text, extraction_status)
+        status values: 'ok' | 'partial' | 'failed' | 'corrupt_pdf' | 'error: ...'
     """
-    flags = []
-    stem = Path(filename).stem
-    name_lower = filename.lower()
+    try:
+        with pdfplumber.open(filepath) as pdf:
+            pages = pdf.pages[:3]   # bumped from 2 → 3
+            text_parts = []
+            for page in pages:
+                try:
+                    page_text = page.extract_text()
+                    if page_text:
+                        text_parts.append(page_text.strip())
+                except Exception as page_err:
+                    # A single bad page shouldn't kill the whole file
+                    err_str = str(page_err)
+                    if _is_corrupt_error(err_str):
+                        return "", "corrupt_pdf"
+                    # Otherwise just skip the bad page and continue
+                    continue
 
-    # Duplicate suffix: file (1).pdf, file (2).pdf, etc.
-    if re.search(r'\s*\(\d+\)\s*\.pdf$', filename, re.IGNORECASE):
-        flags.append("DUPLICATE_SUFFIX")
+            full_text = "\n\n".join(text_parts).strip()
 
-    # Browser download garbage extensions
-    if ".coredownload" in name_lower:
-        flags.append("COREDOWNLOAD_GARBAGE")
-    if name_lower.endswith(".pdf.pdf"):
-        flags.append("DOUBLE_PDF_EXTENSION")
-    if ".inline" in name_lower:
-        flags.append("INLINE_GARBAGE")
+            if not full_text:
+                return "", "failed"
 
-    # Suspiciously short stem (likely auto-named: "document", "file", "report")
-    if len(stem.strip()) <= 8:
-        flags.append("SHORT_NAME")
+            truncated = full_text[:max_chars]
+            status = "partial" if len(full_text) > max_chars else "ok"
+            return truncated, status
 
-    # Generic names that tell us nothing
-    generic_patterns = [
-        r'^document\d*$',
-        r'^file\d*$',
-        r'^report\d*$',
-        r'^download\d*$',
-        r'^untitled\d*$',
-        r'^new\s',
-    ]
-    for pattern in generic_patterns:
-        if re.match(pattern, stem.strip(), re.IGNORECASE):
-            flags.append("GENERIC_NAME")
-            break
+    except Exception as e:
+        err_str = str(e)
+        if _is_corrupt_error(err_str):
+            return "", "corrupt_pdf"
+        return "", f"error: {err_str[:80]}"
 
-    # All caps — usually okay but worth flagging for review
-    if stem == stem.upper() and len(stem) > 10:
-        flags.append("ALL_CAPS")
 
-    # Very long filename — may cause OS/filesystem issues
-    if len(filename) > 180:
-        flags.append("VERY_LONG_NAME")
+def extract_pdf_text_with_ocr(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
+    """
+    Try pdfplumber first; fall back to Tesseract OCR if text extraction fails.
+    Passes through 'corrupt_pdf' status immediately — OCR cannot fix corrupt files.
 
-    # Contains special characters that break slugs
-    if re.search(r'[&@#$%^*+=\[\]{}|\\<>?]', stem):
-        flags.append("SPECIAL_CHARS")
+    Returns:
+        (text, extraction_status)
+        status values: 'ok' | 'partial' | 'failed' | 'corrupt_pdf' |
+                       'ocr' | 'ocr_failed' | 'ocr_error: ...' | 'error: ...'
+    """
+    text, status = extract_pdf_text(filepath, max_chars)
 
-    # Spaces in filename (will be slugified — just informational)
-    if ' ' in filename:
-        flags.append("HAS_SPACES")
+    # Corrupt PDF — do not attempt OCR, return immediately
+    if status == "corrupt_pdf":
+        return "", "corrupt_pdf"
 
-    # Check for duplicate filenames within the same agent folder
-    # (same name appearing more than once — shouldn't happen with PDFs but worth catching)
-    if all_filenames_in_agent.count(filename) > 1:
-        flags.append("DUPLICATE_FILENAME")
+    # Text extracted successfully — no OCR needed
+    if text.strip():
+        return text, status
 
-    return flags
+    # --- OCR fallback ---
+    try:
+        import fitz                      # pymupdf
+        import pytesseract
+        from PIL import Image
+        import io
+
+        doc = fitz.open(filepath)
+        ocr_parts = []
+
+        for page_num in range(min(3, len(doc))):
+            page = doc[page_num]
+            pix  = page.get_pixmap(dpi=200)
+            img  = Image.open(io.BytesIO(pix.tobytes("png")))
+            ocr_text = pytesseract.image_to_string(img).strip()
+            if ocr_text:
+                ocr_parts.append(ocr_text)
+
+        doc.close()
+        combined = "\n\n".join(ocr_parts)[:max_chars]
+
+        if combined.strip():
+            return combined, "ocr"
+        return "", "ocr_failed"
+
+    except ImportError:
+        # OCR deps not installed — treat same as failed
+        return "", "failed"
+    except Exception as e:
+        return "", f"ocr_error: {str(e)[:60]}"
+
+
+# ── Corrupt file record ────────────────────────────────────────────────────────
+
+def make_corrupt_record(row: dict) -> dict:
+    """
+    Build a manifest record for a PDF that is unreadable at the binary level.
+    Confidence is set to SKIP so apply_renames.py knows to leave it alone.
+    The suggested_name is left as the original filename — nothing changes.
+    """
+    return {
+        "agent":             row["agent"],
+        "original_filename": row["original_filename"],
+        "filepath":          row["filepath"],
+        "extracted_title":   "CORRUPT — binary error, unreadable by pdfplumber and OCR",
+        "suggested_name":    row["original_filename"],   # keep original — do not rename
+        "confidence":        "SKIP",
+        "extraction_status": "corrupt_pdf",
+        "approved":          "",                          # human decides whether to delete/replace
+    }
+
+
+# ── Groq call ─────────────────────────────────────────────────────────────────
+
+def call_groq(client: Groq, agent: str, original_filename: str, text: str) -> dict:
+    """
+    Call Groq to suggest a standardized filename.
+    Returns dict with suggested_name, confidence, extracted_title.
+    Retries on failure up to RETRY_ATTEMPTS times.
+    """
+    agent_domain  = AGENT_DOMAINS.get(agent, f"{agent} sector Kenya government")
+    doc_types_str = ", ".join(DOC_TYPES)
+
+    system = SYSTEM_PROMPT.format(doc_types=doc_types_str)
+    user   = USER_PROMPT_TEMPLATE.format(
+        agent_domain=agent_domain,
+        original_filename=original_filename,
+        text=text if text else "[No text extracted — scanned or image-only PDF]",
+    )
+
+    for attempt in range(RETRY_ATTEMPTS):
+        try:
+            response = client.chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[
+                    {"role": "system", "content": system},
+                    {"role": "user",   "content": user},
+                ],
+                temperature=0,
+                max_tokens=200,
+            )
+
+            raw = response.choices[0].message.content.strip()
+
+            # Strip markdown fences if present
+            raw = re.sub(r'^```json\s*', '', raw)
+            raw = re.sub(r'\s*```$',     '', raw)
+            raw = raw.strip()
+
+            result = json.loads(raw)
+
+            if "suggested_name" not in result:
+                raise ValueError("Missing suggested_name in response")
+
+            # Sanitize suggested name
+            name = result["suggested_name"]
+            name = re.sub(r'\s+', '-', name)
+            name = re.sub(r'^_+', '', name)
+            name = re.sub(r'[&@#$%^*+=\[\]{}|\\<>?]', '', name)
+            if not name.lower().endswith('.pdf'):
+                name += '.pdf'
+            result["suggested_name"] = name
+
+            result.setdefault("confidence",      "LOW")
+            result.setdefault("extracted_title", "")
+
+            return result
+
+        except json.JSONDecodeError as e:
+            if attempt < RETRY_ATTEMPTS - 1:
+                time.sleep(RETRY_DELAY)
+                continue
+            return {
+                "suggested_name":  _fallback_name(original_filename),
+                "confidence":      "LOW",
+                "extracted_title": f"JSON parse error: {str(e)[:60]}",
+            }
+
+        except Exception as e:
+            if attempt < RETRY_ATTEMPTS - 1:
+                time.sleep(RETRY_DELAY)
+                continue
+            return {
+                "suggested_name":  _fallback_name(original_filename),
+                "confidence":      "LOW",
+                "extracted_title": f"API error: {str(e)[:60]}",
+            }
+
+
+def _fallback_name(original: str) -> str:
+    """Produce a minimal cleaned name when Groq fails."""
+    name = Path(original).stem
+    name = re.sub(r'\s+', '-', name)
+    name = re.sub(r'^_+', '', name)
+    name = re.sub(r'[&@#$%^*+=\[\]{}|\\<>?]', '', name)
+    return name + ".pdf"
+
+
+# ── Load existing manifest for resume ─────────────────────────────────────────
+
+def load_existing_manifest(output_path: str) -> set[str]:
+    """Return set of filepaths already processed in an existing manifest."""
+    processed = set()
+    if Path(output_path).exists():
+        with open(output_path, newline="", encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                if row.get("filepath"):
+                    processed.add(row["filepath"])
+    return processed
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def scan_agent(agent: str, base_path: Path) -> list[dict]:
-    """Scan one agent's data/raw/ folder and return list of record dicts."""
-    raw_dir = base_path / agent / "data" / "raw"
-
-    if not raw_dir.exists():
-        print(f"  [WARN] {agent}: data/raw/ not found at {raw_dir} — skipping")
-        return []
-
-    pdfs = sorted([f for f in raw_dir.iterdir() if f.suffix.lower() == ".pdf"])
-
-    if not pdfs:
-        print(f"  [WARN] {agent}: no PDFs found in {raw_dir}")
-        return []
-
-    all_filenames = [f.name for f in pdfs]
-    records = []
-
-    for pdf in pdfs:
-        size_kb = round(pdf.stat().st_size / 1024, 1)
-        flags = detect_flags(pdf.name, all_filenames)
-        flag_str = "|".join(flags) if flags else ""
-
-        records.append({
-            "agent":             agent,
-            "original_filename": pdf.name,
-            "filepath":          str(pdf.resolve()),
-            "size_kb":           size_kb,
-            "flags":             flag_str,
-        })
-
-    return records
-
-
 def main():
-    parser = argparse.ArgumentParser(description="Inventory all agent PDF corpora.")
-    parser.add_argument("--base",   default=DEFAULT_BASE,   help="Base directory containing agent folders")
-    parser.add_argument("--output", default=DEFAULT_OUTPUT, help="Output CSV filename")
+    parser = argparse.ArgumentParser(
+        description="LLM-powered PDF renamer — produces manifest for human review."
+    )
+    parser.add_argument("--inventory", default=DEFAULT_INVENTORY, help="Input inventory CSV")
+    parser.add_argument("--output",    default=DEFAULT_OUTPUT,    help="Output manifest CSV")
+    parser.add_argument("--agent",     default=None,              help="Process one agent only")
+    parser.add_argument("--resume",    action="store_true",       help="Skip already-processed rows")
     args = parser.parse_args()
 
-    base_path = Path(args.base).expanduser().resolve()
-    print(f"\nBase directory : {base_path}")
-    print(f"Agents to scan : {', '.join(AGENTS)}")
-    print(f"Output file    : {args.output}\n")
-
-    if not base_path.exists():
-        print(f"[ERROR] Base directory not found: {base_path}")
+    # API key
+    api_key = os.environ.get("GROQ_API_KEY", "").strip()
+    if not api_key:
+        print("[ERROR] GROQ_API_KEY not set. Run: export GROQ_API_KEY=gsk_...")
         return
 
-    all_records = []
-    agent_stats = {}
+    client = Groq(api_key=api_key)
 
-    for agent in AGENTS:
-        print(f"Scanning {agent}...")
-        records = scan_agent(agent, base_path)
-        all_records.extend(records)
+    # Load inventory
+    if not Path(args.inventory).exists():
+        print(f"[ERROR] Inventory file not found: {args.inventory}")
+        return
 
-        flagged = [r for r in records if r["flags"]]
-        agent_stats[agent] = {
-            "total":   len(records),
-            "flagged": len(flagged),
-        }
-        print(f"  {len(records)} PDFs found, {len(flagged)} flagged\n")
+    with open(args.inventory, newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
 
-    # Write CSV
-    fieldnames = ["agent", "original_filename", "filepath", "size_kb", "flags"]
-    with open(args.output, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+    # Filter by agent if specified
+    if args.agent:
+        rows = [r for r in rows if r["agent"] == args.agent]
+        if not rows:
+            print(f"[ERROR] No rows found for agent: {args.agent}")
+            return
+        print(f"Processing agent: {args.agent} ({len(rows)} files)")
+
+    # Resume — skip already processed
+    already_done    = set()
+    manifest_exists = Path(args.output).exists()
+    if args.resume and manifest_exists:
+        already_done = load_existing_manifest(args.output)
+        skipped = sum(1 for r in rows if r["filepath"] in already_done)
+        print(f"Resume mode: skipping {skipped} already-processed files")
+        rows = [r for r in rows if r["filepath"] not in already_done]
+
+    if not rows:
+        print("Nothing to process.")
+        return
+
+    print(f"\nProcessing {len(rows)} PDFs...")
+    print(f"Model: {GROQ_MODEL}")
+    print(f"Output: {args.output}\n")
+
+    fieldnames = [
+        "agent", "original_filename", "filepath",
+        "extracted_title", "suggested_name",
+        "confidence", "extraction_status", "approved",
+    ]
+
+    open_mode = "a" if (args.resume and manifest_exists) else "w"
+    out_file  = open(args.output, open_mode, newline="", encoding="utf-8")
+    writer    = csv.DictWriter(out_file, fieldnames=fieldnames)
+    if open_mode == "w":
         writer.writeheader()
-        writer.writerows(all_records)
 
-    # Summary
-    print("─" * 60)
+    # Stats
+    stats = {"HIGH": 0, "MEDIUM": 0, "LOW": 0, "SKIP": 0, "extract_failed": 0, "ocr": 0}
+
+    try:
+        for i, row in enumerate(rows, 1):
+            agent    = row["agent"]
+            filename = row["original_filename"]
+            filepath = row["filepath"]
+
+            print(f"[{i:>3}/{len(rows)}] {agent:<20} {filename[:60]}")
+
+            # ── Extract PDF text (with OCR fallback) ─────────────────────────
+            text, extraction_status = extract_pdf_text_with_ocr(filepath)
+
+            # ── Edge case: corrupt PDF — skip Groq entirely ───────────────────
+            if extraction_status == "corrupt_pdf":
+                stats["SKIP"] += 1
+                print(f"         ✗ CORRUPT — writing SKIP record, no rename suggested")
+                writer.writerow(make_corrupt_record(row))
+                out_file.flush()
+                continue   # <── do not call Groq for this file
+
+            # Track extraction outcomes for summary
+            if extraction_status in ("failed", "ocr_failed") or \
+               extraction_status.startswith("ocr_error") or \
+               extraction_status.startswith("error"):
+                stats["extract_failed"] += 1
+                print(f"         ⚠ Extraction: {extraction_status}")
+            elif extraction_status == "ocr":
+                stats["ocr"] += 1
+                print(f"         ○ OCR fallback used")
+
+            # ── Call Groq ─────────────────────────────────────────────────────
+            result     = call_groq(client, agent, filename, text)
+            confidence = result.get("confidence", "LOW")
+            stats[confidence] = stats.get(confidence, 0) + 1
+
+            icon = {"HIGH": "✓", "MEDIUM": "~", "LOW": "⚠"}.get(confidence, "?")
+            print(f"         {icon} {confidence:<6} → {result['suggested_name']}")
+
+            writer.writerow({
+                "agent":             agent,
+                "original_filename": filename,
+                "filepath":          filepath,
+                "extracted_title":   result.get("extracted_title", ""),
+                "suggested_name":    result["suggested_name"],
+                "confidence":        confidence,
+                "extraction_status": extraction_status,
+                "approved":          "",
+            })
+            out_file.flush()
+            time.sleep(INTER_FILE_DELAY)
+
+    except KeyboardInterrupt:
+        print("\n\n[INTERRUPTED] Progress saved. Re-run with --resume to continue.")
+
+    finally:
+        out_file.close()
+
+    # ── Summary ───────────────────────────────────────────────────────────────
+    total = sum(stats[k] for k in ["HIGH", "MEDIUM", "LOW", "SKIP"])
+    print("\n" + "─" * 60)
     print("SUMMARY")
     print("─" * 60)
-    total = 0
-    total_flagged = 0
-    for agent, stats in agent_stats.items():
-        total += stats["total"]
-        total_flagged += stats["flagged"]
-        flag_note = f"  ← {stats['flagged']} need review" if stats["flagged"] else ""
-        print(f"  {agent:<20} {stats['total']:>4} PDFs{flag_note}")
-
-    print("─" * 60)
-    print(f"  {'TOTAL':<20} {total:>4} PDFs,  {total_flagged} flagged")
-    print(f"\nInventory written to: {args.output}")
-
-    # Flag type breakdown
-    flag_counts = defaultdict(int)
-    for r in all_records:
-        for flag in r["flags"].split("|"):
-            if flag:
-                flag_counts[flag] += 1
-
-    if flag_counts:
-        print("\nFlag breakdown:")
-        for flag, count in sorted(flag_counts.items(), key=lambda x: -x[1]):
-            print(f"  {flag:<30} {count}")
-    else:
-        print("\nNo flags detected — filenames look clean.")
-
+    print(f"  Total processed  : {total}")
+    print(f"  HIGH confidence  : {stats['HIGH']}   ✓ — likely correct")
+    print(f"  MEDIUM confidence: {stats['MEDIUM']}   ~ — review recommended")
+    print(f"  LOW confidence   : {stats['LOW']}   ⚠ — MUST review")
+    print(f"  SKIP (corrupt)   : {stats['SKIP']}   ✗ — unreadable, no rename suggested")
+    print(f"  OCR used         : {stats['ocr']}   ○ — scanned PDF, check quality")
+    print(f"  Extract failures : {stats['extract_failed']}   (still sent to Groq with empty text)")
+    print(f"\nManifest written to: {args.output}")
+    print("\nNEXT STEPS:")
+    print("  1. Open rename_manifest.csv")
+    print("  2. Review suggested_name for each row")
+    print("  3. Edit any suggested_name values that are wrong")
+    print("  4. Set approved=yes for rows you accept")
+    print("  5. Rows with confidence=SKIP: delete the PDF or replace with a clean copy")
+    print("  6. Run: python apply_renames.py")
     print()
 
 
