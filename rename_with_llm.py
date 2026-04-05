@@ -4,14 +4,14 @@ rename_with_llm.py — Step 2 of 4 in the multi-agent RAG pipeline.
 
 Provider chain:
     1. Ollama (local)  — qwen2.5:1.5b, filename-only, zero rate limits
-    2. Groq            — cloud fallback, only when Ollama returns LOW
+    2. Groq            — cloud fallback, only when Ollama returns LOW or placeholder
     3. Gemini          — fallback if Groq rate-limits
-    4. OpenRouter      — last resort
+    4. OpenRouter      — last resort (qwen3-next-80b free tier)
 
 Strategy:
     - Ollama gets filename only (~50 tokens, instant, offline)
-    - HIGH or MEDIUM → done, no cloud call needed (~80% of files)
-    - LOW → extract PDF text → try cloud providers (~20% of files)
+    - HIGH or MEDIUM with no placeholder text → done, no cloud call needed
+    - LOW or placeholder detected → extract PDF text → try cloud providers
 """
 
 import os
@@ -36,7 +36,7 @@ DEFAULT_OUTPUT     = "rename_manifest.csv"
 MAX_TEXT_CHARS     = 1500
 RETRY_ATTEMPTS     = 2
 RETRY_DELAY        = 3
-INTER_FILE_DELAY   = 1.0    # much lower — Ollama is local, no rate limits
+INTER_FILE_DELAY   = 1.0
 ROTATION_PAUSE     = 8
 
 OLLAMA_HOST        = "http://localhost:11434"
@@ -45,8 +45,9 @@ OLLAMA_TIMEOUT     = 30
 
 GROQ_MODEL         = "llama-3.3-70b-versatile"
 GEMINI_MODEL       = "gemini-2.0-flash"
-OPENROUTER_MODEL   = "mistralai/mistral-small-3.2-24b-instruct:free"
+OPENROUTER_MODEL   = "qwen/qwen3-next-80b-a3b-instruct:free"  # fixed — previous model removed
 
+PLACEHOLDER_WORDS  = ["DocType", "Issuer", "Description", "ShortDescription"]
 RETRY_CONFIDENCES  = {"LOW"}
 
 AGENT_DOMAINS = {
@@ -76,10 +77,11 @@ Produce a standardized filename in the format: YYYY-DocType-Issuer-ShortDescript
 Rules:
 - DocType from: {doc_types}
 - Year: publication year or FY start year
-- Issuer: organization abbreviation (e.g. KNEC, PPRA, CBK, KETRACO)
-- ShortDescription: 2-4 words, Title-Case, hyphens only
+- Issuer: real organization abbreviation (e.g. KNEC, PPRA, CBK, KETRACO, MoE, KALRO)
+- ShortDescription: 2-4 real descriptive words, Title-Case, hyphens only
 - No spaces, no special characters except hyphens
 - Max 80 characters total
+- NEVER use the placeholder words "DocType", "Issuer", "Description" literally in the output
 
 Confidence:
   HIGH   — year, issuer, AND doc type are all obvious from the filename
@@ -130,6 +132,9 @@ def _sanitize_name(name: str) -> str:
 
 def _fallback_name(original: str) -> str:
     return _sanitize_name(Path(original).stem)
+
+def _has_placeholders(name: str) -> bool:
+    return any(p in name for p in PLACEHOLDER_WORDS)
 
 def _is_rate_limit(err: str) -> bool:
     return "429" in err or "rate_limit_exceeded" in err.lower() or "rateLimitExceeded" in err
@@ -201,8 +206,9 @@ def call_groq(system: str, user: str, filename: str) -> dict:
         return _parse_result(resp.choices[0].message.content, filename)
     except Exception as e:
         err = str(e)
-        print(f"         [Groq error] {err[:80]}")
+        print(f"         [Groq error] {err[:120]}")
         return RATE_LIMITED if _is_rate_limit(err) else PROVIDER_ERR
+
 
 def call_gemini(system: str, user: str, filename: str) -> dict:
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -211,15 +217,23 @@ def call_gemini(system: str, user: str, filename: str) -> dict:
     try:
         from google import genai
         from google.genai import types
-        resp = genai.Client(api_key=api_key).models.generate_content(
-            model=GEMINI_MODEL, contents=user,
-            config=types.GenerateContentConfig(system_instruction=system, temperature=0, max_output_tokens=300),
-        )
+        # Use context manager to properly manage connection lifecycle
+        with genai.Client(api_key=api_key) as client:
+            resp = client.models.generate_content(
+                model=GEMINI_MODEL,
+                contents=user,
+                config=types.GenerateContentConfig(
+                    system_instruction=system,
+                    temperature=0,
+                    max_output_tokens=300,
+                ),
+            )
         return _parse_result(resp.text, filename)
     except Exception as e:
         err = str(e)
-        print(f"         [Gemini error] {err[:80]}")
+        print(f"         [Gemini error] {err[:120]}")
         return RATE_LIMITED if _is_rate_limit(err) else PROVIDER_ERR
+
 
 def call_openrouter(system: str, user: str, filename: str) -> dict:
     api_key = os.environ.get("OPENROUTER_API_KEY", "").strip()
@@ -228,10 +242,19 @@ def call_openrouter(system: str, user: str, filename: str) -> dict:
     try:
         resp = requests.post(
             "https://openrouter.ai/api/v1/chat/completions",
-            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-            json={"model": OPENROUTER_MODEL,
-                  "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
-                  "temperature": 0, "max_tokens": 300, "response_format": {"type": "json_object"}},
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type":  "application/json",
+                "HTTP-Referer":  "https://github.com/PRES-Executive",
+                "X-Title":       "PRES-Rename-Pipeline",
+            },
+            json={
+                "model":           OPENROUTER_MODEL,
+                "messages":        [{"role": "system", "content": system}, {"role": "user", "content": user}],
+                "temperature":     0,
+                "max_tokens":      300,
+                "response_format": {"type": "json_object"},
+            },
             timeout=30,
         )
         if resp.status_code == 429:
@@ -240,8 +263,9 @@ def call_openrouter(system: str, user: str, filename: str) -> dict:
         return _parse_result(resp.json()["choices"][0]["message"]["content"], filename)
     except Exception as e:
         err = str(e)
-        print(f"         [OpenRouter error] {err[:80]}")
+        print(f"         [OpenRouter error] {err[:120]}")
         return RATE_LIMITED if _is_rate_limit(err) else PROVIDER_ERR
+
 
 CLOUD_CHAIN = [("Groq", call_groq), ("Gemini", call_gemini), ("OpenRouter", call_openrouter)]
 
@@ -267,8 +291,12 @@ def call_cloud(agent: str, filename: str, text: str) -> dict:
                 continue
             print(f"         ↷ {provider_name} failed — rotating")
             break
-    return {"reasoning": "All providers failed", "suggested_name": _fallback_name(filename),
-            "confidence": "LOW", "extracted_title": ""}
+    return {
+        "reasoning":       "All providers failed",
+        "suggested_name":  _fallback_name(filename),
+        "confidence":      "LOW",
+        "extracted_title": "",
+    }
 
 
 # ── PDF extraction ─────────────────────────────────────────────────────────────
@@ -310,9 +338,12 @@ def extract_pdf_text_with_ocr(filepath: str, max_chars: int = MAX_TEXT_CHARS) ->
         import fitz, pytesseract, io
         from PIL import Image
         doc   = fitz.open(filepath)
-        parts = [pytesseract.image_to_string(
-                     Image.open(io.BytesIO(doc[i].get_pixmap(dpi=200).tobytes("png")))).strip()
-                 for i in range(min(3, len(doc)))]
+        parts = [
+            pytesseract.image_to_string(
+                Image.open(io.BytesIO(doc[i].get_pixmap(dpi=200).tobytes("png")))
+            ).strip()
+            for i in range(min(3, len(doc)))
+        ]
         doc.close()
         combined = "\n\n".join(p for p in parts if p)[:max_chars]
         return (combined, "ocr") if combined.strip() else ("", "ocr_failed")
@@ -324,13 +355,23 @@ def extract_pdf_text_with_ocr(filepath: str, max_chars: int = MAX_TEXT_CHARS) ->
 
 # ── Record helpers ─────────────────────────────────────────────────────────────
 
-FIELDNAMES = ["agent", "original_filename", "filepath", "reasoning",
-              "extracted_title", "suggested_name", "confidence", "extraction_status", "approved"]
+FIELDNAMES = [
+    "agent", "original_filename", "filepath", "reasoning",
+    "extracted_title", "suggested_name", "confidence", "extraction_status", "approved",
+]
 
 def make_corrupt_record(row: dict) -> dict:
-    return {**row, "reasoning": "CORRUPT — unreadable", "extracted_title": "",
-            "suggested_name": row["original_filename"], "confidence": "SKIP",
-            "extraction_status": "corrupt_pdf", "approved": ""}
+    return {
+        "agent":             row["agent"],
+        "original_filename": row["original_filename"],
+        "filepath":          row["filepath"],
+        "reasoning":         "CORRUPT — unreadable by pdfplumber and OCR",
+        "extracted_title":   "",
+        "suggested_name":    row["original_filename"],
+        "confidence":        "SKIP",
+        "extraction_status": "corrupt_pdf",
+        "approved":          "",
+    }
 
 def load_existing_manifest(output_path: str) -> set[str]:
     processed = set()
@@ -350,7 +391,8 @@ def main():
     parser.add_argument("--output",       default=DEFAULT_OUTPUT)
     parser.add_argument("--agent",        default=None)
     parser.add_argument("--resume",       action="store_true")
-    parser.add_argument("--retry-low",    action="store_true")
+    parser.add_argument("--retry-low",    action="store_true",
+                        help="Reprocess LOW confidence rows with cloud")
     parser.add_argument("--ollama-model", default=OLLAMA_MODEL)
     args = parser.parse_args()
 
@@ -404,8 +446,9 @@ def main():
             return
         print(f"Retry mode: {len(retry_rows)} LOW rows → reprocessing, {len(keep_rows)} kept\n")
         with open(args.output, "w", newline="", encoding="utf-8") as f:
-            csv.DictWriter(f, fieldnames=FIELDNAMES).writeheader()
-            csv.DictWriter(f, fieldnames=FIELDNAMES).writerows(keep_rows)
+            w = csv.DictWriter(f, fieldnames=FIELDNAMES)
+            w.writeheader()
+            w.writerows(keep_rows)
         retry_paths = {r["filepath"] for r in retry_rows}
         rows = [r for r in rows if r["filepath"] in retry_paths]
 
@@ -416,7 +459,7 @@ def main():
     print(f"Providers  : {' → '.join(providers_armed)}")
     print(f"Processing : {len(rows)} PDFs")
     print(f"Output     : {args.output}")
-    print(f"Strategy   : Ollama(filename only) → cloud(+PDF text) only if LOW\n")
+    print(f"Strategy   : Ollama(filename only) → cloud(+PDF text) if LOW or placeholder\n")
 
     if args.retry_low:
         open_mode = "a"
@@ -428,8 +471,10 @@ def main():
     if open_mode == "w":
         writer.writeheader()
 
-    stats = {"HIGH": 0, "MEDIUM": 0, "LOW": 0, "SKIP": 0,
-             "ocr": 0, "extract_failed": 0, "ollama_resolved": 0, "cloud_calls": 0}
+    stats = {
+        "HIGH": 0, "MEDIUM": 0, "LOW": 0, "SKIP": 0,
+        "ocr": 0, "extract_failed": 0, "ollama_resolved": 0, "cloud_calls": 0,
+    }
 
     try:
         for i, row in enumerate(rows, 1):
@@ -442,15 +487,20 @@ def main():
             result            = None
             extraction_status = "skipped"
 
-            # Step 1 — Ollama, filename only
+            # Step 1 — Ollama: filename only, instant, no API cost
             if ollama_ready:
                 result = call_ollama(filename, ollama_model)
-                if result.get("confidence") not in ("PROVIDER_FAILED", "LOW"):
+                name   = result.get("suggested_name", "")
+                conf   = result.get("confidence", "LOW")
+
+                if conf not in ("PROVIDER_FAILED", "LOW") and not _has_placeholders(name):
                     stats["ollama_resolved"] += 1
                 else:
+                    if _has_placeholders(name):
+                        print(f"         ⚠ Ollama placeholder detected — escalating to cloud")
                     result = None
 
-            # Step 2 — cloud with PDF text, only if needed
+            # Step 2 — Cloud: extract PDF text and call cloud provider
             if result is None:
                 text, extraction_status = extract_pdf_text_with_ocr(filepath)
 
@@ -499,8 +549,8 @@ def main():
     finally:
         out_file.close()
 
-    total      = sum(stats[k] for k in ["HIGH", "MEDIUM", "LOW", "SKIP"])
-    cloud_pct  = round(100 * stats["cloud_calls"] / total) if total else 0
+    total     = sum(stats[k] for k in ["HIGH", "MEDIUM", "LOW", "SKIP"])
+    cloud_pct = round(100 * stats["cloud_calls"] / total) if total else 0
 
     print("\n" + "─" * 60)
     print("SUMMARY")
@@ -519,6 +569,7 @@ def main():
     print("  2. Edit suggested_name values that are wrong")
     print("  3. Set approved=yes for accepted rows")
     print("  4. Run: python apply_renames.py")
+    print()
 
 
 if __name__ == "__main__":
