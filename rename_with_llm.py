@@ -6,12 +6,13 @@ Provider chain:
     1. Ollama (local)  — qwen2.5:1.5b, filename-only, zero rate limits
     2. Groq            — cloud fallback, only when Ollama returns LOW or placeholder
     3. Gemini          — fallback if Groq rate-limits
-    4. OpenRouter      — last resort (qwen3-next-80b free tier)
+    4. OpenRouter      — last resort (gpt-oss-20b free tier)
 
 Strategy:
     - Ollama gets filename only (~50 tokens, instant, offline)
     - HIGH or MEDIUM with no placeholder text → done, no cloud call needed
     - LOW or placeholder detected → extract PDF text → try cloud providers
+    - PDF extraction has a 20s hard timeout to prevent hanging on large files
 """
 
 import os
@@ -19,6 +20,7 @@ import re
 import csv
 import json
 import time
+import signal
 import argparse
 import pdfplumber
 import requests
@@ -38,6 +40,7 @@ RETRY_ATTEMPTS     = 2
 RETRY_DELAY        = 3
 INTER_FILE_DELAY   = 1.0
 ROTATION_PAUSE     = 8
+EXTRACTION_TIMEOUT = 20    # seconds — hard limit on pdfplumber extraction
 
 OLLAMA_HOST        = "http://localhost:11434"
 OLLAMA_MODEL       = "qwen2.5:1.5b"
@@ -45,7 +48,7 @@ OLLAMA_TIMEOUT     = 30
 
 GROQ_MODEL         = "llama-3.3-70b-versatile"
 GEMINI_MODEL       = "gemini-2.0-flash"
-OPENROUTER_MODEL   = "qwen/qwen3-next-80b-a3b-instruct:free"  # fixed — previous model removed
+OPENROUTER_MODEL   = "openai/gpt-oss-20b:free"  # fixed — previous model rate limited
 
 PLACEHOLDER_WORDS  = ["DocType", "Issuer", "Description", "ShortDescription"]
 RETRY_CONFIDENCES  = {"LOW"}
@@ -93,6 +96,7 @@ Respond ONLY with valid JSON, nothing else:
 
 CLOUD_SYSTEM = """You are a document naming expert for a Kenyan government AI research system.
 Produce a clean standardized filename for a government PDF.
+Respond only with valid JSON — include the word 'json' nowhere except in your response format.
 
 NAMING CONVENTION:
 - Format: YYYY-DocType-Issuer-ShortDescription.pdf
@@ -106,18 +110,18 @@ CONFIDENCE:
   MEDIUM — clean name achievable with one reasonable inference (NORMAL CASE)
   LOW    — text empty, OCR garbage, or completely indeterminate
 
-Respond ONLY with JSON:
+Return JSON only:
 {{"reasoning": "1-2 sentences", "suggested_name": "YYYY-DocType-Issuer-Description.pdf", "confidence": "HIGH|MEDIUM|LOW", "extracted_title": "exact title from document"}}"""
 
 CLOUD_USER = """Agent domain: {agent_domain}
 Original filename: {original_filename}
 
-First pages of document text:
+First pages of document text (json format response required):
 ---
 {text}
 ---
 
-Suggest a standardized filename."""
+Suggest a standardized filename and return json."""
 
 
 # ── Shared helpers ─────────────────────────────────────────────────────────────
@@ -153,6 +157,15 @@ def _parse_result(raw: str, original_filename: str) -> dict:
 
 RATE_LIMITED = {"confidence": "PROVIDER_FAILED", "reason": "rate_limited"}
 PROVIDER_ERR = {"confidence": "PROVIDER_FAILED", "reason": "error"}
+
+
+# ── Extraction timeout ─────────────────────────────────────────────────────────
+
+class ExtractionTimeout(Exception):
+    pass
+
+def _timeout_handler(signum, frame):
+    raise ExtractionTimeout()
 
 
 # ── Provider 0: Ollama (local) ────────────────────────────────────────────────
@@ -217,7 +230,6 @@ def call_gemini(system: str, user: str, filename: str) -> dict:
     try:
         from google import genai
         from google.genai import types
-        # Use context manager to properly manage connection lifecycle
         with genai.Client(api_key=api_key) as client:
             resp = client.models.generate_content(
                 model=GEMINI_MODEL,
@@ -310,6 +322,9 @@ def _is_corrupt_error(err: str) -> bool:
     return any(sig in err for sig in CORRUPT_PDF_ERRORS)
 
 def extract_pdf_text(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
+    # Hard timeout — prevents hanging on massive engineering PDFs
+    signal.signal(signal.SIGALRM, _timeout_handler)
+    signal.alarm(EXTRACTION_TIMEOUT)
     try:
         with pdfplumber.open(filepath) as pdf:
             parts = []
@@ -326,13 +341,19 @@ def extract_pdf_text(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[st
             if not full:
                 return "", "failed"
             return full[:max_chars], "partial" if len(full) > max_chars else "ok"
+    except ExtractionTimeout:
+        print(f"         ⏱ Extraction timed out after {EXTRACTION_TIMEOUT}s — sending filename to cloud")
+        return "", "timeout"
     except Exception as e:
         err = str(e)
         return ("", "corrupt_pdf") if _is_corrupt_error(err) else ("", f"error: {err[:80]}")
+    finally:
+        signal.alarm(0)  # always cancel the alarm
+
 
 def extract_pdf_text_with_ocr(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
     text, status = extract_pdf_text(filepath, max_chars)
-    if status == "corrupt_pdf" or text.strip():
+    if status in ("corrupt_pdf", "timeout") or text.strip():
         return text, status
     try:
         import fitz, pytesseract, io
@@ -459,7 +480,8 @@ def main():
     print(f"Providers  : {' → '.join(providers_armed)}")
     print(f"Processing : {len(rows)} PDFs")
     print(f"Output     : {args.output}")
-    print(f"Strategy   : Ollama(filename only) → cloud(+PDF text) if LOW or placeholder\n")
+    print(f"Strategy   : Ollama(filename only) → cloud(+PDF text) if LOW or placeholder")
+    print(f"Extract TO : {EXTRACTION_TIMEOUT}s per file\n")
 
     if args.retry_low:
         open_mode = "a"
@@ -473,7 +495,8 @@ def main():
 
     stats = {
         "HIGH": 0, "MEDIUM": 0, "LOW": 0, "SKIP": 0,
-        "ocr": 0, "extract_failed": 0, "ollama_resolved": 0, "cloud_calls": 0,
+        "ocr": 0, "extract_failed": 0, "timeout": 0,
+        "ollama_resolved": 0, "cloud_calls": 0,
     }
 
     try:
@@ -511,7 +534,9 @@ def main():
                     out_file.flush()
                     continue
 
-                if extraction_status in ("failed", "ocr_failed") or \
+                if extraction_status == "timeout":
+                    stats["timeout"] += 1
+                elif extraction_status in ("failed", "ocr_failed") or \
                    extraction_status.startswith(("ocr_error", "error")):
                     stats["extract_failed"] += 1
                     print(f"         ⚠ Extraction: {extraction_status}")
@@ -561,6 +586,7 @@ def main():
     print(f"  LOW confidence   : {stats['LOW']}   ⚠  review these")
     print(f"  SKIP (corrupt)   : {stats['SKIP']}   ✗")
     print(f"  OCR used         : {stats['ocr']}")
+    print(f"  Timed out        : {stats['timeout']}  (large PDFs — cloud used filename only)")
     print(f"  Ollama resolved  : {stats['ollama_resolved']}  (no cloud call)")
     print(f"  Cloud API calls  : {stats['cloud_calls']}  ({cloud_pct}% of files)")
     print(f"\nManifest: {args.output}")
