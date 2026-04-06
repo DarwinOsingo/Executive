@@ -15,9 +15,21 @@ Contains:
 
 Import this module in tag_documents.py, chunk_documents.py, and retriever.py.
 Nothing else should hardcode any of these values.
+
+FIXES APPLIED (v2):
+  FIX 1 — match_primary_agents: warns on >2 agent collisions, logs to unknown_doc_types.log
+  FIX 2 — build_agent_access: None sentinel replaces empty-list "primary+president" convention;
+           ADD_PRESIDENT_TO_ALL set makes the rule explicit and readable
+  FIX 3 — extract_doc_year: prefers the later year in YYYY-YYYY / YYYY-YY range filenames
+  FIX 4 — SKIP_SECTIONS_MAP: explicit entries for all previously unmapped doc_types
+  FIX 5 — COALITION_CONFIG: added monetary_policy coalition entry
+  FIX 6 — MANUAL_OVERRIDES: added TODO comment block for BPS superseded series
 """
 
 import re
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -34,7 +46,6 @@ ALL_AGENTS = [
     "president",
 ]
 
-# Human-readable descriptions used in Ollama prompts
 AGENT_DESCRIPTIONS = {
     "finance":        "CS Finance & National Treasury — fiscal policy, public debt, tax, CBK, KRA, budget",
     "education":      "CS Education — KNEC, KICD, TSC, curriculum, TVET, universities, school funding",
@@ -49,8 +60,6 @@ AGENT_DESCRIPTIONS = {
 # ══════════════════════════════════════════════════════════════════════════════
 # DOCUMENT TYPE DETECTION — FILENAME RULES
 # ══════════════════════════════════════════════════════════════════════════════
-# Applied in order — first match wins.
-# Patterns are matched against a normalised slug (lowercase, hyphens/spaces → dots).
 
 DOCUMENT_TYPE_RULES = [
     # ── Finance: pure data / tables ───────────────────────────────────────────
@@ -301,8 +310,6 @@ DOCUMENT_TYPE_RULES = [
 # ══════════════════════════════════════════════════════════════════════════════
 # DOCUMENT TYPE DETECTION — COVER TEXT RULES
 # ══════════════════════════════════════════════════════════════════════════════
-# Used only when filename rules return "unknown".
-# Less aggressive to avoid false positives.
 
 COVER_TYPE_RULES = [
     (r"budget.*policy.*statement",                           "budget_policy_statement"),
@@ -335,10 +342,6 @@ COVER_TYPE_RULES = [
 # ══════════════════════════════════════════════════════════════════════════════
 # PRIMARY AGENT RULES
 # ══════════════════════════════════════════════════════════════════════════════
-# Maps filename patterns → primary_agents list.
-# Applied after doc_type detection.
-# Multiple patterns can match — first match wins per agent.
-# A doc can have multiple primary agents (e.g. joint circulars).
 
 AGENT_PATTERNS = {
     "finance": [
@@ -373,8 +376,8 @@ AGENT_PATTERNS = {
         r"capitation.*grant|school.*audit|special.*audit.*school",
         r"teacher.*service|tsc",
         r"tvet",
-        r"youth.in.agribusiness",    # tagged education in rename
-        r"digital.skills.*africa",   # education domain
+        r"youth.in.agribusiness",
+        r"digital.skills.*africa",
     ],
     "agriculture": [
         r"kalro|kephis|afa\.bulletin|afa.*second|afa.*first",
@@ -395,7 +398,7 @@ AGENT_PATTERNS = {
         r"dvs.*magazine",
         r"december.*forecast|ond.*forecast|seasonal.*weather",
         r"national.*agriculture.*research",
-        r"national.land.use.policy",    # Agriculture + President
+        r"national.land.use.policy",
         r"eu.deforestation",
         r"regulatory.*impact.*assessment.*ria.*2022",
         r"migratory.*pests|invasive.*pests",
@@ -492,7 +495,7 @@ AGENT_PATTERNS = {
     "president": [
         r"national.*values.*principles.*governance",
         r"election.*observer",
-        r"constitution",    # President has access to constitution
+        r"constitution",
     ],
 }
 
@@ -500,11 +503,8 @@ AGENT_PATTERNS = {
 # ══════════════════════════════════════════════════════════════════════════════
 # ISSUING AGENT MAP
 # ══════════════════════════════════════════════════════════════════════════════
-# Maps doc_type → the agent whose mandate covers the *issuing body*.
-# Separate from primary_agent (who the doc is ABOUT).
 
 ISSUING_AGENT_MAP = {
-    # Finance issuers
     "budget_policy_statement":   "finance",
     "budget_review_outlook":     "finance",
     "budget_summary":            "finance",
@@ -528,8 +528,6 @@ ISSUING_AGENT_MAP = {
     "finance_bill":              "finance",
     "imf_report":                "external",
     "world_bank_report":         "external",
-
-    # AntiCorruption issuers — Auditor General, EACC, PPRA etc.
     "auditor_general_report":    "anticorruption",
     "forensic_audit":            "anticorruption",
     "eacc_report":               "anticorruption",
@@ -537,12 +535,10 @@ ISSUING_AGENT_MAP = {
     "odpp_report":               "anticorruption",
     "mer_report":                "anticorruption",
     "audit_report":              "anticorruption",
-
-    # Sector issuers
     "igf_report":                "ict",
     "conference_report":         "president",
     "constitution":              "president",
-    "guidelines":                "unknown",    # varies too much
+    "guidelines":                "unknown",
     "manual":                    "unknown",
     "policy":                    "unknown",
     "strategic_plan":            "unknown",
@@ -564,8 +560,6 @@ ISSUING_AGENT_MAP = {
     "unknown":                   "unknown",
 }
 
-# Filename-pattern overrides for issuing_agent
-# Applied after ISSUING_AGENT_MAP lookup — more specific wins
 ISSUING_AGENT_OVERRIDES = [
     (r"auditor.*general|auditor.gen|national.*government.*audit",   "anticorruption"),
     (r"eacc",                                                        "anticorruption"),
@@ -592,7 +586,6 @@ ISSUING_AGENT_OVERRIDES = [
 # AGENT ACCESS TIERS
 # ══════════════════════════════════════════════════════════════════════════════
 
-# Tier 1: Universal — all 7 agents always get these doc_types
 UNIVERSAL_DOC_TYPES = {
     "budget_policy_statement",
     "economic_survey",
@@ -610,7 +603,9 @@ UNIVERSAL_DOC_TYPES = {
     "post_election_report",
 }
 
-# Tier 2: Shared pairs — doc_type → agents beyond primary
+# FIX 2: None = primary_agents only (no president added)
+#         Non-empty list = explicit shared access
+#         Missing key = falls through to ADD_PRESIDENT_TO_ALL check below
 SHARED_ACCESS_MAP = {
     "auditor_general_report":    ["anticorruption", "finance", "president"],
     "audit_report":              ["anticorruption", "finance", "president"],
@@ -625,83 +620,63 @@ SHARED_ACCESS_MAP = {
     "odpp_report":               ["anticorruption", "president"],
     "mer_report":                ["anticorruption", "finance", "president"],
     "igf_report":                ["ict", "president"],
-    "strategic_plan":            [],    # primary_agents + president (handled in code)
-    "masterplan":                [],    # primary_agents + president
-    "policy":                    [],    # primary_agents + president
-    "act":                       ["president", "anticorruption"],
-    "bill":                      ["president", "anticorruption"],
-    "regulations":               ["president", "anticorruption"],
-    "sector_report":             [],    # primary_agents + finance + president
-    "conference_report":         ["president"],
-    "survey":                    ["finance", "president"],
-    "statistics_report":         ["finance", "president"],
-    "research_report":           [],    # primary_agents only
-    "annual_report":             [],    # primary_agents only
-    "bulletin":                  [],    # primary_agents only
-    "guidelines":                [],    # primary_agents only
-    "manual":                    [],    # primary_agents only
-    "framework":                 [],    # primary_agents only
-    "assessment":                [],    # primary_agents only
-    "magazine":                  [],    # primary_agents only
-    "catalogue":                 [],    # primary_agents only
     "cbk_annual_report":         ["finance"],
     "cbk_mpc_report":            ["finance"],
     "cbk_fsr_report":            ["finance"],
     "kra_corporate_plan":        ["finance"],
     "tax_expenditure_report":    ["finance"],
-    "igf_report":                ["ict", "president"],
+    "act":                       ["president", "anticorruption"],
+    "bill":                      ["president", "anticorruption"],
+    "regulations":               ["president", "anticorruption"],
+    "conference_report":         ["president"],
+    "survey":                    ["finance", "president"],
+    "statistics_report":         ["finance", "president"],
+    # None = primary_agents only, no auto-president
+    "research_report":           None,
+    "annual_report":             None,
+    "bulletin":                  None,
+    "guidelines":                None,
+    "manual":                    None,
+    "framework":                 None,
+    "assessment":                None,
+    "magazine":                  None,
+    "catalogue":                 None,
 }
 
-# Tier 3: Filename-level access overrides
-# Pattern → additional agents to add to agent_access
+# FIX 2: doc_types where president is always added even without explicit shared list
+# strategic_plan, masterplan, policy, sector_report get president added automatically
+ADD_PRESIDENT_TO_ALL = {
+    "strategic_plan",
+    "masterplan",
+    "policy",
+    "sector_report",
+}
+
 FILENAME_ACCESS_OVERRIDES = [
-    # NGCDF is Education + AntiCorruption + Finance
     (r"ngcdf",                       ["education", "anticorruption", "finance"]),
-    # Optic fibre forensic → ICT + AntiCorruption
     (r"optic.*fibre.*forensic",      ["ict", "anticorruption", "president"]),
-    # Huduma Namba → ICT + President + AntiCorruption
     (r"huduma.*namba",               ["ict", "president", "anticorruption"]),
-    # Election observer → President + AntiCorruption
     (r"election.*observer",          ["president", "anticorruption"]),
-    # FinAccess → ICT + Finance
     (r"finaccess|fin.*access",       ["ict", "finance"]),
-    # Food security cross-cutting
     (r"food.*loss|post.*harvest|food.*reserve", ["agriculture", "finance", "president"]),
-    # County-level COB reports
     (r"county.*budget.*impl|county.*birr",      ["finance", "president", "anticorruption"]),
-    # Agricultural Finance Corporation → Agriculture + Finance
     (r"agricultural.*finance.*corp", ["agriculture", "finance"]),
-    # National land use → Agriculture + President + Infrastructure
     (r"land.*use.*policy",           ["agriculture", "president", "infrastructure"]),
-    # Youth agribusiness → Education + Agriculture
     (r"youth.*agribusiness",         ["education", "agriculture"]),
-    # Digital skills → ICT + Education
     (r"digital.*skills.*africa",     ["ict", "education"]),
-    # Global digital health → ICT + Education + Finance
     (r"global.*digital.*health",     ["ict", "education", "finance"]),
-    # Kenya AI Strategy → ICT + President + Finance
     (r"kenya.*ai.*strategy",         ["ict", "president", "finance"]),
-    # Infrastructure + Finance cross-cutting
     (r"iea.*kenya|energy.*statistics|epra",     ["infrastructure", "finance", "president"]),
     (r"kenya.*gdp.*quarter|quarterly.*gdp",     ["infrastructure", "finance", "president"]),
     (r"kenya.*leading.*economic",               ["infrastructure", "finance", "president"]),
-    # EACC cases → AntiCorruption + President
     (r"eacc.*vs|eacc.*julius",                  ["anticorruption", "president"]),
-    # Treasury memorandum → Finance + AntiCorruption + President
     (r"treasury.*memorandum",                   ["finance", "anticorruption", "president"]),
-    # Roads regulations → Infrastructure + President
     (r"kenya.*roads.*regulations",              ["infrastructure", "president"]),
-    # Konza financial → ICT + AntiCorruption + Finance
     (r"konza.*financial|konza.*audited",        ["ict", "anticorruption", "finance"]),
-    # MER → AntiCorruption + Finance + President
     (r"mer.*kenya|mutual.*evaluation",          ["anticorruption", "finance", "president"]),
-    # UNODC → AntiCorruption + President
     (r"unodc",                                  ["anticorruption", "president"]),
-    # National values → President + AntiCorruption
     (r"national.*values.*principles",           ["president", "anticorruption"]),
-    # FSRP → Agriculture + Finance + President (World Bank funded)
     (r"fsrp",                                   ["agriculture", "finance", "president"]),
-    # EU deforestation regulation → Agriculture + ICT + President
     (r"eu.*deforestation",                      ["agriculture", "president", "ict"]),
 ]
 
@@ -710,93 +685,32 @@ FILENAME_ACCESS_OVERRIDES = [
 # TOPIC TAXONOMY
 # ══════════════════════════════════════════════════════════════════════════════
 
-# AGENDA_FRAMES: debate framing topics — trigger open mode with priority_floor
-# These are what the debate is ABOUT, not what documents are ABOUT
 AGENDA_FRAMES = {
     "vision_2030",
     "big_four",
-    "beta_agenda",          # Bottom-Up Economic Transformation Agenda
+    "beta_agenda",
     "devolution",
     "county_governance",
 }
 
-# SUBJECT_TOPICS: document-level subject tags
-# What the chunk is actually about — used for coalition mode filtering
 SUBJECT_TOPICS = {
-    # Cross-cutting
-    "public_debt",
-    "fiscal_policy",
-    "national_budget",
-    "public_finance",
-    "audit_compliance",
-    "public_procurement",
-    "governance",
-
-    # Finance
-    "monetary_policy",
-    "tax_revenue",
-    "tax_expenditure",
-    "cbk_reports",
-    "debt_management",
-    "revenue_performance",
-    "budget_implementation",
-    "external_assessment",
-    "financial_sector",
-
-    # Education
-    "curriculum",
-    "tvet",
-    "ngcdf",
-    "school_funding",
-    "higher_education",
-    "teacher_management",
-    "education_policy",
-
-    # Agriculture
-    "food_security",
-    "crop_research",
-    "irrigation",
-    "livestock",
-    "agricultural_finance",
-    "climate_agriculture",
-    "seeds_regulations",
-    "veterinary",
-
-    # ICT
-    "ict_policy",
-    "cybersecurity",
-    "digital_economy",
-    "ai_policy",
-    "internet_governance",
-    "konza",
-    "fintech",
-    "digital_rights",
-
-    # Infrastructure
-    "roads",
-    "energy",
-    "ports",
-    "sgr",
-    "infrastructure_finance",
-    "road_design",
-    "transport_policy",
-    "rural_electrification",
-
-    # AntiCorruption
-    "eacc",
-    "procurement_law",
-    "forensic_audit",
-    "anti_money_laundering",
-    "prosecution",
-
-    # Cross-sector
-    "youth_employment",
-    "climate_resilience",
-    "gender",
-    "county_governance",
+    "public_debt", "fiscal_policy", "national_budget", "public_finance",
+    "audit_compliance", "public_procurement", "governance",
+    "monetary_policy", "tax_revenue", "tax_expenditure", "cbk_reports",
+    "debt_management", "revenue_performance", "budget_implementation",
+    "external_assessment", "financial_sector",
+    "curriculum", "tvet", "ngcdf", "school_funding", "higher_education",
+    "teacher_management", "education_policy",
+    "food_security", "crop_research", "irrigation", "livestock",
+    "agricultural_finance", "climate_agriculture", "seeds_regulations", "veterinary",
+    "ict_policy", "cybersecurity", "digital_economy", "ai_policy",
+    "internet_governance", "konza", "fintech", "digital_rights",
+    "roads", "energy", "ports", "sgr", "infrastructure_finance",
+    "road_design", "transport_policy", "rural_electrification",
+    "eacc", "procurement_law", "forensic_audit", "anti_money_laundering", "prosecution",
+    "youth_employment", "climate_resilience", "gender", "county_governance",
 }
 
-# doc_type → topic list (assigned at tag time)
 DOC_TYPE_TOPIC_MAP = {
     "budget_policy_statement":   ["fiscal_policy", "national_budget", "public_finance", "public_debt"],
     "budget_review_outlook":     ["fiscal_policy", "national_budget", "public_finance"],
@@ -831,7 +745,7 @@ DOC_TYPE_TOPIC_MAP = {
     "odpp_report":               ["prosecution", "governance"],
     "mer_report":                ["anti_money_laundering", "governance", "audit_compliance"],
     "igf_report":                ["internet_governance", "ict_policy", "digital_economy"],
-    "annual_report":             [],   # filled by filename patterns below
+    "annual_report":             [],
     "strategic_plan":            [],
     "policy":                    [],
     "sector_report":             [],
@@ -853,9 +767,7 @@ DOC_TYPE_TOPIC_MAP = {
     "unknown":                   [],
 }
 
-# Filename-pattern → additional topics (applied on top of doc_type topics)
 FILENAME_TOPIC_OVERRIDES = [
-    # Finance cross-cutting
     (r"budget.*policy.*statement",          ["fiscal_policy", "national_budget"]),
     (r"economic.*survey",                   ["fiscal_policy", "national_budget"]),
     (r"public.*debt",                       ["public_debt", "debt_management"]),
@@ -869,8 +781,6 @@ FILENAME_TOPIC_OVERRIDES = [
     (r"world.*bank",                        ["external_assessment", "fiscal_policy"]),
     (r"constitution",                       ["governance", "public_finance"]),
     (r"finance.*act|finance.*bill",         ["fiscal_policy", "tax_revenue"]),
-
-    # Agriculture
     (r"food.*security|food.*loss|post.*harvest", ["food_security"]),
     (r"kalro|crop.*conditions|cassava|avocado",  ["crop_research", "food_security"]),
     (r"irrigation|water.*harvesting|nia",        ["irrigation", "food_security"]),
@@ -881,8 +791,6 @@ FILENAME_TOPIC_OVERRIDES = [
     (r"agriculture.*insurance",                  ["agricultural_finance", "food_security"]),
     (r"eu.*deforestation",                       ["climate_agriculture", "food_security"]),
     (r"fsrp",                                    ["food_security", "agricultural_finance"]),
-
-    # Education
     (r"knec|kcse|kjsea",                         ["curriculum", "education_policy"]),
     (r"kicd|curriculum.*framework",              ["curriculum", "education_policy"]),
     (r"tvet",                                    ["tvet", "youth_employment"]),
@@ -892,8 +800,6 @@ FILENAME_TOPIC_OVERRIDES = [
     (r"higher.*education|helb|university",       ["higher_education"]),
     (r"youth.*agribusiness",                     ["youth_employment", "food_security"]),
     (r"digital.*skills.*africa",                 ["digital_economy", "youth_employment"]),
-
-    # ICT
     (r"igf|internet.*governance",                ["internet_governance", "ict_policy"]),
     (r"kenya.*ai.*strategy",                     ["ai_policy", "digital_economy"]),
     (r"digital.*masterplan|ict.*masterplan",     ["ict_policy", "digital_economy"]),
@@ -906,8 +812,6 @@ FILENAME_TOPIC_OVERRIDES = [
     (r"digital.*rights|safer.*web",             ["digital_rights", "ict_policy"]),
     (r"huduma.*namba",                           ["digital_economy", "governance"]),
     (r"optic.*fibre",                            ["ict_policy", "forensic_audit"]),
-
-    # Infrastructure
     (r"kenha|kura|kerra|road.*design|rdm",       ["roads", "road_design"]),
     (r"ketraco|kplc|kengen|kenya.*power|energy", ["energy", "infrastructure_finance"]),
     (r"kpa|kenya.*ports",                        ["ports", "infrastructure_finance"]),
@@ -917,8 +821,6 @@ FILENAME_TOPIC_OVERRIDES = [
     (r"kosap|rural.*electrification",            ["rural_electrification", "energy"]),
     (r"green.*mpa|bess.*project",                ["energy", "climate_resilience"]),
     (r"quarterly.*gdp|leading.*economic",        ["fiscal_policy", "infrastructure_finance"]),
-
-    # AntiCorruption
     (r"eacc|ethics.*anti.*corruption",           ["eacc", "governance"]),
     (r"ppra|ppoa|procurement",                   ["procurement_law", "public_procurement"]),
     (r"odpp|director.*prosecution",              ["prosecution", "governance"]),
@@ -926,8 +828,6 @@ FILENAME_TOPIC_OVERRIDES = [
     (r"debarment",                               ["procurement_law", "public_procurement"]),
     (r"treasury.*memorandum",                    ["audit_compliance", "public_finance"]),
     (r"unodc",                                   ["prosecution", "governance"]),
-
-    # Cross-cutting
     (r"devolution|county.*governance",           ["devolution", "county_governance"]),
     (r"vision.*2030|big.*four|beta.*agenda",     ["vision_2030", "big_four", "beta_agenda"]),
     (r"national.*values",                        ["governance", "county_governance"]),
@@ -941,12 +841,8 @@ FILENAME_TOPIC_OVERRIDES = [
 # ══════════════════════════════════════════════════════════════════════════════
 # COALITION CONFIGURATION
 # ══════════════════════════════════════════════════════════════════════════════
-# Controls retrieval behaviour per subject topic.
-# max_per_agent: max candidates fetched from each agent's docs before reranking.
-# priority_floor: minimum priority level (None = all, "high" = high+constitutional only).
 
 COALITION_CONFIG = {
-    # ── Cross-cutting functional topics ───────────────────────────────────────
     "food_security": {
         "agents":        ["agriculture", "education", "finance", "president"],
         "max_per_agent": 6,
@@ -998,6 +894,14 @@ COALITION_CONFIG = {
         "max_per_agent": 8,
         "priority_floor": None,
     },
+    # FIX 5: monetary_policy was missing — without this, CBK/inflation queries
+    # fall back to scoped (Finance only), excluding IMF/World Bank docs
+    # that are tagged external_assessment + monetary_policy.
+    "monetary_policy": {
+        "agents":        ["finance", "president"],
+        "max_per_agent": 8,
+        "priority_floor": None,
+    },
     "county_governance": {
         "agents":        ["anticorruption", "finance", "president", "infrastructure"],
         "max_per_agent": 5,
@@ -1038,8 +942,7 @@ COALITION_CONFIG = {
         "max_per_agent": 7,
         "priority_floor": None,
     },
-
-    # ── Agenda frames → open mode with floor ──────────────────────────────────
+    # Agenda frames
     "vision_2030": {
         "agents":        ALL_AGENTS,
         "max_per_agent": 3,
@@ -1070,11 +973,8 @@ COALITION_CONFIG = {
 # ══════════════════════════════════════════════════════════════════════════════
 # DOMAIN TAXONOMY
 # ══════════════════════════════════════════════════════════════════════════════
-# Used to populate the "domain" field in chunk metadata.
-# This is the existing Finance domain taxonomy, extended for all 7 agents.
 
 DOMAIN_MAP = {
-    # Finance
     "budget_policy_statement":   "fiscal_policy",
     "budget_review_outlook":     "fiscal_policy",
     "budget_summary":            "fiscal_policy",
@@ -1103,19 +1003,15 @@ DOMAIN_MAP = {
     "audit_report":              "audit_compliance",
     "forensic_audit":            "audit_compliance",
     "financial_statements":      "audit_compliance",
-    # AntiCorruption
     "eacc_report":               "governance",
     "ppra_report":               "procurement",
     "odpp_report":               "legal_compliance",
     "mer_report":                "governance",
-    # Education
     "sector_report":             "sector_policy",
     "statistics_report":         "sector_data",
     "framework":                 "sector_policy",
-    # ICT
     "igf_report":                "internet_governance",
     "masterplan":                "sector_policy",
-    # Cross-cutting
     "strategic_plan":            "sector_policy",
     "annual_report":             "institutional",
     "policy":                    "sector_policy",
@@ -1173,7 +1069,6 @@ CATEGORY_MAP = {
     "economic_survey":           8,
     "imf_report":                8,
     "world_bank_report":         8,
-    # Default → 0 (narrative)
 }
 
 CHUNKING_STRATEGY_MAP = {
@@ -1188,18 +1083,10 @@ CHUNKING_STRATEGY_MAP = {
     8: "hybrid",
 }
 
-CHUNK_SIZE_MAP = {
-    0: 350, 1: 350, 2: 200, 3: 400,
-    4: 350, 5: 250, 6: 300, 7: 350, 8: 350,
-}
-
-CHUNK_OVERLAP_MAP = {
-    0: 50,  1: 50,  2: 0,   3: 75,
-    4: 50,  5: 100, 6: 75,  7: 50,  8: 50,
-}
-
-CHUNK_MIN_TOKENS = 100
-CHUNK_MAX_TOKENS = 500
+CHUNK_SIZE_MAP    = {0:350, 1:350, 2:200, 3:400, 4:350, 5:250, 6:300, 7:350, 8:350}
+CHUNK_OVERLAP_MAP = {0:50,  1:50,  2:0,   3:75,  4:50,  5:100, 6:75,  7:50,  8:50 }
+CHUNK_MIN_TOKENS  = 100
+CHUNK_MAX_TOKENS  = 500
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -1320,11 +1207,21 @@ HAS_TABLES_MAP = {
     "unknown":                   False,
 }
 
+# FIX 4: All doc_types now have explicit entries — no silent None returns.
+# Callers still do .get(doc_type, []) as a safety guard, but every type is covered.
 SKIP_SECTIONS_MAP = {
     "budget_policy_statement":  ["foreword", "acknowledgement", "table of contents"],
     "budget_review_outlook":    ["foreword", "acknowledgement", "table of contents"],
     "budget_summary":           [],
+    "budget_speech":            [],
+    "post_election_report":     ["foreword", "acknowledgement"],
+    "debt_management_strategy": ["foreword", "acknowledgement"],
+    "public_debt_report":       ["foreword", "acknowledgement"],
     "controller_of_budget":     ["county breakdown", "appendix", "foreword", "acknowledgement"],
+    "revenue_grants_estimates": [],
+    "statistical_annex":        [],
+    "state_corporations_annex": [],
+    "pure_tables":              [],
     "auditor_general_report":   ["foreword", "table of contents"],
     "audit_report":             ["foreword", "table of contents"],
     "forensic_audit":           ["foreword", "table of contents"],
@@ -1344,25 +1241,44 @@ SKIP_SECTIONS_MAP = {
     "kra_revenue_performance":  ["foreword", "acknowledgement"],
     "kra_corporate_plan":       ["foreword", "acknowledgement"],
     "tax_expenditure_report":   ["foreword", "acknowledgement"],
-    "public_debt_report":       ["foreword", "acknowledgement"],
-    "debt_management_strategy": ["foreword", "acknowledgement"],
-    "strategic_plan":           ["foreword", "acknowledgement", "table of contents"],
-    "annual_report":            ["foreword", "acknowledgement", "table of contents"],
-    "policy":                   ["foreword", "acknowledgement"],
     "eacc_report":              ["foreword", "acknowledgement", "table of contents"],
     "ppra_report":              ["foreword", "acknowledgement", "table of contents"],
+    "odpp_report":              ["foreword", "acknowledgement", "table of contents"],
+    "mer_report":               ["foreword", "acknowledgement", "table of contents"],
+    "strategic_plan":           ["foreword", "acknowledgement", "table of contents"],
+    "masterplan":               ["foreword", "acknowledgement", "table of contents"],
+    "annual_report":            ["foreword", "acknowledgement", "table of contents"],
+    "policy":                   ["foreword", "acknowledgement"],
     "sector_report":            ["foreword", "acknowledgement", "table of contents"],
+    "igf_report":               ["foreword", "acknowledgement", "table of contents"],
+    "statistics_report":        ["foreword", "table of contents"],
+    "research_report":          ["foreword", "acknowledgement"],
+    "survey":                   ["foreword", "acknowledgement"],
+    "bulletin":                 [],
+    "guidelines":               ["foreword", "acknowledgement"],
+    "manual":                   ["foreword", "acknowledgement", "table of contents"],
+    "framework":                ["foreword", "acknowledgement", "table of contents"],
+    "assessment":               ["foreword", "acknowledgement"],
+    "conference_report":        ["foreword", "acknowledgement", "table of contents"],
+    "regulations":              [],
+    "act":                      [],
+    "bill":                     [],
+    "finance_act":              [],
+    "finance_bill":             [],
+    "constitution":             [],
+    # FIX 4: magazine-specific skip list — removes non-content sections
+    "magazine":                 ["table of contents", "advertisement", "editor's note",
+                                 "from the desk", "letters to the editor"],
+    "catalogue":                [],
+    "unknown":                  [],
 }
 
 
 # ══════════════════════════════════════════════════════════════════════════════
 # MANUAL OVERRIDES
 # ══════════════════════════════════════════════════════════════════════════════
-# Always win over all detection passes.
-# Keys are exact filenames as they appear in data/raw/.
 
 MANUAL_OVERRIDES = {
-    # ── Finance: known detection edge cases ───────────────────────────────────
     "First Half NGBIRR FY 23-24 - COB final 13.3.14.pdf": {
         "document_type": "controller_of_budget",
         "fiscal_year":   "2023_24",
@@ -1459,9 +1375,9 @@ MANUAL_OVERRIDES = {
         "report_period": "annual",
     },
     "TheConstitutionOfKenya.pdf": {
-        "document_type": "constitution",
-        "fiscal_year":   "na",
-        "report_period": "annual",
+        "document_type":  "constitution",
+        "fiscal_year":    "na",
+        "report_period":  "annual",
         "primary_agents": ["president", "finance", "anticorruption"],
         "agent_access":   ALL_AGENTS,
         "issuing_agent":  "president",
@@ -1499,8 +1415,6 @@ MANUAL_OVERRIDES = {
         "fiscal_year":   "2019_20",
         "report_period": "annual",
     },
-
-    # ── Magazine / non-standard ────────────────────────────────────────────────
     "2020-Magazine-DVS-A-New-Dawn.pdf": {
         "document_type":  "magazine",
         "primary_agents": ["agriculture"],
@@ -1541,10 +1455,14 @@ MANUAL_OVERRIDES = {
         "priority":       "medium",
     },
 
-    # ── Superseded Finance docs ────────────────────────────────────────────────
-    # (BPS figures get revised by BROP — flag older ones)
-    "2023-Budget-Policy-Statement.pdf": {
-        "superseded": False,    # current — 2026 BPS is the latest
+    # FIX 6: BPS superseded series
+    # TODO: mark_superseded.py will walk BPS_TYPES sorted by doc_year and set
+    # superseded=True on all but the latest per (doc_type, primary_agents) combo.
+    # The 2026 BPS is currently the live version; all earlier BPS are historical.
+    # DO NOT set superseded=True manually here — let mark_superseded.py handle it
+    # so the logic is reproducible and not scattered across this file.
+    "2026 Budget Policy Statement.pdf": {
+        "superseded": False,
     },
 }
 
@@ -1553,19 +1471,16 @@ MANUAL_OVERRIDES = {
 # FY DETECTION HELPERS
 # ══════════════════════════════════════════════════════════════════════════════
 
-# BPS types: year in filename is publication year → FY = (year-1)/year
 BPS_TYPES = {
     "budget_policy_statement",
     "budget_review_outlook",
     "budget_summary",
 }
 
-# Forward-looking: year in filename = FY start
 FORWARD_LOOKING_TYPES = {
     "debt_management_strategy",
 }
 
-# Cover text FY patterns — ordered by specificity
 COVER_FY_PATTERNS = [
     (r"financial year\s+(\d{4})[/\-](\d{2,4})",             "range"),
     (r"fy\s*(\d{4})[/\-](\d{2,4})",                         "range"),
@@ -1591,30 +1506,15 @@ COVER_PERIOD_PATTERNS = [
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# VALID DOMAINS (for retriever domain classifier)
+# VALID DOMAINS
 # ══════════════════════════════════════════════════════════════════════════════
 
 VALID_DOMAINS = {
-    # Finance
-    "fiscal_policy",
-    "monetary_policy",
-    "audit_compliance",
-    "revenue_tax",
-    "tax_expenditure",
-    "macroeconomic_data",
-    "legal_fiscal",
-    "constitutional",
-    "external_assessment",
-    # Other agents
-    "governance",
-    "procurement",
-    "legal_compliance",
-    "internet_governance",
-    "sector_policy",
-    "sector_data",
-    "sector_research",
-    "institutional",
-    "unknown",
+    "fiscal_policy", "monetary_policy", "audit_compliance", "revenue_tax",
+    "tax_expenditure", "macroeconomic_data", "legal_fiscal", "constitutional",
+    "external_assessment", "governance", "procurement", "legal_compliance",
+    "internet_governance", "sector_policy", "sector_data", "sector_research",
+    "institutional", "unknown",
 }
 
 
@@ -1638,7 +1538,13 @@ def match_doc_type(slug: str) -> str:
 
 
 def match_primary_agents(slug: str, doc_type: str) -> list:
-    """Return list of primary agents from AGENT_PATTERNS."""
+    """
+    Return list of primary agents from AGENT_PATTERNS.
+
+    FIX 1: Warns when >2 agents match — likely a pattern collision rather than a
+    genuine joint-ministry document. Logs to unknown_doc_types.log for review.
+    Callers should inspect the log before upserting any agent's corpus.
+    """
     matched = []
     for agent, patterns in AGENT_PATTERNS.items():
         for pattern in patterns:
@@ -1646,8 +1552,19 @@ def match_primary_agents(slug: str, doc_type: str) -> list:
                 if agent not in matched:
                     matched.append(agent)
                 break
+
     if not matched:
-        matched = ["president"]   # safe fallback
+        matched = ["president"]  # safe fallback
+
+    if len(matched) > 2:
+        msg = f"COLLISION: {slug!r} matched {len(matched)} agents: {matched}"
+        logger.warning(msg)
+        try:
+            with open("unknown_doc_types.log", "a") as f:
+                f.write(f"COLLISION\t{slug}\t{matched}\n")
+        except OSError:
+            pass  # don't crash the pipeline over a log write
+
     return matched
 
 
@@ -1660,28 +1577,37 @@ def match_issuing_agent(slug: str, doc_type: str) -> str:
 
 
 def build_agent_access(
-    slug:            str,
-    doc_type:        str,
-    primary_agents:  list,
-    issuing_agent:   str,
+    slug:           str,
+    doc_type:       str,
+    primary_agents: list,
+    issuing_agent:  str,
 ) -> list:
-    """Build full agent_access list from tiers + filename overrides."""
+    """
+    Build full agent_access list from tiers + filename overrides.
+
+    FIX 2: Replaces the silent empty-list "primary + president" convention with:
+      - None in SHARED_ACCESS_MAP  → primary_agents only, no auto-president
+      - Non-empty list             → explicit shared access
+      - doc_type in ADD_PRESIDENT_TO_ALL → president always added
+    This makes access grants visible in the data, not in a comment.
+    """
     access = set(primary_agents)
 
-    # Tier 1: universal
+    # Tier 1: universal — everyone gets these doc_types
     if doc_type in UNIVERSAL_DOC_TYPES:
         access.update(ALL_AGENTS)
         return sorted(access)
 
     # Tier 2: shared access map
-    shared = SHARED_ACCESS_MAP.get(doc_type, [])
-    if shared:
+    shared = SHARED_ACCESS_MAP.get(doc_type)   # None if key missing or None value
+    if shared is not None:
         access.update(shared)
-    else:
-        # Empty list means "primary + president" by convention
+
+    # Explicit president-always set (replaces empty-list convention)
+    if doc_type in ADD_PRESIDENT_TO_ALL:
         access.add("president")
 
-    # Always add issuing agent
+    # Always add issuing agent (except external bodies and unknowns)
     if issuing_agent not in ("unknown", "external"):
         access.add(issuing_agent)
 
@@ -1703,8 +1629,25 @@ def build_topics(slug: str, doc_type: str) -> list:
 
 
 def extract_doc_year(filename: str) -> int | None:
-    """Extract publication year as integer from filename."""
-    match = re.search(r'(?<!\d)(20\d{2})(?!\d)', filename)
-    if match:
-        return int(match.group(1))
-    return None
+    """
+    Extract publication year as integer from filename.
+
+    FIX 3: For YYYY-YYYY or YYYY-YY range filenames, returns the LATER year.
+    Example: 'Annual-Public-Debt-Report-2022-2023.pdf' → 2023 (not 2022).
+    This matters for recency ranking in the retriever.
+    """
+    # Check for year range first: YYYY-YYYY or YYYY-YY
+    range_match = re.search(r'(20\d{2})[\-/](20)?(\d{2})\b', filename)
+    if range_match:
+        y1     = int(range_match.group(1))
+        prefix = range_match.group(2)   # "20" or None
+        suffix = range_match.group(3)   # 2-digit remainder
+        if prefix:
+            y2 = int(prefix + suffix)   # full 4-digit second year
+        else:
+            y2 = int(str(y1)[:2] + suffix)  # infer century from first year
+        return max(y1, y2)
+
+    # Single year
+    single = re.search(r'(?<!\d)(20\d{2})(?!\d)', filename)
+    return int(single.group(1)) if single else None
