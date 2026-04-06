@@ -6,13 +6,13 @@ Provider chain:
     1. Ollama (local)  — qwen2.5:1.5b, filename-only, zero rate limits
     2. Groq            — cloud fallback, only when Ollama returns LOW or placeholder
     3. Gemini          — fallback if Groq rate-limits
-    4. OpenRouter      — last resort (gpt-oss-20b free tier)
+    4. OpenRouter      — last resort
 
 Strategy:
     - Ollama gets filename only (~50 tokens, instant, offline)
-    - HIGH or MEDIUM with no placeholder text → done, no cloud call needed
-    - LOW or placeholder detected → extract PDF text → try cloud providers
-    - PDF extraction has a 20s hard timeout to prevent hanging on large files
+    - HIGH or MEDIUM with no placeholder → done, no cloud call
+    - LOW or placeholder → extract PDF text → cloud
+    - Extraction timeout via ThreadPoolExecutor (WSL-safe, signal.SIGALRM does NOT work on WSL)
 """
 
 import os
@@ -20,12 +20,12 @@ import re
 import csv
 import json
 import time
-import signal
 import argparse
 import pdfplumber
 import requests
 from pathlib import Path
 from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FuturesTimeoutError
 
 load_dotenv(Path(__file__).parent / ".env")
 
@@ -40,7 +40,7 @@ RETRY_ATTEMPTS     = 2
 RETRY_DELAY        = 3
 INTER_FILE_DELAY   = 1.0
 ROTATION_PAUSE     = 8
-EXTRACTION_TIMEOUT = 20    # seconds — hard limit on pdfplumber extraction
+EXTRACTION_TIMEOUT = 20    # seconds — ThreadPoolExecutor, works on WSL
 
 OLLAMA_HOST        = "http://localhost:11434"
 OLLAMA_MODEL       = "qwen2.5:1.5b"
@@ -48,7 +48,7 @@ OLLAMA_TIMEOUT     = 30
 
 GROQ_MODEL         = "llama-3.3-70b-versatile"
 GEMINI_MODEL       = "gemini-2.0-flash"
-OPENROUTER_MODEL   = "openai/gpt-oss-20b:free"  # fixed — previous model rate limited
+OPENROUTER_MODEL   = "openai/gpt-oss-20b:free"
 
 PLACEHOLDER_WORDS  = ["DocType", "Issuer", "Description", "ShortDescription"]
 RETRY_CONFIDENCES  = {"LOW"}
@@ -84,7 +84,7 @@ Rules:
 - ShortDescription: 2-4 real descriptive words, Title-Case, hyphens only
 - No spaces, no special characters except hyphens
 - Max 80 characters total
-- NEVER use the placeholder words "DocType", "Issuer", "Description" literally in the output
+- NEVER use the placeholder words "DocType", "Issuer", "Description" literally in output
 
 Confidence:
   HIGH   — year, issuer, AND doc type are all obvious from the filename
@@ -96,7 +96,6 @@ Respond ONLY with valid JSON, nothing else:
 
 CLOUD_SYSTEM = """You are a document naming expert for a Kenyan government AI research system.
 Produce a clean standardized filename for a government PDF.
-Respond only with valid JSON — include the word 'json' nowhere except in your response format.
 
 NAMING CONVENTION:
 - Format: YYYY-DocType-Issuer-ShortDescription.pdf
@@ -116,12 +115,12 @@ Return JSON only:
 CLOUD_USER = """Agent domain: {agent_domain}
 Original filename: {original_filename}
 
-First pages of document text (json format response required):
+First pages of document text:
 ---
 {text}
 ---
 
-Suggest a standardized filename and return json."""
+Suggest a standardized filename."""
 
 
 # ── Shared helpers ─────────────────────────────────────────────────────────────
@@ -157,15 +156,6 @@ def _parse_result(raw: str, original_filename: str) -> dict:
 
 RATE_LIMITED = {"confidence": "PROVIDER_FAILED", "reason": "rate_limited"}
 PROVIDER_ERR = {"confidence": "PROVIDER_FAILED", "reason": "error"}
-
-
-# ── Extraction timeout ─────────────────────────────────────────────────────────
-
-class ExtractionTimeout(Exception):
-    pass
-
-def _timeout_handler(signum, frame):
-    raise ExtractionTimeout()
 
 
 # ── Provider 0: Ollama (local) ────────────────────────────────────────────────
@@ -222,7 +212,6 @@ def call_groq(system: str, user: str, filename: str) -> dict:
         print(f"         [Groq error] {err[:120]}")
         return RATE_LIMITED if _is_rate_limit(err) else PROVIDER_ERR
 
-
 def call_gemini(system: str, user: str, filename: str) -> dict:
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not api_key:
@@ -230,22 +219,18 @@ def call_gemini(system: str, user: str, filename: str) -> dict:
     try:
         from google import genai
         from google.genai import types
-        with genai.Client(api_key=api_key) as client:
-            resp = client.models.generate_content(
-                model=GEMINI_MODEL,
-                contents=user,
-                config=types.GenerateContentConfig(
-                    system_instruction=system,
-                    temperature=0,
-                    max_output_tokens=300,
-                ),
-            )
+        client = genai.Client(api_key=api_key)
+        resp   = client.models.generate_content(
+            model=GEMINI_MODEL, contents=user,
+            config=types.GenerateContentConfig(
+                system_instruction=system, temperature=0, max_output_tokens=300,
+            ),
+        )
         return _parse_result(resp.text, filename)
     except Exception as e:
         err = str(e)
         print(f"         [Gemini error] {err[:120]}")
         return RATE_LIMITED if _is_rate_limit(err) else PROVIDER_ERR
-
 
 def call_openrouter(system: str, user: str, filename: str) -> dict:
     api_key = os.environ.get("OPENROUTER_API_KEY", "").strip()
@@ -254,19 +239,11 @@ def call_openrouter(system: str, user: str, filename: str) -> dict:
     try:
         resp = requests.post(
             "https://openrouter.ai/api/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {api_key}",
-                "Content-Type":  "application/json",
-                "HTTP-Referer":  "https://github.com/PRES-Executive",
-                "X-Title":       "PRES-Rename-Pipeline",
-            },
-            json={
-                "model":           OPENROUTER_MODEL,
-                "messages":        [{"role": "system", "content": system}, {"role": "user", "content": user}],
-                "temperature":     0,
-                "max_tokens":      300,
-                "response_format": {"type": "json_object"},
-            },
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json",
+                     "HTTP-Referer": "https://github.com/PRES-Executive", "X-Title": "PRES-Rename-Pipeline"},
+            json={"model": OPENROUTER_MODEL,
+                  "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
+                  "temperature": 0, "max_tokens": 300, "response_format": {"type": "json_object"}},
             timeout=30,
         )
         if resp.status_code == 429:
@@ -277,7 +254,6 @@ def call_openrouter(system: str, user: str, filename: str) -> dict:
         err = str(e)
         print(f"         [OpenRouter error] {err[:120]}")
         return RATE_LIMITED if _is_rate_limit(err) else PROVIDER_ERR
-
 
 CLOUD_CHAIN = [("Groq", call_groq), ("Gemini", call_gemini), ("OpenRouter", call_openrouter)]
 
@@ -303,15 +279,11 @@ def call_cloud(agent: str, filename: str, text: str) -> dict:
                 continue
             print(f"         ↷ {provider_name} failed — rotating")
             break
-    return {
-        "reasoning":       "All providers failed",
-        "suggested_name":  _fallback_name(filename),
-        "confidence":      "LOW",
-        "extracted_title": "",
-    }
+    return {"reasoning": "All providers failed", "suggested_name": _fallback_name(filename),
+            "confidence": "LOW", "extracted_title": ""}
 
 
-# ── PDF extraction ─────────────────────────────────────────────────────────────
+# ── PDF extraction (WSL-safe timeout via ThreadPoolExecutor) ──────────────────
 
 CORRUPT_PDF_ERRORS = [
     "'L' format requires 0 <= number <= 4294967295",
@@ -321,10 +293,8 @@ CORRUPT_PDF_ERRORS = [
 def _is_corrupt_error(err: str) -> bool:
     return any(sig in err for sig in CORRUPT_PDF_ERRORS)
 
-def extract_pdf_text(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
-    # Hard timeout — prevents hanging on massive engineering PDFs
-    signal.signal(signal.SIGALRM, _timeout_handler)
-    signal.alarm(EXTRACTION_TIMEOUT)
+def _extract_raw(filepath: str, max_chars: int) -> tuple[str, str]:
+    """Inner extraction — runs inside a thread so the timeout can kill it."""
     try:
         with pdfplumber.open(filepath) as pdf:
             parts = []
@@ -341,15 +311,19 @@ def extract_pdf_text(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[st
             if not full:
                 return "", "failed"
             return full[:max_chars], "partial" if len(full) > max_chars else "ok"
-    except ExtractionTimeout:
-        print(f"         ⏱ Extraction timed out after {EXTRACTION_TIMEOUT}s — sending filename to cloud")
-        return "", "timeout"
     except Exception as e:
         err = str(e)
         return ("", "corrupt_pdf") if _is_corrupt_error(err) else ("", f"error: {err[:80]}")
-    finally:
-        signal.alarm(0)  # always cancel the alarm
 
+def extract_pdf_text(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
+    """Extract with hard timeout — works on WSL (no signal.SIGALRM needed)."""
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        future = executor.submit(_extract_raw, filepath, max_chars)
+        try:
+            return future.result(timeout=EXTRACTION_TIMEOUT)
+        except FuturesTimeoutError:
+            print(f"         ⏱ Extraction timed out after {EXTRACTION_TIMEOUT}s")
+            return "", "timeout"
 
 def extract_pdf_text_with_ocr(filepath: str, max_chars: int = MAX_TEXT_CHARS) -> tuple[str, str]:
     text, status = extract_pdf_text(filepath, max_chars)
@@ -481,7 +455,7 @@ def main():
     print(f"Processing : {len(rows)} PDFs")
     print(f"Output     : {args.output}")
     print(f"Strategy   : Ollama(filename only) → cloud(+PDF text) if LOW or placeholder")
-    print(f"Extract TO : {EXTRACTION_TIMEOUT}s per file\n")
+    print(f"Extract TO : {EXTRACTION_TIMEOUT}s per file (ThreadPoolExecutor — WSL-safe)\n")
 
     if args.retry_low:
         open_mode = "a"
@@ -520,10 +494,10 @@ def main():
                     stats["ollama_resolved"] += 1
                 else:
                     if _has_placeholders(name):
-                        print(f"         ⚠ Ollama placeholder detected — escalating to cloud")
+                        print(f"         ⚠ Ollama placeholder — escalating to cloud")
                     result = None
 
-            # Step 2 — Cloud: extract PDF text and call cloud provider
+            # Step 2 — extract PDF text + call cloud
             if result is None:
                 text, extraction_status = extract_pdf_text_with_ocr(filepath)
 
@@ -586,7 +560,7 @@ def main():
     print(f"  LOW confidence   : {stats['LOW']}   ⚠  review these")
     print(f"  SKIP (corrupt)   : {stats['SKIP']}   ✗")
     print(f"  OCR used         : {stats['ocr']}")
-    print(f"  Timed out        : {stats['timeout']}  (large PDFs — cloud used filename only)")
+    print(f"  Timed out        : {stats['timeout']}  (filename sent to cloud instead)")
     print(f"  Ollama resolved  : {stats['ollama_resolved']}  (no cloud call)")
     print(f"  Cloud API calls  : {stats['cloud_calls']}  ({cloud_pct}% of files)")
     print(f"\nManifest: {args.output}")
