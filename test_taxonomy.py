@@ -11,13 +11,10 @@ sys.path.insert(0, "Common")
 from doc_type_taxonomy import (
     normalize_slug, match_doc_type, match_primary_agents,
     match_issuing_agent, build_agent_access, build_topics, extract_doc_year,
-    ALL_AGENTS,
+    resolve_overrides, ALL_AGENTS,   # ← added resolve_overrides
 )
 
 # ── Test cases ────────────────────────────────────────────────────────────────
-# Format: (filename, expected_doc_type, expected_primary_agents)
-# expected_* = None means "don't assert, just print"
-
 TEST_CASES = [
     # Known edge cases from handoff doc
     ("2025-Strategy-GOK-Kenya-AI.pdf",                  "strategic_plan",       ["ict"]),
@@ -67,6 +64,22 @@ for filename, exp_dt, exp_pa in TEST_CASES:
     topics  = build_topics(slug, dt)
     year    = extract_doc_year(filename)
 
+    # === KEY FIX: Apply manual overrides (exactly as tag_documents.py will do) ===
+    meta = {
+        "document_type": dt,
+        "primary_agents": pa,
+        "issuing_agent": ia,
+        "agent_access": access,
+        "topics": topics,
+    }
+    meta = resolve_overrides(filename, meta)
+
+    # Use the overridden values for assertions and printing
+    dt = meta["document_type"]
+    pa = meta.get("primary_agents", pa)
+    access = meta.get("agent_access", access)
+    topics = meta.get("topics", topics)
+
     # Assertions
     dt_ok = (exp_dt is None) or (dt == exp_dt)
     pa_ok = (exp_pa is None) or (sorted(pa) == sorted(exp_pa))
@@ -77,7 +90,6 @@ for filename, exp_dt, exp_pa in TEST_CASES:
     else:
         fails += 1
 
-    # Warnings
     if dt == "unknown":
         warnings += 1
         status = WARN
@@ -109,7 +121,13 @@ for filename, expected_access, label in spot_checks:
     pa     = match_primary_agents(slug, dt)
     ia     = match_issuing_agent(slug, dt)
     access = build_agent_access(slug, dt, pa, ia)
-    ok     = all(a in access for a in expected_access)
+
+    # Apply override here too for consistency
+    meta = {"document_type": dt, "primary_agents": pa, "agent_access": access}
+    meta = resolve_overrides(filename, meta)
+    access = meta.get("agent_access", access)
+
+    ok = all(a in access for a in expected_access)
     print(f"  {'OK' if ok else 'FAIL':<4} {label}")
     if not ok:
         missing = [a for a in expected_access if a not in access]
