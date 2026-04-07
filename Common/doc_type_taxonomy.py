@@ -59,106 +59,88 @@ AGENT_DESCRIPTIONS = {
 # DOCUMENT TYPE DETECTION — FILENAME RULES
 # ══════════════════════════════════════════════════════════════════════════════
 DOCUMENT_TYPE_RULES = [
-    # ── Finance: pure data / tables ───────────────────────────────────────────
-    (r"pure.?table|statistical.?annex|annex.?state.?corp", "pure_tables"),
-    (r"estimates.?revenue.?grants|revenue.?grants.?loans", "revenue_grants_estimates"),
+    # ── Finance: Pure tables & annexes (very specific first) ─────────────────
+    (r"pure.?tables?|statistical.?annex|annex.?state.?corp|estimates.?revenue.?grants|revenue.?grants.?loans", "pure_tables"),
+    (r"budget.summary.for.the.fy", "budget_summary"),
 
-    # ── Finance: fiscal policy ────────────────────────────────────────────────
-    (r"budget.policy.statement|^bps", "budget_policy_statement"),
-    (r"budget.*review.*outlook|brop", "budget_review_outlook"),
-    (r"budget.?summary", "budget_summary"),
-    (r"medium.?term.?debt|mtds", "debt_management_strategy"),
-    (r"annual.?public.?debt|public.?debt.?report", "public_debt_report"),
-    (r"post.?election.?economic", "post_election_report"),
-    (r"national.?government.?budget.*(oct|book|may)", "controller_of_budget"),
+    # ── Controller of Budget / NGBIRR ───────────────────────────────────────
+    (r"ngbirr|national.?government.?book|national.?book|controller.?of.?budget|national.?government.?budget.?impl", "controller_of_budget"),
+    (r"national.?government.?(oct|september|may).?(book|report)", "controller_of_budget"),
 
-    # ── Finance: Controller of Budget ─────────────────────────────────────────
-    (r"ngbirr|national.?government.?book|national.?book|controller.?of.?budget", "controller_of_budget"),
+    # ── CBK Reports ─────────────────────────────────────────────────────────
+    (r"cbk.*(annual.report|cnk.*annual)", "cbk_annual_report"),
+    (r"cbk.*\d{1,3}(?:st|nd|rd|th)?|mpc|monetary.?policy.?comm|monetary.?policy.?statement", "cbk_mpc_report"),
+    (r"fsr|financial.?sector.?stability", "cbk_fsr_report"),
 
-    # ── Finance: CBK ──────────────────────────────────────────────────────────
-    (r"cbk.*annual.*report|cbk_\d{4}|cnk.*annual", "cbk_annual_report"),
-    (r"cbk.*\d{1,3}(?:st|nd|rd|th)?|mpc|monetary.?policy", "cbk_mpc_report"),
-    (r"cbk.*fsr|financial.?sector.?stab", "cbk_fsr_report"),
-
-    # ── Finance: KRA ──────────────────────────────────────────────────────────
+    # ── KRA & Revenue ───────────────────────────────────────────────────────
+    (r"kra.*corporate|corporate.*plan.*kra|7th|8th|9th.*corporate", "kra_corporate_plan"),
     (r"annual.?revenue.?performance|revenue.?performance", "kra_revenue_performance"),
-    (r"kra.*corporate|corporate.*plan.*kra", "kra_corporate_plan"),
-    (r"tax.?expenditure", "tax_expenditure_report"),
+    (r"tax.?expenditure|ter", "tax_expenditure_report"),
 
-    # ── Finance: Macro & External ─────────────────────────────────────────────
+    # ── Macro & External ────────────────────────────────────────────────────
     (r"economic.?survey", "economic_survey"),
     (r"imf|world.?bank|kenya.?economic.?update", "external_assessment"),
 
-    # ── Audit & Compliance ────────────────────────────────────────────────────
-    (r"auditor.?general|national.?government.?audit", "auditor_general_report"),
-    (r"audit.*report", "audit_report"),
-    (r"financial.*statements|audited.*financial|financialstatement", "financial_statements"),
+    # ── Legal & Finance Acts/Bills ──────────────────────────────────────────
+    (r"finance.?bill|thefinancebill", "finance_bill"),
+    (r"finance.?act|financeact", "finance_act"),
+    (r"constitution", "constitution"),
 
-    # ── Anti-Corruption ───────────────────────────────────────────────────────
-    (r"eacc", "eacc_report"),
-    (r"ppra|ppoa", "ppra_report"),
-    (r"odpp|director.of.public.prosecution", "odpp_report"),
-    (r"forensic.?audit", "forensic_audit"),
-    (r"bribery.?act|fatf|mer.?of.?kenya", "guidelines"),
+    # ── Audit & Compliance ──────────────────────────────────────────────────
+    (r"auditor.?general|national.?government.?audit|summary.?report.?auditor", "auditor_general_report"),
+    (r"audit.?report", "audit_report"),   # keep after specific ones
 
-    # ── Education ─────────────────────────────────────────────────────────────
-    (r"knec.*(kcse|kjsea|statistics|exam|essential|dew)", "statistics_report"),
-    (r"knec.*strategic|kesp", "strategic_plan"),
-    (r"basic.?education.*act", "act"),
-    (r"curriculum.*framework", "framework"),
-    (r"ministry.of.education.*(education.sector|sector.report)", "sector_report"),
+    # ── Education ───────────────────────────────────────────────────────────
+    (r"knec.*(kcse|kjsea|statistics|exam|essential|dew|bulletin)", "statistics_report"),
+    (r"knec.*annual|annual.*knec", "annual_report"),
+    (r"education.*sector|ministryofeducation.*educationsector", "sector_report"),
+    (r"basic.?education.*act|data.?protection.*act", "act"),
+    (r"strategic.?plan.*knec|knec.*strategic", "strategic_plan"),
 
-    # ── Agriculture ───────────────────────────────────────────────────────────
-    (r"kalro|kephis|nia|moalf|agricultural.biotechnology|livestock.agenda", "research_report"),
-    (r"roots.*tuber|kasep|national.*agriculture.*policy", "policy"),
-    (r"field.?guide|pastoral|nutrition|water.harvesting|dew|bulletin", "bulletin"),
-    (r"agriculture.production.report", "statistics_report"),
-
-    # ── ICT ───────────────────────────────────────────────────────────────────
-    (r"kictanet.*(10.years|spotlight|quarterly)", "bulletin"),
-    (r"igf|kigf|eaigf|iggf", "igf_report"),
-    (r"kenya.*ai.*strategy|gok.*kenya.*ai|national.broadband.strategy", "strategic_plan"),
-    (r"digital.*masterplan|ict.*masterplan|masterplan", "masterplan"),
-    (r"finaccess|essential.*ict|digital.*readiness|state.of.ict", "survey"),
-    (r"data.protection.*act|cybercrime|computer.*misuse", "act"),
-    (r"konza.*(financial|statements|audited)", "financial_statements"),
-
-    # ── Infrastructure ────────────────────────────────────────────────────────
-    (r"energy.*statistics|petroleum.*statistics|epra.*statistics|annualenergypetroleum|energy.*stats", "statistics_report"),
-    (r"strategic.*power.*sustainability|power.*sustainability", "strategic_plan"),
-    (r"rdm\.\d|road.*design.*manual", "manual"),
-    (r"strategic.plan.*(kura|kerra|kenha|ketraco)", "strategic_plan"),
-
-    # ── Cross-cutting & Research ──────────────────────────────────────────────
+    # ── Agriculture ─────────────────────────────────────────────────────────
+    (r"kalro|kephis|nia|moalf|kasep", "annual_report"),
     (r"fsrp.*(esmf|rpf|seah)", "framework"),
-    (r"weather.forecast|kmd.*(december|ond|season)", "bulletin"),
-    (r"success.stories|kosap", "research_report"),
-    (r"eu.regulation.deforestation|deforestation", "regulations"),
-    (r"qualitative.gdp|donor.roundtable|funding.globally", "research_report"),
-    (r"srp.*(monthly|october|vmgf)", "research_report"),
-    (r"final\.v|final.version|draft.*report|anual.report", "research_report"),
+    (r"catalogue.*breeds", "catalogue"),
+    (r"success.*stories|kosap.*success", "research_report"),
 
-    # ── Final Safety Nets ─────────────────────────────────────────────────────
+    # ── ICT ─────────────────────────────────────────────────────────────────
+    (r"kictanet.*(10.years|spotlight|annual)", "bulletin"),
+    (r"igf|kigf|eaigf|iggf", "igf_report"),
+    (r"kenya.*ai|strategy.*gok.*kenya.*ai|gok.*kenya.*ai", "strategic_plan"),
+    (r"ajira.*digital|huduma.*namba", "research_report"),
+    (r"konza.*(financial|audited|statements|strategic)", "financial_statements"),
+
+    # ── Infrastructure & Energy ─────────────────────────────────────────────
+    (r"energy.*statistics|petroleum.*statistics|epra.*statistics|annualenergypetroleum|biannual.*energy", "statistics_report"),
+    (r"strategic.*power.*sustainability|power.*sustainability", "strategic_plan"),
+    (r"strategic.plan.*(kura|kerra|kenha|ketraco|kengen|kplc)", "strategic_plan"),
+    (r"rdm\.\d|road.*design.*manual|geometric.design|hydrological|drainage| pavement", "manual"),
+    (r"weather.*forecast|kmd.*(december|ond|season)", "bulletin"),
+
+    # ── Cross-cutting & President ───────────────────────────────────────────
+    (r"election.?observer", "research_report"),
+    (r"national.*values.*governance", "guidelines"),
+
+    # ── Final micro-fixes for stubborn filenames ───────────────────────────
+    (r"final\.v|final.version|draft.*report|anual.report|anuall.coprate", "research_report"),
+    (r"srp|strategic.*review.*paper", "research_report"),
     (r"report.*(final|summary|draft)", "research_report"),
     (r"policy.*act|act.*policy", "act"),
     (r"bill.*report|report.*bill", "bill"),
-    (r"framework|strategic.framework", "framework"),
-    (r"spotlight|newsletter|magazine", "bulletin"),
-    (r"catalogue|catalog", "catalogue"),
-    (r"procurement.plan", "annual_report"),
 
-    # ── Catch-all (keep at the very bottom) ───────────────────────────────────
-    (r"strategic.*plan|strategy.*plan", "strategic_plan"),
+    # ── Broad catch-alls (MUST stay at the very bottom) ─────────────────────
+    (r"strategic.*plan|strategy.*plan|masterplan", "strategic_plan"),
     (r"annual.*report|report.*annual", "annual_report"),
-    (r"audit.*report", "audit_report"),
+    (r"financial.*statements|audited.*financial|financialstatement", "financial_statements"),
+    (r"audit.*report|report.*audit", "audit_report"),
     (r"guidelines|manual", "guidelines"),
     (r"policy", "policy"),
+    (r"framework", "framework"),
     (r"survey", "survey"),
-    (r"bulletin", "bulletin"),
+    (r"bulletin|newsletter|magazine|spotlight", "bulletin"),
     (r"regulations", "regulations"),
     (r"act\b", "act"),
     (r"bill\b", "bill"),
-    (r"research_report|study", "research_report"),
 ]
 # ══════════════════════════════════════════════════════════════════════════════
 # DOCUMENT TYPE DETECTION — COVER TEXT RULES
