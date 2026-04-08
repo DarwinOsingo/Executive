@@ -3,6 +3,11 @@
 # Generated: 2026-04-08
 # Agent filter: all
 
+pipeline:
+  agent: multi
+  chunk_min_tokens: 100
+  chunk_max_tokens: 500
+  qdrant_collection: kenya_executive_roundtable
 meta:
   source: central_inventory.csv
   generated: '2026-04-08'
@@ -33,7 +38,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -60,7 +67,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -87,7 +96,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -114,7 +125,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -139,7 +152,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -171,7 +186,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -200,7 +217,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -234,7 +253,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -263,7 +284,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -295,7 +318,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -329,7 +354,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -359,7 +386,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -384,7 +413,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -415,7 +446,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -450,7 +483,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -484,7 +519,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -513,7 +550,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -539,7 +578,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -569,7 +610,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -603,7 +646,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -633,7 +678,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -663,7 +710,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -692,7 +741,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -727,7 +778,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -757,7 +810,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -793,7 +848,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -823,7 +880,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -852,7 +911,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -880,7 +941,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -907,7 +970,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -946,7 +1011,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -973,7 +1040,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -998,7 +1067,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1029,7 +1100,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1064,7 +1137,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1098,7 +1173,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1127,7 +1204,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1161,7 +1240,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1188,7 +1269,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1217,7 +1300,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1245,7 +1330,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1273,7 +1360,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1308,7 +1397,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1338,7 +1429,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1365,7 +1458,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1399,7 +1494,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1429,7 +1526,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1455,7 +1554,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1486,7 +1587,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1513,7 +1616,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1541,7 +1646,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1567,7 +1674,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1600,7 +1709,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1628,7 +1739,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1662,7 +1775,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1691,7 +1806,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1720,7 +1837,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1754,7 +1873,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1784,7 +1905,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1809,7 +1932,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1838,7 +1963,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1865,7 +1992,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1895,7 +2024,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1920,7 +2051,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1947,7 +2080,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -1979,7 +2114,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2008,7 +2145,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2037,7 +2176,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2066,7 +2207,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2098,7 +2241,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2130,7 +2275,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2155,7 +2302,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2184,7 +2333,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2218,7 +2369,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2243,7 +2396,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2275,7 +2430,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2304,7 +2461,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2333,7 +2492,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2360,7 +2521,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2390,7 +2553,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2425,7 +2590,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2455,7 +2622,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2485,7 +2654,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2510,7 +2681,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2539,7 +2712,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2570,7 +2745,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2597,7 +2774,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2630,7 +2809,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2659,7 +2840,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2692,7 +2875,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2726,7 +2911,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2754,7 +2941,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2782,7 +2971,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2810,7 +3001,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2838,7 +3031,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2865,7 +3060,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2891,7 +3088,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2919,7 +3118,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2952,7 +3153,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -2979,7 +3182,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3006,7 +3211,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3033,7 +3240,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3063,7 +3272,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3090,7 +3301,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3117,7 +3330,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3144,7 +3359,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3171,7 +3388,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3198,7 +3417,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3225,7 +3446,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3252,7 +3475,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3277,7 +3502,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3306,7 +3533,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3333,7 +3562,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3360,7 +3591,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3387,7 +3620,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3414,7 +3649,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3441,7 +3678,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3466,7 +3705,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3495,7 +3736,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3522,7 +3765,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3547,7 +3792,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3578,7 +3825,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3607,7 +3856,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3636,7 +3887,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3671,7 +3924,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3705,7 +3960,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3734,7 +3991,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3766,7 +4025,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3795,7 +4056,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3824,7 +4087,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3853,7 +4118,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3884,7 +4151,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3911,7 +4180,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3944,7 +4215,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3972,7 +4245,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -3999,7 +4274,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4024,7 +4301,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4054,7 +4333,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4081,7 +4362,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4110,7 +4393,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4142,7 +4427,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4167,7 +4454,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4195,7 +4484,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4225,7 +4516,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4252,7 +4545,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4279,7 +4574,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4306,7 +4603,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4333,7 +4632,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4360,7 +4661,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4388,7 +4691,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4413,7 +4718,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4444,7 +4751,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4473,7 +4782,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4502,7 +4813,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4533,7 +4846,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4562,7 +4877,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4595,7 +4912,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4623,7 +4942,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4652,7 +4973,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4681,7 +5004,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4710,7 +5035,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4739,7 +5066,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4764,7 +5093,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4795,7 +5126,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4824,7 +5157,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4853,7 +5188,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4883,7 +5220,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4915,7 +5254,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4947,7 +5288,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -4982,7 +5325,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5016,7 +5361,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5043,7 +5390,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5071,7 +5420,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5107,7 +5458,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5134,7 +5487,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5162,7 +5517,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5191,7 +5548,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5220,7 +5579,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5249,7 +5610,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5275,7 +5638,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5304,7 +5669,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5331,7 +5698,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5360,7 +5729,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5388,7 +5759,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5417,7 +5790,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5446,7 +5821,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5473,7 +5850,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5500,7 +5879,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5527,7 +5908,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5554,7 +5937,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5581,7 +5966,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5608,7 +5995,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5635,7 +6024,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5662,7 +6053,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5689,7 +6082,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5716,7 +6111,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5745,7 +6142,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5774,7 +6173,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5802,7 +6203,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5830,7 +6233,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5858,7 +6263,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5885,7 +6292,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5913,7 +6322,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5940,7 +6351,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5968,7 +6381,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -5996,7 +6411,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6027,7 +6444,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6054,7 +6473,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6080,7 +6501,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6111,7 +6534,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6136,7 +6561,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6163,7 +6590,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6192,7 +6621,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6221,7 +6652,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6250,7 +6683,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6280,7 +6715,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6309,7 +6746,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6343,7 +6782,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6377,7 +6818,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6406,7 +6849,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6439,7 +6884,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6466,7 +6913,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6495,7 +6944,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6529,7 +6980,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6557,7 +7010,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6586,7 +7041,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6621,7 +7078,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6646,7 +7105,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6677,7 +7138,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6704,7 +7167,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6729,7 +7194,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6760,7 +7227,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6789,7 +7258,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6823,7 +7294,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6857,7 +7330,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6883,7 +7358,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6914,7 +7391,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6944,7 +7423,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6973,7 +7454,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -6998,7 +7481,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7028,7 +7513,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7053,7 +7540,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7080,7 +7569,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7114,7 +7605,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7143,7 +7636,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7172,7 +7667,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7201,7 +7698,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7230,7 +7729,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7255,7 +7756,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7284,7 +7787,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7311,7 +7816,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7346,7 +7853,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7374,7 +7883,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7405,7 +7916,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7431,7 +7944,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7460,7 +7975,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7494,7 +8011,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7519,7 +8038,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7546,7 +8067,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7576,7 +8099,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7604,7 +8129,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7631,7 +8158,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7659,7 +8188,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7685,7 +8216,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7715,7 +8248,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7740,7 +8275,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7767,7 +8304,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7794,7 +8333,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7821,7 +8362,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7848,7 +8391,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7875,7 +8420,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7902,7 +8449,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7929,7 +8478,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7965,7 +8516,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -7999,7 +8552,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8033,7 +8588,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8067,7 +8624,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8101,7 +8660,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8135,7 +8696,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8160,7 +8723,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8187,7 +8752,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8216,7 +8783,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8244,7 +8813,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8269,7 +8840,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8299,7 +8872,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8324,7 +8899,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8356,7 +8933,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8386,7 +8965,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8416,7 +8997,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8443,7 +9026,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8468,7 +9053,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8498,7 +9085,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8528,7 +9117,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8558,7 +9149,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8585,7 +9178,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8612,7 +9207,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8645,7 +9242,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8678,7 +9277,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8711,7 +9312,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8744,7 +9347,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8777,7 +9382,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8802,7 +9409,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8829,7 +9438,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8858,7 +9469,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8885,7 +9498,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8912,7 +9527,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8939,7 +9556,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8967,7 +9586,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -8995,7 +9616,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9023,7 +9646,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9051,7 +9676,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9079,7 +9706,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9107,7 +9736,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9135,7 +9766,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9163,7 +9796,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9190,7 +9825,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9217,7 +9854,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9244,7 +9883,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9271,7 +9912,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9298,7 +9941,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9325,7 +9970,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9352,7 +9999,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9380,7 +10029,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9407,7 +10058,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9434,7 +10087,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9461,7 +10116,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9488,7 +10145,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9515,7 +10174,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9542,7 +10203,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9569,7 +10232,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9597,7 +10262,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9625,7 +10292,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9653,7 +10322,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9681,7 +10352,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9709,7 +10382,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9737,7 +10412,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9765,7 +10442,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9793,7 +10472,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9821,7 +10502,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9848,7 +10531,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9876,7 +10561,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 4
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 768
+  chunk_overlap: 154
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9901,7 +10588,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9937,7 +10626,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -9971,7 +10662,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10005,7 +10698,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10034,7 +10729,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10060,7 +10757,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10086,7 +10785,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10112,7 +10813,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10137,7 +10840,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10164,7 +10869,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10193,7 +10900,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10220,7 +10929,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10245,7 +10956,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10277,7 +10990,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10304,7 +11019,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10329,7 +11046,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10359,7 +11078,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10389,7 +11110,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10416,7 +11139,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10443,7 +11168,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10473,7 +11200,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10499,7 +11228,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10532,7 +11263,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10565,7 +11298,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10598,7 +11333,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10631,7 +11368,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10664,7 +11403,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10694,7 +11435,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10727,7 +11470,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10757,7 +11502,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10791,7 +11538,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10825,7 +11574,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10859,7 +11610,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10886,7 +11639,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10911,7 +11666,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10940,7 +11697,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -10973,7 +11732,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11002,7 +11763,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11029,7 +11792,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11063,7 +11828,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11097,7 +11864,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11131,7 +11900,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11165,7 +11936,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11199,7 +11972,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11233,7 +12008,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11267,7 +12044,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11297,7 +12076,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11327,7 +12108,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11357,7 +12140,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11387,7 +12172,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11417,7 +12204,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11447,7 +12236,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11477,7 +12268,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11507,7 +12300,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11537,7 +12332,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11567,7 +12364,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11597,7 +12396,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11627,7 +12428,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11657,7 +12460,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11687,7 +12492,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11717,7 +12524,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11747,7 +12556,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11777,7 +12588,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11807,7 +12620,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11837,7 +12652,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11864,7 +12681,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11894,7 +12713,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11924,7 +12745,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11952,7 +12775,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -11985,7 +12810,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12010,7 +12837,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12039,7 +12868,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12066,7 +12897,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12098,7 +12931,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 3
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12128,7 +12963,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12154,7 +12991,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12182,7 +13021,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12209,7 +13050,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12239,7 +13082,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12269,7 +13114,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12294,7 +13141,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12322,7 +13171,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12348,7 +13199,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12374,7 +13227,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12400,7 +13255,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12426,7 +13283,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 2
-  chunk_strategy: tables_only
+  chunking_strategy: tables_only
+  chunk_size: 2048
+  chunk_overlap: 0
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12458,7 +13317,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12485,7 +13346,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12518,7 +13381,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12553,7 +13418,9 @@ documents:
   priority: high
   rag_weight: 1.5
   category: 1
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12580,7 +13447,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 7
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 1024
+  chunk_overlap: 204
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12613,7 +13482,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12650,7 +13521,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12683,7 +13556,9 @@ documents:
   priority: constitutional
   rag_weight: 2.0
   category: 5
-  chunk_strategy: legal
+  chunking_strategy: legal
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12710,7 +13585,9 @@ documents:
   priority: low
   rag_weight: 0.5
   category: 0
-  chunk_strategy: narrative
+  chunking_strategy: narrative
+  chunk_size: 350
+  chunk_overlap: 88
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12743,7 +13620,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 8
-  chunk_strategy: hybrid
+  chunking_strategy: hybrid
+  chunk_size: 1536
+  chunk_overlap: 307
   is_scanned: false
   language: english
   geographic_scope: national
@@ -12772,7 +13651,9 @@ documents:
   priority: medium
   rag_weight: 1.0
   category: 6
-  chunk_strategy: audit_findings
+  chunking_strategy: audit_findings
+  chunk_size: 512
+  chunk_overlap: 128
   is_scanned: false
   language: english
   geographic_scope: national
