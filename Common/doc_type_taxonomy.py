@@ -1353,6 +1353,86 @@ MANUAL_OVERRIDES = {
     "agent_access":   ["ict"],
     "topics":         ["ict_policy", "digital_economy"],
 },
+# ========== EMPTY TOPICS FIXES ==========
+"2015-Policy-Act.pdf": {
+    "topics": ["governance", "legislation"],
+},
+"2017-Strategic-Plan-Ministry-of-Agriculture-Capacity-Building.pdf": {
+    "topics": ["agricultural_policy", "capacity_building"],
+},
+"2018-Strategic-Plan-MOALF.pdf": {
+    "topics": ["agricultural_policy", "food_security"],
+},
+"2018-Strategic-Plan-NES.pdf": {
+    "topics": ["economic_planning", "national_development"],
+},
+"2019-Strategic-Roots-and-Tuber-Crops-Strategy.pdf": {
+    "topics": ["crop_research", "food_security"],
+},
+"2021-Policy-Government-National-Agriculture-Research-System.pdf": {
+    "topics": ["agricultural_research", "food_security"],
+},
+"2022-Audit-Report-Migration-And-Invasive-Pests-And-Weeds-Management-Strategy.pdf": {
+    "document_type": "strategic_plan",  # ensure correct type
+    "topics": ["crop_protection", "food_security", "invasive_species"],
+},
+"2022-Masterplan-Ministry-of-ICT-Kenya-Digital.pdf": {
+    "topics": ["digital_economy", "ict_policy"],
+},
+"2022-Policy-Ministry-of-Agriculture-KASEP.pdf": {
+    "topics": ["agricultural_policy", "food_security"],
+},
+"2023-Final-SRP-OCTOBER-2023.pdf": {
+    "topics": ["economic_planning", "fiscal_policy"],
+},
+"2023-Final-SRP-VMGF.pdf": {
+    "topics": ["fiscal_policy", "macroeconomic_framework"],
+},
+"2023-Strategic-Plan-Ministry-For-Validation-Engagement-19.12.2023-1.pdf": {
+    "topics": ["governance", "strategic_planning"],
+},
+"2023-Strategic-Plan-MinistryOfEducation-MediumTermExpenditureFramework.pdf": {
+    "topics": ["education_policy", "budget_planning"],
+},
+"2023-Strategic-Plan-NI.pdf": {
+    "topics": ["national_development", "economic_planning"],
+},
+"2023-Strategic-Who-Globally-DigitalHealth.pdf": {
+    "topics": ["digital_health", "ict_policy", "global_health"],
+},
+"2024-Report-MinistryOfEducation-EducationSector.pdf": {
+    "topics": ["education_policy", "sector_performance"],
+},
+"2024-Strategic-Power-Sustainability.pdf": {
+    "topics": ["energy", "sustainability", "infrastructure_planning"],
+},
+"2025-Policy-Africa-Tech-Report.pdf": {
+    "topics": ["ict_policy", "digital_economy", "africa"],
+},
+"2025-Report-MinistryOfEducation-EducationSector.pdf": {
+    "topics": ["education_policy", "sector_performance"],
+},
+"Annual-Report-KESP-2005-2010.pdf": {
+    "topics": ["education_policy", "strategic_planning"],
+},
+"Environment-and-Social-Commitment-Plan-ESCP-for-GREEN-Phase-2-Project.pdf": {
+    "topics": ["climate_resilience", "energy", "environmental_safeguards"],
+},
+"Invest-Kenya-Policy-Sector-Pack.pdf": {
+    "topics": ["investment_promotion", "economic_development"],
+},
+
+# ========== DOC_YEAR FIX ==========
+"NGBIRR for First-Six Months of FY 2024-28.2..25 draft.pdf": {
+    "doc_year": 2025,           # correct from range 2024-25
+    "fiscal_year": "2024_25",   # already set via override earlier, but ensure doc_year matches
+},
+
+# ========== MISSING FINANCE AGENT_ACCESS ==========
+"Finance--Act-2022.pdf": {
+    "agent_access": ["finance", "president", "anticorruption"],  # add finance
+    "issuing_agent": "finance",   # more accurate
+},
 }
 
 
