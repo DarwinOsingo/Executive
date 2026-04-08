@@ -1,0 +1,3113 @@
+{
+  "source_file": "2022-Tax-Expenditure-Report.pdf",
+  "doc_slug": "2022_tax_expenditure_report",
+  "is_scanned": false,
+  "total_pages": 36,
+  "error": null,
+  "blocks": [
+    {
+      "text": "REPUBLIC OF KENYA",
+      "block_type": "heading",
+      "heading_path": [
+        "REPUBLIC OF KENYA"
+      ],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "THE NATIONAL TREASURY AND PLANNING",
+      "block_type": "heading",
+      "heading_path": [
+        "THE NATIONAL TREASURY AND PLANNING"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "2022 TAX EXPENDITURE REPORT",
+      "block_type": "heading",
+      "heading_path": [
+        "2022 TAX EXPENDITURE REPORT"
+      ],
+      "page_number": 1,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "SEPTEMBER 2022",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2022 TAX EXPENDITURE REPORT"
+      ],
+      "page_number": 1,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "© Tax Expenditure Report (TER) 2021",
+      "block_type": "list_item",
+      "heading_path": [
+        "2022 TAX EXPENDITURE REPORT"
+      ],
+      "page_number": 2,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "To obtain copies of the TER, please contact:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2022 TAX EXPENDITURE REPORT"
+      ],
+      "page_number": 2,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury and Planning Treasury Building",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2022 TAX EXPENDITURE REPORT"
+      ],
+      "page_number": 2,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "O. Box 30007-00100",
+      "block_type": "list_item",
+      "heading_path": [
+        "2022 TAX EXPENDITURE REPORT"
+      ],
+      "page_number": 2,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "NAIROBI, KENYA",
+      "block_type": "heading",
+      "heading_path": [
+        "NAIROBI, KENYA"
+      ],
+      "page_number": 2,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "Tel: +254-20-2252-299 Fax: +254-20-341-082",
+      "block_type": "paragraph",
+      "heading_path": [
+        "NAIROBI, KENYA"
+      ],
+      "page_number": 2,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "The document is also available on the website at: www.treasury.go.ke",
+      "block_type": "paragraph",
+      "heading_path": [
+        "NAIROBI, KENYA"
+      ],
+      "page_number": 2,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "HON. (AMB) UKUR YATANI, EGH, CABINET SECRETARY/NATIONAL TREASURY AND PLANNING",
+      "block_type": "heading",
+      "heading_path": [
+        "HON. (AMB) UKUR YATANI, EGH, CABINET SECRETARY/NATIONAL TREASURY AND PLANNING"
+      ],
+      "page_number": 3,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "JULIUS MUIA, PhD., CBS. PRINCIPAL SECRETARY/THE NATIONAL TREASURY",
+      "block_type": "heading",
+      "heading_path": [
+        "JULIUS MUIA, PhD., CBS. PRINCIPAL SECRETARY/THE NATIONAL TREASURY"
+      ],
+      "page_number": 4,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "Executive Summary",
+      "block_type": "heading",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 5,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya's  tax  system  incorporates  preferential  tax  measures  whose  goal  is  to benefit specific categories of taxpayers and achieve targeted policy objectives. These measures are guided by the fact that a government can leverage on its tax system to achieve specific public policy measures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 5,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "The  2022  Tax  Expenditure  Report  was  prepared  as  part  of  the  structural benchmarks under the IMF Programme which required the National Treasury to publish the report by 30 th  September of every year. Preparation of the report was also informed by the fact that tax expenditure reporting is considered an international  best  practice  meant  to  foster  government  budgetary  and  fiscal transparency. In this regard, this report estimates the national tax expenditure for various tax heads for the year 2021. Further, the report compares the tax expenditure for tax heads in previous years with that of 2021.  It also provides necessary information to facilitate monitoring and review of tax expenditure; informs the design of effective tax regimes; and enhances transparency and accessibility of information on national tax expenditure.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 5,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "The report reveals that total tax expenditure in 2021 was Ksh 259.5 billion (2.15 percent  of  GDP)  as  compared  to  Ksh  302.3  billion  recorded  in  2020  (2.82 percent  of  GDP),  a  decrease  of  0.67  percent.  Domestic  Value  Added  Tax accounts for most of the total tax expenditure/ revenue forgone followed by VAT  on  imports  (VAT  on  imports  plus  8%  reduction  rate  of  VAT  on  fuel). Expenditure related to excise taxes account for the least tax expenditure. The total tax expenditure for Kenya is comparable to other countries which ranges from 1.38% in Burkina Faso to 4.69% in Poland and 6.13% in Ghana according to Taxation, International Cooperation and the 2030 Sustainable Development Agenda; and United Nations University Series on Regionalism 19. However, it should  be  noted  that  comparisons  of  tax  expenditures  between  countries  is always  tricky  as  the  Benchmark  Tax  Systems  used  as  reference  vary substantially.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 5,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic VAT exemptions contributed the most to the decrease followed by income expenditure on income tax.  Between 2020 and 2021, domestic VAT exemptions  decreased  by  Ksh  22.4  billion  while  income  tax  (CIT  and  PIT) decreased by about Ksh 20 billion which represent a decrease of 41.52 percent and 38.98 percent respectively. On the other hand, VAT on imports and excise tax exemptions decreased by Ksh 5.7 billion and Ksh 4.9 billion, respectively.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 5,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "Tax expenditure on domestic VAT are spread across a range of sectors such as Agriculture, Manufacturing and Transport. The bulk of tax expenditures related",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 5,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "to corporate income tax are allowances and deductions designed to encourage investment in plant and machinery.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 6,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "To  ensure  sustainability  and  value  for  money  from  the  resources  foregone through tax expenditure, the Government will continue to upscale efforts to rationalize  and  harmonize  the  tax  expenditures  with  the  aim  of  removing redundant  tax  expenditures  and  enhancing  those  intended  to  promote investments. In addition,  there  is  need  to  have  an  elaborate  framework  for monitoring and evaluating the impact of tax expenditure in the economy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Executive Summary"
+      ],
+      "page_number": 6,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "TABLE OF CONTENTS",
+      "block_type": "heading",
+      "heading_path": [
+        "TABLE OF CONTENTS"
+      ],
+      "page_number": 7,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 1:Tax Expenditure ..............................................................................................................  5 Figure 2:PIT Expenditure ............................................................................................................  10 Figure 3:CIT Expenditure ............................................................................................................  14 Figure 4:Trend on VAT Expenditure ........................................................................................  16 Figure 5:Taxes on imports expenditure .................................................................................  21",
+      "block_type": "heading",
+      "heading_path": [
+        "Figure 1:Tax Expenditure ..............................................................................................................  5 Figure 2:PIT Expenditure ............................................................................................................  10 Figure 3:CIT Expenditure ............................................................................................................  14 Figure 4:Trend on VAT Expenditure ........................................................................................  16 Figure 5:Taxes on imports expenditure .................................................................................  21"
+      ],
+      "page_number": 9,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "1.1 Background",
+      "block_type": "heading",
+      "heading_path": [
+        "1.1 Background"
+      ],
+      "page_number": 10,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "The fundamental function of taxation is to collect revenue to finance Government operations and to provide public goods and services. A tax system can be used to finance development of public infrastructure and socio economic projects, as well as  facilitating  conducive  business  environment  to  support  growth  of  economic activities in the country. For instance, tax incentives are meant to attract and retain investment as well as cushion households in low-income cluster from extreme tax burden.  A  tax  system  is  also  used  to  achieve  specific  public  policy  objectives through targeted preferential tax measures such as exemptions, waivers, deductions or reliefs. Tax expenditure is therefore an estimate of the total revenue foregone because of these preferential tax measures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Background"
+      ],
+      "page_number": 10,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya's tax system includes preferential tax measures aimed at benefiting specific sectors  or  categories  of  taxpayers  to  achieve  a  given  policy  goal.  These  policy objectives  could  reduce  cost  of  capital  and  encourage  investment,  support development expenditure and ease the cost of living for the vulnerable in society, among others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Background"
+      ],
+      "page_number": 10,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "While there is no legal requirement to produce tax expenditure report, Articles 201, 210 and 220 of the Constitution of Kenya requires maintenance of a public record of tax waivers and adherence to the principles and framework of public finance in Public Finance Management Act, 2012. Additionally, tax expenditure reporting is considered as an international best practice to foster government budgetary and fiscal  transparency. In this regard, the Tax Expenditure report will be published annually to enhance transparency and accessibility of information on national tax expenditure.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Background"
+      ],
+      "page_number": 10,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "1.2 Benchmark tax system",
+      "block_type": "heading",
+      "heading_path": [
+        "1.2 Benchmark tax system"
+      ],
+      "page_number": 10,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "Determination of the standard treatment or benchmark is the first step in estimating the value of tax expenditure. This necessitate definition of a baseline against which a tax reducing measure is recognized as either part of the 'normal' tax structure or as a departure from the norm and thus a tax expenditure. This baseline is referred to as the 'benchmark tax system'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.2 Benchmark tax system"
+      ],
+      "page_number": 10,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "This report follows the legal approach in defining the benchmark tax system. The approach uses the existing tax law as the basis for defining the benchmark and to identify  differential  and  preferential  treatment.  Only  the  fundamental  structure elements of each tax type are considered as part of the benchmark tax system. Therefore,  the  benchmark  tax  system  is  defined  on  the  basis  of  the  following criteria:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.2 Benchmark tax system"
+      ],
+      "page_number": 10,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER ONE: INTRODUCTION",
+      "block_type": "heading",
+      "heading_path": [
+        "CHAPTER ONE: INTRODUCTION"
+      ],
+      "page_number": 10,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "The  general  tax  regime  as  defined  in  the  various  tax  laws,  but  with emphasis on the scope, the definition of the taxable base, tax unit, the tax rate(s) and tax period;",
+      "block_type": "list_item",
+      "heading_path": [
+        "CHAPTER ONE: INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "The national tax policy choices that consider some relief measures as normal, for example, a particular sector of the economy such as health, basic agriculture or education;",
+      "block_type": "list_item",
+      "heading_path": [
+        "CHAPTER ONE: INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "Some provisions in bilateral agreements, including the tax treatment of projects financed by development partners, which may be considered part of the benchmark, while others may be considered tax expenditure. In principle, these provisions are intended to prevent the double taxation of income. If the rate provided for is that of the ordinary legal regime, there is no deviation from the benchmark tax system. However, if both countries agree on a preferential tax relative to the general regime, the reduction in some tax rates can be identified as a tax expenditure since any bilateral agreement can be renegotiated;",
+      "block_type": "list_item",
+      "heading_path": [
+        "CHAPTER ONE: INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "Regional agreements and directives that necessitate the evaluation of tax  expenditures  not  just  against  a  national  norm  but  also  against  a community  norm.  This  is  the  case  in  a  customs  union,  where  the common external tariff is the norm for customs duties; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "CHAPTER ONE: INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "International agreements have been considered since exemptions can be  decided  at  the  international  level.  According  to  the  hierarchy  of norms, international  law  takes  precedence  over  regional  and  national law. These measures have therefore been considered in the tax norms and included in the benchmark tax system.",
+      "block_type": "list_item",
+      "heading_path": [
+        "CHAPTER ONE: INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "1.3 Objectives of the report",
+      "block_type": "heading",
+      "heading_path": [
+        "1.3 Objectives of the report"
+      ],
+      "page_number": 11,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "The overall objective of this report is to estimate the national tax expenditure. The specific objectives of the report are:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.3 Objectives of the report"
+      ],
+      "page_number": 11,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "Estimate tax expenditure for various tax heads for 2021;",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.3 Objectives of the report"
+      ],
+      "page_number": 11,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "Provide statistics on tax expenditure;",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.3 Objectives of the report"
+      ],
+      "page_number": 11,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "Enhance transparency and accessibility of information on national  tax expenditures; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.3 Objectives of the report"
+      ],
+      "page_number": 11,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "Facilitate monitoring and review of tax expenditure.",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.3 Objectives of the report"
+      ],
+      "page_number": 11,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "1.4 Scope of the Report",
+      "block_type": "heading",
+      "heading_path": [
+        "1.4 Scope of the Report"
+      ],
+      "page_number": 11,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "The report presents analysis of the tax expenditure under domestic Value Added Tax (VAT), Income Tax (Personal Income Tax and Corporate Income Tax), Import duty, Excise duty and Import VAT for the year 2021. For each tax head, the report provides a description of the benchmark tax system, list of tax expenditures and",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.4 Scope of the Report"
+      ],
+      "page_number": 11,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "estimates on the value of tax expenditure. Tax heads for which no tax expenditure is identified, only description of the benchmark tax system is provided.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.4 Scope of the Report"
+      ],
+      "page_number": 12,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE",
+      "block_type": "heading",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "The analysis of tax expenditure on each tax head shows that total tax expenditure has  been  on  a  downward  trend  over  the  last  five  years.  In  2021,  total  tax expenditure amounted to Ksh. 259.5 billion compared to Ksh 404.9 billion in 2017, Ksh 381.6 billion in 2018, Ksh 320.1 billion in 2019 and Ksh 302.3 billion in 2020 (as  shown  in  Table  1). It  should  be  noted  that,  in  this  Report,  total  tax expenditure as a percent GDP has been revised for the period 2017-2020. The revision  has  been  occasioned  by  a  change  in  computation  formula  for  the  tax expenditure in regard to investment deductions that constitute tax expenditure for Corporation Income Tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "In  the  period  2017-2020,  30% of the total value of the  investment deductions, under the corporation income tax, was considered to be tax expenditure. However, in  this  year`s  Report,  10%  rate  has  been  pegged  as  the  benchmark  rate.  The difference between the applicable rate and the benchmark rate has been used to compute the value of tax expenditure for all the investment deductions that make up tax expenditure on Corporation Income Tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "Table 1:Tax Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "* Means revised value of CIT and inclusion of reduced rate of fuel as tax expenditure",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "Total tax expenditure as a percent of GDP declined from 4.77 percent in 2017, percent to 2.15 percent in 2021 (as shown in Figure 1).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 1:Tax Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 14,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "In 2021 period, Value Added Tax (both domestic and imports) accounted for most of  the  tax  expenditure/revenue  forgone  followed  by  income  tax.  Excise  duty contributed the least to the total tax expenditure. On average, tax expenditure on domestic VAT exemptions accounted 82.29 percent of the total tax expenditure followed  by  tax  expenditures  on  import  VAT  at  9.9  percent.  Income  tax expenditures (both personal and corporate income tax) accounted for about 6.75 percent of the total tax expenditure for the last five years. Excise taxes account for the least at an average of 1.1 percent (Table 2).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 14,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "Table 2: Tax Expenditure by Tax Head",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 14,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic VAT expenditure account for the most decrease in total tax expenditure over the review period followed by expenditure related to income tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 14,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "Between 2020 and 2021 domestic VAT expenditure decreased by Ksh 22.4 billion (52.39 percentage of the total change) while expenditure related on income tax decreased by Ksh 21 billion (49.2 percent of the total change). Expenditure on VAT on imports and Excise on Imports decreased by Ksh. 5.7 billion and Ksh. 4.9 billion representing  13.3  percent  and  11.33  percent  of  the  total  change  respectively. However, tax expenditure on VAT on imported fuel increased by Ksh 11.2 billion (26.2 percent of total change) (Table 3).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 15,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3:Change in Total Tax Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 15,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "Comparison of Kenya's Tax Expenditure with other Jurisdictions",
+      "block_type": "heading",
+      "heading_path": [
+        "Comparison of Kenya's Tax Expenditure with other Jurisdictions"
+      ],
+      "page_number": 15,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "Comparisons  of  tax  expenditures  between  countries  is  always  tricky  as  the Benchmark Tax Systems used as a reference vary substantially. However, the total tax  expenditure  for  Kenya  is  comparable  to  other  countries  which  ranges  from 1.38%  in  Burkina  Faso  to  4.69%  in  Poland  and  6.13%  in  Ghana  according  to Taxation,  International  Cooperation  and  the  2030  Sustainable  Development Agenda; United Nations University Series on Regionalism 19.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Comparison of Kenya's Tax Expenditure with other Jurisdictions"
+      ],
+      "page_number": 15,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "3.1 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "Income  tax  in  Kenya  is  imposed  on  different  categories  or  sources  of  income. Income tax is therefore charged for each year of income, upon all the income of a person whether resident or non-resident, which is accrued in or was derived from Kenya.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "The benchmark for income tax is based on the taxable income of legal persons and individuals who are subject to taxation regardless of their economic activity or their region  of  operation.  A  person's  taxable  income  is  the  difference  between  the person's total income and the sum of the taxpayer's total allowable deductions.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "The tax base under the Income Tax Act is all the income of a person, whether resident or non-resident, which accrued in or was derived from Kenya, wholly or partly.  Therefore,  under  the  Kenyan  income  tax  system,  categories  of  income include:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "Gains or profits from a business, employment or services rendered and a right granted to another person for use or occupation of property;",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "Dividends or interest;",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "Income accruing through a digital marketplace;",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "An amount deemed to be the income of a person under the Act or by rules made under the Act;",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "Any gain as determined under the Act, which accrues to a company or an individual on the transfer of property situated in Kenya;",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "The net gain derived on the disposal of an interest of a person that derives 20% or more of its value, directly or indirectly, from immovable property in Kenya; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "A natural resource income.",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "Individuals and corporate bodies are the primary units of income taxation, which is a direct tax. Individuals are taxed on their income through a graduated rate while companies  are  taxed  on  a  general  rate  of  30.0  percent  for  residents  and  37.5 percent for non-residents.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Overview"
+      ],
+      "page_number": 16,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "3.2 Personal Income Tax (PIT)",
+      "block_type": "heading",
+      "heading_path": [
+        "3.2 Personal Income Tax (PIT)"
+      ],
+      "page_number": 16,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "Personal Income Tax is charged for each year of income on all the income of a person, whether resident or non-resident, which accrued in or was derived from",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2 Personal Income Tax (PIT)"
+      ],
+      "page_number": 16,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER THREE: INCOME TAX",
+      "block_type": "heading",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 16,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya. Tax on personal income is taxed on graduated rate known as Pay As You Earn (PAYE) and is applicable to all persons who are resident in Kenya at the time of  employment  and  to  non-resident  persons  employed  by  an  employer  who  is resident in Kenya. The PAYE tax base includes wages, casual wages, salary, leave pay,  sick  pay,  payment  in  lieu  of  leave,  fees,  commission,  bonus,  gratuity,  or subsistence,  travelling,  entertainment  or  other  allowance  received  in  respect  of employment or services rendered.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "PAYE is progressive because the percentage of income that individuals pay in tax tends  to  increase  with  increase  in  income;  and  those  with  higher  incomes  pay higher tax rate. The personal income tax rate includes a personal relief (tax-free) threshold and a graduated personal income tax rate as shown in Table 4 . Resident individuals  are  also  subject  to  withholding  income  tax  at  the  rate  of  3%  on contractual  fees  and  5%  on  management  or  professional  fees.  Non-resident individuals are subject to withholding income tax at the standard statutory rate of 20%.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "Table 4:PIT Bands and Rates",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "Pension  income  is  subject  to  PIT  but  features  different  tax  specific  bands  as depicted in Table 5 .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "Table 5:Pension Tax Bands",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "3.2.1 PIT Benchmark",
+      "block_type": "heading",
+      "heading_path": [
+        "3.2.1 PIT Benchmark"
+      ],
+      "page_number": 18,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "The benchmark unit of taxation for personal income tax is the individual and the benchmark tax rate and structure is the rate and structure as it exists at any given time, including the tax-free threshold.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2.1 PIT Benchmark"
+      ],
+      "page_number": 18,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "3.2.2 PIT Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 18,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "Given  the  benchmark  regime  described,  the  tax  expenditures  take  the  form  of reliefs to taxpayers to encourage savings, home ownership and reduce tax burden, among  other  reasons.  These  reliefs  include;  insurance  relief,  relief  related  to persons with disability (PWD) and mortgage relief among others .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 18,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "Tax expenditure related to personal income tax stood at Ksh 1.2 billion in 2021, a reduction from Ksh 4.1 billion in 2020 (Table 6).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 18,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "Table 6:PIT Tax Expenditure Estimates",
+      "block_type": "caption",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 18,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "Personal income tax expenditure as a percent of GDP has been on a downward trend  since  2019.  In  2021,  the  expenditure  stood  at  0.01 percent  of  GDP  as compared to 0.04 percent in 2020. The contribution of Home Ownership Savings Plan (HOSP) reduced to zero percent since the Finance Act, 2020 deleted Section 22C of the Income Tax Act which entitled any person who deposits funds to a registered  HOSP  to  a  deduction  of  up  to  KES  4,000  per  month (Figure  2). However,  the  significant  reduction  in  the  PIT  expenditure  is  attributed  to  the reduction of the exempt income which reduced from Ksh 3.0 billion in 2020 to about Ksh  7  million  in  2021.  This  possibly  could  have  been  as  a  result  of  deletion  of exemptions  through  Finance  Act,  2020  of  the  income  of  a  registered  home ownership  saving  plan;  income  from  employment  paid  in  the  form  of  bonuses, overtime, and retirement benefits to employees whose taxable employment income before bonus and overtime allowances that does not exceed the lowest tax band.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 18,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 2:PIT Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 19,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "3.3 Corporate Income Tax (CIT)",
+      "block_type": "heading",
+      "heading_path": [
+        "3.3 Corporate Income Tax (CIT)"
+      ],
+      "page_number": 19,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "Corporate Income Tax (CIT) is a form of income tax that is levied on corporate bodies  such  as  Limited  companies,  Trusts,  and  Co-operatives,  on  their  annual income. Companies that are based outside Kenya but operate in Kenya or have a branch in Kenya pay Corporation Tax on income accrued within Kenya only.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3 Corporate Income Tax (CIT)"
+      ],
+      "page_number": 19,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "3.3.1 CIT Benchmark",
+      "block_type": "heading",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 19,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "The benchmark unit of taxation for corporate income tax is the corporate body. Partnerships and trusts are considered fiscally transparent and not separate tax units; therefore, income earned by these entities is taxable in the hands of the individual recipients.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 19,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "The  benchmark  corporate  income  tax  rate  is  the  statutory  standard  or  general corporate income tax rate in effect at any given time (currently 30% for Kenyan incorporated entities, and 37.5%  for non-resident corporate bodies). The benchmark tax rate for capital gains on property and shares is 5%. The taxation system for corporates includes preferential tax regimes, which are considered as part  of  the  benchmark  for  this  report  and  will  therefore  not  count  as  tax expenditure. These specific regimes include:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 19,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "Companies  located  in  Export  Processing  Zones,  for  which  the  corporate income tax rate is 0% for the first ten years and 25 % for the ten years after which 30% rate applies.",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 19,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "Companies located in Special Economic Zones (SEZ), for which the corporate income tax rate is 10 % for the first 10 years of operation and 15% for the next 10 years after which 30% rate applies.",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 19,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "Companies  locally  assembling  motor  vehicles  are  subject  to  a  reduced corporate income tax rate of 15% for the first 5 years of operation.",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 20,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "Companies newly listed on any approved securities exchange are subject to a reduced tax rate of 25% for 5 years following the listing. The reduced rate is  only  applicable  to  companies  listing  at  least  30%  of  their  issued  share capital.  If  the  company  lists  between  20%  and  30%  of  its  issued  share capital, the reduced tax rate is 27% for only 3 years. This preferential rate was reduced in 2020.",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 20,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "In this year's analysis, 10%  investment  deduction  is considered as benchmark with any deduction more than this regarded as a tax expenditure. This is on grounds that investment deductions are endemic to all tax systems as international best practice and a standard accounting principle.",
+      "block_type": "list_item",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 20,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "In addition to these specific regimes, business losses are carried forward indefinitely to allow companies offset the losses with future profits. This in turn reduces future corporate income tax payments.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.1 CIT Benchmark"
+      ],
+      "page_number": 20,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "3.3.2 CIT Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 20,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "Given the benchmark tax regime described in section 3.3.1, Corporate Income Tax expenditure  take  the  form  of  deductions  such  as  mining  deductions,  industrial deductions,  farm  work  deductions,  plant  and  machinery  investment  deductions, building investment deductions and wear and tear. These deductions are designed to  encourage  companies to  invest  in  productive  fixed  assets.  The  rate  of  these deductions vary depending on the type of asset ( Table 7).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 20,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "Table 7:Rates of Investment Deduction",
+      "block_type": "caption",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 20,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "Total CIT expenditure stood at Ksh 5.86 billion in 2021, a decline from Ksh 56.7 billion  in  2020,  Ksh  77.1  billion  in  2018  and  Ksh  62.0  billion  in  2019  that  was reported in the 2020 Tax Expenditure Report (Table 8). The decline is attributed to the change in determination of tax benchmark for investment deductions in this report  where  10%  of  allowable  deductions  are  considered  as  benchmark  and anything above 10% included in the calculations of tax expenditure.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 22,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "Table 8: Corporate Income Tax Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 22,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "Note: The figures in Table 8 for Corporate Income Tax Expenditure have been revised to exclude wear and tear allowances which were previously considered in 2021 Tax Expenditure Report. The exclusion is due to the fact that wear and tear allowance, is the standard accounting principle. Additionally,  there was change in determination of tax benchmark for investment deductions in this report where 10% of allowable deductions are considered as benchmark and anything above 10% included in the calculations of tax expenditure.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 22,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "Corporate tax expenditure as a percent of GDP has been on a downward trend since 2018. In 2021, the expenditure reduced to Ksh. 5.9 million (0.05 percent of GDP) from Ksh. 24 billion (0.22 percent of GDP) in 2020. This represents   a decline of 0.17 percent. (Figure 3).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 22,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 3:CIT Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "Figure 3:CIT Expenditure"
+      ],
+      "page_number": 23,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "4.1 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "4.1 Overview"
+      ],
+      "page_number": 24,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "Value Added Tax is a consumption tax levied on taxable goods and services made or provided in Kenya and supplied or imported into Kenya. The tax is levied at designated stages in the supply chain where value is added. Any person, individual, company or partnership that has supplied or expect to supply taxable goods worth Ksh 5 million are required to register and charge VAT. Nonetheless, a trader with a turnover of less than Ksh 5 million is allowed to register for VAT on voluntary basis.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.1 Overview"
+      ],
+      "page_number": 24,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "4.2 VAT Benchmark",
+      "block_type": "heading",
+      "heading_path": [
+        "4.2 VAT Benchmark"
+      ],
+      "page_number": 24,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "There are three types of VAT rates: the general rate of 16.0 percent on goods and services, 8.0 percent on petroleum products and 0.0 percent on zero rated supplies. The benchmark tax system for domestic VAT is the standard rate of either 16.0 percent or 0.0 percent. The benchmark unit of taxation is the final consumer of taxable  goods  and  services.  However,  there  are  goods  and  services  that  are contained  in  Tax  exemption  and  zero-rating  categories  in  the  First  and  Second Schedules of  the  VAT  Act,  2013  that  are  considered  benchmark  but  not  as  tax expenditure (list in Annex I ).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.2 VAT Benchmark"
+      ],
+      "page_number": 24,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "4.3 VAT Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "4.3 VAT Expenditure"
+      ],
+      "page_number": 24,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "The VAT Act, 2013 provides legal provisions against which tax expenditure in regard to Value Added Tax are effected. These are tax exemptions and zero ratings.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.3 VAT Expenditure"
+      ],
+      "page_number": 24,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "Tax exemption: This involves remission or waiver of a national tax, a fee or a charge. Suppliers of goods that are exempt can neither charge output VAT nor claim input VAT. Thus, no VAT is chargeable on the supply of exempt goods or services.",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.3 VAT Expenditure"
+      ],
+      "page_number": 24,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "Zero rating: This involves total waiver of taxes on goods and services mainly due to  their  societal  importance  or  are  consumed  in  foreign  jurisdictions. Thus, no VAT is payable on the supply (it is charged at 0%). The suppliers of zero-rated goods or services claim input VAT.",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.3 VAT Expenditure"
+      ],
+      "page_number": 24,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "Tax expenditure in respect to VAT, therefore, is the revenue foregone due to tax exemptions,  zero-rating  of  certain  goods  and  services  that  are  for  domestic consumption. Given this, tax expenditure in relation to domestic VAT decreased to Ksh 211.94 billion (1.75 percent of GDP) in 2021 from Ksh 234.38 billion (2.19 percent of GDP) in 2020 ( Table 9 and Figure 4).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.3 VAT Expenditure"
+      ],
+      "page_number": 24,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER FOUR: VALUE ADDED TAX (VAT)",
+      "block_type": "heading",
+      "heading_path": [
+        "CHAPTER FOUR: VALUE ADDED TAX (VAT)"
+      ],
+      "page_number": 24,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "Table 9:VAT Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "CHAPTER FOUR: VALUE ADDED TAX (VAT)"
+      ],
+      "page_number": 25,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "VAT expenditure as a percentage of GDP has been on a downward trend since 2017. The tax expenditure reduced from 2.19 percent of GDP in 2020 to 1.75 percent of GDP in 2021, representing a decline of 0.44 percent ( Figure 4).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER FOUR: VALUE ADDED TAX (VAT)"
+      ],
+      "page_number": 25,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 4:Trend on VAT Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "Figure 4:Trend on VAT Expenditure"
+      ],
+      "page_number": 25,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "5.1 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "5.1 Overview"
+      ],
+      "page_number": 26,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "Import duty in the East African Community (EAC) is governed by the East African Community  Customs  Management  Act  (EACCMA),  2004  and  the  East  African Community  Customs  Management  Regulations,  2010.  The  primary  basis  of determination of customs duty liability  is  the  Cost,  Insurance  and  Freight  (CIF) value of imported goods. Preferential treatments under customs are normally in form of waivers, exemptions and yearly stay of applications, which occasion the deviations from the applicable rates.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.1 Overview"
+      ],
+      "page_number": 26,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "Excise duty is  levied  on  excisable  goods  manufactured in Kenya by a licensed manufacturer, excisable services provided in Kenya by a registered person and on excisable  imported  goods.  Rules  governing  the  imposition  of  excise  duty  are contained in the Excise Duty Act, 2015. The duty is mostly levied on goods that the Government may want to discourage their use or consumption and luxury goods and services. The First Schedule of the Excise Duty Act, 2015 lists excisable goods and  services.  The  major  excisable  items  include  alcoholic  products,  cigarettes, tobacco, soft drinks, airtimes, financial transactions, and automobiles. Conventionally, the duty is levied to address the negative externalities that some goods/services tend to have. More recently, the tax has been used by governments to meet their revenue requirements especially for items with low price elasticity of demand.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.1 Overview"
+      ],
+      "page_number": 26,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "Import VAT is  charged  on  imported  goods  and  services.  Imported  goods  and services are taxed on the same basis and at the same rate as domestic supplies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.1 Overview"
+      ],
+      "page_number": 26,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "5.2 Benchmark system for taxes on imports",
+      "block_type": "heading",
+      "heading_path": [
+        "5.2 Benchmark system for taxes on imports"
+      ],
+      "page_number": 26,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "Import duties",
+      "block_type": "heading",
+      "heading_path": [
+        "Import duties"
+      ],
+      "page_number": 26,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "Import duties are levied at rates of zero (0) percent, ten (10) percent twenty (25) percent    thirty  five  (35)  percent  depending  on  product  classification  in  the international  harmonized system and based on the tariffs from the East African Community  (EAC)  Common  External  Tariff    (CET),  2002.Some  sensitive  goods attract import duty at a rate above 35% while goods emanating from EAC member States and COMESA countries and Contracting parties to the African Continental Free Trade Area (AfCFTA) and goods traded under the various trade agreements are accorded preferential import duty rates if they meet the criteria set of in the agreements and rules of origin. Part A of the Fifth Schedule to the East African Community  Customs  Management  Act  (EACCMA),  2004  provides  for  exemption from import duty on goods imported by privileged persons and institutions. This",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Import duties"
+      ],
+      "page_number": 26,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER FIVE: TAXES ON IMPORTS",
+      "block_type": "heading",
+      "heading_path": [
+        "CHAPTER FIVE: TAXES ON IMPORTS"
+      ],
+      "page_number": 26,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "category, includes goods imported for direct and exclusive use in Official Aid Funded Projects, privileged persons and institutions as specified under the Privileges and Immunity Act, Common Wealth Governments, Donor Agencies with bilateral and multilateral agreements, International and Regional Organizations, goods for use by Presidents of the Partner States and the Partner States Armed Forces and Police. Part  B  of  the  Schedule  provides  for  other  specific  goods  that  are  exempt  from import duty. Further, the EACCMA 2004 provides for exemption of goods imported for Manufacturing Under Bond (MUB), Export Processing Zones or Free Zones and inward processing. Additionally, the EACCMA 2004, provides for duty remission for inputs for production of goods for export and other essential goods such as text and exercise books.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CHAPTER FIVE: TAXES ON IMPORTS"
+      ],
+      "page_number": 27,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "Import Excise Duty",
+      "block_type": "heading",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "The Second Schedule to the Excise Duty Act lists goods and services, which are exempt from excise duty. Majority of the goods listed in this Schedule form part of the Benchmark Tax System.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "The Benchmark Tax System (BTS) for Excise duty includes the following;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable goods that are bona fide stores for a ship or aircraft, being goods for use or consumption by passengers or crew of the ship or aircraft while on board and while the ship is in international traffic and is such quantities as approved by the Commissioner;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable goods imported into Kenya by a diplomatic or consular mission, or by  a  diplomat  or  consul,  or  a  member  of  the  diplomat  or  consul's  family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act, (Cap.179);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable goods imported into Kenya by a foreign government, international organization, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act, 1970.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable goods imported by the Kenya Red Cross or St John Ambulance for official use in the provision of relief services in Kenya.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable  goods  imported  by  a  person  changing  residence  or  a  returning resident subject to limitations provided for under the Fifth Schedule to the East African Community Management Act.;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable goods imported by, and in the possession of a passenger subject to  limitations  provided  for  under  the  Fifth  Schedule  to  the  East  African Community Management Act.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 27,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "One motor vehicle previously owned and used by a deceased person outside Kenya subject to the conditions as the Commissioner may specify;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 28,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable goods imported for direct and exclusive use in the implementation of  an  official  Aid-Funded  Project,  to  the  extent  provided  for  under  the Financing Agreement;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 28,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable services supplied in Kenya to a diplomatic or consular mission or to a diplomat or consul, or a member of the diplomat or consul's family forming part of the diplomat or consul's household in Kenya to the extent provided for under the Privileges and Immunities Act (Cap. 179);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 28,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "Excisable services supplied in Kenya to a foreign government, international organization, or aid agency to the extent provided for under an international agreement or the Privileges and Immunities Act (Cap. 179).",
+      "block_type": "list_item",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 28,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "The benchmark excise duty tax base is the consumption or demand of inelastic goods or services and the consumption of luxury goods while the benchmark unit of taxation is the final consumer of the taxed goods or services. The benchmark excise duty rate is either specific or ad valorem.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Import Excise Duty"
+      ],
+      "page_number": 28,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "Import VAT",
+      "block_type": "heading",
+      "heading_path": [
+        "Import VAT"
+      ],
+      "page_number": 28,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "Some imported goods and services are subject to VAT regardless of the supplier or person supplied; and regardless of whether the goods are for personal use or for business purposes. The application of VAT on imported goods and services is based on the destination principle, which ensures that imports are taxed on the same basis and at the same rate as domestic supplies in the country where consumption takes place.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Import VAT"
+      ],
+      "page_number": 28,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "In the case of tax on the supply of imported taxable goods and services, the tax liability  lies  with  the  person  receiving  the  supply  as  the  unit  of  taxation.  The benchmark tax period is the calendar month. However, some goods also attract both ad valorem and Specific Duty rates.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Import VAT"
+      ],
+      "page_number": 28,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "5.3 Tax expenditure related to taxes on imports",
+      "block_type": "heading",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 28,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "Import duties are based on regional agreements which are ratified and harmonized in  the  EACCMA,  2004,  the  EAC  CET  2022  and  other  international  agreements. Therefore, expenditures emanating from these agreements do not constitute tax expenditure for purposes of this report.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 28,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "With regard  to  excise  duty,  tax  expenditures  include:  exemptions  on  inputs  for manufacture  of  sanitary  towels;  exemption  on  denatured  spirits  for  use  in  the manufacture of gasohol or as heating fuel is exempt from excise duty; and rate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 28,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "relief/variation for similar goods as provided for in the Section 7 (1, e) and the First Schedule of the Excise Duty Act, 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "Import VAT Tax Expenditure arise from exemptions and zero-ratings on imported goods.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "In 2021, total tax expenditure related to taxes on imports (Excise duty & VAT on imports) was Ksh 40.6 billion (0.34 percent of GDP). The amount of tax expenditure on imports increased from Ksh 29.3 billion (0.35 percent of GDP) in 2017 to Ksh 40.6 billion (0.34 percent of GDP) in 2021. The amount of tax expenditure increased to  Ksh  40.6  billion  in  2021  compared  to  Ksh  39.9  billion  realized  in  2020.  This represents a 1.7% percentage increase ( Table 10 ).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "Table 10:Tax Expenditure Related to Taxes on Imports",
+      "block_type": "caption",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "NB: For 2019, the 8% was effective from July to December .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure on Imports as a percent of GDP has been on a fluctuating trend since 2017. In 2021, the expenditure stood at 0.34 percent of GDP, a decline from 0.37 percent in 2020 (Figure 5). The fluctuating trend is attributed to variation in GDP levels as well as the tax expenditure levels across the period. In 2018, the tax expenditure as a percentage of GDP was 0.31% down from 0.35% in 2017; this is as result of reduced tax expenditure of Ksh 0.8 billion and an increase in GDP by Ksh 857 billion in absolute values.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "During the period 2019, 2020 and 2021, there was introduction of a reduced rate of 8% on petroleum products which amounted to Ksh 9.1 billion, Ksh 16.8 billion and Ksh 28.0 billion respectively. The introduced reduced rate increased the tax expenditure on imports as a percent of GDP to 0.35 percent in 2019, 0.37 percent 2020 and decreased to 0.34 percent in 2021. The declining trend of tax expenditure on imports as a percentage share of the GDP between the year 2020 and 2021 is attributed to the growth of the GDP which increased from Ksh. 10.1 trillion in 2020 to Ksh. 12.1 trillion in 2021.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 5: Taxes on imports expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 30,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER SIX: CONCLUSION AND POLICY RECOMMENDATION",
+      "block_type": "heading",
+      "heading_path": [
+        "CHAPTER SIX: CONCLUSION AND POLICY RECOMMENDATION"
+      ],
+      "page_number": 31,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "6.1 Conclusion",
+      "block_type": "heading",
+      "heading_path": [
+        "6.1 Conclusion"
+      ],
+      "page_number": 31,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "Total tax expenditure has been on a declining trend over the period of 2017 to 2021. The declining trend can be attributed to decline in absolute values across the various tax heads with the values being lowest in 2021. Changes in tax expenditure from one year to another is as a result of changes in tax laws including phase outs of tax expenditure provisions that alter income tax structure such as the tax rate schedule and allowable deductions.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.1 Conclusion"
+      ],
+      "page_number": 31,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure estimates for VAT on imports have been on a fluctuating trend since 2017. In 2021, the expenditure stood at 0.34 percent of GDP, a decline from 0.37  percent  in  2020.  On  Personal  Income  Tax,  the  report  shows  that  the  tax expenditure increased from Ksh 3.5 billion in 2017, Ksh 3.8 billion in 2018 and Ksh. 4.7  billion  in  2019  and  thereafter  decreased  to  Ksh  4.1  billion  in  2020.  Tax Expenditure on Personal Income Tax further decreased to 1.2 billion in 2021.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.1 Conclusion"
+      ],
+      "page_number": 31,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "In regard to Corporate Income Tax, tax expenditure increased from Ksh 15.3 billion in 2017 to Ksh 29.4 billion in 2018 and thereafter decreased to Ksh 22.1 billion in 2019 and slightly increased to Ksh 23.96 billion in 2020. In 2021, tax expenditure on Corporation Income Tax further decreased to Ksh 5.8 billion. The huge decrease in CIT tax expenditure for the years 2020 and 2021 was due to harmonization and reduction in the amount of wear and tear allowances as is a standard accounting principle. Additionally, in the period 2017 to 2020, 30 percent was applied to all investment deductions instead of taking a portion while in 2021 10 percent was taken as a benchmark rate and the difference between the applicable rate and benchmark rate was used to calculate the tax expenditure.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.1 Conclusion"
+      ],
+      "page_number": 31,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "The total tax expenditure for Kenya is comparable to other countries which ranges from 1.38% in Burkina Faso to 4.69% in Poland and 6.13% in Ghana according to Taxation,  International  Cooperation  and  the  2030  Sustainable  Development Agenda; United  Nations  University  Series  on  Regionalism  19.  However,  this comparison should not be relied on since the Benchmark Tax Systems used as a reference vary substantially across countries.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.1 Conclusion"
+      ],
+      "page_number": 31,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "6.2 Policy Recommendation",
+      "block_type": "heading",
+      "heading_path": [
+        "6.2 Policy Recommendation"
+      ],
+      "page_number": 31,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "To ensure sustainability and value for money from the resources foregone through tax expenditure, the Government will continue to upscale efforts rationalize and harmonize  the  tax  expenditures  with  the  aim  of  removing  redundant  tax expenditures and enhancing those intended to promote investments. In addition, there is need to have an elaborate framework for monitoring and evaluating the impact of tax expenditure in the economy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.2 Policy Recommendation"
+      ],
+      "page_number": 31,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "APPENDICES",
+      "block_type": "heading",
+      "heading_path": [
+        "APPENDICES"
+      ],
+      "page_number": 32,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic supply of listed agricultural inputs, including fertilizers;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic supply of unprocessed agricultural products;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "Specified financial & insurance services;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "Education services as defined;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "Agricultural, animal husbandry and horticultural services.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "Sale,  renting,  leasing,  hiring,  letting  of  land  or  residential  premises  as defined;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "Medical, veterinary, dental, ambulance and nursing services;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "Listed medical materials, articles and equipment, including articles of apparel, clothing accessories and equipment  specially designed for safety or protective purposes for use in registered hospitals and clinics or by County government or local authorities in firefighting;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "Personal  protective  equipment,  including  facemasks,  for  use  by  medical personnel in registered hospitals and clinics, or by members of the public in the case of a pandemic or a notifiable infectious disease;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "Materials, articles, equipment and motor vehicles specially designed for the sole use by disabled and physically handicapped persons;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "Materials,  articles  and  equipment  (excluding  motor  vehicles)  intended  for educational, scientific or cultural advancement of the disabled;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "Medicaments;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "Mosquito nets;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "Burial and cremation services;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "Community, social and welfare services provided by National Government, County Government or any political subdivision, charitable organizations;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "Services  rendered  by  educational,  political,  religious,  welfare  and  other philanthropic associations to their members;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "Entertainment  services  conducted  by  educational  institutions  as  part  of learning;  sports,  games  or  cultural  performances  conducted  under  the auspices of the responsible Ministry;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "Accommodation and restaurant services operated by approved educational training institutions and medical institutions for the use of the staff, students and patients of that institution;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "Canteens  and  cafeterias  operated  by  an  employer  for  the  benefit  of  his employees;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "Betting, gaming and lotteries services;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "Hiring,  leasing  and  chartering  of  aircrafts,  aeroplanes,  and  space  crafts, excluding helicopters;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "Supply of domestic passenger transportation services by road, rail and water, except where the means of conveyance is hired or chartered;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "Materials, waste, residues and by-products, whether or not in the form of pellets, and preparations of a kind used in animal feeding;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "Postal  services  provided  through  the  supply  of  postage  stamps,  including rental of post boxes or mailbags and any subsidiary services thereto.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "Transfer of a business as a going concern by a registered person to another registered person.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "Goods imported by passengers arriving from places outside Kenya, subject to specified limitations and conditions.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "Taxable goods for emergency relief purposes for use in specific areas and within a specified period, supplied to or imported by the Government or its approved  agent, a nongovernmental  organization  or a relief  agency authorized by the Cabinet Secretary responsible for disaster management.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "Hearing aids, excluding parts and accessories, of tariff No.9021.40.00.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "Car  park  services  provided  by  National  Government,  County  Government, any political subdivision by an employer to his employees on the premises of the employer.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "The supply of airtime by any person other than by a provider of cellular",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "Mobile telephone services or wireless telephone services.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "Further, the following zero-rated supplies are treated as part of the benchmark and therefore not part of tax expenditure: They include",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "Goods consigned to officers or men on board a naval vessel belonging to another Commonwealth Government for their personal use or for consumption on board such Vessel; and Goods for the use of any of the Armed Forces of any allied power;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "Specified supplies to Diplomats or First Arrivals Persons;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "Specified supplies to donor agencies with bilateral or multilateral agreements;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "Goods  and equipment imported by or supplied to donor agencies, international  and  regional  organizations  with  Diplomatic  accreditation  or bilateral or multilateral agreements with Kenya for their official use;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "Supply to the War Graves Commission;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "Supply to National Red Cross Society and St. John Ambulance;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 203,
+      "table_ref": null
+    },
+    {
+      "text": "Supply of protective apparel, clothing accessories and equipment; specially designed for safety or protective purposes for use in registered hospitals and clinics or by county government or local authorities in firefighting;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 33,
+      "block_index": 204,
+      "table_ref": null
+    },
+    {
+      "text": "The supply of coffee and tea for export to coffee or tea auction centres;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 205,
+      "table_ref": null
+    },
+    {
+      "text": "The  supply  of  taxable  services  to  international  sea  or  air  carriers  on international voyage or Flight;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 206,
+      "table_ref": null
+    },
+    {
+      "text": "The Supply of taxable services in respect of goods in transit;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 207,
+      "table_ref": null
+    },
+    {
+      "text": "The exportation of goods or taxable services;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 208,
+      "table_ref": null
+    },
+    {
+      "text": "Ship  stores  supplied  to  international  sea  or  air  carriers  on  international voyage or flight;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 209,
+      "table_ref": null
+    },
+    {
+      "text": "Transportation of passengers by air carriers on international flight; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 210,
+      "table_ref": null
+    },
+    {
+      "text": "Goods purchased from duty free shops by passengers departing to places outside Kenya.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex I: List of goods and services contained in tax exemption and zerorating categories in the First and Second Schedules of the VAT Act, 2013 that are considered benchmark but not as tax expenditure"
+      ],
+      "page_number": 34,
+      "block_index": 211,
+      "table_ref": null
+    },
+    {
+      "text": "Annex II: Methodology",
+      "block_type": "heading",
+      "heading_path": [
+        "Annex II: Methodology"
+      ],
+      "page_number": 35,
+      "block_index": 212,
+      "table_ref": null
+    },
+    {
+      "text": "Data sources",
+      "block_type": "heading",
+      "heading_path": [
+        "Data sources"
+      ],
+      "page_number": 35,
+      "block_index": 213,
+      "table_ref": null
+    },
+    {
+      "text": "The data for the report is from Kenya Revenue Authority.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Data sources"
+      ],
+      "page_number": 35,
+      "block_index": 214,
+      "table_ref": null
+    },
+    {
+      "text": "Estimation of the cost of tax expenditures",
+      "block_type": "heading",
+      "heading_path": [
+        "Estimation of the cost of tax expenditures"
+      ],
+      "page_number": 35,
+      "block_index": 215,
+      "table_ref": null
+    },
+    {
+      "text": "The estimation of the tax expenditure is based on the revenue-forgone approach 1 . In  this  approach,  the  cost  of  tax  expenditures  is  calculated  as  the  difference between the tax actually paid and the tax foregone assuming full compliance with the benchmark tax system (BTS).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Estimation of the cost of tax expenditures"
+      ],
+      "page_number": 35,
+      "block_index": 216,
+      "table_ref": null
+    },
+    {
+      "text": "In  this  regard,  one  specific  aspect  of  this  methodology  worth  noting  for  the interpretation of the estimations in this report is that estimations do not include dynamic  effects .  Our  methodology  assumes  that  no  change  in  behaviour following  the  theoretical  removal  of  a  tax  expenditure.  Depending  on  each  tax expenditure, the actual effect of its removal on the budget might differ in case of behavioural responses by taxpayers.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Estimation of the cost of tax expenditures"
+      ],
+      "page_number": 35,
+      "block_index": 217,
+      "table_ref": null
+    },
+    {
+      "text": "In  practice,  the  exact  formula  for  the  calculation  of  the  theoretical  tax  varies depending  on  tax  specificities.  It  also  depends  a  lot  on  data  availability  and sometimes require simplifying assumptions.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Estimation of the cost of tax expenditures"
+      ],
+      "page_number": 35,
+      "block_index": 218,
+      "table_ref": null
+    },
+    {
+      "text": "The methodology for each tax is described below.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Estimation of the cost of tax expenditures"
+      ],
+      "page_number": 35,
+      "block_index": 219,
+      "table_ref": null
+    },
+    {
+      "text": "a) Personal income tax (PIT)",
+      "block_type": "heading",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 35,
+      "block_index": 220,
+      "table_ref": null
+    },
+    {
+      "text": "The methodology for the cost estimation of tax expenditures on personal income tax differs depending on the considered tax relief.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 35,
+      "block_index": 221,
+      "table_ref": null
+    },
+    {
+      "text": "The situation for the General Personal Relief and the Insurance Relief is simple. They are fixed deduction that can be directly obtained and aggregated from the KRA database on PIT.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 35,
+      "block_index": 222,
+      "table_ref": null
+    },
+    {
+      "text": "The  situation  is  more  complex  for  the  Mortgage  Interest  deductions,  the Homeowner saving plan and for exempted incomes. For these reliefs, there is need for detailed individual data to be able to simulate the theoretical revenue when applying the progressive tax rates on taxpayers without relief.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 35,
+      "block_index": 223,
+      "table_ref": null
+    },
+    {
+      "text": "The development of a microsimulation framework might be considered in the future but for this first tax expenditure report, an approximate method was used to be able to evaluate those tax expenditures. We assumed that the removal of these reliefs  would  not  alter  the  structure  of  taxable  income  in  the  revenue  bands.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 35,
+      "block_index": 224,
+      "table_ref": null
+    },
+    {
+      "text": "Therefore, the cost of the tax expenditure can be estimated as the loss of taxable income due to the relief multiplied by the effective tax rate observed for PAYE:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 36,
+      "block_index": 225,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure PIT = Tax base loss x Effective tax rate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Personal income tax (PIT)"
+      ],
+      "page_number": 36,
+      "block_index": 226,
+      "table_ref": null
+    },
+    {
+      "text": "b) Domestic VAT",
+      "block_type": "heading",
+      "heading_path": [
+        "b) Domestic VAT"
+      ],
+      "page_number": 36,
+      "block_index": 227,
+      "table_ref": null
+    },
+    {
+      "text": "In  this  report,  tax  expenditure  regarding  VAT  are  exemptions  and  zero-rate supplies. Consequently, the estimation of the cost consists in gathering the tax base loss for each category of good and service and to apply the rate from  the BTS (usually the normal rate of 16 %).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "b) Domestic VAT"
+      ],
+      "page_number": 36,
+      "block_index": 228,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure Dom. VAT = ∑exemption (Tax base loss x BTS rate) + ∑zero rate (Tax base loss x BTS rate)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "b) Domestic VAT"
+      ],
+      "page_number": 36,
+      "block_index": 229,
+      "table_ref": null
+    },
+    {
+      "text": "c) Taxation of imports",
+      "block_type": "heading",
+      "heading_path": [
+        "c) Taxation of imports"
+      ],
+      "page_number": 36,
+      "block_index": 230,
+      "table_ref": null
+    },
+    {
+      "text": "Tax expenditure on imports taxation consists of exemptions from Import Duty, VAT or Excise Duty. In that case, the cost can be estimated by gathering the tax base loss for each item category from the international harmonized system and apply the normal rate from the BTS (Common External Tariffs for Import Duty, BTS VAT rate and Excise rates).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "c) Taxation of imports"
+      ],
+      "page_number": 36,
+      "block_index": 231,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure Import Duty = ∑exemption (Tax base loss x BTS rate)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "c) Taxation of imports"
+      ],
+      "page_number": 36,
+      "block_index": 232,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure Import VAT = ∑exemption (Tax base loss x BTS rate)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "c) Taxation of imports"
+      ],
+      "page_number": 36,
+      "block_index": 233,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Expenditure Import Excise = ∑exemption (Tax base loss x BTS rate)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "c) Taxation of imports"
+      ],
+      "page_number": 36,
+      "block_index": 234,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "2022_tax_expenditure_report_table_000",
+      "caption": "",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 13,
+      "table_index": 0,
+      "markdown": "| Tax Heads                                       | Ksh, million.2017   | Ksh, million.2018   | Ksh, million.2019   | Ksh, million.2020   | Ksh, million.2021   |\n|:------------------------------------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|\n| Personal Income Tax                             | 3,526.3             | 3,816.2             | 4,653.6             | 4,125.2             | 1,157.3             |\n| Corporation Income Tax                          | 15,344.5*           | 29,397.25*          | 22,133.85*          | 23,956.2*           | 5,856.8             |\n| Domestic VAT                                    | 356,707.0           | 319,886.4           | 257,206.3           | 234,378.4           | 211,942.7           |\n| Excise duty on imports                          | 3,777.3             | 4,127.3             | 4,220.9             | 5,388.9             | 537.3               |\n| VATonimports                                    | 25,545.6            | 24,414.9            | 22,794.6            | 17,694.8            | 12,008.7            |\n| VATonimports (8% reduction rate of VATonfuel) * | -                   | -                   | 9,087.0             | 16,789.0            | 28,009.0            |\n| Total Tax Expenditure                           | 404,900.7           | 381,642.1           | 320,096.3           | 302,332.5           | 259,511.9           |\n| Nominal GDP                                     | 8,483,396.0         | 9,340,307.0         | 10,237,727.0        | 10,716,034.0        | 12,098,200.0        |\n| Tax Expenditureas %ofGDP                        | 4.77                | 4.09                | 3.13                | 2.82                | 2.15                |",
+      "records": [
+        {
+          "Tax Heads": "Personal Income Tax",
+          "Ksh, million.2017": "3,526.3",
+          "Ksh, million.2018": "3,816.2",
+          "Ksh, million.2019": "4,653.6",
+          "Ksh, million.2020": "4,125.2",
+          "Ksh, million.2021": "1,157.3"
+        },
+        {
+          "Tax Heads": "Corporation Income Tax",
+          "Ksh, million.2017": "15,344.5*",
+          "Ksh, million.2018": "29,397.25*",
+          "Ksh, million.2019": "22,133.85*",
+          "Ksh, million.2020": "23,956.2*",
+          "Ksh, million.2021": "5,856.8"
+        },
+        {
+          "Tax Heads": "Domestic VAT",
+          "Ksh, million.2017": "356,707.0",
+          "Ksh, million.2018": "319,886.4",
+          "Ksh, million.2019": "257,206.3",
+          "Ksh, million.2020": "234,378.4",
+          "Ksh, million.2021": "211,942.7"
+        },
+        {
+          "Tax Heads": "Excise duty on imports",
+          "Ksh, million.2017": "3,777.3",
+          "Ksh, million.2018": "4,127.3",
+          "Ksh, million.2019": "4,220.9",
+          "Ksh, million.2020": "5,388.9",
+          "Ksh, million.2021": "537.3"
+        },
+        {
+          "Tax Heads": "VATonimports",
+          "Ksh, million.2017": "25,545.6",
+          "Ksh, million.2018": "24,414.9",
+          "Ksh, million.2019": "22,794.6",
+          "Ksh, million.2020": "17,694.8",
+          "Ksh, million.2021": "12,008.7"
+        },
+        {
+          "Tax Heads": "VATonimports (8% reduction rate of VATonfuel) *",
+          "Ksh, million.2017": "-",
+          "Ksh, million.2018": "-",
+          "Ksh, million.2019": "9,087.0",
+          "Ksh, million.2020": "16,789.0",
+          "Ksh, million.2021": "28,009.0"
+        },
+        {
+          "Tax Heads": "Total Tax Expenditure",
+          "Ksh, million.2017": "404,900.7",
+          "Ksh, million.2018": "381,642.1",
+          "Ksh, million.2019": "320,096.3",
+          "Ksh, million.2020": "302,332.5",
+          "Ksh, million.2021": "259,511.9"
+        },
+        {
+          "Tax Heads": "Nominal GDP",
+          "Ksh, million.2017": "8,483,396.0",
+          "Ksh, million.2018": "9,340,307.0",
+          "Ksh, million.2019": "10,237,727.0",
+          "Ksh, million.2020": "10,716,034.0",
+          "Ksh, million.2021": "12,098,200.0"
+        },
+        {
+          "Tax Heads": "Tax Expenditureas %ofGDP",
+          "Ksh, million.2017": "4.77",
+          "Ksh, million.2018": "4.09",
+          "Ksh, million.2019": "3.13",
+          "Ksh, million.2020": "2.82",
+          "Ksh, million.2021": "2.15"
+        }
+      ],
+      "columns": [
+        "Tax Heads",
+        "Ksh, million.2017",
+        "Ksh, million.2018",
+        "Ksh, million.2019",
+        "Ksh, million.2020",
+        "Ksh, million.2021"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_001",
+      "caption": "",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 14,
+      "table_index": 1,
+      "markdown": "| Tax Heads.                                       | 2017.Ksh Million   | 2018.Ksh Million   | 2019.Ksh Million   | 2020.Ksh Million   | 2021.Ksh Million   | Average.Ksh Million   | 2017.Share of Total Tax Expenditure (%)   | 2018.Share of Total Tax Expenditure (%)   |   2019.Share of Total Tax Expenditure (%) |   2020.Share of Total Tax Expenditure (%) |   2021.Share of Total Tax Expenditure (%) |   Average.Share of Total Tax Expenditure (%) |\n|:-------------------------------------------------|:-------------------|:-------------------|:-------------------|:-------------------|:-------------------|:----------------------|:------------------------------------------|:------------------------------------------|------------------------------------------:|------------------------------------------:|------------------------------------------:|---------------------------------------------:|\n| Personal Income Tax                              | 3,526.3            | 3,816.2            | 4,653.6            | 4,125.2            | 1,157.3            | 3,455.7               | 0.9                                       | 1.0                                       |                                       1.5 |                                       1.4 |                                       0.4 |                                         1.03 |\n| Corporation Income Tax *                         | 15,344.5           | 29,397.3           | 22,133.9           | 23,956.2           | 5,856.8            | 19,337.7              | 3.8                                       | 7.7                                       |                                       6.9 |                                       7.9 |                                       2.3 |                                         5.72 |\n| Domestic VAT                                     | 356,707.0          | 319,886.4          | 257,206.3          | 234,378.4          | 211,942.7          | 276,024.2             | 88.1                                      | 83.8                                      |                                      80.4 |                                      77.5 |                                      81.7 |                                        82.29 |\n| Excise on imports                                | 3,777.3            | 4,127.3            | 4,220.9            | 5,388.9            | 537.3              | 3,610.3               | 0.9                                       | 1.1                                       |                                       1.3 |                                       1.8 |                                       0.2 |                                         1.06 |\n| VATonimports                                     | 25,545.6           | 24,414.9           | 22,794.6           | 17,694.8           | 12,008.7           | 20,491.7              | 6.3                                       | 6.4                                       |                                       7.1 |                                       5.9 |                                       4.6 |                                         6.06 |\n| VATonimports(Reduction rate of VATonfuel (8%)) * | -                  | -                  | 9,087.0            | 16,789.0           | 28,009.0           | 10,777.0              | -                                         | -                                         |                                       2.8 |                                       5.6 |                                      10.8 |                                         3.84 |\n| Total Tax Expenditure                            | 404,900.7          | 381,642.1          | 320,096.3          | 302,332.5          | 259,511.9          | 333,696.7             | 100.0                                     | 100.0                                     |                                      97.2 |                                      94.4 |                                      89.2 |                                       100    |",
+      "records": [
+        {
+          "Tax Heads.": "Personal Income Tax",
+          "2017.Ksh Million": "3,526.3",
+          "2018.Ksh Million": "3,816.2",
+          "2019.Ksh Million": "4,653.6",
+          "2020.Ksh Million": "4,125.2",
+          "2021.Ksh Million": "1,157.3",
+          "Average.Ksh Million": "3,455.7",
+          "2017.Share of Total Tax Expenditure (%)": "0.9",
+          "2018.Share of Total Tax Expenditure (%)": "1.0",
+          "2019.Share of Total Tax Expenditure (%)": "1.5",
+          "2020.Share of Total Tax Expenditure (%)": "1.4",
+          "2021.Share of Total Tax Expenditure (%)": "0.4",
+          "Average.Share of Total Tax Expenditure (%)": "1.03"
+        },
+        {
+          "Tax Heads.": "Corporation Income Tax *",
+          "2017.Ksh Million": "15,344.5",
+          "2018.Ksh Million": "29,397.3",
+          "2019.Ksh Million": "22,133.9",
+          "2020.Ksh Million": "23,956.2",
+          "2021.Ksh Million": "5,856.8",
+          "Average.Ksh Million": "19,337.7",
+          "2017.Share of Total Tax Expenditure (%)": "3.8",
+          "2018.Share of Total Tax Expenditure (%)": "7.7",
+          "2019.Share of Total Tax Expenditure (%)": "6.9",
+          "2020.Share of Total Tax Expenditure (%)": "7.9",
+          "2021.Share of Total Tax Expenditure (%)": "2.3",
+          "Average.Share of Total Tax Expenditure (%)": "5.72"
+        },
+        {
+          "Tax Heads.": "Domestic VAT",
+          "2017.Ksh Million": "356,707.0",
+          "2018.Ksh Million": "319,886.4",
+          "2019.Ksh Million": "257,206.3",
+          "2020.Ksh Million": "234,378.4",
+          "2021.Ksh Million": "211,942.7",
+          "Average.Ksh Million": "276,024.2",
+          "2017.Share of Total Tax Expenditure (%)": "88.1",
+          "2018.Share of Total Tax Expenditure (%)": "83.8",
+          "2019.Share of Total Tax Expenditure (%)": "80.4",
+          "2020.Share of Total Tax Expenditure (%)": "77.5",
+          "2021.Share of Total Tax Expenditure (%)": "81.7",
+          "Average.Share of Total Tax Expenditure (%)": "82.29"
+        },
+        {
+          "Tax Heads.": "Excise on imports",
+          "2017.Ksh Million": "3,777.3",
+          "2018.Ksh Million": "4,127.3",
+          "2019.Ksh Million": "4,220.9",
+          "2020.Ksh Million": "5,388.9",
+          "2021.Ksh Million": "537.3",
+          "Average.Ksh Million": "3,610.3",
+          "2017.Share of Total Tax Expenditure (%)": "0.9",
+          "2018.Share of Total Tax Expenditure (%)": "1.1",
+          "2019.Share of Total Tax Expenditure (%)": "1.3",
+          "2020.Share of Total Tax Expenditure (%)": "1.8",
+          "2021.Share of Total Tax Expenditure (%)": "0.2",
+          "Average.Share of Total Tax Expenditure (%)": "1.06"
+        },
+        {
+          "Tax Heads.": "VATonimports",
+          "2017.Ksh Million": "25,545.6",
+          "2018.Ksh Million": "24,414.9",
+          "2019.Ksh Million": "22,794.6",
+          "2020.Ksh Million": "17,694.8",
+          "2021.Ksh Million": "12,008.7",
+          "Average.Ksh Million": "20,491.7",
+          "2017.Share of Total Tax Expenditure (%)": "6.3",
+          "2018.Share of Total Tax Expenditure (%)": "6.4",
+          "2019.Share of Total Tax Expenditure (%)": "7.1",
+          "2020.Share of Total Tax Expenditure (%)": "5.9",
+          "2021.Share of Total Tax Expenditure (%)": "4.6",
+          "Average.Share of Total Tax Expenditure (%)": "6.06"
+        },
+        {
+          "Tax Heads.": "VATonimports(Reduction rate of VATonfuel (8%)) *",
+          "2017.Ksh Million": "-",
+          "2018.Ksh Million": "-",
+          "2019.Ksh Million": "9,087.0",
+          "2020.Ksh Million": "16,789.0",
+          "2021.Ksh Million": "28,009.0",
+          "Average.Ksh Million": "10,777.0",
+          "2017.Share of Total Tax Expenditure (%)": "-",
+          "2018.Share of Total Tax Expenditure (%)": "-",
+          "2019.Share of Total Tax Expenditure (%)": "2.8",
+          "2020.Share of Total Tax Expenditure (%)": "5.6",
+          "2021.Share of Total Tax Expenditure (%)": "10.8",
+          "Average.Share of Total Tax Expenditure (%)": "3.84"
+        },
+        {
+          "Tax Heads.": "Total Tax Expenditure",
+          "2017.Ksh Million": "404,900.7",
+          "2018.Ksh Million": "381,642.1",
+          "2019.Ksh Million": "320,096.3",
+          "2020.Ksh Million": "302,332.5",
+          "2021.Ksh Million": "259,511.9",
+          "Average.Ksh Million": "333,696.7",
+          "2017.Share of Total Tax Expenditure (%)": "100.0",
+          "2018.Share of Total Tax Expenditure (%)": "100.0",
+          "2019.Share of Total Tax Expenditure (%)": "97.2",
+          "2020.Share of Total Tax Expenditure (%)": "94.4",
+          "2021.Share of Total Tax Expenditure (%)": "89.2",
+          "Average.Share of Total Tax Expenditure (%)": "100.0"
+        }
+      ],
+      "columns": [
+        "Tax Heads.",
+        "2017.Ksh Million",
+        "2018.Ksh Million",
+        "2019.Ksh Million",
+        "2020.Ksh Million",
+        "2021.Ksh Million",
+        "Average.Ksh Million",
+        "2017.Share of Total Tax Expenditure (%)",
+        "2018.Share of Total Tax Expenditure (%)",
+        "2019.Share of Total Tax Expenditure (%)",
+        "2020.Share of Total Tax Expenditure (%)",
+        "2021.Share of Total Tax Expenditure (%)",
+        "Average.Share of Total Tax Expenditure (%)"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_002",
+      "caption": "",
+      "heading_path": [
+        "CHAPTER TWO: SUMMARY FINDINGS OF TAX EXPENDITURE"
+      ],
+      "page_number": 15,
+      "table_index": 2,
+      "markdown": "|                                                  | Absolute Change btn 2020 and 2021(Ksh.Mn)   | Contribution to the Change(%)   |\n|:-------------------------------------------------|:--------------------------------------------|:--------------------------------|\n| Personal Income Tax                              | (2,967.85)                                  | 6.93                            |\n| Corporation Income Tax                           | (18,099.39)                                 | 42.27                           |\n| Domestic VAT                                     | (22,435.66)                                 | 52.39                           |\n| Excise on imports                                | (4,851.62)                                  | 11.33                           |\n| VAT on imports                                   | (5,686.10)                                  | 13.28                           |\n| VATonimports(Reduction rate of VATonfuel (8%)) * | 11,220.00                                   | (26.20)                         |\n| Total Change                                     | (42,820.62)                                 | 100.00                          |",
+      "records": [
+        {
+          "": "Personal Income Tax",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "(2,967.85)",
+          "Contribution to the Change(%)": "6.93"
+        },
+        {
+          "": "Corporation Income Tax",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "(18,099.39)",
+          "Contribution to the Change(%)": "42.27"
+        },
+        {
+          "": "Domestic VAT",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "(22,435.66)",
+          "Contribution to the Change(%)": "52.39"
+        },
+        {
+          "": "Excise on imports",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "(4,851.62)",
+          "Contribution to the Change(%)": "11.33"
+        },
+        {
+          "": "VAT on imports",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "(5,686.10)",
+          "Contribution to the Change(%)": "13.28"
+        },
+        {
+          "": "VATonimports(Reduction rate of VATonfuel (8%)) *",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "11,220.00",
+          "Contribution to the Change(%)": "(26.20)"
+        },
+        {
+          "": "Total Change",
+          "Absolute Change btn 2020 and 2021(Ksh.Mn)": "(42,820.62)",
+          "Contribution to the Change(%)": "100.00"
+        }
+      ],
+      "columns": [
+        "",
+        "Absolute Change btn 2020 and 2021(Ksh.Mn)",
+        "Contribution to the Change(%)"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_003",
+      "caption": "",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "table_index": 3,
+      "markdown": "| Tax Band                                                                  | Applicable Tax Rate   |\n|:--------------------------------------------------------------------------|:----------------------|\n| On the first Ksh 24,000 per month or Ksh 288,000 p.a                      | 10%                   |\n| On the next Ksh 8,333 per month or Ksh 100,000 p.a                        | 25%                   |\n| On all income amount in excess of Ksh 32,333 per month or Ksh 388,000 p.a | 30%                   |",
+      "records": [
+        {
+          "Tax Band": "On the first Ksh 24,000 per month or Ksh 288,000 p.a",
+          "Applicable Tax Rate": "10%"
+        },
+        {
+          "Tax Band": "On the next Ksh 8,333 per month or Ksh 100,000 p.a",
+          "Applicable Tax Rate": "25%"
+        },
+        {
+          "Tax Band": "On all income amount in excess of Ksh 32,333 per month or Ksh 388,000 p.a",
+          "Applicable Tax Rate": "30%"
+        }
+      ],
+      "columns": [
+        "Tax Band",
+        "Applicable Tax Rate"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_004",
+      "caption": "Pension  income  is  subject  to  PIT  but  features  different  tax  specific  bands  as depicted in Table 5 .",
+      "heading_path": [
+        "CHAPTER THREE: INCOME TAX"
+      ],
+      "page_number": 17,
+      "table_index": 4,
+      "markdown": "| Bands                                     | Annual Tax Rates   |\n|:------------------------------------------|:-------------------|\n| On the first lump sum Ksh 600, 000        | Tax free           |\n| On the next 400,000                       | 10%                |\n| On next 400,000                           | 15%                |\n| On next 400,000                           | 20%                |\n| On next 400,000                           | 25%                |\n| On any amount in excess of Kshs 1,600,000 | 30%                |",
+      "records": [
+        {
+          "Bands": "On the first lump sum Ksh 600, 000",
+          "Annual Tax Rates": "Tax free"
+        },
+        {
+          "Bands": "On the next 400,000",
+          "Annual Tax Rates": "10%"
+        },
+        {
+          "Bands": "On next 400,000",
+          "Annual Tax Rates": "15%"
+        },
+        {
+          "Bands": "On next 400,000",
+          "Annual Tax Rates": "20%"
+        },
+        {
+          "Bands": "On next 400,000",
+          "Annual Tax Rates": "25%"
+        },
+        {
+          "Bands": "On any amount in excess of Kshs 1,600,000",
+          "Annual Tax Rates": "30%"
+        }
+      ],
+      "columns": [
+        "Bands",
+        "Annual Tax Rates"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_005",
+      "caption": "Tax expenditure related to personal income tax stood at Ksh 1.2 billion in 2021, a reduction from Ksh 4.1 billion in 2020 (Table 6).",
+      "heading_path": [
+        "3.2.2 PIT Expenditure"
+      ],
+      "page_number": 18,
+      "table_index": 5,
+      "markdown": "| PITCategories                      | 2017        | 2018        | 2019         | 2020         | 2021         |\n|:-----------------------------------|:------------|:------------|:-------------|:-------------|:-------------|\n| Mortgage Interest Deductions       | 476.87      | 484.08      | 510.77       | 428.10       | 365.57       |\n| Insurance Relief                   | 541.82      | 593.31      | 631.69       | 651.44       | 784.90       |\n| Home Ownership Savings Plan Relief | 3.36        | 3.38        | 3.82         | 4.35         | -            |\n| Exempted Income                    | 2,504.29    | 2,735.41    | 3,507.35     | 3,041.28     | 6.89         |\n| Total PITExpenditure               | 3,526.34    | 3,816.18    | 4,653.63     | 4,125.17     | 1,157.35     |\n| Nominal GDP                        | 8,483,396.0 | 9,340,307.0 | 10,237,727.0 | 10,716,034.0 | 12,098,200.0 |\n| Total PIT%ofGDP                    | 0.04        | 0.04        | 0.05         | 0.04         | 0.01         |",
+      "records": [
+        {
+          "PITCategories": "Mortgage Interest Deductions",
+          "2017": "476.87",
+          "2018": "484.08",
+          "2019": "510.77",
+          "2020": "428.10",
+          "2021": "365.57"
+        },
+        {
+          "PITCategories": "Insurance Relief",
+          "2017": "541.82",
+          "2018": "593.31",
+          "2019": "631.69",
+          "2020": "651.44",
+          "2021": "784.90"
+        },
+        {
+          "PITCategories": "Home Ownership Savings Plan Relief",
+          "2017": "3.36",
+          "2018": "3.38",
+          "2019": "3.82",
+          "2020": "4.35",
+          "2021": "-"
+        },
+        {
+          "PITCategories": "Exempted Income",
+          "2017": "2,504.29",
+          "2018": "2,735.41",
+          "2019": "3,507.35",
+          "2020": "3,041.28",
+          "2021": "6.89"
+        },
+        {
+          "PITCategories": "Total PITExpenditure",
+          "2017": "3,526.34",
+          "2018": "3,816.18",
+          "2019": "4,653.63",
+          "2020": "4,125.17",
+          "2021": "1,157.35"
+        },
+        {
+          "PITCategories": "Nominal GDP",
+          "2017": "8,483,396.0",
+          "2018": "9,340,307.0",
+          "2019": "10,237,727.0",
+          "2020": "10,716,034.0",
+          "2021": "12,098,200.0"
+        },
+        {
+          "PITCategories": "Total PIT%ofGDP",
+          "2017": "0.04",
+          "2018": "0.04",
+          "2019": "0.05",
+          "2020": "0.04",
+          "2021": "0.01"
+        }
+      ],
+      "columns": [
+        "PITCategories",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_006",
+      "caption": "",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 20,
+      "table_index": 6,
+      "markdown": "| Capital Expenditure Incurred on:          | Rate                              |\n|:------------------------------------------|:----------------------------------|\n| (a) Buildings                             |                                   |\n| i) Hotel Buildings                        | 50% in the first year of use      |\n| ii) Buildings used for manufacture        | 50% in the first year of use      |\n| iii)Hospital buildings                    | 50% in the first year of use      |\n| iv)Petroleum or gas storage facilities    | 50% in the first year of use      |\n| v) Residual value to item (a)(i) to a(iv) | 25% per year, on reducing balance |",
+      "records": [
+        {
+          "Capital Expenditure Incurred on:": "(a) Buildings",
+          "Rate": ""
+        },
+        {
+          "Capital Expenditure Incurred on:": "i) Hotel Buildings",
+          "Rate": "50% in the first year of use"
+        },
+        {
+          "Capital Expenditure Incurred on:": "ii) Buildings used for manufacture",
+          "Rate": "50% in the first year of use"
+        },
+        {
+          "Capital Expenditure Incurred on:": "iii)Hospital buildings",
+          "Rate": "50% in the first year of use"
+        },
+        {
+          "Capital Expenditure Incurred on:": "iv)Petroleum or gas storage facilities",
+          "Rate": "50% in the first year of use"
+        },
+        {
+          "Capital Expenditure Incurred on:": "v) Residual value to item (a)(i) to a(iv)",
+          "Rate": "25% per year, on reducing balance"
+        }
+      ],
+      "columns": [
+        "Capital Expenditure Incurred on:",
+        "Rate"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_007",
+      "caption": "Table 7:Rates of Investment Deduction",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 21,
+      "table_index": 7,
+      "markdown": "| vi)Educational buildings including student hostels                                                               | 10% per year, on reducing balance                                  |\n|:-----------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------|\n| vii) Commercial building                                                                                         | 10% per year, on reducing balance                                  |\n| (b)Machinery                                                                                                     |                                                                    |\n| i) Machinery used for manufacture                                                                                | 50% in the first year of use                                       |\n| ii) Hospital equipment                                                                                           | 50% in the first year of use                                       |\n| iii) Ships or aircrafts                                                                                          | 50% in the first year of use                                       |\n| iv)Residual value items (b)(i) to (b)(iii)                                                                       | 25% in the first year of use                                       |\n| v) Motor Vehicle and heavy earth moving equipment                                                                | 25% in the first year of use                                       |\n| vi) Computer and peripheral computer hardware and software calculators, copiers and duplicating machines         | 25% in the first year of use                                       |\n| vii)Furniture and fittings                                                                                       | 10% per year, reducing balance                                     |\n| viii) Telecommunications Equipment                                                                               | 10% per year, reducing balance                                     |\n| ix) Filming equipment by a local film producer licensed by the Cabinet Secretary responsible for filming         | 25% per year on reducing balance                                   |\n| x) Machinery used to undertake operations under a prospecting right                                              | 50% in the first year of use and 25% per year, on reducing balance |\n| xi)Machinery used to undertake exploration operations under a mining right                                       | 50% in the first year of use and 25% per year on reducing balance  |\n| xii) Other machinery                                                                                             | 10% per year, reducing balance                                     |\n| (c) Purchase or an acquisition of an indefeasible right to use fibre optic cable by a telecommunication operator | 10% per year, on reducing balance                                  |\n| (d) Farm works                                                                                                   | 50% in the first year of use and 25% per year, on reducing balance |",
+      "records": [
+        {
+          "vi)Educational buildings including student hostels": "vii) Commercial building",
+          "10% per year, on reducing balance": "10% per year, on reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "(b)Machinery",
+          "10% per year, on reducing balance": ""
+        },
+        {
+          "vi)Educational buildings including student hostels": "i) Machinery used for manufacture",
+          "10% per year, on reducing balance": "50% in the first year of use"
+        },
+        {
+          "vi)Educational buildings including student hostels": "ii) Hospital equipment",
+          "10% per year, on reducing balance": "50% in the first year of use"
+        },
+        {
+          "vi)Educational buildings including student hostels": "iii) Ships or aircrafts",
+          "10% per year, on reducing balance": "50% in the first year of use"
+        },
+        {
+          "vi)Educational buildings including student hostels": "iv)Residual value items (b)(i) to (b)(iii)",
+          "10% per year, on reducing balance": "25% in the first year of use"
+        },
+        {
+          "vi)Educational buildings including student hostels": "v) Motor Vehicle and heavy earth moving equipment",
+          "10% per year, on reducing balance": "25% in the first year of use"
+        },
+        {
+          "vi)Educational buildings including student hostels": "vi) Computer and peripheral computer hardware and software calculators, copiers and duplicating machines",
+          "10% per year, on reducing balance": "25% in the first year of use"
+        },
+        {
+          "vi)Educational buildings including student hostels": "vii)Furniture and fittings",
+          "10% per year, on reducing balance": "10% per year, reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "viii) Telecommunications Equipment",
+          "10% per year, on reducing balance": "10% per year, reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "ix) Filming equipment by a local film producer licensed by the Cabinet Secretary responsible for filming",
+          "10% per year, on reducing balance": "25% per year on reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "x) Machinery used to undertake operations under a prospecting right",
+          "10% per year, on reducing balance": "50% in the first year of use and 25% per year, on reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "xi)Machinery used to undertake exploration operations under a mining right",
+          "10% per year, on reducing balance": "50% in the first year of use and 25% per year on reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "xii) Other machinery",
+          "10% per year, on reducing balance": "10% per year, reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "(c) Purchase or an acquisition of an indefeasible right to use fibre optic cable by a telecommunication operator",
+          "10% per year, on reducing balance": "10% per year, on reducing balance"
+        },
+        {
+          "vi)Educational buildings including student hostels": "(d) Farm works",
+          "10% per year, on reducing balance": "50% in the first year of use and 25% per year, on reducing balance"
+        }
+      ],
+      "columns": [
+        "vi)Educational buildings including student hostels",
+        "10% per year, on reducing balance"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_008",
+      "caption": "",
+      "heading_path": [
+        "3.3.2 CIT Expenditure"
+      ],
+      "page_number": 22,
+      "table_index": 8,
+      "markdown": "|                                             | 2017(Revised)   | 2018(Revised)   | 2019(Revised)   | 2020(Revised)   | 2021          |\n|:--------------------------------------------|:----------------|:----------------|:----------------|:----------------|:--------------|\n| Plant and Machinery Investment Deductions   | 8,813.65        | 14,473.45       | 13,395.40       | 14,705.75       | 2,098.55      |\n| Building Investment Deductions              | 2,703.75        | 11,233.65       | 1,865.75        | 4,275.45        | 983.62        |\n| Allowances for industrial Buildings         | 2,219.45        | 2,463.80        | 5,640.35        | 3,687.30        | 1,786.19      |\n| Farm Works and Agricultural Land deductions | 1,595.20        | 1,220.05        | 1,225.90        | 583.50          | 204.19        |\n| Other Industrial Deduction                  | 12.45           | 6.30            | 6.45            | 704.20          | 784.26        |\n| Total CITExpenditures                       | 15,344.50       | 29,397.25       | 22,133.85       | 23,956.20       | 5,856.81      |\n| Nominal GDP                                 | 8,483,396.00    | 9,340,307.00    | 10,237,727.00   | 10,716,034.00   | 12,098,200.00 |\n| Total CIT% of GDP                           | 0.18            | 0.31            | 0.22            | 0.22            | 0.05          |",
+      "records": [
+        {
+          "": "Plant and Machinery Investment Deductions",
+          "2017(Revised)": "8,813.65",
+          "2018(Revised)": "14,473.45",
+          "2019(Revised)": "13,395.40",
+          "2020(Revised)": "14,705.75",
+          "2021": "2,098.55"
+        },
+        {
+          "": "Building Investment Deductions",
+          "2017(Revised)": "2,703.75",
+          "2018(Revised)": "11,233.65",
+          "2019(Revised)": "1,865.75",
+          "2020(Revised)": "4,275.45",
+          "2021": "983.62"
+        },
+        {
+          "": "Allowances for industrial Buildings",
+          "2017(Revised)": "2,219.45",
+          "2018(Revised)": "2,463.80",
+          "2019(Revised)": "5,640.35",
+          "2020(Revised)": "3,687.30",
+          "2021": "1,786.19"
+        },
+        {
+          "": "Farm Works and Agricultural Land deductions",
+          "2017(Revised)": "1,595.20",
+          "2018(Revised)": "1,220.05",
+          "2019(Revised)": "1,225.90",
+          "2020(Revised)": "583.50",
+          "2021": "204.19"
+        },
+        {
+          "": "Other Industrial Deduction",
+          "2017(Revised)": "12.45",
+          "2018(Revised)": "6.30",
+          "2019(Revised)": "6.45",
+          "2020(Revised)": "704.20",
+          "2021": "784.26"
+        },
+        {
+          "": "Total CITExpenditures",
+          "2017(Revised)": "15,344.50",
+          "2018(Revised)": "29,397.25",
+          "2019(Revised)": "22,133.85",
+          "2020(Revised)": "23,956.20",
+          "2021": "5,856.81"
+        },
+        {
+          "": "Nominal GDP",
+          "2017(Revised)": "8,483,396.00",
+          "2018(Revised)": "9,340,307.00",
+          "2019(Revised)": "10,237,727.00",
+          "2020(Revised)": "10,716,034.00",
+          "2021": "12,098,200.00"
+        },
+        {
+          "": "Total CIT% of GDP",
+          "2017(Revised)": "0.18",
+          "2018(Revised)": "0.31",
+          "2019(Revised)": "0.22",
+          "2020(Revised)": "0.22",
+          "2021": "0.05"
+        }
+      ],
+      "columns": [
+        "",
+        "2017(Revised)",
+        "2018(Revised)",
+        "2019(Revised)",
+        "2020(Revised)",
+        "2021"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_009",
+      "caption": "CHAPTER FOUR: VALUE ADDED TAX (VAT)",
+      "heading_path": [
+        "CHAPTER FOUR: VALUE ADDED TAX (VAT)"
+      ],
+      "page_number": 25,
+      "table_index": 9,
+      "markdown": "| Years.Description     | Ksh, million.2017   | Ksh, million.2018   | Ksh, million.2019   | Ksh, million.2020   | Ksh, million.2021   |\n|:----------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|\n| Exempt items          | 164,070.50          | 134,622.10          | 84,224.70           | 82,913.20           | 113,907.12          |\n| Zero-rated items      | 636.50 192,€        | 185,264.30          | 172,981.50          | 151,465.20          | 98,035.63           |\n| Total VAT Expenditure | 356,707.00          | 319,886.40          | 257,206.20          | 234,378.40          | 211,942.74          |\n| Nominal GDP           | 8,483,396.00        | 9,340,307.00        | 10,237,727.00       | 10,716,034.00       | 12,098,200.00       |\n| Total VAT % of GDP    | 4.20                | 3.42                | 2.51                | 2.19                | 1.75                |",
+      "records": [
+        {
+          "Years.Description": "Exempt items",
+          "Ksh, million.2017": "164,070.50",
+          "Ksh, million.2018": "134,622.10",
+          "Ksh, million.2019": "84,224.70",
+          "Ksh, million.2020": "82,913.20",
+          "Ksh, million.2021": "113,907.12"
+        },
+        {
+          "Years.Description": "Zero-rated items",
+          "Ksh, million.2017": "636.50 192,€",
+          "Ksh, million.2018": "185,264.30",
+          "Ksh, million.2019": "172,981.50",
+          "Ksh, million.2020": "151,465.20",
+          "Ksh, million.2021": "98,035.63"
+        },
+        {
+          "Years.Description": "Total VAT Expenditure",
+          "Ksh, million.2017": "356,707.00",
+          "Ksh, million.2018": "319,886.40",
+          "Ksh, million.2019": "257,206.20",
+          "Ksh, million.2020": "234,378.40",
+          "Ksh, million.2021": "211,942.74"
+        },
+        {
+          "Years.Description": "Nominal GDP",
+          "Ksh, million.2017": "8,483,396.00",
+          "Ksh, million.2018": "9,340,307.00",
+          "Ksh, million.2019": "10,237,727.00",
+          "Ksh, million.2020": "10,716,034.00",
+          "Ksh, million.2021": "12,098,200.00"
+        },
+        {
+          "Years.Description": "Total VAT % of GDP",
+          "Ksh, million.2017": "4.20",
+          "Ksh, million.2018": "3.42",
+          "Ksh, million.2019": "2.51",
+          "Ksh, million.2020": "2.19",
+          "Ksh, million.2021": "1.75"
+        }
+      ],
+      "columns": [
+        "Years.Description",
+        "Ksh, million.2017",
+        "Ksh, million.2018",
+        "Ksh, million.2019",
+        "Ksh, million.2020",
+        "Ksh, million.2021"
+      ]
+    },
+    {
+      "table_id": "2022_tax_expenditure_report_table_010",
+      "caption": "",
+      "heading_path": [
+        "5.3 Tax expenditure related to taxes on imports"
+      ],
+      "page_number": 29,
+      "table_index": 10,
+      "markdown": "|                              | Ksh, million.2017   | Ksh, million.2018   | Ksh, million.2019   | Ksh, million.2020   | Ksh, million.2021   |\n|:-----------------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|\n| Excise Duty on Imports       | 3,777.27            | 4,127.34            | 4,220.87            | 5,388.90            | 537.28              |\n| VATonImports                 | 25,545.60           | 24,414.90           | 22,794.60           | 17,694.80           | 12,008.70           |\n| Reduction rate on Fuel (8%)  | -                   | -                   | 9,087.00            | 16,788.96           | 28,008.93           |\n| Total Import Tax Expenditure | 29,322.87           | 28,542.24           | 36102.47*           | 39872.66 *          | 40554.91 *          |\n| Nominal GDP                  | 8,483,396.00        | 9,340,307.00        | 10,237,727.00       | 10,716,034.00       | 12,098,200.00       |\n| Total VAT%ofGDP              | 0.35                | 0.31                | 0.35                | 0.37                | 0.34                |",
+      "records": [
+        {
+          "": "Excise Duty on Imports",
+          "Ksh, million.2017": "3,777.27",
+          "Ksh, million.2018": "4,127.34",
+          "Ksh, million.2019": "4,220.87",
+          "Ksh, million.2020": "5,388.90",
+          "Ksh, million.2021": "537.28"
+        },
+        {
+          "": "VATonImports",
+          "Ksh, million.2017": "25,545.60",
+          "Ksh, million.2018": "24,414.90",
+          "Ksh, million.2019": "22,794.60",
+          "Ksh, million.2020": "17,694.80",
+          "Ksh, million.2021": "12,008.70"
+        },
+        {
+          "": "Reduction rate on Fuel (8%)",
+          "Ksh, million.2017": "-",
+          "Ksh, million.2018": "-",
+          "Ksh, million.2019": "9,087.00",
+          "Ksh, million.2020": "16,788.96",
+          "Ksh, million.2021": "28,008.93"
+        },
+        {
+          "": "Total Import Tax Expenditure",
+          "Ksh, million.2017": "29,322.87",
+          "Ksh, million.2018": "28,542.24",
+          "Ksh, million.2019": "36102.47*",
+          "Ksh, million.2020": "39872.66 *",
+          "Ksh, million.2021": "40554.91 *"
+        },
+        {
+          "": "Nominal GDP",
+          "Ksh, million.2017": "8,483,396.00",
+          "Ksh, million.2018": "9,340,307.00",
+          "Ksh, million.2019": "10,237,727.00",
+          "Ksh, million.2020": "10,716,034.00",
+          "Ksh, million.2021": "12,098,200.00"
+        },
+        {
+          "": "Total VAT%ofGDP",
+          "Ksh, million.2017": "0.35",
+          "Ksh, million.2018": "0.31",
+          "Ksh, million.2019": "0.35",
+          "Ksh, million.2020": "0.37",
+          "Ksh, million.2021": "0.34"
+        }
+      ],
+      "columns": [
+        "",
+        "Ksh, million.2017",
+        "Ksh, million.2018",
+        "Ksh, million.2019",
+        "Ksh, million.2020",
+        "Ksh, million.2021"
+      ]
+    }
+  ]
+}

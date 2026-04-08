@@ -1,0 +1,3198 @@
+{
+  "source_file": "202021-annual-revenue-performance-final.pdf",
+  "doc_slug": "202021_annual_revenue_performance_final",
+  "is_scanned": false,
+  "total_pages": 33,
+  "error": null,
+  "blocks": [
+    {
+      "text": "1 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "Annual Revenue Performance Report",
+      "block_type": "heading",
+      "heading_path": [
+        "Annual Revenue Performance Report"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "Disclaimer",
+      "block_type": "heading",
+      "heading_path": [
+        "Disclaimer"
+      ],
+      "page_number": 2,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "The information provided by KRA relating to products and services (or third party information, products and services) is provided as is without any representation or endorsement made and without warranty of any kind whether express or implied, including but not limited to the implied warranties of satisfactory quality, fitness for a particular purpose, non-infringement, compatibility, security and accuracy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Disclaimer"
+      ],
+      "page_number": 2,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "Table of Content",
+      "block_type": "heading",
+      "heading_path": [
+        "Table of Content"
+      ],
+      "page_number": 3,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "KRA Board of Directors",
+      "block_type": "heading",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "Amb. Dr. Francis Muthaura EGH, MBS Board Chairman",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Mukesh Shah Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Charles Omanga Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Paul Icharia Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "Eng. Leonard Ithau Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "Ms. Maryanne Njau-Kimani, OGW Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "Hon. Rose Waruhiu Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "Musa Kathanje Alternate to CS Maryanne",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "Ms. Susan Mudhune, MBS Director",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Githii Mburu Secretary to the Board",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Board of Directors"
+      ],
+      "page_number": 4,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "KRA Leadership Team",
+      "block_type": "heading",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Githii Mburu Commissioner General",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Terra Saidimu Commissioner, Intelligence & Strategic Operations",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "Mrs. Rispah Simiyu Commissioner, Domestic Taxes",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. David Yego Commissioner, Regional Coordination",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "Ms. Lilian Nyawanda Commissioner, Custom & Border Control",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Fred Mugambi Head, Kenya School of Revenue Administration (KESRA)",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Paul Matuku Commissioner, Legal Services & Board Co-ordination",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. David Kinuu Commissioner, Corporate Support Services Department",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Mohamed Omar Commissioner, Strategy Innovation & Risk Management",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Edward Karanja Commissioner, Investigations & Enforcement",
+      "block_type": "caption",
+      "heading_path": [
+        "KRA Leadership Team"
+      ],
+      "page_number": 5,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "Chairman, Board Of Directors Statement",
+      "block_type": "heading",
+      "heading_path": [
+        "Chairman, Board Of Directors Statement"
+      ],
+      "page_number": 6,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "Proud of our achievements, confident over our future.",
+      "block_type": "heading",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "On behalf of the Kenya Revenue Authority (KRA) Board of Directors, I am delighted to present the KRA Annual Revenue Report for the Financial Year 2020/21. The revenue performance report provides a detailed analysis of the revenue collection during the period. It also describes other major Revenue Enhancement Initiatives (REI) accomplished within the fiscal year.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "As the country's revenue mobilization agency, KRA has demonstrated its capacity to serve as a key pillar in supporting Kenya's economic development agenda through effective revenue mobilization with great success.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "The cumulative tax collection has more than doubled from Kshs. 707 Billion in 2013 to Kshs 1.669 Trillion in the financial year 2020/21.  It is through dedication and hard work that KRA has managed to achieve this good performance, in spite of the challenges experienced especially last year, due to the Covid -19 pandemic.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "Transformation and aligning of work practices to technological innovation aimed at enhancing compliance has also enabled KRA register this great performance. The remodelling of KRA's operations also boosted efficient service delivery and developed taxpayer trust. KRA automated practically all the business, customer service and administrative support operations.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "During the last financial year, the KRA leadership adopted stakeholder engagement programs as a strategy to handle taxpayers' issues. It is through such engagements that KRA established constructive dialogue with stakeholders on pertinent issues with a view of building strong partnerships as foundations for trust, which is key for voluntary tax compliance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "Through engagements such as the Board Roundtables, KRA was able to cultivate new ideas and innovations which are significant for improving tax compliance. KRA also appreciates the support received from the National Treasury. The many engagements KRA had with the National Treasury enabled KRA to establish structures and building staff competencies which have enhanced revenue mobilization.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "The Board of Directors appreciates all stakeholders including; KRA employees, taxpayers from both the public and private sector for their resilience, which resulted in this impressive performance. It is our hope that this report will encourage the KRA fraternity to work harder and aim to achieve better results in the next financial year.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "Once again, I thank KRA leadership for living the KRA Mission of 'Building Trust through Facilitation so as to foster Compliance with Tax and Customs Legislation.' Together as guided by our common vision of being 'A Globally Trusted Revenue Agency facilitating Tax and Customs Compliance, KRA is headed for greater performance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "With a united front, I am confident that we will continue with this momentum in the coming years.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "Thank you.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Proud of our achievements, confident over our future."
+      ],
+      "page_number": 6,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner General's Statement",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner General's Statement"
+      ],
+      "page_number": 7,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "Revenue more than doubles in ten years.",
+      "block_type": "heading",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "It is my pleasure to share with you the 2020/2021 Financial Year Revenue Performance. The year commenced with many challenges brought about by the Covid-19 pandemic. Despite the challenges, KRA has remained resilient to accomplish its revenue collection mandate.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "During the financial year, KRA collected Kshs 1.669 Trillion compared to Kshs 1.607 Trillion collected in FY 2019/20.  This enabled KRA to surpass its revenue target after eight (8) years, since the FY 2013/14.  KRA also collected other monies including Agency Fees amounting to Kshs 125.05 Billion. The Agency Fees was collected on behalf of other government agencies including Road Maintenance Levy, Airport Revenue, Aviation Revenue, and Petroleum Development Fund amongst other levies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority's performance is consistent with the prevailing economic indicators, especially the estimated GDP growth of 0.6% in 2020. During the financial year, KRA also recorded a milestone after revenue collection more than doubled in the last 10 years from Kshs 707.4 Billion in FY 2011/12, to Kshs 1.669 Trillion , representing a growth of 136% in the last ten years.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "The excellent performance is attributed to initiatives implemented by KRA which were geared towards expanding the tax base. Tax Base Expansion was a key deliverable in the 7th Corporate Plan. Through this initiative, KRA recruited more taxpayers arising from the newly implemented taxes including Digital Services Tax and Voluntary Tax Disclosure, among others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "Other strategies included KRA technological interventions and collaboration with key public and private institutions. The implementation of technology drove revenue mobilization through data led compliance management frameworks.  The automation of KRA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "processes, especially during the Covid-19 pandemic, enabled the Authority to improve taxpayers' services and subsequently collect more revenue.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "Some of the technologies implemented during the period include the launch of the M-Service, a mobile application that has enabled taxpayers to access various services offered by KRA using their phones.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority also implemented other initiatives to increase revenue and enhance service delivery. These initiatives include the installation of enhanced cargo scanners to detect concealments, the implementation of Integrated Customs Management System (iCMS), the upgrading of the iTax system among others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "KRA also entrenched a performance management culture that enhanced accountability and productivity of the staff, thus driving the strong financial year performance. The performance management culture motivated staff to work hard and achieve their individual targets.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "The implementation of Alternative Dispute Resolution (ADR) mechanism also saw taxpayers come forward to find amicable solution in disputes with KRA. With the main objective being to ensure, faster, objective and efficient resolution of tax disputes, ADR enabled KRA to unlock Kshs 31.5 Billion in taxes out of 552 cases resolved during the FY 2020/2021.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "The enhanced recovery of tax arrears saw KRA net Kshs 93.7 Billion in the FY 2020/2021 compared to Kshs 84.7 Billion collected in FY 2019/2020.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "During the 2020/21 Financial Year, KRA collaborated with other key law enforcement government agencies including the Judiciary, Ethics & Anti-Corruption Commission (EACC), Office of the Director of Public",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "Prosecution, Directorate of Criminal investigations (DCI) National Police Service, the Tax Appeals Tribunal among others to fight tax evasion. The Authority took part in strategic operations as part of the multi-agency team against illicit trade. KRA was in the forefront in the fight against counterfeits, contraband and illicit goods.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority is currently implementing the 8th Corporate Plan over the period 2021/22 to 2023/24. The plan targets to collect Kshs 6.831 Trillion by the end of the three-year period. With the support of taxpayers, the projected economic recovery of 6.6 % in 2021, progressive tax policy framework and a robust tax compliance mechanism, KRA is confident that it will achieve this target and enable the country sustain its economy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "The revenue target for the FY 2021/22 is Kshs 1.882 Trillion , of which Kshs 1,762 Trillion (93.6%) is Exchequer revenues and Kshs 120.417 Billion (6.4 %) being the agency revenues that KRA collects. The target represents a growth of 12.8 % over the revenue collection in FY 2020/21 of Kshs 1.669 Trillion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "I appreciate the support that the Government of Kenya has accorded KRA, especially the Cabinet Secretary, National Treasury & Planning, KRA Board of Directors and staff that has resulted in the impressive revenue performance despite the unprecedented challenges.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "Let me also express my sincere appreciation to all dedicated taxpayers without whom this great milestone in revenue performance would not have been achieved. Thank you for supporting our country's growth and development agenda.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "I look forward to working with all of you in the new financial year",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenue more than doubles in ten years."
+      ],
+      "page_number": 7,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "Summary of Revenue Performance",
+      "block_type": "heading",
+      "heading_path": [
+        "Summary of Revenue Performance"
+      ],
+      "page_number": 8,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "Abridged Full Year Revenue Performance FY 2020/2021 (JULY 2020-JUNE 2021)",
+      "block_type": "heading",
+      "heading_path": [
+        "Abridged Full Year Revenue Performance FY 2020/2021 (JULY 2020-JUNE 2021)"
+      ],
+      "page_number": 9,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "10 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Abridged Full Year Revenue Performance FY 2020/2021 (JULY 2020-JUNE 2021)"
+      ],
+      "page_number": 10,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "Actual Revenue Performance Against Estimates",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Abridged Full Year Revenue Performance FY 2020/2021 (JULY 2020-JUNE 2021)"
+      ],
+      "page_number": 10,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "Actual revenue performance against estimates July and August 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "Actual revenue performance against estimates July and August 2020"
+      ],
+      "page_number": 11,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "July",
+      "block_type": "heading",
+      "heading_path": [
+        "July"
+      ],
+      "page_number": 11,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "In  July 2020, collections totalled Kshs 115,584 million compared to a target of Kshs 136,133 million. This resulted in a performance rate of 84.9% against the target leading to deficit of Kshs 20,549 million. Revenues declined by 16.4% compared to July averages of 11.0% over 2017/18 2019/20 and 13.6% over 2010/11 - 2019/20.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "July"
+      ],
+      "page_number": 11,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "Customs Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 11,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 11,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "It worth noting that like the fourth quarter of 2019/20, revenue performance in July 2020 continues to be adversely affected, albeit at a reduced magnitude, by the prevailing operating economic environment impacted negatively by the Covid-19 pandemic crisis. This has continued to be the case in July 2020, despite the Government easing some of the administrative measure  taken to counter the pandemic starting 6th July 2020. It is however expected that the full impact of the Government's directives will be realized in the coming months beginning August 2020.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 11,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "6.4% Corporation Tax Growth",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 11,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "August",
+      "block_type": "heading",
+      "heading_path": [
+        "August"
+      ],
+      "page_number": 11,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "In August 2020, collections totalled Kshs 107,226 million compared to a target of Kshs 123,759 million. This resulted in a performance rate of 86.6% against the target leading to deficit of Kshs 16,532 million. Revenues declined by 11.9% compared to August averages of 7.4% over 2017/18 2019/20 and 13.6% over 2010/11 - 2019/20.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "August"
+      ],
+      "page_number": 11,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "This is majorly attributable to improved economic activity emanating from lifting of travel restrictions across counties and resumption of air travel. In particular, C&BC overall revenue performance in August 2020 recorded a growth for the first time since April 2020 (compared to average revenue decline of 22.3% realized between April 2020 and June 2020) and achieved the highest average daily 'dry' collection since March 2020 .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "August"
+      ],
+      "page_number": 11,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "12 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "August"
+      ],
+      "page_number": 12,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "~",
+      "block_type": "paragraph",
+      "heading_path": [
+        "August"
+      ],
+      "page_number": 12,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "Yk",
+      "block_type": "paragraph",
+      "heading_path": [
+        "August"
+      ],
+      "page_number": 12,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "Actual revenue performance against estimates September and October 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "Actual revenue performance against estimates September and October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "September 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "September 2020"
+      ],
+      "page_number": 13,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "In September 2020, collections totalled Kshs 143,813 million compared to a target of Kshs 154,179 million. This resulted in a performance rate of 93.3% against the target leading to deficit of Kshs 10,366 million. Revenues declined by 12.7% compared to September averages of 11.0% over 2017/18 - 2019/20 and 13.1% over 2010/11 - 2019/20.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "September 2020"
+      ],
+      "page_number": 13,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "Customs Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 13,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 13,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "October 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "In October 2020, collections totalled Kshs 125,267 million compared to a target of Kshs 136,579 million. This resulted in a performance rate of 91.7% against the target leading to deficit of Kshs 11,312 million. Revenues declined by 13.8% compared to October averages of 13.8% over 2017/18 2019/20 and 13.6% over 2010/11 - 2019/20.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "October revenue",
+      "block_type": "paragraph",
+      "heading_path": [
+        "October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "Kshs 143,813 M",
+      "block_type": "paragraph",
+      "heading_path": [
+        "October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "91.7% Performance rate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "Customs Taxes October",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs Taxes October"
+      ],
+      "page_number": 13,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "C&BC overall revenue grew by 7.3% in the month of October 2020, with and Trade taxes growing by 12.3% and 4.7% respectively. Petroleum taxes has recorded positive revenue growths consistently in the first four (4) months of 2020/21, while trade taxes has shown the same in the months of September 2020 and October 2020.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customs Taxes October"
+      ],
+      "page_number": 13,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "7.3% Customs revenue growth",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customs Taxes October"
+      ],
+      "page_number": 13,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "12.3% Petroleum taxes growth",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customs Taxes October"
+      ],
+      "page_number": 13,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively July - October 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively July - October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July - October 2020), collections amounted to Kshs 491,888 million against a target of Kshs 550,650 million. This led to a deficit of Kshs 58,761 million against the target. Revenues declined by 13.7% over July October 2019. Similarly, exchequer revenue declined by 15.0% and recorded a deficit of Kshs 64,825 million. This is majorly attributable to improved economic activity emanating from the gradual re-opening of the economy. This is observed from the increased demand for imports and increased domestic sales/turnover",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Cumulatively July - October 2020"
+      ],
+      "page_number": 13,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic taxes October",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic taxes October"
+      ],
+      "page_number": 13,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "14 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes October"
+      ],
+      "page_number": 14,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "52/",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes October"
+      ],
+      "page_number": 14,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "038",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes October"
+      ],
+      "page_number": 14,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "211",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes October"
+      ],
+      "page_number": 14,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "099",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes October"
+      ],
+      "page_number": 14,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "Actual revenue performance against estimates November and December 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "Actual revenue performance against estimates November and December 2020"
+      ],
+      "page_number": 15,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "November 2020",
+      "block_type": "heading",
+      "heading_path": [
+        "November 2020"
+      ],
+      "page_number": 15,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "In November 2020, collections totalled Kshs 115,005 million against a target of Kshs 132,601 million. This resulted in a performance rate of 86.7% against the target leading to deficit of Kshs 17,597 million. Revenues declined by 21.3% compared to November averages of 13.8% over 2017/18 - 2019/20 and 14.2% over 2010/11 - 2019/20.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "November 2020"
+      ],
+      "page_number": 15,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "86.7% Performance rate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "November 2020"
+      ],
+      "page_number": 15,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - November 2020)",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively (July 2020 - November 2020)"
+      ],
+      "page_number": 15,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July - November 2020), collections amounted to Kshs 606,893 million against a target of Kshs 683,251 million. This led to a deficit of Kshs 76,358 million against the target. Revenues declined by 15.3% over July - November 2019. Similarly, exchequer revenue declined by 16.8% and recorded a deficit of Kshs 84,482 million.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Cumulatively (July 2020 - November 2020)"
+      ],
+      "page_number": 15,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "Customs Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 15,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "It is worth noting that customs revenue of Kshs 50,574 million in the month of November 2020 was the highest monthly collection. In addition, the daily non-oil revenue collection of Kshs 1,492 million in November 2020, was the highest since the advent of Covid-19 pandemic.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 15,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 15,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "16 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 16,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "B102",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 16,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "52",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 16,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "866",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 16,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "B1029",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 16,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "Actual revenue performance against estimates January and February 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "Actual revenue performance against estimates January and February 2021"
+      ],
+      "page_number": 17,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "January 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "January 2021"
+      ],
+      "page_number": 17,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "In January 2021, collections totalled Kshs 141,721 million against a target of Kshs 138,188 million. This resulted in a performance rate of 102.6% against the target leading to a surplus of Kshs 3,533 million. Revenues grew by 6.7% compared to January averages of 7.9% over 2017/18 - 2019/20 and 13.1% over 2010/11 - 2019/20.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "January 2021"
+      ],
+      "page_number": 17,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - January 2021)",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively (July 2020 - January 2021)"
+      ],
+      "page_number": 17,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - January 2021), collections amounted to Kshs 914,618 million against a target of Kshs 985,391 million. This led to a deficit of Kshs 70,773 million against the target. Revenues declined by 9.4% over July 2019 - January 2020. Similarly, exchequer revenue declined by 11.1% and recorded a deficit of Kshs 87,422 million.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Cumulatively (July 2020 - January 2021)"
+      ],
+      "page_number": 17,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "Customs Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 17,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 17,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "February 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "February 2021"
+      ],
+      "page_number": 17,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "In February 2021, collections totalled Kshs 127,668 million against a target of Kshs 121,479 million. This resulted in a performance rate of 105.1% against the target leading to a surplus of Kshs 6,188 million. Revenues grew by 11.3% compared to February averages of 6.5% over 2017/18 - 2019/20 and 12.2% over 2010/11 - 2019/20. This performance is inclusive of Kshs 5,000 million surplus received during the month, otherwise, without surplus, total collection would have been Kshs 122,668 million against a target of Kshs 121,479 million. This would have resulted in a performance of 101.0% against the target leading to a surplus of Kshs 1,189 million. Consequently, revenue would have grown by 6.9% during the month.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "February 2021"
+      ],
+      "page_number": 17,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - February 2021)",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively (July 2020 - February 2021)"
+      ],
+      "page_number": 17,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "Customs taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs taxes"
+      ],
+      "page_number": 17,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 17,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "Revenue growth",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 17,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "3.7%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 17,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "Taxhead",
+      "block_type": "heading",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 17,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "Revenue growth",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 17,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "3.7%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 17,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "Surplus",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 17,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "Kshs",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 17,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "5,000 M",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 17,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "18 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 18,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "ELEMAX",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 18,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "nC A",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 18,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "CUSTOMS",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Taxhead"
+      ],
+      "page_number": 18,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "Actual revenue performance against estimates March and April 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "Actual revenue performance against estimates March and April 2021"
+      ],
+      "page_number": 19,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "March 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "March 2021"
+      ],
+      "page_number": 19,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "In March 2021, collections totalled Kshs 144,614 million against a target of Kshs 137,973 million. This resulted in a performance rate of 104.8% against the target leading to a surplus of Kshs 6,642 million. Revenues grew by 11.3% compared to March averages of 7.1% over 2017/18 - 2019/20 and 10.9% over 2010/11 - 2019/20. With respect to Exchequer Revenue, this totalled Kshs 132,834 million during the month against a target of Kshs 130,095 million, a surplus of Kshs 2,738 million. Exchequer revenues reported a performance rate of 102.1% and grew by 9.5%.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "March 2021"
+      ],
+      "page_number": 19,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - March 2021)",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively (July 2020 - March 2021)"
+      ],
+      "page_number": 19,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - January 2021), collections amounted to Kshs 914,618 million against a target of Kshs 985,391 million. This led to a deficit of Kshs 70,773 million against the target. Revenues declined by 9.4% over July 2019 - January 2020. Similarly, exchequer revenue declined by 11.1% and recorded a deficit of Kshs 87,422 million.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Cumulatively (July 2020 - March 2021)"
+      ],
+      "page_number": 19,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "Customs revenue collection trend",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs revenue collection trend"
+      ],
+      "page_number": 19,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "1st quarter- 0.7% 2nd quarter 16.4% 3rd quarter 26.2%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customs revenue collection trend"
+      ],
+      "page_number": 19,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 19,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "110.7%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 19,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "Taxhead",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 19,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "April 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "April 2021"
+      ],
+      "page_number": 19,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "In April 2021, collections totalled Kshs 176,667 million against a target of Kshs 170,191 million. This resulted in a performance rate of 103.8% against the target leading to a surplus of Kshs 6,476 million and a growth of 23.9%. With respect to Exchequer revenue, this totalled Kshs 166,072 million during the month against a target of Kshs 161,924 million, a surplus of Kshs 4,148 million. Exchequer revenues reported a performance rate of 102.6% and grew by 22.1%.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "April 2021"
+      ],
+      "page_number": 19,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - April 2021)",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively (July 2020 - April 2021)"
+      ],
+      "page_number": 19,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "KRA has met the target for five consecutive months (Since December 2020 to April 2021). Specifically, Customs have met their monthly targets for the five consecutive months while Domestic Taxes surpassed its April monthly target.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Cumulatively (July 2020 - April 2021)"
+      ],
+      "page_number": 19,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 19,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "Performance rate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 19,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "100.5%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 19,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "JKALMAR",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 20,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "{",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic taxes"
+      ],
+      "page_number": 20,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "Actual revenue performance against estimates May 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "Actual revenue performance against estimates May 2021"
+      ],
+      "page_number": 21,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "May 2021",
+      "block_type": "heading",
+      "heading_path": [
+        "May 2021"
+      ],
+      "page_number": 21,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "In May 2021, collections totalled Kshs 130,974 million against a target of Kshs 139,020 million. This resulted in a performance rate of 94.2% against the target leading to a deficit of Kshs 8,046 million and a growth of 56.2%.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "May 2021"
+      ],
+      "page_number": 21,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July - May 2020)",
+      "block_type": "heading",
+      "heading_path": [
+        "Cumulatively (July - May 2020)"
+      ],
+      "page_number": 21,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively (July 2020 - May 2021), collections amounted to Kshs 1,494,544 million against a target of Kshs 1,554,053 million.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Cumulatively (July - May 2020)"
+      ],
+      "page_number": 21,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "Customs Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 21,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "110.7%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customs Taxes"
+      ],
+      "page_number": 21,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic Taxes",
+      "block_type": "heading",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 21,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "43.5%. Revenue growth",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 21,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "It is worth noting that even though Customs fell short of its May 2021 target by Kshs 1,774 million, it achieved average daily non-oil revenue collection of Kshs 1,706 million that compares favourably to average daily non-oil revenue of Kshs 1,728 million achieved in the last five months (December 2020 - April 2021). In addition, it met its oil revenue target, registering a performance rate of 101.6% and a growth of 145.3%.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 21,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "Further, Domestic taxes performance against target for May 2021 stood at 92.6% and recorded a growth of 43.5%. While PAYE recorded above target performance in the month - accruing a surplus of Kshs 2,995 million - other key taxheads (VAT domestic, Excise duty domestic and Excise duty on Financial services) recorded below target performance rates of 79.4%, 80.3% and 64.4% respectively. Detailed explanation of this performance is provided in subsequent sections of this brief.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Domestic Taxes"
+      ],
+      "page_number": 21,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Domestic Taxes Department",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "Mrs. Rispah Simiyu",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "The Financial Year 2020/2021 will go down as one of the most economically challenging years following the outbreak of the Covid-19 global pandemic. By the beginning of the 2020/2021 Financial Year, the adverse effects of the Covid-19 pandemic were still at their peak.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "Despite the ensuing economic challenges ranging from rapid labour force layoffs to declined business turnovers, the resilient Kenyan economy still stood the test of time and defied all odds to register tremendous growth. Tax collection efforts over the past 12 months ending 30 June 2021 are a key parameter that points to this very growth and the resilience of the Kenya economy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "In spite of a myriad of hardships that marred revenue mobilization and collection efforts in the year under review, the Kenya Revenue Authority (KRA) collected a total of Ksh1.039 trillion in domestic taxes. This was a 99.8 per cent performance rate. The overall revenue collection on domestic taxes was spread across key tax heads including corporation tax, withholding taxes, payroll taxes (PAYE), domestic value added tax (VAT) and domestic excise.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "Although the corporation tax rate for resident companies had been reduced from 30 to 25 per cent as part of the tax relief measures introduced under the Tax Laws Amendment Act 2020, corporation tax recorded a 3.7 per cent growth in the 2020/2021 Financial Year. The growth was mainly driven by remittances from energy, agriculture and construction sectors. The energy sector grew by 222.7 per cent, the agriculture sector by 33.1 per cent while the construction sector grew by 31.9 per cent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "Another tax head that recorded significant growth despite the harsh economic environment is the domestic excise. The tax head grew by 12 per cent for the year ended 30 June 2021, marking a significant growth compared to the previous FY where it declined by 6.4 per cent. The growth is attributed to the partial reopening of the economy which in turn saw bars and restaurants reopen shop and operate for longer hours. The sharp decline in excise taxes recorded in 2019/2020 FY was mainly occasioned by full closure of the said establishments which mostly deal in excisable products such as alcoholic and non-alcoholic beverages.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "Despite a drop in average growth of 18.2 per cent in 2019/2020 FY, withholding taxes registered a 3.8 per cent growth in the 2020/2021 FY. The drop is also a direct impact of the harsh economic effects brought about by the Covid-19 pandemic.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "There were however key domestic tax heads whose growth was hampered by the direct impact of the Covid-19 pandemic. One such tax head is the Pay As You Earn (PAYE), which by the end of the review period recorded a 9.3 per cent decline. The decline in collection of payroll taxes has been on the backdrop of massive layoffs and pay cuts instituted by employers as a cost cutting strategy in order to survive the turbulent operating environment occasioned by the Covid-19 pandemic.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "A second factor that saw a drop in PAYE taxes is reduction of the highest PAYE rate from 30 to 25 per cent in April 2020. The reduction of the PAYE rate was among tax relief measures that had been introduced by the Government in order to cushion Kenyans with employment income from the adverse effect of the Covid-19 pandemic. Although the highest PAYE rate was reverted to 30 per cent early this year, PAYE collections further dipped following the 100 per cent tax exemption extended to all workers who take home less than Kshs. 24,000 per month.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "Domestic Value Added Tax (VAT) is second in the list of tax heads that recorded a decline, directly attributed to the outbreak of the Covid-19 pandemic. For the period under review, domestic VAT recorded a 7.9 per cent decline following reduced business turnovers which were adversely affected by the pandemic. Apart from plummeting business turnovers, the decline in domestic VAT collections was also occasioned by the reduction of the VAT rate from 16 per cent to 14 per cent under the Tax Laws Amendment Act, 2020.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "KRA remains committed in facilitating voluntary tax compliance through measures such as new technologies and introduction of tax policies that support this very cause. One of the major technological advancements that KRA put in place in the course of the past Financial Year was the M-service mobile application. The application simplified the PIN application process, filing of Nil returns as well as payment of monthly rental income and turnover tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "KRA has further continued to enhance the iTax system not only to simplify the tax administration process but to also enhance user experience for taxpayers seeking KRA services via the platform. The Authority aims at not only simplifying the tax administration process but also bringing its services closer to the people.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "The harsh economic times notwithstanding, I would like to commend all compliant taxpayers who duly honoured the civic duty to pay their taxes in 2020/2021. Indeed, such a gesture reflects true patriotism. I would also like to extend special gratitude to all KRA staff who supported collection of domestic taxes in one way or the other. You remained true to the call despite the hardships occasioned by this global pandemic.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "I urge all taxpayers to maintain the same commitment and dedication in tax compliance in this new Financial Year 221/22. On our part as KRA, we commit to continue putting in place strategic measures and initiatives to facilitate tax compliance for all taxpayers.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Domestic Taxes Department"
+      ],
+      "page_number": 22,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Customs & Border Control Commissioner",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "Ms Lilian Nyawanda",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "The Customs & Border Control Department's performance has towered high to anchor the KRA revenue collection for the Financial Year 2020/21, despite the effects of Covid-19, which slowed growth due to partial closure of Kenya's border points.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "The strategic partial reopening of the borders within the 2020/2021 Financial Year, played a big role in increasing revenue collection within Customs & Border Control. Total Customs revenues collected at the end of the 2020/2021 Financial Year amounted to Kshs. 624.77 Billion, which was above the set target of Kshs. 606 Billion by Kshs. 18.248 Billion. This translated to a 103 per cent performance rate for the year. In 2019/2020, Customs taxes collected amounted to Kshs. 510.63 Billion with a performance rate of 99.8 per cent against the Treasury target. The performance for the last FY is therefore highly commendable.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "Petroleum taxes were leading in growth with an upward trajectory throughout the year. Petroleum taxes posted an overall growth of 34.5% by close of the FY 2020/2021. Petroleum taxes collected amounted to Kshs. 226.680 Billion registering a surplus of Kshs. 11.772 Billion against the set target. Non-oil revenues were also a key contributor to the outstanding overall revenue collection posted by the Customs and Border Control Department (C&BC). Non-oil revenues grew by 16.4% with collections amounting to Kshs. 398.089 Billion. This was above the set collection target in the 2020/2021 Financial Year by Kshs. 6.476 Billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "Meanwhile, despite recording substantial decline at the beginning of the 2020/2021 Financial Year, trade taxes registered significant growth in September and October 2020, heralding a rebound in economic performance. In July 2020, for instance, trade taxes had declined by 11 per cent owing to the various Covid-19 containment measures that had been put in place, including banning of air travel.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "Between July 2020 and February 2021, Customs had registered an overall revenue growth of 10 per cent at a performance rate of 101 per cent. March 2021 and December 2020 registered the highest collections against target performing at 127% and 122% with a collection of Kshs. 60,777M for both months which was a major boost to overall collection of Customs taxes in the year. May 2021 registered the highest growth at 79 per cent. As the third quarter came to a close, Customs taxes registered an overall growth of 14 per cent heralding the positive impact of the relaxation of the Covid-19 containment measures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "In addition to relaxation of the Covid-19 containment measures such as resumption of air travel, the remarkable growth in Customs taxes is further attributed to leverage on modern technology in the execution of C&BC functions. Key among the technological advancements that KRA has put in place to support the business of C&BC include the Regional Electronic Cargo Tracking System (RECTS) which monitors transit cargo from the port of loading to the final destination along the Northern Corridor. RECTS has considerably reduced dumping of transit cargo in the country which would in the past occasion loss of Billions of shillings in Customs taxes. Another technological solution that is revolutionising the way KRA conducts Customs business is the use of non-intrusive scanners at the various ports of entry. The scanners facilitate faster clearance of cargo at the ports of entry thereby facilitating trade. It now takes a minute to scan a container and approximately five minutes to analyse an image of the container contents. This has in turn substantially addressed congestion at the ports.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "KRA has also continued to invest in other non-technological interventions to enhance its mandate under the C&BC. One such measure is the enhancement of staff capacity across the country. The C&BC department now has a bigger labour force to effectively execute its mandate. KRA has also been the leading Government agency at implementation of the One-Stop Border Posts (OSBPs) concept. The OSBPs have significantly reduced clearance time of people and goods at the border posts thereby facilitating cross-border trade. The inland cargo depots in Nairobi have also had a significant impact in enhancing faster clearance and collection of cargo that comes into the country.The Authority is very keen on trade facilitation as this constitutes part of its core mandate. The latest impetus to trade facilitation is the National Cargo De-consolidation Centre (NCDC) launched by His Excellency President Uhuru Kenyatta in November 2020. The NCDC, located at the Kenya Railways Transit Shed has made it easier for traders especially in the SME sector who import consolidated goods to clear and collect their goods within a shorter period of time and at a less cost. Between November 2020 and June 2021, KRA cleared 2,635 SME consignments at the NCDC.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "KRA further facilitates trade through the elaborate Authorised Economic Operators (AEOs) programme. AEOs are parties involved in the international movement of goods. The parties approved by or on behalf a customs administration as complying with the World Customs Organisation (WCO) or equivalent supply chain security standards. Some of the benefits of the AEO programme include higher compliance levels, more revenue yields and enhanced level of voluntary compliance. There are currently 265 AEOs in Kenya who include 166 importers and exporters; 90 clearing agents; 8 transporters and 1 Shipping line In addition to the aforementioned factors, the success registered by the C&BC department in the FY 2020/2021 was courtesy of the dedication and commitment of the KRA Board of Directors, KRA Management and staff. I take this opportunity to extend special gratitude to stakeholder who contributed in the realisation of C&BC's revenue goal in the past Financial Year. Special gratitude to all taxpayers who heeded the patriotic call to pay their taxes duly. As we embark on a new Financial Year, I call upon all taxpayers and other stakeholders to continue to heed the patriotic duty of supporting our country's development agenda through tax payment.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Customs & Border Control Commissioner"
+      ],
+      "page_number": 23,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Investigations & Enforcement",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "FCPA Dr. E. K. Karanja, CFE",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "As the year comes to an end, we all delight in the fact that the KRA surpassed its target despite the covid-19 pandemic. This is a result of co-ordinated teamwork and we the Investigations &Enforcement Department, adopted the football-team strategy where we concentrated on supporting the revenue departments to score for as we guard the goalposts.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "Under this arrangement, the Authority has put in place various strategies to boost revenue collection and seal the loopholes that are utilized by the tax evaders to facilitate tax evasion. We meet our targets by not only collecting more, but also by sealing revenue leakages, hence our focus on deterrence and building taxpayer confidence.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 203,
+      "table_ref": null
+    },
+    {
+      "text": "In the last FY, we focused on the major consumers of government revenue like the county governments, public universities and other parastatals. The key tax heads under this were withholding taxes and PAYE among other notable areas of non-compliance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 204,
+      "table_ref": null
+    },
+    {
+      "text": "We noted that the non-remittance of these taxes created a problem for the employees and traders who were not able to get their TCC to enable them get tenders, jobs and business opportunities in their next attempts because their tax records showed arrears.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 205,
+      "table_ref": null
+    },
+    {
+      "text": "We also looked at the motor vehicle industry where we had over 400 vehicles which were irregularly registered and sold to either persons who were aware of the schemes or who were genuinely innocent. The economic loss of such criminal activities cannot be gainsaid, besides the loss of taxes.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 206,
+      "table_ref": null
+    },
+    {
+      "text": "As is the drive with building taxpayer confidence, we identified the innocent buyers and initiated the process of facilitating them get their motor vehicles as they pay the requisite taxes where applicable. The culpable persons were taken though the criminal process on the strength of the evidence available against them.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 207,
+      "table_ref": null
+    },
+    {
+      "text": "The above activities resulted from the overall departmental strategy to investigate, prosecute and publicize criminal activities. We employed a multiplicity of initiatives like concurrent criminal and civil punishment to tax evaders and extensive publicity to name and shame the tax cheats. All these initiatives are aimed at deterring tax evasion and building taxpayer confidence in the tax system. The net effect is voluntary compliance by the taxpayers.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 208,
+      "table_ref": null
+    },
+    {
+      "text": "KRA is open to engagements for an amicable resolution of the disputes arising from the investigations and enforcement actions. In this the Department has in place mechanisms to review the investigations cases at any stage upon the request of the taxpayer who is willing to make prompt payment of their taxes comply with the tax laws going forward.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 209,
+      "table_ref": null
+    },
+    {
+      "text": "To bolster the war against tax evasion, the department successfully championed six changes into the tax laws in the last financial year. This was meant to seal the loopholes and gaps in the law that were being used by tax evaders.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 210,
+      "table_ref": null
+    },
+    {
+      "text": "Lastly, we leveraged on strategic partnerships with key stakeholders in the fight again tax evasion. Top on the list were the investigative agencies under the Multi Agency Team, the banks and other third party sources of evidence, regional and international partners, the judiciary and other players in the criminal justice system.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 211,
+      "table_ref": null
+    },
+    {
+      "text": "We give special thanks to them for the support they gave us that enabled us to for the winning synergy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 212,
+      "table_ref": null
+    },
+    {
+      "text": "We intend to progress into the new year, with the same spirit as further guided by the 8th corporate plan. This, will enable us to build even more taxpayer confidence in our tax systems, to further enhance voluntary compliance; hence mobilization of more revenue.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 213,
+      "table_ref": null
+    },
+    {
+      "text": "'We had over 400 vehicles which were irregularly registered and sold to either persons who were aware of the schemes or who were genuinely innocent.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 214,
+      "table_ref": null
+    },
+    {
+      "text": "'We employed a multiplicity of initiatives like concurrent criminal and civil punishment to tax evaders.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 215,
+      "table_ref": null
+    },
+    {
+      "text": "'Top on the list were the investigative agencies under the Multi Agency Team, the banks and other third party sources of evidence, regional and international partners, the judiciary and other players in the justice system.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Investigations & Enforcement"
+      ],
+      "page_number": 24,
+      "block_index": 216,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Corporate Support Service Department",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 217,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 218,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 219,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 220,
+      "table_ref": null
+    },
+    {
+      "text": "Dr.David Kinuu",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 221,
+      "table_ref": null
+    },
+    {
+      "text": "In the Financial Year 2020/202, the Corporate Support Service Department (CSSD) made huge steps in supporting KRA staff to perform their duties. The leadership has a strategic objective of making KRA a High Performance Organization (HPO).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 222,
+      "table_ref": null
+    },
+    {
+      "text": "This has necessitated the strengthening of its Performance Management Division (PMD). The division's key mandate is to facilitate entrenchment of an agile and high-performance culture in the authority.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 223,
+      "table_ref": null
+    },
+    {
+      "text": "The PMD structure has adopted the 'Business Partnering Model'. In this model, each department/division has dedicated 'Performance Business Partners' who work closely with respective heads of departments/divisions and line managers on all matters performance right from planning, monitoring, evaluation calibration and performance analysis and reporting.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 224,
+      "table_ref": null
+    },
+    {
+      "text": "The performance business partners analyze employee review and performance data to pin point strengths and weaknesses and to work with the line manager & HR to address the identified gaps. They provide training and technical advice to all matters performance management to their respective business units.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 225,
+      "table_ref": null
+    },
+    {
+      "text": "Departments/divisions have been grouped into business clusters. A",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 226,
+      "table_ref": null
+    },
+    {
+      "text": "chief manager leads each business cluster. Each chief manager is responsible for between 4 to 5 departments, which is between 2300 to 3000 employees.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 227,
+      "table_ref": null
+    },
+    {
+      "text": "Each chief manager is responsible for an entire management cycle for their respective business clusters. They are responsible for providing responsive and proactive support and advice to line managers on performance management policies, procedures and standards.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 228,
+      "table_ref": null
+    },
+    {
+      "text": "To support Chief Managers who are the ' Chief Performance Business Partners', each of the three business clusters has two performance managers, four assistant managers - performance management, one performance analyst, one officer- performance management system.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 229,
+      "table_ref": null
+    },
+    {
+      "text": "'The performance business partners analyze employee review and performance data to pin point strengths and weaknesses and to work with the line manager & HR to address the identified gaps.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 230,
+      "table_ref": null
+    },
+    {
+      "text": "'Each chief manager is responsible for an entire management cycle for their respective business clusters.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Corporate Support Service Department"
+      ],
+      "page_number": 25,
+      "block_index": 231,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Intelligence & Strategic Operations",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 232,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 233,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 234,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 235,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Terra Saidimu",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 236,
+      "table_ref": null
+    },
+    {
+      "text": "Tax crimes such as tax evasion, corruption and other illicit activities negatively affect economic performance and inhibit revenue collection in any given country. This poses a major challenge to developing countries by depriving them with much needed resources for private and public investment, thereby hampering infrastructure development and economic growth.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 237,
+      "table_ref": null
+    },
+    {
+      "text": "The Organisation for Economic Co-operation and Development (OECD) estimates that Africa loses $50 billion annually to tax evasion. Given the depth of tax crimes as an impediment to economic growth, there is a dire need to tighten the noose on this vice. Kenya Revenue Authority (KRA) is cognisant of this uphill task and has since initiated measures to fight the vice and seal the revenue loopholes.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 238,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority has prioritised combating tax evasion in its efforts to enhance revenue collection. KRA has since established an Intelligence and Strategic Operations (I&SO) Department equipped with a robust institutional and legal framework to collect, process and monitor the use of intelligence information.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 239,
+      "table_ref": null
+    },
+    {
+      "text": "The role of I&SO is key in identifying possible loopholes that may affect the achievement of KRA's mandate which is revenue mobilisation. During the financial year 2020/21, through the Department, KRA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 240,
+      "table_ref": null
+    },
+    {
+      "text": "implemented a robust intelligence framework in close collaboration with other multi-agency teams. These strategies enabled KRA to profile a total of 1,289 tax evasion cases, with an estimated revenue potential of KShs. 169 Billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 241,
+      "table_ref": null
+    },
+    {
+      "text": "The Department has further given KRA an upper hand in tackling other vices such as illicit trade.  Similarly, illicit trade accounts for a huge share of government revenue that ends up in the greedy pit of tax evasion. This activity denies government its fair share of revenue as one of the prime motives behind illicit trade is tax evasion. In the period under review, KRA made 1,277 interceptions of various illicit products with an estimated value of KShs. 5.1 Billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 242,
+      "table_ref": null
+    },
+    {
+      "text": "In the year under review, KRA employed technology to assist seal revenue loopholes. Some of these strategies include the launch of a web-based system, iWhistle. The system that was launched by H.E President Uhuru Kenyatta has enabled KRA to gather corruption and tax evasion related information from the public, while concealing their anonymity.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 243,
+      "table_ref": null
+    },
+    {
+      "text": "Since its launch, a total of 681 reports have been received and assessed. These cases have a revenue potential of KShs. 2.94 Billion in taxes evaded. The Authority also implemented the Ethics Integrated Management System (EIMS). The automated platform is used to declare conflict of interest. Since its implementation, 941 conflict of interest and gift declarations have been submitted in accordance with KRA's anti-corruption policies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 244,
+      "table_ref": null
+    },
+    {
+      "text": "KRA believes in personnel that is hinged on integrity and honesty in service. To this end, the Authority has developed an anti-corruption policy that staff must abide to. In the last financial year, KRA through I&SO investigated and concluded 208 cases of unethical behaviour by staff.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 245,
+      "table_ref": null
+    },
+    {
+      "text": "KRA also vetted 3,340 staff and further conducted background checks for 334 for those seeking promotions, deployment to sensitive areas, and candidates seeking employment at KRA. In addition, 17 staff went through lifestyle audits and the findings shared with other responsible law enforcement for appropriate action.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 246,
+      "table_ref": null
+    },
+    {
+      "text": "Further, KRA has also used strategic collaborations with local and international agencies, to strengthen capacity in the fight against tax evasion. Through these collaborations, information on tax crimes is shared to support the fight against tax evasion both locally and beyond our borders. In the Financial Year 2020/2021, KRA collaborated with various agencies, both locally and internationally, to share information crucial in averting tax crimes. For instance, Kenya ratified the Multilateral Convention on Mutual Administrative Assistance in Tax Matters (MAAC) in June 2020.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 247,
+      "table_ref": null
+    },
+    {
+      "text": "The agreement ratified by over 120 countries has allowed seamless exchange of tax information on request between the countries. Kenya has since received 46 requests to share tax information on various individuals and companies. Kenya has also sent out 135 requests to various partner jurisdictions. The exchange of information process has enabled Kenya to recover taxes from entities and individuals that are involved in cross border tax evasion practices.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 248,
+      "table_ref": null
+    },
+    {
+      "text": "The Parliament also approved the Common Reporting Standard (CRS), the principle legislation for Automatic Exchange of Information (AEOI), which is now part of the Finance Act 2021. Once implemented, AEOI will enable systematic and periodic transmission of bulk taxpayer information by the source country to the residence country concerning various categories of income to facilitate revenue collection and tax compliance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 249,
+      "table_ref": null
+    },
+    {
+      "text": "In addition, Kenya has 15 Double Taxation Agreements (DTAs) in force aimed at avoiding double taxation. Kenya is also in the early stages of ratifying the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting (the MLI).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 250,
+      "table_ref": null
+    },
+    {
+      "text": "'KRA also vetted 3,340 staff and further conducted background checks.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Intelligence & Strategic Operations"
+      ],
+      "page_number": 26,
+      "block_index": 251,
+      "table_ref": null
+    },
+    {
+      "text": "Head of the Kenya School of Revenue Administration (KESRA)",
+      "block_type": "heading",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 252,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 253,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 254,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 255,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Fred Mugambi",
+      "block_type": "caption",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 256,
+      "table_ref": null
+    },
+    {
+      "text": "The Financial Year 2020/2021 was no doubt a challenging one following the outbreak of the Covid-19 pandemic. Amid the challenging economic environment, however, KRA rolled out a number of initiatives aimed at enhancing tax compliance in the country as an avenue for expanding the scope of domestic resource mobilization framework.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 257,
+      "table_ref": null
+    },
+    {
+      "text": "Through its premier training school, the Kenya School of Revenue Administration (KESRA), the Authority trained 1,389 stakeholders on various tax matters during the year. The training included Tax Administration, Integrated Customs Management System (ICMS), Revenue Management for Counties, Tax Audit, Transfer Pricing, Customs Laws and Procedures among others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 258,
+      "table_ref": null
+    },
+    {
+      "text": "KESRA also collaborated with the National Defence College and trained four (4) cohorts of KRA senior managers on leadership skills through the Ethics and Leadership programme.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 259,
+      "table_ref": null
+    },
+    {
+      "text": "This is in addition to other programmes on management and supervisory skills conducted with the aim of improving performance. In total, the school trained a record 5,273 KRA staff up from 3,000 in the previous year.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 260,
+      "table_ref": null
+    },
+    {
+      "text": "Under the auspices of the Organization for Economic Development & Co-operation (OECD) Africa Academy for Tax and Financial Crimes Investigations, KESRA conducted three programmes, which include Financial Investigation, VAT/ GST Fraud Investigation, Asset Recovery: Freezing and Seizing Assets' and Investigative techniques for effective use of banking information. The programmes trained 118 government professionals from East, West, North and Southern Africa.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 261,
+      "table_ref": null
+    },
+    {
+      "text": "KESRA also registered 1,048 new students and 670 KRA technical trainees to undertake various programmes in tax and Customs administration (Masters, Postgraduate Diploma, Technical Training in Tax and Customs, Diploma and Certificate).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 262,
+      "table_ref": null
+    },
+    {
+      "text": "In the period under review, 538 students graduated from various tax and Customs administration programmes at the Masters, Postgraduate Diploma, Technical Training, Diploma and Certificate levels.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 263,
+      "table_ref": null
+    },
+    {
+      "text": "During the year under review, the school heavily leveraged on her revamped technology platforms including the robust e-Academy to boost its trainingcapacity. KESRA's training capacity was also enhanced through strategic partnerships with both local and international organization and agencies such as the World Customs Organization (WCO), OECD and the African Tax Administration Forum (ATAF).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 264,
+      "table_ref": null
+    },
+    {
+      "text": "KESRA's tremendous contribution in promoting tax education in the country has not gone unrecognized. In the course of FY 2020/2021, KESRA achieved a major milestone after it was accredited as a centre of excellence by the Kenya National Qualifications Authority (KNQA).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 265,
+      "table_ref": null
+    },
+    {
+      "text": "The accreditation gives KESRA the authority to examine and award qualifications offered by the institution such as Certificate in Tax and Customs Administration, Diploma in Tax and Customs Administration and Higher National Diploma in Tax and Customs Administration. KESRA will be required to examine candidates in line with the set standards by the KNQA in compliance with the rule of law and the set standards in the industry.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 266,
+      "table_ref": null
+    },
+    {
+      "text": "In conclusion, tax education is increasingly becoming a requisite tool not only for professionals in the finance and money disciplines but also for the general populace. In other words, tax education is extensively being embraced as a general discipline and it is for this reason that governments across the world have made deliberate efforts for its inclusion in the school curriculum.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 267,
+      "table_ref": null
+    },
+    {
+      "text": "This explains KESRA's continued commitment in the development of training programmes on tax laws and procedures to promote tax education.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 268,
+      "table_ref": null
+    },
+    {
+      "text": "As we embark on a new financial year, KESRA reiterates its commitment in promoting tax literacy through enhanced training capacity and strategic partnerships with various stakeholders.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 269,
+      "table_ref": null
+    },
+    {
+      "text": "'The Kenya School of Revenue Administration (KESRA), trained 1,389 stakeholders on various tax matters during the year.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 270,
+      "table_ref": null
+    },
+    {
+      "text": "'KESRA also registered 1,048 new students and 670 KRA technical trainees to undertake various programmes in tax and Customs administration.'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Head of the Kenya School of Revenue Administration (KESRA)"
+      ],
+      "page_number": 27,
+      "block_index": 271,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Legal Services & Board Co-ordinationt",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 272,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 273,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 274,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 275,
+      "table_ref": null
+    },
+    {
+      "text": "Mr. Paul Matuku",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 276,
+      "table_ref": null
+    },
+    {
+      "text": "KRA's Legal Services and Board Coordination (LS&BC) Department is critical in supporting the organization's mandate of revenue collection. The department advises the leadership on all legal matters and pursues high-profile cases to curb tax evasion and enhance compliance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 277,
+      "table_ref": null
+    },
+    {
+      "text": "In the Financial Year 2020/2021, we concluded 1,167 cases, compared to 652 cases in the FY 2019/2020. Out of this, the department won 982 cases and lost 185. A total of 173 cases were concluded in court, while 994 were before the Tax Appeals Tribunal (TAT). The total revenue collected out of the cases was Kshs. 40,316,193,817.81, compared to Kshs. 26,051,902,200.50 in F/Y 2019/2020. Revenue collected through the Alternative Dispute Resolution process was Kshs. 14,839,148,500.89.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 278,
+      "table_ref": null
+    },
+    {
+      "text": "Through the Alternative Disputes Resolution (ADR) process, we concluded 552 cases against a target of 307, which translated to a performance of 180 per cent on target. The resolution of tax disputes led to release of Kshs. 31.435 billion revenue for collection against a target of Kshs.10.326 billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 279,
+      "table_ref": null
+    },
+    {
+      "text": "This represented a performance of 304 per cent on revenue target. To fast track resolution of cases, all ADR meetings were conducted virtually during the year, reducing the average time taken to resolve the cases",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 280,
+      "table_ref": null
+    },
+    {
+      "text": "from 69 days in FY 2019/20 to 42 days in the FY 2020/21.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 281,
+      "table_ref": null
+    },
+    {
+      "text": "Further, 4,776 applications for review of objections were concluded against a target of 2,973, translating to a performance rate of 161 per cent on target. This resulted in release of Kshs.17.572 billion for collection by Domestic Taxes Department (DTD).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 282,
+      "table_ref": null
+    },
+    {
+      "text": "Through the VAT Auto-Assessment (V.A.A), 1,408 cases were forwarded to DTD with recommendation for assessment with invoice value of Kshs. 21.057 billion and an expected VAT of Kshs. 3.369 billion. Additionally, 1,766 cases on Independent Review of Objections were also recommended for enforcement.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 283,
+      "table_ref": null
+    },
+    {
+      "text": "The LS&BC conducted 58 stakeholder engagements against a target of 36 during the year to sensitize taxpayers on the advantages of ADR, key being faster resolution of tax disputes. Through the sensitizations, the ADR applications increased from 605 in FY 2019/20 to 1,031 in the FY 2020/21, a growth of 70 per cent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 284,
+      "table_ref": null
+    },
+    {
+      "text": "'Through the Alternative Disputes Resolution (ADR) process, we concluded 552 cases against a target of 307, which translated to a performance of 180 per cent on target. '",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Legal Services & Board Co-ordinationt"
+      ],
+      "page_number": 28,
+      "block_index": 285,
+      "table_ref": null
+    },
+    {
+      "text": "Commissioner, Strategy Innovation & Risk Management",
+      "block_type": "heading",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 286,
+      "table_ref": null
+    },
+    {
+      "text": "Statement Of The Commissioner",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 287,
+      "table_ref": null
+    },
+    {
+      "text": "On Departments Performance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 288,
+      "table_ref": null
+    },
+    {
+      "text": "C. Commissioner Strategy Innovation and Risk Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 289,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Mohamed Omar",
+      "block_type": "caption",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 290,
+      "table_ref": null
+    },
+    {
+      "text": "When the first case of the global Covid-19 pandemic was reported in the country, there were fears that the country's economic activities would slow down.  The projections pointed to a decline in economic growth in the Financial Year 2020/21 with the Covid-19 in Kenya reaching the peak at the start of the Financial Year. The pandemic was projected to adversely affect revenue mobilisation. Despite these challenges, the Authority not only met its revenue collection target for the first time in eight years but also registered a surplus of Kshs 16.8 billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 291,
+      "table_ref": null
+    },
+    {
+      "text": "The commendable revenue performance posted by KRA in the FY 2020/2021 is a reflection of the success of the strategic measures that the Authority is implementing to enhance the execution of its mandate. One of the strategic focus areas is Tax Base Expansion whose goal is to enhance revenue collection by exploring and bringing into the tax net other sectors of the economy generating taxable income but are not yet in the tax bracket.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 292,
+      "table_ref": null
+    },
+    {
+      "text": "Some of the Tax Base Expansion measures introduced in the course of the past Financial Year include the Digital Service Tax (DST), Minimum Tax and the Voluntary Tax Disclosure Programme (VTDP). It is worth noting that Tax Base Expansion was part of the strategic focus in the Seventh Corporate Plan where additional 2.16 million taxpayers were recruited between July 2018 and June 2021.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 293,
+      "table_ref": null
+    },
+    {
+      "text": "In addition, KRA strengthened the tax recovery framework to ensure that tax arrears were paid, thereby boosting revenue collection. By close of the FY 2020/21, KRA had recovered Kshs 93.7 billion through this framework. This was a significant improvement compared to the FY 2019/20 where Ksh 84.7 billion was recovered.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 294,
+      "table_ref": null
+    },
+    {
+      "text": "KRA's deliberate efforts to invest heavily in technology has also contributed to this remarkable performance. In addition to improved service delivery to the taxpayers, technology has been an enabler of data-driven compliance thereby improving tax compliance to a significant extent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 295,
+      "table_ref": null
+    },
+    {
+      "text": "Some of the technological investments that KRA leverages on to enhance revenue collection and customer service include the iTax, the integrated Customs Management System (iCMS), the newly introduced M-service, the Regional Electronic Cargo Tracking System (RECTS), modernisation of the scanners and the Customer Relationship Management (CRM) solution. The resultant data has been key in KRA's decision making process and enhancing tax administration.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 296,
+      "table_ref": null
+    },
+    {
+      "text": "KRA has also entrenched a performance-driven culture among the staff through the performance management frameworks in place. This culture is based on accountability and productivity as key enablers in the realisation of KRA's goal of revenue collection and efficient service delivery to all stakeholders.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 297,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority has further continued to establish strategic stakeholder engagements with different stakeholders. This has opened room for dialogue between KRA and its stakeholders thereby fostering a healthy working relationship founded on trust. Successful stakeholder engagements have effectively seen an increase in voluntary compliance levels among different stakeholder groups of taxpayers.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 298,
+      "table_ref": null
+    },
+    {
+      "text": "The end of the FY 2020/21 coincided with the end of the three-year corporate planning period from 2018/2019 to 2020/2021 under the 7th Corporate Plan. The KShs. 1.669 trillion collected at the end of FY",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 299,
+      "table_ref": null
+    },
+    {
+      "text": "2020/2021 contributed substantially in the aggregate collection of Kshs. 4.8493 trillion over the three-year corporate plan period. Although KRA missed the three-year collection target by Kshs. 50 billion to meet the Plan's target of Kshs. 4.8993  trillion, the lessons learnt under the previous plan will constitute a key pillar on which the implementation of the 8th Corporate Plan will be anchored.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 300,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Base Expansion is still a key initiative under the 8th Plan which is themed, Revenue Mobilisation through tax simplification, technology-driven compliance and tax base expansion. The theme resonates with modern tax administration approaches, which call for more creative and diversified ways of mobilising domestic resources.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 301,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority targets to collect over Kshs. 6 trillion for the period 2021/2022-2023/2024 under the 8th Corporate Plan. Key factors that will contribute to the realisation of this target include tax base expansion where the Authority seeks to recruit additional two million new taxpayers; enhancing the compliance and enforcement frameworks; leverage on smart intelligence and investigation, tax simplification among others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 302,
+      "table_ref": null
+    },
+    {
+      "text": "As we begin the FY 2021/22, KRA will continue to invite and implement new strategies and innovations which support revenue collection and enhance service delivery. Being a collective effort, this will be done in collaboration with all concerned stakeholders for the betterment of our country's revenue mobilisation endeavours.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 303,
+      "table_ref": null
+    },
+    {
+      "text": "'Some of the Tax Base Expansion measures introduced in the course of the past Financial Year include the Digital Service Tax (DST), Minimum Tax and the Voluntary Tax Disclosure Programme (VTDP).'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commissioner, Strategy Innovation & Risk Management"
+      ],
+      "page_number": 29,
+      "block_index": 304,
+      "table_ref": null
+    },
+    {
+      "text": "Commentary",
+      "block_type": "heading",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 305,
+      "table_ref": null
+    },
+    {
+      "text": "This is the new integrated customs management system for automated clearance of goods. Itconsolidates all the existing customs systems under one access point (under one roof). It has replaced Simba System, Customs Oil Stock Information System (COSIS),",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 306,
+      "table_ref": null
+    },
+    {
+      "text": "Cargo Management Information System (CAMIS), Air Passengers Service Charge (APSC), Direct Assessment (DA), Manifest Management System (MMS). Kenya Revenue Authority Valuation System(KRAVS)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 307,
+      "table_ref": null
+    },
+    {
+      "text": "INNOVATIONS DONE BY KRA TO ENHANCE REVENUE COLLECTION",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 308,
+      "table_ref": null
+    },
+    {
+      "text": "Tax",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 309,
+      "table_ref": null
+    },
+    {
+      "text": "It is a mobile phone-based services platform, introduced by KRA in its bid to improve service delivery to its clients. Service applicable are PIN application, TOT Filing, MRI fiiling, Nil Filing, TCC application Checkers (PRN and TCC)Staff identification Mservice Swahili version",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 310,
+      "table_ref": null
+    },
+    {
+      "text": "It is an online platform for PIN for filingtax returns. Registration, Service applicable are PIN registration, PIN, TCC, Exemption, Excise License  and WHT Checker, Agent Checker, Invoice number checker Control Checker",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 30,
+      "block_index": 311,
+      "table_ref": null
+    },
+    {
+      "text": "31 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 31,
+      "block_index": 312,
+      "table_ref": null
+    },
+    {
+      "text": "M",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Commentary"
+      ],
+      "page_number": 31,
+      "block_index": 313,
+      "table_ref": null
+    },
+    {
+      "text": "Customer Engagements Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "Customer Engagements Overview"
+      ],
+      "page_number": 32,
+      "block_index": 314,
+      "table_ref": null
+    },
+    {
+      "text": "11 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customer Engagements Overview"
+      ],
+      "page_number": 33,
+      "block_index": 315,
+      "table_ref": null
+    },
+    {
+      "text": "33 | Annual Revenue Performance Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Customer Engagements Overview"
+      ],
+      "page_number": 33,
+      "block_index": 316,
+      "table_ref": null
+    },
+    {
+      "text": "Contact Us",
+      "block_type": "heading",
+      "heading_path": [
+        "Contact Us"
+      ],
+      "page_number": 33,
+      "block_index": 317,
+      "table_ref": null
+    },
+    {
+      "text": "Times Tower Building, Haile Selassie Avenue P. O. Box 48240 - 00100, Tel +254 20 281 0000 Email: callcentre@kra.go.ke",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Contact Us"
+      ],
+      "page_number": 33,
+      "block_index": 318,
+      "table_ref": null
+    }
+  ],
+  "tables": []
+}

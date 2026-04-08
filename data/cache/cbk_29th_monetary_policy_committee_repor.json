@@ -1,0 +1,1951 @@
+{
+  "source_file": "CBK_29th Monetary Policy Committee Report.pdf",
+  "doc_slug": "cbk_29th_monetary_policy_committee_repor",
+  "is_scanned": false,
+  "total_pages": 28,
+  "error": null,
+  "blocks": [
+    {
+      "text": "Twenty Ninth Bi-Annual Report of the Monetary Policy Committee",
+      "block_type": "heading",
+      "heading_path": [
+        "Twenty Ninth Bi-Annual Report of the Monetary Policy Committee"
+      ],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "October 2022",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Twenty Ninth Bi-Annual Report of the Monetary Policy Committee"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "LETTER OF TRANSMITTAL",
+      "block_type": "heading",
+      "heading_path": [
+        "LETTER OF TRANSMITTAL"
+      ],
+      "page_number": 3,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "In accordance with Section 4D of the Central Bank of Kenya Act, it is my pleasure to present to you, Honourable Cabinet Secretary of the National Treasury and Planning, the 29 th  Monetary Policy Committee Report. The Report outlines the monetary policy formulation, developments in the key indicators of the economy, and other activities of the Committee in the six months to October 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "LETTER OF TRANSMITTAL"
+      ],
+      "page_number": 3,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. Patrick Njoroge Governor",
+      "block_type": "heading",
+      "heading_path": [
+        "Dr. Patrick Njoroge Governor"
+      ],
+      "page_number": 3,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "EXECUTIVE SUMMARY",
+      "block_type": "heading",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "The twenty ninth bi-annual Report of the Monetary Policy Committee (MPC) reviews Kenya's monetary policy  formulation and other developments that affected the economy in the six months to October 2022. The conduct of monetary policy during the period was aimed at maintaining overall inflation within the Government's target range of 2.5 percent on either side of the 5 percent medium-term target, which is consistent with the price stability objective of the Central Bank of Kenya (CBK).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "Monetary policy in the period was conducted against a backdrop of heightened global uncertainties, reflecting volatile financial markets, weaker growth outlook, persistent inflationary pressures, geopolitical tensions, and lingering effects of  the  COVID-19  pandemic. Inflation  pressures  remained  elevated  in  many countries, mainly due to food and energy prices, and persistent supply chain challenges. Volatility in global financial markets remained elevated due to significant U.S. dollar strength against major currencies and the rapid changes in monetary policy stance in advanced economies in response to inflationary pressures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "The MPC held three meetings between May and October 2022, to review the outcome of its previous policy decisions and economic developments, and to put in place appropriate measures aimed at maintaining price stability. The MPC tightened monetary policy in the period in order to anchor inflation expectations, attributed to the sharp rise in global commodity prices and supply chain disruptions due to the war in Ukraine. The MPC raised the Central Bank Rate (CBR) from 7.00 percent to 7.50 percent in May 2022. In July 2022, the MPC retained the CBR at 7.50 percent, noting that its action of tightening monetary policy in May was timely in anticipating emerging inflationary pressures, and its impact was still transmitting through the economy. The MPC tightened monetary policy further in September by raising the CBR from 7.50 percent to 8.25 percent, noting the sustained inflationary pressures, elevated global risks and their potential impact on the domestic economy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "Overall inflation rose to 9.6 percent in October 2022 from 7.1 percent in May, mainly due to food and fuel prices. Food inflation rose to 15.8 percent in October from",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "12.4 percent in May, largely due to prices of maize and milk following reduced supply attributed to depressed rains, and edible oils and wheat products due to the impact of international supply chain disruptions. Food inflation accounted for 5.7 percentage points of overall inflation in October from 4.5 percentage points in May. Fuel inflation increased to 12.6 percent in October from 9.0 percent in May, mainly due to the scaling down of the fuel subsidy, increases in electricity prices due to higher tariffs, and increases in transport costs. Fuel inflation accounted for 2.3 percentage points of overall inflation in October from 1.3 percentage points in May. NFNF inflation rose modestly to 3.8 percent in October from 2.6 percent in May, reflecting spillover effects of international developments and second-round effects of  international  oil  prices.  The  CBK  continued  to monitor the overall liquidity in the economy as well as any threats that could fuel demand driven inflationary pressures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "The performance of the economy remained strong in the first half of 2022, despite subdued performance in agriculture and weaker global growth. In particular, real  GDP  grew  by  6.0  percent  in  the  first  half  of 2022, supported by robust activity in transport and storage,  wholesale  and  retail  trade,  information and communication, real estate, and financial and insurance. Leading indicators of economic activity pointed to continued strong performance in the second half of 2022, supported by robust activity in a wide range of sectors.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "The foreign exchange market remained stable in the six months to October 2022, despite increased uncertainties in the global financial markets and a stronger U.S. dollar. This stability was supported by improvement in receipts from exports of goods and services as well as resilient remittances. The current account deficit was estimated at 5.5 percent of GDP in the 12 months to October 2022 compared to 5.3 percent of GDP over a similar period in 2021, mainly reflecting higher imports particularly of oil, which more than offset increased receipts from tea and services exports and diaspora remittances. The CBK foreign exchange reserves, which stood at USD 7,271 million (4.10 months of import cover) at the end of October 2022, continued to provide adequate cover and a buffer against any short-term shocks in the foreign exchange market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 6,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "The banking sector remained stable and resilient, with strong liquidity and capital adequacy ratios. The ratio of gross non-performing loans (NPLs) to gross loans declined to 13.8 percent in October 2022 from 14.1 percent in April. Banks continued to make adequate provisions for the NPLs. Private sector credit growth remained strong in the period, reflecting improved demand with increased economic activities. The 12 month growth in private sector credit increased to 13.3 percent in October 2022 from 11.5 percent in April 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 7,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "The CBK continued to implement the reforms outlined in the White Paper on Modernisation of the Monetary Policy Framework and Operations, that was published by the MPC in July 2021. These reforms are aimed at  enhancing the effectiveness of monetary policy formulation and implementation.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 7,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "The MPC held virtual meetings with CEOs of banks and members of the private sector after every meeting, to  provide  the  background  to  its  decisions  and obtain feedback. The Governor's post-MPC media briefings provided the basis of policy decisions and updates on the economy. The meetings enhanced the understanding of monetary policy formulation and implementation by the public.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 7,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "The Bank continued to monitor and remained vigilant to the risks posed by developments in the domestic and global environments, particularly the war in Ukraine and the effects of lingering COVID-19 pandemic, on the economy and the overall price stability objective.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 7,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "1.  DEVELOPMENTS IN THE GLOBAL ECONOMY",
+      "block_type": "heading",
+      "heading_path": [
+        "1.  DEVELOPMENTS IN THE GLOBAL ECONOMY"
+      ],
+      "page_number": 8,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "The global economic outlook weakened in the six months to October 2022, mainly due to the impact of the rapid tightening of monetary policy in advanced economies particularly the U.S., the ongoing war in  Ukraine,  and  the  lingering  pandemic-related disruptions particularly in China. According to the IMF World Economic Outlook (WEO) for October 2022, global growth is expected to slow down from 6.0 percent in 2021 to 3.2 percent in 2022 and further to 2.7 percent in 2023. Growth in the advanced economies is projected at 2.4 percent in 2022, a reduction of 0.1 percentage points relative to the July 2022 WEO update. This is largely attributed to significant weaker-than-expected outturn in the second quarter in the U.S., and the impact of the energy crisis in the Euro Area attributable to the war in Ukraine. Growth in most economies in this group is forecast to slowdown in 2022, including in the U.S. (1.6 percent), Euro Area (3.1 percent), UK (3.6 percent), Germany (1.5 percent), France (2.5 percent), Italy (3.2 percent), and Spain (4.3 percent).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.  DEVELOPMENTS IN THE GLOBAL ECONOMY"
+      ],
+      "page_number": 8,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "In the emerging markets and developing economies, growth is expected at 3.7 percent in 2022, an increase of 0.1 percentage points compared to the July 2022 WEO update. Russian output is expected to contract by 3.4 percent and 2.3 percent in 2022 and 2023, respectively, due to tight trade and financial sanctions. In the Asia region, China's economic activity is expected to slow down due prolonged Covid-19 infections and property crisis.  Growth in India is expected at 6.8 percent in 2022 and 6.1 percent in 2023, reflecting a weaker-thanexpected outturn in the second quarter and more subdued external demand. In Sub-Saharan Africa (SSA), economic activity is projected at 3.6 percent in 2022 and 3.7 percent in 2023, with a downward revision of 0.2 percentage points in 2022 attributed to spillovers from the main source markets due to the war in Ukraine. Nigeria and South Africa are expected to grow by 3.2 percent and 2.1 percent in 2022, respectively. In 2023, they are expected to grow by 3.0 percent (Nigeria) and 1.1 percent (South Africa).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.  DEVELOPMENTS IN THE GLOBAL ECONOMY"
+      ],
+      "page_number": 8,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "Global financial conditions tightened in the period, mainly  reflecting  rising  interest  rates  in  major economies as major central banks continue with monetary policy tightening to contain inflationary pressures. The U.S. inflation reached one of its highest levels in about 40 years, with prices in October 7.7 percent higher than those one year earlier. Euro area saw inflation reach 10.6 percent in October, while the UK recorded inflation of 11.1 percent. Emerging market and developing economies are estimated to have seen inflation of 10.1 percent in the second quarter of 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.  DEVELOPMENTS IN THE GLOBAL ECONOMY"
+      ],
+      "page_number": 8,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "The risks to the global growth outlook are tilted to the downside reflecting persistent and broad-based inflationary  pressures,  and  increased  concerns about rising global recession risks and heightened geopolitical tensions mainly in Ukraine-Russia, North Korea, China-Taiwan, renewed export restrictions, unfavorable weather conditions,  worsening of financial markets conditions, and tightening of labor markets. However, a faster resolution of the global geopolitical tensions could ease pressure on commodity prices and reduce supply chain bottlenecks.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.  DEVELOPMENTS IN THE GLOBAL ECONOMY"
+      ],
+      "page_number": 8,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "2. DEVELOPMENTS IN THE KENYAN ECONOMY",
+      "block_type": "heading",
+      "heading_path": [
+        "2. DEVELOPMENTS IN THE KENYAN ECONOMY"
+      ],
+      "page_number": 9,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "2.1 Overall Economy",
+      "block_type": "heading",
+      "heading_path": [
+        "2.1 Overall Economy"
+      ],
+      "page_number": 9,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "The economy recorded a strong growth in the first half of 2022. It expanded by 6.0 percent, compared to 6.7 percent in the first half of 2021 (Table 1). Real GDP grew by 6.8 percent and 5.2 percent respectively in the first and second quarters of 2022. The strong growth was supported by enhanced performance of transport and storage, wholesale and retail trade, information and communication, real estate, and financial and insurance. However, the performance of the agriculture sector remained subdued due to the unfavorable weather conditions experienced in the last quarter of 2021 and first half of 2022.  Despite subdued performance in agriculture and weaker global growth, the economy is expected to continue expanding in the second half of 2022, supported by the services sectors. Leading indicators of economic activity show",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.1 Overall Economy"
+      ],
+      "page_number": 9,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "Table 1: Real GDP growth (percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.1 Overall Economy"
+      ],
+      "page_number": 9,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Kenya National Bureau of Statistics and Central Bank of Kenya continued strong performance in the third quarter of 2022, supported by robust activity in a wide range of sectors.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.1 Overall Economy"
+      ],
+      "page_number": 9,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "The main upside risks to growth relates to a faster than expected decline in international oil prices, better than expected improvement in weather conditions as well as faster than expected implementation of proposed Government projects which are expected to support growth prospects. Downside risks to growth remain significant such as further escalation of the war in Ukraine which may further strain global supply chains, further acceleration of inflation and economic decline in advanced economies, and accelerated policy tightening in advanced economies which could lead to financial stress in emerging markets and developing economies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.1 Overall Economy"
+      ],
+      "page_number": 9,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "2.2 Financial Market Developments",
+      "block_type": "heading",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "During the six months to October 2022, central banks across the world raised their policy rates rapidly to contain inflationary pressures. According to the IMF WEO for October 2022, the U.S. Federal Reserve Bank raised the federal funds target rate by 3 percentage points since the beginning of 2022 and provided forward guidance of further rises. Similarly, the Bank of England raised its policy rate by 2 percentage points since the start of the year, despite projecting weak growth. The European Central Bank raised its policy rate by 1.25 percentage points in the period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "The rapid pace of monetary policy tightening particularly in the U.S. resulted in significant U.S. dollar strength during the period, with consequent flight-to-safety effects and volatility in the global financial markets. By October 2022, the U.S. dollar had already appreciated by about 15 percent against the euro, over 10 percent against the renminbi, 25 percent against the yen, and",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "20 percent against the pound sterling. The associated currency movements added to cross-border tensions regarding competitiveness, stoked inflation in many economies given the dominance of dollar pricing in  international trade, and led some countries to tighten policies further to prevent excessive currency depreciation, with negative effects on growth. The U.S. dollar appreciation also led to valuation gains in emerging market and developing economies, while increasing the burden of dollar-denominated public sector debt.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "In  the  domestic  economy, diaspora remittances remained strong over the period (Chart 1a). Activity at the Nairobi Securities Exchange (NSE) remained resilient against heightened global uncertainties, while the rapid tightening of monetary policy in advanced economies resulted in significant capital outflows in most emerging market economies. The NSE 20-Share index declined from 1,800.6 points in April 2022 to 1,677.8 in October 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 1a: Monthly Diaspora Remittances (USD Million) and NSE Index (Jan 1966=100)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya and Nairobi Securities Exchange",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 10,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "Developments  in  international  oil  prices  have implications on the balance of payments position particularly  when  the  proportion  of  imports of  petroleum  products  in  total  imports  is  high. International oil prices declined in the six months to October 2022, mainly driven by reduced demand attributed to the slowdown in global economic activity and COVID-19 related lockdowns in China. Additionally, increased oil production by OPEC also contributed to the fall in global oil prices (Chart 1b) .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 11,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 1b: Murban Oil Prices and the ratio of 12-Month Cumulative Petroleum Product Imports to Total Imports of Goods (percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 11,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Oil price.com and Kenya Revenue Authority",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Financial Market Developments"
+      ],
+      "page_number": 11,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "2.3 Developments in Key Economic Indicators",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3 Developments in Key Economic Indicators"
+      ],
+      "page_number": 11,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "2.3.1 Inflation",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "Overall inflation increased during the six months to October and exceeded the 7.5 percent upper bound of the target range in June 2022, mainly driven by supply side factors. The inflation rate increased to 9.6 percent in October 2022 from 7.1 percent in May, largely on account of elevated food and energy prices (Chart 2a).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "Food inflation rose to 15.8 percent in October from 12.4 percent in May, largely due to prices of maize and milk following reduced supply attributed to depressed rains, and edible oils and wheat products due to the impact of international supply chain disruptions. Food inflation accounted for 5.7 percentage points of overall inflation in October compared to 4.5 percentage points in May. Edible oils, milk, wheat, and maize contributed 3.1 percentage points to overall inflation in October up",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "4|",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "from 2.3 percentage points in May. These food items contributed 9.5 percentage points to food inflation in October from 7.1 percentage points in May.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "Fuel inflation increased to 12.6 percent in October from 9.0 percent in May, mainly due to the scaling down of the fuel subsidy, increases in electricity prices due to higher tariffs, and increases in transport costs. The contribution of fuel inflation to overall inflation rose to 2.3 percentage points in October from 1.3 percentage points in May.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "The NFNF inflation recorded a modest increase in the six months to October 2022, reflecting the impact of taxes implemented in the FY2022/23 and second-round effects of international oil prices. The NFNF inflation stood at 3.8 percent compared to 2.6 percent in May.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 11,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 2a: Inflation by broad category (y/y, percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 12,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Kenya National Bureau of Statistics and Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 12,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "The inflation rates for the broad CPI basket categories except Food and Non-alcoholic beverages; Electricity, Gas and Other Fuels; Furnishings, Household Equipment and Routine Household Maintenance; and, Transport, were within the target range in October 2022 (Chart 2b).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 12,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 2b: Inflation by CPI basket categories (y/y, percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 12,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Kenya National Bureau of Statistics and Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 12,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "During the six months to October, overall inflation increased in the major East African Community (EAC) countries, as well as in South Africa, Ghana, and Nigeria. The main drivers of inflation in these countries were food and energy prices (Chart 2c).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 13,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 2c: Overall inflation in selected African economies (y/y, percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 13,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Respective country central bank websites",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.1 Inflation"
+      ],
+      "page_number": 13,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "2.3.2 Foreign Exchange Market Developments",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 13,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "The foreign exchange market remained relatively stable in the six months to October 2022, supported mainly by improvement in receipts from exports of goods and services as well as resilient remittances. Nevertheless, there was some pressure from a rising import bill, due to higher international oil prices and the strengthening of the U.S dollar against major currencies as well as rapid changes in policy rates in  advanced economies in response to inflationary pressure. Diaspora remittances averaged USD 324.4 million per month in the six months to October 2022 compared to USD 341.6 million per month in the six months to April 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 13,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "The CBK foreign exchange reserves, which stood at USD7,271 million (4.10 months of import cover) as of end October, continued to provide adequate cover and a buffer against any short-term shocks in the foreign exchange market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 13,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "Global financial markets experienced significant volatility  during  the  period  under  review  due  to uncertainties from the ongoing war in Ukraine and high inflation in the advanced economies. As a result, the major currencies in advanced economies and in the region weakened against the U.S. dollar during the period (Charts 3a and 3b) .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 13,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 3a: Normalized Exchange Rates of the Kenya Shilling and Regional Currencies against the US Dollar (April 29, 2022, = 1)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 14,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 14,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 3b: Normalized Exchange Rates of the Kenya Shilling and Major Currencies against the US Dollar (April 29, 2022, = 1)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 14,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.2 Foreign Exchange Market Developments"
+      ],
+      "page_number": 14,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "2.3.3 Balance of Payments Developments",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "The current account balance in the 12-months to October 2022 was a deficit of USD 6,182 million (5.5 percent of GDP) compared to a deficit of USD 5,739 million (5.3 percent of GDP) over a similar period in 2021. The wider deficit was attributed to an increase of  15.1  percent in imports which more than offset the13.5 percent rise in exports in the 12 months to October 2022, relative to a similar period in 2021. The increase in imports was largely due to an increase in  international  oil  prices  attributed  to  increased global demand as economies reopened amid supply disruptions exacerbated by the war in Ukraine. Receipts from services exports increased reflecting continued improvement in international travel and transport. Travel and transport receipts increased by 34.2 percent and 57.4 percent respectively in the 12-months to October 2022 relative to a similar period in 2021.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "The financial account recorded higher net inflows of USD 6,730.2 million in the 12-months to October compared to USD 6,303.9 million over a similar period in 2021. This reflected a decrease in portfolio investment liabilities.  The capital account inflows decreased to USD 174.2 million in the 12-months to October 2022 compared to USD 205.6 million in the 12-months to October 2021, primarily reflecting lower inflows from Government other capital transfers.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "The value of merchandise exports increased to USD 7,437.4 million in the 12-months to October 2022 from USD 6,550.4 million in the 12-months to October 2021, largely reflecting increases in tea (16 percent), manufactured goods (23 percent), raw materials (14 percent), chemicals and related products (13 percent) and re-export (40 percent), which more than offset the 14 percent decline in horticulture (Chart 4a).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 4a: Foreign exchange inflows from major export categories in the 12-Months to October (USD Million)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "Merchandise imports increased to USD 19,819.4 million in the 12-months to October 2022 from USD 17,214.7 million over a similar period in 2021. The increase in imports was mainly driven by imports of petroleum products, which rose by 77.4 percent, chemicals which increased by 14.9 percent and manufactured goods which improved by 0.2 percent. The increase in oil products was attributed to the rising oil prices due to increased global demand as economies reopened. However, imports of machinery and transport declined by 1.7 percent in the period under review (Chart 4b).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 15,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 4b: Imports by Major Categories in the 12-Months to October (USD Million)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 16,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 16,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "During the period under review, the CBK continued to  monitor global developments, particularly the impact of the rapid tightening of monetary policy in advanced economies particularly the U.S., the ongoing war in Ukraine, and the lingering pandemic-related disruptions particularly in China. The U.K. and U.S. accounted for 5.3 percent and 9.2 percent, respectively, of Kenya's total exports in the 12-months to October 2022. Exports to other trading blocs such as the EAC, COMESA and the EU accounted for 26.1 percent, 27.3 percent, and 20.4 percent, respectively, of total exports over the period, compared to 25.5 percent, 28.7 percent, and 22.8 percent of total exports in the 12-months to October 2021 respectively.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.3 Balance of Payments Developments"
+      ],
+      "page_number": 16,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "2.3.4 Banking Sector Developments",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 16,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "The banking sector remained stable and resilient in the six months to October 2022, with strong liquidity and capital adequacy ratios. The average commercial banks liquidity and capital adequacy ratios stood at 52.3 percent and 19.0 percent in October 2022. These ratios were above the minimum statutory limits of 14.5 percent and 20.0 percent, respectively. The ratio of gross non-performing loans (NPLs) to gross loans stood at 13.8 percent in October 2022, a marginal decrease from 14.1 percent in April 2022. Gross NPLs stood at Ksh 504.2 billion in October 2022 compared to Ksh 482.6",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 16,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "billion in April 2022. The main sectors with increased NPLs in the period were manufacturing, energy and water, trade, and agriculture.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 16,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "The total banking sector lending increased by 6.6 percent to Ksh.3,647.9 billion in October 2022, from Ksh.3,421.4 billion in April 2022. This increase was mainly driven by increased demand for loans in the trade, manufacturing, personal and household and energy and water sectors. Customer deposits remained the main source of funding to the banks accounting for 72.3 percent of the banking sector total liabilities and shareholders' funds as of October 2022. Customer deposits increased by 2.2 percent to Ksh 4,620.0 billion in October 2022, from Ksh 4,521.9 billion in April 2022. The banking sector is projected to remain resilient and stable, while credit risk is expected to continue easing in the short to medium term. Liquidity risk is expected to remain stable.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 16,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "Commercial banks' average lending rates increased slightly during the review period, partly reflecting the tightening in the monetary policy stance to contain inflationary pressures. The weighted average lending rate increased to 12.4 percent in October 2022 from 12.2 percent in April 2022, while the weighted average deposit rate increased to 7.0 percent from 6.6 percent (Chart 5) .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 16,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 5: Commercial Banks' Average Interest rates (Percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 17,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.4 Banking Sector Developments"
+      ],
+      "page_number": 17,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "2.3.5 Developments in Private Sector Credit",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3.5 Developments in Private Sector Credit"
+      ],
+      "page_number": 17,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "Private sector credit growth improved in the six months to  October, partly reflecting recovery in economic activities and increased demand for working capital arising from higher input costs. The 12-month growth in  private  sector  credit  increased  to  13.3  percent in  October  2022  from  11.5  percent  in  April  2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.5 Developments in Private Sector Credit"
+      ],
+      "page_number": 17,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "Strong credit growth was observed in transport and communications, manufacturing, trade, agriculture, business services, and consumer durables (Table 2). Growth of credit to the private sector is expected to remain robust in the near term with resilient economic activities, and the previous policy measures, including the MSMEs Credit Guarantee Scheme.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.5 Developments in Private Sector Credit"
+      ],
+      "page_number": 17,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "Table 2: 12-Month Growth in Private Sector Credit (%)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.5 Developments in Private Sector Credit"
+      ],
+      "page_number": 17,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.5 Developments in Private Sector Credit"
+      ],
+      "page_number": 17,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "2.3.6 Interest rates",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "Interbank interest rates remained below the CBR in  the  six  months to October 2022 (Chart 6a). The interbank interest rates decreased slightly in July to Mid-September 2022, partly due to improved liquidity conditions in the money markets following seasonal increased government payments towards the end of the fiscal year. Open market operations remained active.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 6a: Trends in Short Term Interest Rates (Percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "Interest rates on Government securities increased slightly, with the yield curve remaining stable during the period. This stability partly reflected effective coordination of monetary and fiscal policies, particularly in the implementation of the Government domestic borrowing programme (Chart 6b and 6c) .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 6b: Interest rates on Treasury Bills (Percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 18,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "Chart 6c: Government Securities Yield Curve",
+      "block_type": "caption",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 19,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3.6 Interest rates"
+      ],
+      "page_number": 19,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "3.1 Attainment of Monetary Policy Objectives and Targets",
+      "block_type": "heading",
+      "heading_path": [
+        "3.1 Attainment of Monetary Policy Objectives and Targets"
+      ],
+      "page_number": 20,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "During the six months to October 2022, the MPC formulated monetary policy to achieve and maintain overall inflation within the target range as provided by the Cabinet Secretary for the National Treasury at  the  beginning of every fiscal year. The inflation target  provided by the Cabinet Secretary for the National Treasury at the beginning of FY2021/22 and FY2022/23 was 5 percent with an allowable margin of 2.5 percent on either side. As required in the National Treasury's notification on the Price Stability Target, the CBK provided a letter to the Cabinet Secretary for the National Treasury in August 2022, explaining the reasons why overall inflation had exceeded the target, the measures that the MPC and CBK were taking to address the deviation, and the expected period for overall inflation to return to the target band.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Attainment of Monetary Policy Objectives and Targets"
+      ],
+      "page_number": 20,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "The CBR remained the base for monetary policy operations and its adjustments both in direction and magnitude signaled the stance of monetary policy. The monetary policy stance    was operationalised through various instruments including: Open Market Operations (OMO), changes in cash reserve requirements at CBK, and the CBK Standing Facility (Overnight Discount Window which is a lender of last resort facility). To achieve the desired level of money supply, OMO was conducted using Repurchase Agreements (Repos) and Term Auction Deposits (TAD). Monetary policy was conducted in the context of a flexible exchange rate regime.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Attainment of Monetary Policy Objectives and Targets"
+      ],
+      "page_number": 20,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "Growth  in  broad  money  supply,  M3,  remained supportive of economic activities in the period under review. The growth in M3 stood at 5.2 percent in the 12 months to October 2022, partly reflecting reduced net foreign assets of the banking system and lower net lending to government. Growth in private sector credit increased to 13.3 percent in October, with strong lending in manufacturing, trade, business services, and consumer durables.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1 Attainment of Monetary Policy Objectives and Targets"
+      ],
+      "page_number": 20,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "3.2 Implementation of Monetary Policy Reforms",
+      "block_type": "heading",
+      "heading_path": [
+        "3.2 Implementation of Monetary Policy Reforms"
+      ],
+      "page_number": 20,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "The CBK continued to provide updates to the MPC regarding the status of implementation of the White Paper on Modernization of the Monetary Policy Framework and Operations, that was published in July 2021. The updates were provided during the MPC Analytical Meetings. The reforms will enhance the effectiveness of monetary policy and support anchoring of  inflation  expectations.  These  reforms focus on refining macroeconomic modelling and forecasting frameworks in line with changing structure of the economy, improving the functioning of the interbank market to strengthen monetary policy transmission and operations, and continued improvement of communication of monetary policy decisions.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2 Implementation of Monetary Policy Reforms"
+      ],
+      "page_number": 20,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "3.3 Monetary Policy Committee Meetings and Decisions",
+      "block_type": "heading",
+      "heading_path": [
+        "3.3 Monetary Policy Committee Meetings and Decisions"
+      ],
+      "page_number": 20,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "Over the six months to October 2022, the MPC held meetings on May 30, July 27 and September 29, 2022. These meetings were held against a backdrop of continued global uncertainties, volatile financial markets, weaker growth outlook, persistent inflationary pressures, geopolitical tensions, lingering effects of COVID-19 (coronavirus) pandemic, and measures taken by authorities around the world in response to these developments. The meetings reviewed the outcomes of  the  MPC's  previous  decisions  and  measures implemented to mitigate the adverse economic impact and financial disruptions.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3 Monetary Policy Committee Meetings and Decisions"
+      ],
+      "page_number": 20,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "In  the  May meeting, the MPC noted that the global economic outlook had become more uncertain, reflecting the impact of the war in Ukraine, effects of  COVID-19 containment measures in China, and persistent supply chain disruptions. The pace of global economic growth had decelerated mainly reflecting the slowdown in the U.S. and China. Financial market volatility had also increased significantly amid adjustments in monetary policy in advanced",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3 Monetary Policy Committee Meetings and Decisions"
+      ],
+      "page_number": 20,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "economies.  Further,  the  Committee  noted  the adverse impact of the war in Ukraine and other global disruptions on the Kenyan economy through increases in commodity prices particularly fuel, wheat, edible oils  and  fertilizer.  Inflation  increased  in  April  2022 mainly due to higher food and fuel prices. However, this increase was moderated by Government measures to  stabilize  fuel  prices  and  lower  electricity  tariffs. Additionally, the waiver of import duty on maize, and subsidies on fertilizer prices were expected to continue moderating domestic prices. The MPC noted the release of the Economic Survey 2022 which confirmed that the Kenyan economy rebounded strongly in 2021 following the easing of COVID-19 restrictions, with real GDP growing by 7.5 percent from a contraction of 0.3 percent in 2020. Leading economic indicators also showed continued strong performance in the first quarter of 2022, with the economy expected to remain resilient in 2022 despite the downside risks to global growth. The Committee noted the elevated risks to the inflation outlook due to increased global commodity prices and supply chain disruptions and concluded that there was scope for a tightening of the monetary policy in order to anchor inflation expectations. In view of these developments, the MPC decided to raise the CBR from 7.00 percent to 7.50 percent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3 Monetary Policy Committee Meetings and Decisions"
+      ],
+      "page_number": 21,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "The July 2022 meeting was held against the backdrop of  a  weaker  global  outlook,  with  elevated  global inflationary  pressures,  heightened  geopolitical tensions,  high  commodity  prices,  the  COVID-19 (coronavirus) pandemic, and measures taken by authorities around the world in response to these developments. The global economic outlook had become more uncertain, reflecting the adverse effects of the war in Ukraine, continuing pandemic-related disruptions, and supply chain challenges. Global growth was expected to be weaker in 2022, reflecting significant slowdown in economic activity in advanced economies and some emerging markets, especially the U.S., Euro Area, and China. Additionally, global inflationary pressures remained elevated, despite moderation in some commodity prices. Leading indicators for the Kenyan economy showed continued strong performance in the second quarter of 2022, supported by strong activity in transport and storage, wholesale and retail trade, construction, information and communication, and accommodation and food services.  The  economy  was  expected  to  remain robust in 2022, with continued strong performance of the services sector despite the downside risks to global growth. The Committee noted that its action of tightening monetary policy in May 2022 was timely in anticipating emerging inflationary pressures, and its impact was still transmitting through the economy. This action was subsequently complemented by an additional package of fiscal measures by the Government to moderate the prices of specific items. Additionally, the Committee noted that international commodity prices, particularly oil, wheat and edible oils had begun to moderate. These developments were expected to ease domestic inflationary pressures in the near term. The MPC therefore decided to maintain the CBR at 7.50 percent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3 Monetary Policy Committee Meetings and Decisions"
+      ],
+      "page_number": 21,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "The September 2022 meeting was held against a backdrop of significant global uncertainties, volatile financial markets, a weaker growth outlook, persistent inflationary pressures, geopolitical tensions, lingering effects of the COVID-19 (coronavirus) pandemic, and measures taken by authorities around the world in response to these developments. The MPC noted that domestic inflation pressures were expected to remain elevated in the near term, due in part to the scaling down of the Government price support measures, resulting in increases in fuel and electricity prices, the impact of tax measures in the FY 2022/23 Budget, and global inflationary pressures. Volatility in global financial markets had surged amid significant US dollar strength against major currencies, and rapid changes in policy stance in advanced economies in response to inflationary pressures. Leading indicators of economic activity for the Kenyan economy showed continued good performance in the second quarter of  2022,  supported by robust activity in transport and storage, wholesale and retail trade, construction, information and communication, and accommodation and food services. The economy was expected to remain resilient in the remainder of 2022, supported by the services sector despite subdued performance in agriculture and weaker global growth. The Committee noted the sustained inflationary pressures, the elevated global risks and their potential impact on the domestic economy and concluded that there was scope for a further tightening of the monetary policy in order to anchor inflation expectations. In view of these developments, the MPC decided to raise the CBR from 7.50 percent to 8.25 percent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.3 Monetary Policy Committee Meetings and Decisions"
+      ],
+      "page_number": 21,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "4.  POLICY RESPONSES TO THE IMPACT OF THE WAR  IN UKRAINE AND COVID-19 (CORONAVIRUS) PANDEMIC",
+      "block_type": "heading",
+      "heading_path": [
+        "4.  POLICY RESPONSES TO THE IMPACT OF THE WAR  IN UKRAINE AND COVID-19 (CORONAVIRUS) PANDEMIC"
+      ],
+      "page_number": 22,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "During the six months to October 2022, the MPC monitored closely the implications and measures put in place by the Government to mitigate the adverse effects of the war in Ukraine.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.  POLICY RESPONSES TO THE IMPACT OF THE WAR  IN UKRAINE AND COVID-19 (CORONAVIRUS) PANDEMIC"
+      ],
+      "page_number": 22,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "The Government introduced various measures to mitigate the impact of the war in Ukraine on the economy, by targeting rising food and energy prices which had implications on food insecurity and inflation pressures. These measures include subsidies on fuel, fertilizer  and  maize flour, waiver of duty on maize imports and a reduction of electricity tariffs. Kenya's direct exposure to the war in Ukraine is largely through trade linkages. There is limited exposure of the banking sector to the crisis.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.  POLICY RESPONSES TO THE IMPACT OF THE WAR  IN UKRAINE AND COVID-19 (CORONAVIRUS) PANDEMIC"
+      ],
+      "page_number": 22,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "The MPC also continued to monitor the outcomes of the policy and emergency measures deployed at the onset of the COVID-19 pandemic in March 2020, to mitigate the adverse economic effects and financial disruptions from the pandemic. These measures were intended to provide liquidity to the banking sector, mitigate the adverse impact on bank borrowers and facilitate the use of mobile money. The assessment by the MPC showed that these measures ensured continued provision of financial services and provided a buffer against a more adverse impact on the economy. Private sector credit growth continued to strengthen benefiting key sectors of the economy particularly manufacturing, transport and communications, agriculture, real estate and consumer durables. The Credit Guarantee Scheme (CGS) established in October 2020, continued to support additional credit uptake by the vulnerable Micro Small and Medium-sized Enterprises (MSMEs). As at end October 2022, all the seven banks had disbursed loans amounting to Kshs. 891.4 million under the Scheme,",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.  POLICY RESPONSES TO THE IMPACT OF THE WAR  IN UKRAINE AND COVID-19 (CORONAVIRUS) PANDEMIC"
+      ],
+      "page_number": 22,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "On the fiscal front, the Government continued to implement programmes to cushion businesses and the most vulnerable citizens under the Economic Stimulus Programme. Revenues continued to improve reflecting enhanced tax collection efforts and increased economic activity.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.  POLICY RESPONSES TO THE IMPACT OF THE WAR  IN UKRAINE AND COVID-19 (CORONAVIRUS) PANDEMIC"
+      ],
+      "page_number": 22,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "5. OTHER ACTIVITIES OF THE MONETARY POLICY COMMITTEE",
+      "block_type": "heading",
+      "heading_path": [
+        "5. OTHER ACTIVITIES OF THE MONETARY POLICY COMMITTEE"
+      ],
+      "page_number": 23,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "The MPC Surveys conducted during the period as well as regular communication with the key stakeholders facilitated the MPC in its market information gathering process for effective conduct of forward-looking monetary policy. The MPC also continued to simplify its Press Releases to enhance the clarity of information communicated to the public, media, financial sector and other stakeholders.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5. OTHER ACTIVITIES OF THE MONETARY POLICY COMMITTEE"
+      ],
+      "page_number": 23,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "The Private Sector Market Perceptions Survey, CEOs Survey, and the Survey of Hotels, revealed sustained optimism about economic growth prospects for 2022.  Respondents attributed this  optimism  to positive sentiments and renewed investor confidence following the conclusion of the elections, increased business activity post-election, and anticipated new government policies. Nonetheless, respondents remained concerned about domestic and global inflation, energy costs, poor weather conditions, and the continued war in Ukraine. A newly introduced Agriculture Sector Survey revealed that transport costs due to the rise in fuel prices, adverse weather conditions, and the cost of inputs such as seeds and fertilizers were major factors constraining agricultural production.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5. OTHER ACTIVITIES OF THE MONETARY POLICY COMMITTEE"
+      ],
+      "page_number": 23,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "Over the period, the MPC Chairman held virtual stakeholder meetings with the Chief Executives of commercial and microfinance banks after every MPC Meeting in order to apprise them on the background to its decisions and to obtain feedback. In addition, the Chairman of the MPC held virtual press conferences after  each  MPC  meeting  to  brief  the  media  on the background to MPC decisions and measures undertaken by the CBK to support macroeconomic stability as well as mitigate the impact of the war in Ukraine and COVID-19 on the economy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5. OTHER ACTIVITIES OF THE MONETARY POLICY COMMITTEE"
+      ],
+      "page_number": 23,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "The Governor also held virtual meetings with various potential investors and representative from the private sector to brief them on economic developments and the outlook for the economy. The MPC continued to monitor the implementation of monetary policy decisions by the CBK. The Committee also continued interaction with other government agencies such as the National Treasury and Kenya National Bureau of Statistics (KNBS) on various data issues.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5. OTHER ACTIVITIES OF THE MONETARY POLICY COMMITTEE"
+      ],
+      "page_number": 23,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "6. CONCLUSION",
+      "block_type": "heading",
+      "heading_path": [
+        "6. CONCLUSION"
+      ],
+      "page_number": 24,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "The monetary policy measures adopted by the MPC in the six months to October 2022 continued to support price  stability.  The  stability  of  the  exchange  rate moderated any possible distortions that imported inflation would have had on the stability of domestic prices.  The  continued coordination of fiscal and monetary policies during the period also supported the achievement of price and market stability.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6. CONCLUSION"
+      ],
+      "page_number": 24,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "The CBK will continue to monitor developments in  the  domestic  and global economy, the effects of  the  war  in  Ukraine  and  the      pandemic  on  the economy, the transmission of the monetary policy and other measures previously taken, and their effects on price stability. The MPC will also continue to monitor implementation of the reforms outlined in the White Paper on Modernization of The Monetary Policy Framework and Operations, in order to enhance the effectiveness of monetary policy and support anchoring of inflation expectations.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6. CONCLUSION"
+      ],
+      "page_number": 24,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "ANNEX",
+      "block_type": "heading",
+      "heading_path": [
+        "ANNEX"
+      ],
+      "page_number": 25,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "ANNEX:  EVENTS OF PARTICULAR RELEVANCE TO MONETARY POLICY (MAY - OCTOBER 2022)",
+      "block_type": "heading",
+      "heading_path": [
+        "ANNEX:  EVENTS OF PARTICULAR RELEVANCE TO MONETARY POLICY (MAY - OCTOBER 2022)"
+      ],
+      "page_number": 25,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "GLOSSARY OF KEY TERMS",
+      "block_type": "heading",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "Overall Inflation: This is a measure of inflation in the economy measured by the month-on-month movement of indices of all consumer price items of goods and services sampled by the KNBS. It is affected by commodity components in the market that may experience sudden inflationary spikes such as food or energy.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "Reserve Money: These are CBK's monetary liabilities comprising currency in circulation (currency outside banks and cash held by commercial banks in their tills) and deposits of both commercial banks and non-bank financial institutions held with the CBK. It excludes Government deposits.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "Money Supply: Money supply is the sum of currency outside banks and deposit liabilities of commercial banks. Deposit liabilities are defined in narrower and broader terms as follows: narrow money (M1); broad money (M2); and extended broad money (M3). These aggregates are defined as follows:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "M1 - Currency outside banking system + demand deposits",
+      "block_type": "list_item",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "M2 - M1 + time and savings deposits + certificates of deposits + deposit Liabilities of Non-Bank Financial Institutions (NBFIs)",
+      "block_type": "list_item",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "M3 - M2 + residents' foreign currency deposits",
+      "block_type": "list_item",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "Central Bank Rate (CBR): This is the lowest rate of interest that the CBK charges on overnight loans to commercial banks. It is reviewed and announced by the Monetary Policy Committee at least every two months as part of its decisions. It is used by the commercial banks as a reference interest rate hence transmits to the financial sector and signals the CBK's monetary policy stance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "Cash Ratio Requirement (CRR): This is the ratio of deposits of commercial banks and non-bank financial institutions maintained with the CBK (as reserves) to commercial banks total deposit liabilities. The ratio is fixed by CBK as provided for by the law.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "CBK Discount Window: The CBK Discount Window is a collateralized facility of last resort for banks. It has restrictive guidelines controlling access. The Discount Window plays a significant role in ensuring banking sector stability by offering overnight liquidity as a last resort. It is anchored on the CBR with a prescribed penalty.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "Open Market Operations (OMO): The act of buying or selling of government securities from or to commercial banks by the Central Bank in order to achieve a desired level of bank reserves. OMO is carried out in the context of an auction where commercial banks bid through the Reuters dealing system or by phone/fax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Repurchase Agreement (Repo): Repos/reverse repos are agreements between the CBK and commercial banks to purchase/sell Government securities from/to commercial banks at agreed interest rates (REPO rate) for a specified period with an understanding that the commercial bank will repurchase/resell the security from/to the CBK at the end of the period. The period can be varied by the CBK.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "Term Auction Deposits (TAD): The TAD is used in exceptional market conditions when the securities held by the CBK for Repo purposes are exhausted or when CBK considers it desirable to offer longer tenor options. The CBK seeks to acquire deposits through a transfer agreement from commercial banks at an auction price but with no exchange of security guarantee.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "Horizontal Repo: This is an interbank Repo instrument which recognises Government securities as collateral for borrowing. The instrument has a variable tenor and allows commercial banks without credit lines with other banks to access credit from the interbank market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "Interbank Market: The interbank market is a critical channel for distributing liquidity that reduces the need for banks to access the CBK Overnight Discount Window. However, since not all banks have credit lines with each other, it is not a perfectly operating market and therefore banks may come to the Window as a last resort. The interest rates charged by banks reflect an individual bank's perception of the risk of the particular bank borrower and also the tightening liquidity in the market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 26,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "Haile Selasi Avenu P.O Box 60000 - 00200 Nairob |Tel: (+254) 20 - 286 0000 / 286 1000 / 286 3000",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 28,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "21 |",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 28,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "Monetary Policy Committee Report, October 2022",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 28,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "w",
+      "block_type": "paragraph",
+      "heading_path": [
+        "GLOSSARY OF KEY TERMS"
+      ],
+      "page_number": 28,
+      "block_index": 138,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "cbk_29th_monetary_policy_committee_repor_table_000",
+      "caption": "",
+      "heading_path": [
+        "2.1 Overall Economy"
+      ],
+      "page_number": 9,
+      "table_index": 0,
+      "markdown": "| Growth Rates.                         |   2021.Q1 |   2021.Q2 |   2021.Q3 |   2021.Q4 |   2021 Annual.2021 Annual |   2022.Q1 |   2022.Q2 |   2021H1.2021H1 |   2022H1.2022H1 |\n|:--------------------------------------|----------:|----------:|----------:|----------:|--------------------------:|----------:|----------:|----------------:|----------------:|\n| 1. Agriculture                        |       0.4 |      -0.5 |       0.6 |      -1.2 |                      -0.2 |      -0.7 |      -2.1 |             0   |            -1.5 |\n| 2. Non-Agriculture (o/w)              |       3.2 |      14.4 |      11.1 |       9.2 |                       9.4 |       8.7 |       7.2 |             8.6 |             7.9 |\n| 2.1 Industry                          |       4.3 |       9.2 |       8.8 |       6.6 |                       7.2 |       5.5 |       5.6 |             6.7 |             5.6 |\n| Mining& Quarrying                     |      10.7 |      10.9 |      16.4 |      34.5 |                      18   |      23.8 |      22.6 |            10.8 |            23.2 |\n| Manufacturing                         |       2.1 |      11.3 |      10.2 |       4.9 |                       6.9 |       3.7 |       3.6 |             6.5 |             3.6 |\n| Electricity& water supply             |       3.6 |       7.2 |       6.4 |       2.8 |                       5   |       1.9 |       5   |             5.4 |             3.5 |\n| Construction                          |       6.8 |       6.8 |       6.7 |       6   |                       6.6 |       6.4 |       5.8 |             6.8 |             6.1 |\n| 2.2 Services                          |       3.1 |      15.6 |      11.7 |       9.2 |                       9.8 |       9.2 |       7.7 |             9.1 |             8.4 |\n| Wholesale& Retail Trade               |       7.5 |       9.2 |       6.4 |       8.4 |                       7.9 |       8.7 |       8.2 |             8.3 |             8.5 |\n| Accommodation & Food Services         |     -33   |      90.1 |     127.5 |     118.6 |                      52.5 |      56.2 |      22   |             6.1 |            36.7 |\n| Transport& Storage                    |      -7.9 |      18.6 |      14.2 |       6.5 |                       7.2 |       7.8 |       7.1 |             4.2 |             7.4 |\n| Information & Communication           |      10.1 |      17.1 |       4.1 |       5.3 |                       8.8 |       6.1 |       6.6 |            13.4 |             6.3 |\n| Financial& Insurance                  |      11.8 |      17.3 |      11.8 |       9.9 |                      12.5 |      14.7 |      11.6 |            14.6 |            13.1 |\n| Public administration                 |       6.8 |       7.6 |       4.8 |       3.3 |                       5.6 |       6.4 |       4.2 |             7.3 |             5.2 |\n| Professional, Admin.& SupportServices |     -13   |      18.3 |      13.4 |       8.1 |                       5.7 |      14.9 |      11.2 |             0.7 |            13   |\n| Real estate                           |       6.7 |       7.4 |       7.1 |       5.7 |                       6.7 |       6.1 |       5.5 |             7.1 |             5.8 |\n| Education                             |      11.5 |      31.6 |      28.3 |      18   |                      21.4 |       6.2 |       6.7 |            20.1 |             6.5 |\n| Health                                |       5.8 |       6.2 |       4.1 |       7.8 |                       6   |       5   |       4.8 |             6   |             4.9 |\n| Other services                        |      -8.4 |      28.8 |      17.7 |      16.8 |                      12.6 |      10.8 |       6.7 |             8   |             8.6 |\n| FISIM                                 |       4.9 |       2.8 |       5.1 |       8.7 |                       5.5 |       6.5 |       4.9 |             3.9 |             5.7 |\n| 2.3Taxes onproducts                   |       1.8 |      18.5 |      12.5 |      15.7 |                      11.9 |      11.7 |       7.3 |             9.4 |             9.5 |\n| Real GDP Growth                       |       2.7 |      11   |       9.3 |       7.4 |                       7.5 |       6.8 |       5.2 |             6.7 |             6   |",
+      "records": [
+        {
+          "Growth Rates.": "1. Agriculture",
+          "2021.Q1": "0.4",
+          "2021.Q2": "-0.5",
+          "2021.Q3": "0.6",
+          "2021.Q4": "-1.2",
+          "2021 Annual.2021 Annual": "-0.2",
+          "2022.Q1": "-0.7",
+          "2022.Q2": "-2.1",
+          "2021H1.2021H1": "0.0",
+          "2022H1.2022H1": "-1.5"
+        },
+        {
+          "Growth Rates.": "2. Non-Agriculture (o/w)",
+          "2021.Q1": "3.2",
+          "2021.Q2": "14.4",
+          "2021.Q3": "11.1",
+          "2021.Q4": "9.2",
+          "2021 Annual.2021 Annual": "9.4",
+          "2022.Q1": "8.7",
+          "2022.Q2": "7.2",
+          "2021H1.2021H1": "8.6",
+          "2022H1.2022H1": "7.9"
+        },
+        {
+          "Growth Rates.": "2.1 Industry",
+          "2021.Q1": "4.3",
+          "2021.Q2": "9.2",
+          "2021.Q3": "8.8",
+          "2021.Q4": "6.6",
+          "2021 Annual.2021 Annual": "7.2",
+          "2022.Q1": "5.5",
+          "2022.Q2": "5.6",
+          "2021H1.2021H1": "6.7",
+          "2022H1.2022H1": "5.6"
+        },
+        {
+          "Growth Rates.": "Mining& Quarrying",
+          "2021.Q1": "10.7",
+          "2021.Q2": "10.9",
+          "2021.Q3": "16.4",
+          "2021.Q4": "34.5",
+          "2021 Annual.2021 Annual": "18.0",
+          "2022.Q1": "23.8",
+          "2022.Q2": "22.6",
+          "2021H1.2021H1": "10.8",
+          "2022H1.2022H1": "23.2"
+        },
+        {
+          "Growth Rates.": "Manufacturing",
+          "2021.Q1": "2.1",
+          "2021.Q2": "11.3",
+          "2021.Q3": "10.2",
+          "2021.Q4": "4.9",
+          "2021 Annual.2021 Annual": "6.9",
+          "2022.Q1": "3.7",
+          "2022.Q2": "3.6",
+          "2021H1.2021H1": "6.5",
+          "2022H1.2022H1": "3.6"
+        },
+        {
+          "Growth Rates.": "Electricity& water supply",
+          "2021.Q1": "3.6",
+          "2021.Q2": "7.2",
+          "2021.Q3": "6.4",
+          "2021.Q4": "2.8",
+          "2021 Annual.2021 Annual": "5.0",
+          "2022.Q1": "1.9",
+          "2022.Q2": "5.0",
+          "2021H1.2021H1": "5.4",
+          "2022H1.2022H1": "3.5"
+        },
+        {
+          "Growth Rates.": "Construction",
+          "2021.Q1": "6.8",
+          "2021.Q2": "6.8",
+          "2021.Q3": "6.7",
+          "2021.Q4": "6.0",
+          "2021 Annual.2021 Annual": "6.6",
+          "2022.Q1": "6.4",
+          "2022.Q2": "5.8",
+          "2021H1.2021H1": "6.8",
+          "2022H1.2022H1": "6.1"
+        },
+        {
+          "Growth Rates.": "2.2 Services",
+          "2021.Q1": "3.1",
+          "2021.Q2": "15.6",
+          "2021.Q3": "11.7",
+          "2021.Q4": "9.2",
+          "2021 Annual.2021 Annual": "9.8",
+          "2022.Q1": "9.2",
+          "2022.Q2": "7.7",
+          "2021H1.2021H1": "9.1",
+          "2022H1.2022H1": "8.4"
+        },
+        {
+          "Growth Rates.": "Wholesale& Retail Trade",
+          "2021.Q1": "7.5",
+          "2021.Q2": "9.2",
+          "2021.Q3": "6.4",
+          "2021.Q4": "8.4",
+          "2021 Annual.2021 Annual": "7.9",
+          "2022.Q1": "8.7",
+          "2022.Q2": "8.2",
+          "2021H1.2021H1": "8.3",
+          "2022H1.2022H1": "8.5"
+        },
+        {
+          "Growth Rates.": "Accommodation & Food Services",
+          "2021.Q1": "-33.0",
+          "2021.Q2": "90.1",
+          "2021.Q3": "127.5",
+          "2021.Q4": "118.6",
+          "2021 Annual.2021 Annual": "52.5",
+          "2022.Q1": "56.2",
+          "2022.Q2": "22.0",
+          "2021H1.2021H1": "6.1",
+          "2022H1.2022H1": "36.7"
+        },
+        {
+          "Growth Rates.": "Transport& Storage",
+          "2021.Q1": "-7.9",
+          "2021.Q2": "18.6",
+          "2021.Q3": "14.2",
+          "2021.Q4": "6.5",
+          "2021 Annual.2021 Annual": "7.2",
+          "2022.Q1": "7.8",
+          "2022.Q2": "7.1",
+          "2021H1.2021H1": "4.2",
+          "2022H1.2022H1": "7.4"
+        },
+        {
+          "Growth Rates.": "Information & Communication",
+          "2021.Q1": "10.1",
+          "2021.Q2": "17.1",
+          "2021.Q3": "4.1",
+          "2021.Q4": "5.3",
+          "2021 Annual.2021 Annual": "8.8",
+          "2022.Q1": "6.1",
+          "2022.Q2": "6.6",
+          "2021H1.2021H1": "13.4",
+          "2022H1.2022H1": "6.3"
+        },
+        {
+          "Growth Rates.": "Financial& Insurance",
+          "2021.Q1": "11.8",
+          "2021.Q2": "17.3",
+          "2021.Q3": "11.8",
+          "2021.Q4": "9.9",
+          "2021 Annual.2021 Annual": "12.5",
+          "2022.Q1": "14.7",
+          "2022.Q2": "11.6",
+          "2021H1.2021H1": "14.6",
+          "2022H1.2022H1": "13.1"
+        },
+        {
+          "Growth Rates.": "Public administration",
+          "2021.Q1": "6.8",
+          "2021.Q2": "7.6",
+          "2021.Q3": "4.8",
+          "2021.Q4": "3.3",
+          "2021 Annual.2021 Annual": "5.6",
+          "2022.Q1": "6.4",
+          "2022.Q2": "4.2",
+          "2021H1.2021H1": "7.3",
+          "2022H1.2022H1": "5.2"
+        },
+        {
+          "Growth Rates.": "Professional, Admin.& SupportServices",
+          "2021.Q1": "-13.0",
+          "2021.Q2": "18.3",
+          "2021.Q3": "13.4",
+          "2021.Q4": "8.1",
+          "2021 Annual.2021 Annual": "5.7",
+          "2022.Q1": "14.9",
+          "2022.Q2": "11.2",
+          "2021H1.2021H1": "0.7",
+          "2022H1.2022H1": "13.0"
+        },
+        {
+          "Growth Rates.": "Real estate",
+          "2021.Q1": "6.7",
+          "2021.Q2": "7.4",
+          "2021.Q3": "7.1",
+          "2021.Q4": "5.7",
+          "2021 Annual.2021 Annual": "6.7",
+          "2022.Q1": "6.1",
+          "2022.Q2": "5.5",
+          "2021H1.2021H1": "7.1",
+          "2022H1.2022H1": "5.8"
+        },
+        {
+          "Growth Rates.": "Education",
+          "2021.Q1": "11.5",
+          "2021.Q2": "31.6",
+          "2021.Q3": "28.3",
+          "2021.Q4": "18.0",
+          "2021 Annual.2021 Annual": "21.4",
+          "2022.Q1": "6.2",
+          "2022.Q2": "6.7",
+          "2021H1.2021H1": "20.1",
+          "2022H1.2022H1": "6.5"
+        },
+        {
+          "Growth Rates.": "Health",
+          "2021.Q1": "5.8",
+          "2021.Q2": "6.2",
+          "2021.Q3": "4.1",
+          "2021.Q4": "7.8",
+          "2021 Annual.2021 Annual": "6.0",
+          "2022.Q1": "5.0",
+          "2022.Q2": "4.8",
+          "2021H1.2021H1": "6.0",
+          "2022H1.2022H1": "4.9"
+        },
+        {
+          "Growth Rates.": "Other services",
+          "2021.Q1": "-8.4",
+          "2021.Q2": "28.8",
+          "2021.Q3": "17.7",
+          "2021.Q4": "16.8",
+          "2021 Annual.2021 Annual": "12.6",
+          "2022.Q1": "10.8",
+          "2022.Q2": "6.7",
+          "2021H1.2021H1": "8.0",
+          "2022H1.2022H1": "8.6"
+        },
+        {
+          "Growth Rates.": "FISIM",
+          "2021.Q1": "4.9",
+          "2021.Q2": "2.8",
+          "2021.Q3": "5.1",
+          "2021.Q4": "8.7",
+          "2021 Annual.2021 Annual": "5.5",
+          "2022.Q1": "6.5",
+          "2022.Q2": "4.9",
+          "2021H1.2021H1": "3.9",
+          "2022H1.2022H1": "5.7"
+        },
+        {
+          "Growth Rates.": "2.3Taxes onproducts",
+          "2021.Q1": "1.8",
+          "2021.Q2": "18.5",
+          "2021.Q3": "12.5",
+          "2021.Q4": "15.7",
+          "2021 Annual.2021 Annual": "11.9",
+          "2022.Q1": "11.7",
+          "2022.Q2": "7.3",
+          "2021H1.2021H1": "9.4",
+          "2022H1.2022H1": "9.5"
+        },
+        {
+          "Growth Rates.": "Real GDP Growth",
+          "2021.Q1": "2.7",
+          "2021.Q2": "11.0",
+          "2021.Q3": "9.3",
+          "2021.Q4": "7.4",
+          "2021 Annual.2021 Annual": "7.5",
+          "2022.Q1": "6.8",
+          "2022.Q2": "5.2",
+          "2021H1.2021H1": "6.7",
+          "2022H1.2022H1": "6.0"
+        }
+      ],
+      "columns": [
+        "Growth Rates.",
+        "2021.Q1",
+        "2021.Q2",
+        "2021.Q3",
+        "2021.Q4",
+        "2021 Annual.2021 Annual",
+        "2022.Q1",
+        "2022.Q2",
+        "2021H1.2021H1",
+        "2022H1.2022H1"
+      ]
+    },
+    {
+      "table_id": "cbk_29th_monetary_policy_committee_repor_table_001",
+      "caption": "",
+      "heading_path": [
+        "2.3.5 Developments in Private Sector Credit"
+      ],
+      "page_number": 17,
+      "table_index": 1,
+      "markdown": "|                                |   Oct-21 |   Dec-21 |   Jan-22 |   Feb-22 |   Mar-22 |   Apr-22 |   May-22 |   Jun-22 |   Jul-22 |   Aug-22 |   Sep-22 |   Oct-22 |\n|:-------------------------------|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|---------:|\n| Total Credit to Private Sector |      7.8 |      8.6 |      8.8 |      9.1 |     10.9 |     11.5 |     11.9 |     12.3 |     14.2 |     12.5 |     12.9 |     13.3 |\n| Agriculture                    |      2.7 |      0.5 |      1.3 |      3   |      7.7 |      6.4 |     11.6 |     12.5 |     10.8 |     19.2 |     17   |     21.7 |\n| Manufacturing                  |     10.9 |     13.1 |      9.7 |      7.6 |      9.9 |     12   |     15.5 |     15.2 |     16.1 |     15.2 |     14.2 |     17.5 |\n| Trade                          |      5.5 |      8.5 |      9.6 |      8.9 |     10.4 |     10.7 |      9.1 |     11.6 |     15.2 |     13.3 |     16.4 |     15.3 |\n| Building& construction         |     -0.5 |      1.9 |      2.9 |      7.9 |      6.4 |      8.2 |      9   |     13.9 |     14.1 |     11.5 |     12.5 |      8   |\n| Transport& communication       |      9.6 |     14.3 |     20.7 |     24.1 |     25   |     28.9 |     26.5 |     22.2 |     27   |     13.5 |     21.6 |     22.8 |\n| Finance and insurance          |      8.9 |      5.8 |      3.5 |      3.6 |      3.6 |      5.8 |      5.3 |      6.5 |      2.8 |      1.2 |      0.2 |      5.4 |\n| Real estate                    |      2.4 |      0.6 |      0.5 |      0.7 |      0.5 |      0.8 |      0.8 |      0.5 |      1.7 |      1   |      0.1 |      1.6 |\n| Mining& quarrying              |      6.2 |     42.9 |     24.9 |    -10.7 |     -4.9 |     28.3 |     47.9 |     28.5 |     78.6 |     97.2 |     57.4 |     53.5 |\n| Private households             |      2.7 |      3.7 |      4.3 |      5   |      7.5 |      6.7 |      7.5 |      6.1 |      7.6 |      7.8 |      7.8 |      5.9 |\n| Consumer durables              |     16.5 |     15   |     14.6 |     14   |     15.6 |     16.1 |     15.1 |     14.7 |     14.8 |     14.3 |     14.4 |     14   |\n| Business services              |      8.2 |      9.5 |      8.4 |     11.6 |     14.7 |     12.2 |     11.3 |     15.2 |     16.9 |     16.1 |     12.5 |     13.2 |\n| Other activities               |     64.1 |     38.9 |     46.8 |     49.7 |     60.5 |     53.6 |     57.5 |     57.2 |     69.8 |     60.8 |     53.8 |     49.8 |",
+      "records": [
+        {
+          "": "Total Credit to Private Sector",
+          "Oct-21": "7.8",
+          "Dec-21": "8.6",
+          "Jan-22": "8.8",
+          "Feb-22": "9.1",
+          "Mar-22": "10.9",
+          "Apr-22": "11.5",
+          "May-22": "11.9",
+          "Jun-22": "12.3",
+          "Jul-22": "14.2",
+          "Aug-22": "12.5",
+          "Sep-22": "12.9",
+          "Oct-22": "13.3"
+        },
+        {
+          "": "Agriculture",
+          "Oct-21": "2.7",
+          "Dec-21": "0.5",
+          "Jan-22": "1.3",
+          "Feb-22": "3.0",
+          "Mar-22": "7.7",
+          "Apr-22": "6.4",
+          "May-22": "11.6",
+          "Jun-22": "12.5",
+          "Jul-22": "10.8",
+          "Aug-22": "19.2",
+          "Sep-22": "17.0",
+          "Oct-22": "21.7"
+        },
+        {
+          "": "Manufacturing",
+          "Oct-21": "10.9",
+          "Dec-21": "13.1",
+          "Jan-22": "9.7",
+          "Feb-22": "7.6",
+          "Mar-22": "9.9",
+          "Apr-22": "12.0",
+          "May-22": "15.5",
+          "Jun-22": "15.2",
+          "Jul-22": "16.1",
+          "Aug-22": "15.2",
+          "Sep-22": "14.2",
+          "Oct-22": "17.5"
+        },
+        {
+          "": "Trade",
+          "Oct-21": "5.5",
+          "Dec-21": "8.5",
+          "Jan-22": "9.6",
+          "Feb-22": "8.9",
+          "Mar-22": "10.4",
+          "Apr-22": "10.7",
+          "May-22": "9.1",
+          "Jun-22": "11.6",
+          "Jul-22": "15.2",
+          "Aug-22": "13.3",
+          "Sep-22": "16.4",
+          "Oct-22": "15.3"
+        },
+        {
+          "": "Building& construction",
+          "Oct-21": "-0.5",
+          "Dec-21": "1.9",
+          "Jan-22": "2.9",
+          "Feb-22": "7.9",
+          "Mar-22": "6.4",
+          "Apr-22": "8.2",
+          "May-22": "9.0",
+          "Jun-22": "13.9",
+          "Jul-22": "14.1",
+          "Aug-22": "11.5",
+          "Sep-22": "12.5",
+          "Oct-22": "8.0"
+        },
+        {
+          "": "Transport& communication",
+          "Oct-21": "9.6",
+          "Dec-21": "14.3",
+          "Jan-22": "20.7",
+          "Feb-22": "24.1",
+          "Mar-22": "25.0",
+          "Apr-22": "28.9",
+          "May-22": "26.5",
+          "Jun-22": "22.2",
+          "Jul-22": "27.0",
+          "Aug-22": "13.5",
+          "Sep-22": "21.6",
+          "Oct-22": "22.8"
+        },
+        {
+          "": "Finance and insurance",
+          "Oct-21": "8.9",
+          "Dec-21": "5.8",
+          "Jan-22": "3.5",
+          "Feb-22": "3.6",
+          "Mar-22": "3.6",
+          "Apr-22": "5.8",
+          "May-22": "5.3",
+          "Jun-22": "6.5",
+          "Jul-22": "2.8",
+          "Aug-22": "1.2",
+          "Sep-22": "0.2",
+          "Oct-22": "5.4"
+        },
+        {
+          "": "Real estate",
+          "Oct-21": "2.4",
+          "Dec-21": "0.6",
+          "Jan-22": "0.5",
+          "Feb-22": "0.7",
+          "Mar-22": "0.5",
+          "Apr-22": "0.8",
+          "May-22": "0.8",
+          "Jun-22": "0.5",
+          "Jul-22": "1.7",
+          "Aug-22": "1.0",
+          "Sep-22": "0.1",
+          "Oct-22": "1.6"
+        },
+        {
+          "": "Mining& quarrying",
+          "Oct-21": "6.2",
+          "Dec-21": "42.9",
+          "Jan-22": "24.9",
+          "Feb-22": "-10.7",
+          "Mar-22": "-4.9",
+          "Apr-22": "28.3",
+          "May-22": "47.9",
+          "Jun-22": "28.5",
+          "Jul-22": "78.6",
+          "Aug-22": "97.2",
+          "Sep-22": "57.4",
+          "Oct-22": "53.5"
+        },
+        {
+          "": "Private households",
+          "Oct-21": "2.7",
+          "Dec-21": "3.7",
+          "Jan-22": "4.3",
+          "Feb-22": "5.0",
+          "Mar-22": "7.5",
+          "Apr-22": "6.7",
+          "May-22": "7.5",
+          "Jun-22": "6.1",
+          "Jul-22": "7.6",
+          "Aug-22": "7.8",
+          "Sep-22": "7.8",
+          "Oct-22": "5.9"
+        },
+        {
+          "": "Consumer durables",
+          "Oct-21": "16.5",
+          "Dec-21": "15.0",
+          "Jan-22": "14.6",
+          "Feb-22": "14.0",
+          "Mar-22": "15.6",
+          "Apr-22": "16.1",
+          "May-22": "15.1",
+          "Jun-22": "14.7",
+          "Jul-22": "14.8",
+          "Aug-22": "14.3",
+          "Sep-22": "14.4",
+          "Oct-22": "14.0"
+        },
+        {
+          "": "Business services",
+          "Oct-21": "8.2",
+          "Dec-21": "9.5",
+          "Jan-22": "8.4",
+          "Feb-22": "11.6",
+          "Mar-22": "14.7",
+          "Apr-22": "12.2",
+          "May-22": "11.3",
+          "Jun-22": "15.2",
+          "Jul-22": "16.9",
+          "Aug-22": "16.1",
+          "Sep-22": "12.5",
+          "Oct-22": "13.2"
+        },
+        {
+          "": "Other activities",
+          "Oct-21": "64.1",
+          "Dec-21": "38.9",
+          "Jan-22": "46.8",
+          "Feb-22": "49.7",
+          "Mar-22": "60.5",
+          "Apr-22": "53.6",
+          "May-22": "57.5",
+          "Jun-22": "57.2",
+          "Jul-22": "69.8",
+          "Aug-22": "60.8",
+          "Sep-22": "53.8",
+          "Oct-22": "49.8"
+        }
+      ],
+      "columns": [
+        "",
+        "Oct-21",
+        "Dec-21",
+        "Jan-22",
+        "Feb-22",
+        "Mar-22",
+        "Apr-22",
+        "May-22",
+        "Jun-22",
+        "Jul-22",
+        "Aug-22",
+        "Sep-22",
+        "Oct-22"
+      ]
+    },
+    {
+      "table_id": "cbk_29th_monetary_policy_committee_repor_table_002",
+      "caption": "ANNEX:  EVENTS OF PARTICULAR RELEVANCE TO MONETARY POLICY (MAY - OCTOBER 2022)",
+      "heading_path": [
+        "ANNEX:  EVENTS OF PARTICULAR RELEVANCE TO MONETARY POLICY (MAY - OCTOBER 2022)"
+      ],
+      "page_number": 25,
+      "table_index": 2,
+      "markdown": "| 0         | 1                                                                                                                                                                                                      |\n|:----------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Date      | Event of Relevance to Monetary Policy                                                                                                                                                                  |\n| October   | Release of the October 2022 World Economic Outlook (WEO) by the IMF showing the weakest growth profile since 2001 except for the global financial crisis and the acute phase of the COVID-19 pandemic. |\n| September | The MPCraised the Central Bank Rate (CBR) from 7.50 percent to 8.25 percent.                                                                                                                           |\n| August    | Kenya General Elections                                                                                                                                                                                |\n| July      | • The MPCmaintained the Central Bank Rate (CBR) at 7.50 percent. • Release of the July 2022 WEOupdate by the IMF showing weaker global growth outlook.                                                 |\n| May       | The MPCraised the Central Bank Rate (CBR) from 7.00 percent to 7.50 percent.                                                                                                                           |",
+      "records": [
+        {
+          "0": "Date",
+          "1": "Event of Relevance to Monetary Policy"
+        },
+        {
+          "0": "October",
+          "1": "Release of the October 2022 World Economic Outlook (WEO) by the IMF showing the weakest growth profile since 2001 except for the global financial crisis and the acute phase of the COVID-19 pandemic."
+        },
+        {
+          "0": "September",
+          "1": "The MPCraised the Central Bank Rate (CBR) from 7.50 percent to 8.25 percent."
+        },
+        {
+          "0": "August",
+          "1": "Kenya General Elections"
+        },
+        {
+          "0": "July",
+          "1": "• The MPCmaintained the Central Bank Rate (CBR) at 7.50 percent. • Release of the July 2022 WEOupdate by the IMF showing weaker global growth outlook."
+        },
+        {
+          "0": "May",
+          "1": "The MPCraised the Central Bank Rate (CBR) from 7.00 percent to 7.50 percent."
+        }
+      ],
+      "columns": [
+        0,
+        1
+      ]
+    }
+  ]
+}

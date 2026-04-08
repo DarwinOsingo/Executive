@@ -1,0 +1,6241 @@
+{
+  "source_file": "Finance--Act-2022.pdf",
+  "doc_slug": "finance_act_2022",
+  "is_scanned": false,
+  "total_pages": 43,
+  "error": null,
+  "blocks": [
+    {
+      "text": "SPECIAL ISSUE",
+      "block_type": "heading",
+      "heading_path": [
+        "SPECIAL ISSUE"
+      ],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya Gazette Supplement No. 106 (Acts No. 22)",
+      "block_type": "heading",
+      "heading_path": [
+        "Kenya Gazette Supplement No. 106 (Acts No. 22)"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "REPUBLIC OF KENYA",
+      "block_type": "heading",
+      "heading_path": [
+        "REPUBLIC OF KENYA"
+      ],
+      "page_number": 1,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "-------\"",
+      "block_type": "heading",
+      "heading_path": [
+        "-------\""
+      ],
+      "page_number": 1,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "KENYA GAZETTE SUPPLEMENT",
+      "block_type": "heading",
+      "heading_path": [
+        "KENYA GAZETTE SUPPLEMENT"
+      ],
+      "page_number": 1,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "ACTS, 2022",
+      "block_type": "heading",
+      "heading_path": [
+        "ACTS, 2022"
+      ],
+      "page_number": 1,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "NAIROBI, 23rd June, 2022",
+      "block_type": "heading",
+      "heading_path": [
+        "NAIROBI, 23rd June, 2022"
+      ],
+      "page_number": 1,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "CONTENT",
+      "block_type": "heading",
+      "heading_path": [
+        "CONTENT"
+      ],
+      "page_number": 1,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "ActPAGE",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTENT"
+      ],
+      "page_number": 1,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "The Finance Act, 2022  ................................................................................. 249",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTENT"
+      ],
+      "page_number": 1,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER, NAIROBI",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTENT"
+      ],
+      "page_number": 1,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "\"",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTENT"
+      ],
+      "page_number": 2,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "THE FINANCE ACT, 2022",
+      "block_type": "heading",
+      "heading_path": [
+        "THE FINANCE ACT, 2022"
+      ],
+      "page_number": 3,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "No. 22 of 2022",
+      "block_type": "heading",
+      "heading_path": [
+        "No. 22 of 2022"
+      ],
+      "page_number": 3,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "Date of Assent: 21st June, 2022",
+      "block_type": "paragraph",
+      "heading_path": [
+        "No. 22 of 2022"
+      ],
+      "page_number": 3,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "Date of Commencement: See Section 1",
+      "block_type": "paragraph",
+      "heading_path": [
+        "No. 22 of 2022"
+      ],
+      "page_number": 3,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "AN ACT of Parliament to amend the laws relating  to various taxes and duties; and for matters incidental thereto",
+      "block_type": "heading",
+      "heading_path": [
+        "AN ACT of Parliament to amend the laws relating  to various taxes and duties; and for matters incidental thereto"
+      ],
+      "page_number": 3,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "ENACTED by the Parliament of Kenya, as follows-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AN ACT of Parliament to amend the laws relating  to various taxes and duties; and for matters incidental thereto"
+      ],
+      "page_number": 3,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "PART I-PRELIMINARY",
+      "block_type": "heading",
+      "heading_path": [
+        "PART I-PRELIMINARY"
+      ],
+      "page_number": 3,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "1. This  Act  may  be  cited  as  the  Finance  Act,  2022 and shall come into operation or be deemed to have come into operation as follows -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART I-PRELIMINARY"
+      ],
+      "page_number": 3,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! sections 3, 6, 10, 15, 16, 22(b)(ii) and 32, on the 1st January, 2023; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART I-PRELIMINARY"
+      ],
+      "page_number": 3,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! all other sections, on the 1st July, 2022.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART I-PRELIMINARY"
+      ],
+      "page_number": 3,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "PART II-INCOME TAX",
+      "block_type": "heading",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "2. Section  2  of  the  Income  Tax  Act  is  amended  by inserting the following new definitions in proper alphabetical sequence-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "'fair  market  value'  means  the  comparable  market price available in an open and unrestricted market between independent  parties  acting  at  arm's  length  and  under  no compulsion  to  transact,  which  is  expressed  in  terms  of money or money's worth;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "'financial derivative' means a financial instrument the value of which is linked to the value of another instrument underlying the transaction which is to be settled at a future date; and",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "'permanent home' means a place where an individual resides or which is available to that individual for residential  purposes  in  Kenya,  or  where  in  the  opinion  of the  Commissioner  the  individual's  personal  or  economic interests are closest.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "3. Section  3  of  the  Income  Tax  Act  is  amended  in subsection  (2)  by  adding  the  following  new  paragraph immediately after paragraph (h)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "Short title and commencement.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 2 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 3 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 3,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "(i)  gains from financial derivatives, excluding financial derivatives traded at the Nairobi Securities Exchange.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "Section 4A of the Income Tax Act is amended in-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "(a) in subsection (1) by deleting subparagraph (ii) (a) of the proviso and substituting therefor the following new subparagraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "(a)  where  a  foreign  exchange  loss  is  realized by a company whose gross interest paid or payable to related persons and third parties exceeds  thirty  per  cent  of  the  company's earnings before interest, taxes, depreciation and amortization in any financial year;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "(b)  in  subsection  (4)  in  the  definition  of  the  term 'company'  by  inserting  the  words  'or  nondeposit  taking  microfinance  businesses  under the  Microfinance  Act,  2006,  entities  licensed under the Hire Purchase Act and persons exempt under section 16 (2) (j) (iii)' immediately after the expression 'Banking Act (Cap. 488)'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "Section 5 of the Income Tax Act is amended-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (5), by deleting paragraph (a) of the proviso  and  substituting  therefor  the  following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  the  case  of  an  employee  share  ownership plan,  the  value  of  the  benefit  shall  be  the difference between the offer price, per share, at the date the option is granted by the employer, and  the  market  value,  per  share  on  the  date when the employee exercises the option;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  subsection  (6),  by  deleting  paragraph  (a)  and substituting therefor the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the  benefits  chargeable  shall  be  deemed  to have accrued on the date the employee exercises the option.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "6. Section  9  of  the  Income  Tax  Act  is  amended  by adding  the  following  new  subsections  immediately  after subsection (2) -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 4A of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 5 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 9 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART II-INCOME TAX"
+      ],
+      "page_number": 4,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "(3) Where  a resident person enters into a financial  derivatives  contract  with  a  non-resident person, any  gain accruing  to the non-resident person  from  that  arrangement  shall  be  subject  to tax at the rate specified in the Third Schedule.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "(4)  The  provisions  of  subsection  (3)  shall  be carried  out  in  accordance  with  Regulations  made by the Cabinet Secretary.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "7. Section 12E of the Income Tax Act is amended by inserting the following proviso to subsection (1)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that this section shall not apply to a nonresident person with a permanent establishment in Kenya.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "8. Section 15 of the Income Tax Act is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (2)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! by  deleting  the  words  'as  defined  in  the Second Schedule' appearing in paragraph (l);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! by  deleting  paragraph  (w)  and  substituting therefor the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "(w) any donation in that year of income to a charitable  organization  whose  income  is exempt  from  tax  under  paragraph  10  of the  First  Schedule  to  this  Act,  or  to  any project approved by the Cabinet Secretary responsible for matters relating to finance;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) ! by deleting paragraph (y);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by deleting the subsection (4A).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "9. Section 16 of the Income Tax Act is amended in the  proviso  to  subsection  (2)(j)  by  adding  the  following new subparagraphs immediately after subparagraph (iii)(B)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "(C) microfinance  institutions  licensed  and  nondeposit taking microfinance businesses under the Microfinance Act, 2006;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "(D)  entities licensed under the Hire Purchase Act;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "(E) non-deposit  taking  institutions  involved  in lending and leasing business;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 12E of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 15 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 16 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "No. 19 of 2006.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "Cap 507",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 5,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "(F) companies  undertaking  the  manufacture  of human vaccines;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "(G)  companies  engaged  in  manufacturing  whose cumulative  investment  in  the  preceding  five years from the commencement of this provision is at least five billion shillings;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "(H)  companies  engaged  in  manufacturing  whose cumulative investment is at least five  billion shillings:",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that the investment shall have been made outside Nairobi City County and Mombasa County; and",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "(I) holding companies that are regulated under the Capital Markets Act.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "10. The  Income  Tax  Act  is  amended  by  repealing section  18A  and  replacing  it  with  the  following  new section-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "Ascertainment of gains and profits of business in a preferential tax regime.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "18A. (1) Where-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! a resident person carries on business with a related resident person  operating  in  a  preferential tax regime; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! a resident person carries on business with -",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! a  non-resident  person  located in a preferential tax regime; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! an  associated  enterprise  of  a non-resident  person  located  in a preferential tax regime; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) ! a permanent establishment of a non-resident  person  operating in Kenya where the nonresident  person  is  located  in  a preferential tax regime, and  the  business  produces  no gains  or  produces  less  gains",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "than  those  which  would  have",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "Cap. 485 A",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "Repeal and replacement of section 18A of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 6,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "been  expected  to  accrue  from that  business  if  the  business activity was not with a party in a  preferential  tax  regime,  the gains  of  that  resident  person from that business shall be deemed to be the amount which would have been expected to accrue if that business  had  been  conducted by an independent person dealing  at  arm's  length,  or  if none of the parties were located  in a preferential tax regime.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "(2)  For  the  purposes  of  this  section, 'preferential tax regime' means -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! any  Kenyan  legislation,  regulation or administrative practice which provides a preferential rate of tax to such  income  or  profit, including reductions in the tax rate or the tax base; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! a foreign jurisdiction which-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! does not tax income;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! taxes  income  at  a  rate  that  is less than twenty per cent;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) ! does not have a framework for the exchange of information;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) ! does not allow access to banking information; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "(v) ! lacks transparency on corporate  structure,  ownership of legal entities located therein,  beneficial  owners  of income or capital, financial disclosure, or regulatory supervision.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 7,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "11. The  Income  Tax  Act  is  amended  by  repealing section 18B  of the Act and substituting therefor the following new section-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "Application of sections 18C, 18D, 18E and 18F.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "18B. The  provisions  of  sections,  18C, 18D, 18E, and 18F shall apply to returns for the  year  of  income  2022  and  subsequent years of income.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "12. The Income Tax Act is amended by inserting the following new sections immediately after section 18B-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "Notification to the Commissioner.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "18C. (1) A  multinational enterprise group  or  a  constituent  entity,  other  than  an excluded multinational enterprise group, that is resident in Kenya, shall notify the Commissioner, not later than the last day of the reporting financial year of that group-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! whether  or  not  it  is  the  ultimate parent entity of the group;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in case it is not the ultimate parent entity  of  the  group,  whether  or  not it is a surrogate parent entity; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in  case  paragraphs  (a)  and  (b)  do not apply, the identity of the constituent entity which is the ultimate  parent  entity  or  surrogate parent  entity  and  the  tax  residence of that constituent entity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "(2) The notification referred to in subsection (1) shall be made to the Commissioner in such form as the Commissioner may specify.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "Filing of country-bycountry report, master file and local file.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "18D. (1) An ultimate parent entity or a constituent entity of a multinational enterprise  group  with  a  gross  turnover  of ninety-five billion shillings (including extraordinary  or  investment  income)  that  is resident  in  Kenya  shall  file  a  country-bycountry report with the Commissioner of its financial activities in Kenya and for all other",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "Repeal and substitution of section 18B of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "Insertion of new sections 18C, 18D, 18E and 18F in Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 8,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "Finance jurisdiction  where  the  group  has  taxable",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 9,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "presence. (2)  An  ultimate  parent  entity  shall  file the country-by-country  report referred to under  subsection  (1)  not  later  than  twelve months  after  the  last  day  of  the  reporting financial year of the group. (3) In  addition  to  the  provisions  in subsection (1), an ultimate parent entity or a constituent entity of a multinational enterprise group shall file a master file and a local file to the Commissioner  in such manner as the Commissioner may specify. (4)  The  master  file  and  the  local  file shall be filed not later than six months after the last day of the reporting financial year of the multinational enterprise group. (5)  A  country-by-country  report  filed under subsection (1) shall consist of(a) ! the information relating to the identity  of  each  constituent  entity, its  jurisdiction  of  tax  residence,  if different, jurisdiction  where  such entity  is  organized,  and  the  nature of the main  business  activity  or activities of such entity; (b) ! the  group's  aggregate  information including information relating to the  amount  of  revenue,  profit  or loss before income tax, income tax paid, income  tax  accrued, stated capital, accumulated earnings, number  of  employees  and  tangible assets other than cash or cash equivalents with regard to each jurisdiction  where  the  group  has taxable presence; and ! any  other  information  as  may  be",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 9,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "(c) required by the Commissioner.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 9,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "A  master  file  under  subsection  (3) shall contain-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! a detailed overview of the group;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! the group's growth engines;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! a description of the supply chain of the key products and services;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! the group's research and development policy;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "(e) ! a description of  each  constituent entity's contribution to value creation;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "(f) ! information  about  intangible  assets and the group intercompany agreements associated with them;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "(g) ! information on any transfer of intangible  assets  within  the  group during the tax period, including the identity  of  the  constituent  entities involved, the countries  in  which those intangible assets are registered and the consideration paid as part of the transfer;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "(h) ! information about financing activities of the group;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! the consolidated financial statements of the group;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "(j) ! tax rulings, if any, made in respect of the group; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "(k) ! any other information that the Commissioner may require.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "A  local  file  under  subsection  (3) shall contain -",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! details and information on the resident constituent entity's activities  within  the  multinational enterprise group;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! management structure of the resident constituent entity;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 10,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! business strategies including structuring, description of the material-controlled transactions, the resident constituent entity's business and competitive environment;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! the international transactions  and amounts paid to the resident constituent entity or received by the entity; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "(e) ! any other information that the Commissioner may require.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "Where  there  are  more  than  one constituent entities of the same multinational enterprise group that are resident in Kenya, the multinational enterprise group may designate one of such constituent entities as a surrogate parent entity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "(9) A resident surrogate parent entity of a multinational enterprise group shall not be required to file a country-by- country report with  the  Commissioner  with  respect  to  the reporting financial year of the group, if-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the ultimate parent entity is obligated to file a country-bycountry  report  in  its  jurisdiction  of tax residence;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! the jurisdiction in which the ultimate parent entity is resident for tax  purposes  has  an  international agreement and a competent authority agreement in force; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! the  Commissioner  has  not  notified the resident constituent entity in Kenya of a systemic failure, if any.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "(10)  A  resident  constituent  entity  of  a multinational  enterprise  group  shall  not  be required  to  file  a  country-by-country  report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 11,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "Offences and penalties.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "Definitions.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "with  the  Commissioner  with  respect  to  the reporting financial year of the group, if -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! a non-resident surrogate parent entity  files  the  country-by-country report on the group with the competent authority of the tax jurisdiction of the entity;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! the  jurisdiction  in  which  the  nonresident  surrogate  parent  entity  is resident requires the filing of country-by-country reports;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! the competent authority of the jurisdiction in which the nonresident  surrogate  parent  entity  is resident and Kenya have a competent  authority  agreement  for the exchange of information;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! the competent authority in the jurisdiction  where  the  non-resident surrogate parent is resident has not notified Kenya of a systemic failure; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "(e) ! the  non-resident  parent  entity  has notified  the  competent  authority  in the  jurisdiction  of  its  tax  residence that the entity is the designated surrogate parent entity of the group.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "The  Commissioner  shall  maintain the confidentiality of the information contained in a return submitted in accordance  with  section  6(1)  and  section 6A(2) of the Tax Procedures Act, 2015.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "18E. A  person  who  fails  to  comply with the provisions of sections 18C and 18D commits an offence and shall be subject to the penalties prescribed under the Tax Procedures Act, 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "18F. For the purposes of sections 18C, 18D and 18E -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 12,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "'competent authority agreement' means  an agreement between authorized representatives of jurisdictions  which  are parties  to  an  international  agreement  that requires the exchange of country-by-country reports;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 13,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "'consolidated financial statements' means financial statements of a multinational   enterprise group in which the assets, liabilities, income, expenses and cash flows  of  the  ultimate  parent  entity  and  the constituent entities are presented as those of a single enterprise;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 13,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "'constituent entity' means-",
+      "block_type": "heading",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 13,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! any separate business unit of a multinational  enterprise  group  that is included in the consolidated financial statements of the multinational   enterprise group for financial reporting purposes, or which would be so included if equity interests in such business unit  of  a  multinational  enterprise group were traded on a public securities exchange;",
+      "block_type": "list_item",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 13,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! any such business unit that is excluded from the multinational enterprise group's consolidated financial  statements  solely  on  size or materiality grounds;",
+      "block_type": "list_item",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 13,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! any permanent establishment of any separate business unit of the multinational enterprise group included  in  paragraphs  (a)  or  (b) provided that the business unit prepares a separate financial statement for such permanent establishment for financial reporting, regulatory, tax reporting, or internal management control purposes;",
+      "block_type": "list_item",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 13,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 13,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "'a  country-by-country report' means a report filed under section 18D(1) describing the  financial  activities  of  each  constituent entity in all the jurisdictions where the group has taxable presence;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "'excluded multinational enterprise group' means, with respect to any financial year  of  the  group,  a  group  having  total consolidated group revenue of less than the amount specified in section 18D(1);",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "'group' means a collection of enterprises related through ownership or control  such  that  it  is  either  required  to prepare consolidated financial statements for financial reporting purposes under applicable accounting principles or would be so  required  if  equity  interests  in  any  of  the enterprises were traded on a public securities exchange  and  includes  a  single  enterprise with one or more foreign permanent establishments;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "'international agreement' means a bilateral  or  multilateral  tax  agreement  to which Kenya is a party which provides for the  exchange  of  tax  information  between Kenya and other jurisdictions;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "'local  file' means a  file  under  section 18D(7)  containing  material  transactions  of the local taxpayer;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "'master file' means a file under section 18D(6) containing standardized information relevant for all multinational enterprise group members;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "'multinational enterprise group' means a group that includes two or more enterprises  which  are  resident  in  different jurisdictions including an enterprise that carries  on  business  through  a  permanent establishment or through any other entity in another jurisdiction;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "'constituent entity' means-"
+      ],
+      "page_number": 14,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "'reporting financial year'  means  an annual  accounting  period  with  respect  to which the ultimate parent entity of the multinational  enterprise  group  prepares  its financial statements;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "'surrogate  parent  entity'  means  one constituent entity of the multinational enterprise group appointed by such group to file  the  country-by-country  report  in  that constituent entity's jurisdiction of tax residence, on behalf of the group;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "'systemic failure' means failure to comply with the competent authority agreement for reasons other than those provided in the agreement;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "'ultimate parent entity' means an entity that-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! is resident in Kenya for tax purposes;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! is  not  controlled  by  another  entity; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! owns  or  controls  a  multinational enterprise group.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "13. The Income Tax Act is amended by inserting the following new section immediately after section 28 -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "Special Operating Framework Arrangement",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "28A . A company which -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "(a)  is engaged in business under a special operating framework arrangement with the Government;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "(b) incorporated for purposes of undertaking the manufacturer of human vaccines;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "(c)  whose capital investment is at least ten billion shillings,",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "shall be subject to the rate of tax specified in the special operating framework arrangement with the Government.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "Insertion of new section into Cap.470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 15,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "14. Section 31 of the Income Tax Act is amended in subsection  (1)  (a)  by  deleting  the  words  'he  has  paid  a premium for an insurance made by him on his life or the life of his wife or of his child' and substituting therefor the words 'the individual has paid a premium for an insurance made by the individual on the individual's life or the life of the individual's spouse or child'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "15. Section 34 of the Income Tax Act is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (1), by deleting the expression 'five per cent' appearing in paragraph (j) and substituting  therefor  the  expression  'fifteen  per cent';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by  inserting  the  following  proviso  to  paragraph (j)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that in the case of a firm certified by the Nairobi  International  Financial  Centre  Authority that-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! invests five billion shillings in Kenya; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! the  transfer  of  such  investment  is  made  after five years,",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "the  applicable  rate  shall  be  the  rate  that  was prevailing at the time that the investment was made.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in  subsection  (2),  by  inserting  the  following  new paragraph immediately after paragraph (p) -",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "(q) gains from financial derivatives.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "16. Section 35 of the Income Tax Act is amended in subsection  (1)  by  adding  the  following  new  paragraph immediately after paragraph (o) -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "(p) gains from financial derivatives.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "17. Section 37 of the Income Tax Act is amended by deleting subsection (3).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "18. Section 39 of the Income Tax Act is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (2), by deleting the expression 'section 10(e)' and substituting therefor the expression 'section 10(1)(e)';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 31 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 203,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 34 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 204,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 35 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 205,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 37 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 206,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 39 of Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 16,
+      "block_index": 207,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 208,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in subsection (3), by deleting the expression 'section 10(e)' wherever it appears and substituting therefor the expression 'section 10(1)(e)'; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 209,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in subsection (4), by deleting the expression 'section 10(e)' and substituting therefor the expression 'section 10(1)(e)'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 210,
+      "table_ref": null
+    },
+    {
+      "text": "19. The Income Tax Act is amended in section 133 by deleting the expression '31st December, 2022 and substituting therefor the expression '31st December, 2023'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 211,
+      "table_ref": null
+    },
+    {
+      "text": "20. The  First  Schedule  to  the  Income  Tax  Act  is amended by inserting the following paragraphs immediately after paragraph 60-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 212,
+      "table_ref": null
+    },
+    {
+      "text": "61.  Deemed  interest  in  respect  of  an  interest free loan advanced to a company undertaking the manufacture of human vaccines.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 213,
+      "table_ref": null
+    },
+    {
+      "text": "62.  Payments  made  to  non-resident  service providers not having a permanent establishment in Kenya in respect of services provided to a company  undertaking  the  manufacture  of  human vaccines.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 214,
+      "table_ref": null
+    },
+    {
+      "text": "63.  Compensating  tax  accruing  to  a  company undertaking the manufacture of human vaccines.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 215,
+      "table_ref": null
+    },
+    {
+      "text": "64, Dividends paid by a company undertaking the  manufacture  of  human  vaccines  to  any  nonresident person.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 216,
+      "table_ref": null
+    },
+    {
+      "text": "65.  Income  of  a  company  undertaking  the manufacture of human vaccines.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 217,
+      "table_ref": null
+    },
+    {
+      "text": "66. Dividends paid by Special Economic Zone enterprises, developers and operators licensed under the Special Economic Zones Act.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 218,
+      "table_ref": null
+    },
+    {
+      "text": "67. Dividends paid by Special Economic Zone enterprises,  developers  and  operators  to  any  nonresident person.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 219,
+      "table_ref": null
+    },
+    {
+      "text": "21. The  Second  Schedule  to  the  Income  Tax  Act  is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 220,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 133 of Cap.470",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 221,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the First Schedule to Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 222,
+      "table_ref": null
+    },
+    {
+      "text": "No.16 of 2015",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 223,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the Second Schedule to Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 17,
+      "block_index": 224,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 18,
+      "block_index": 225,
+      "table_ref": null
+    },
+    {
+      "text": "No. 22",
+      "block_type": "heading",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 226,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  the  proviso  to  paragraph  (1),  by  deleting  the words 'for supply to the national grid' appearing in the definition of 'manufacture';",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 227,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! at  the  end  of  the  proviso  to  subsection  (1A)  by inserting the following words-",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 228,
+      "table_ref": null
+    },
+    {
+      "text": "'or the investment deduction shall be one hundred and fifty per cent where the cumulative investment  value  for  the  preceding  four  years from  the  date  that  this  provision  comes  into force or the cumulative investment for the succeeding three years outside Nairobi City County  or  Mombasa  County  is  at  least  two billion shillings'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 229,
+      "table_ref": null
+    },
+    {
+      "text": "22. The  Third  Schedule  to  the  Income  Tax  Act  is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 230,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  paragraph  2,  by  inserting  the  following  new items immediately after item (m)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 231,
+      "table_ref": null
+    },
+    {
+      "text": "(n)  in  respect  of  a  company  operating  a  carbon market  exchange  or  emission  trading  system that  is  certified  by  the  Nairobi  International Financial Centre Authority, fifteen per cent for the first ten years from the year of commencement of its operations;",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 232,
+      "table_ref": null
+    },
+    {
+      "text": "(o)  in  respect  of  a  company  operating  a  shipping business in Kenya, fifteen per cent for the first ten  years  from  the  year  of  commencement  of its operations;",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 233,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in paragraph (3) -",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 234,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! by  inserting  the  following  item  in  paragraph (e) immediately after item (i) -",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 235,
+      "table_ref": null
+    },
+    {
+      "text": "(ia) in respect of interest  and  deemed interest  arising  from  a  bearer  bond issued  outside  Kenya  of  at  least  two years  duration  and  interest,  discount or original issue discount, seven and a half per cent of the gross sum payable;",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 236,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! by inserting the following new item immediately after item (q)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 237,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the Third Schedule to Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 18,
+      "block_index": 238,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 19,
+      "block_index": 239,
+      "table_ref": null
+    },
+    {
+      "text": "(r) in the case of gains from financial derivatives, fifteen per cent of such gains.",
+      "block_type": "list_item",
+      "heading_path": [
+        "No. 22"
+      ],
+      "page_number": 19,
+      "block_index": 240,
+      "table_ref": null
+    },
+    {
+      "text": "PART III-STAMP DUTY",
+      "block_type": "heading",
+      "heading_path": [
+        "PART III-STAMP DUTY"
+      ],
+      "page_number": 19,
+      "block_index": 241,
+      "table_ref": null
+    },
+    {
+      "text": "23. Section 117 of the Stamp Duty Act is amended in subsection  (1)  by  inserting  the  following  new  paragraph immediately after paragraph (p)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART III-STAMP DUTY"
+      ],
+      "page_number": 19,
+      "block_index": 242,
+      "table_ref": null
+    },
+    {
+      "text": "(q) an instrument executed in favour of a mortgage refinance company.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART III-STAMP DUTY"
+      ],
+      "page_number": 19,
+      "block_index": 243,
+      "table_ref": null
+    },
+    {
+      "text": "PART IV -VALUE ADDED TAX",
+      "block_type": "heading",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 244,
+      "table_ref": null
+    },
+    {
+      "text": "24. Section  5  of  the  Value  Added  Tax  Act,  2013  is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 245,
+      "table_ref": null
+    },
+    {
+      "text": "(a)  in  subsection  2  by  inserting  the  following  new paragraph immediately after paragraph (aa)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 246,
+      "table_ref": null
+    },
+    {
+      "text": "(ab) in the case of the supply of liquefied petroleum gas including propane, eight percent;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 247,
+      "table_ref": null
+    },
+    {
+      "text": "(b)  in  subsection  (9)  by  deleting  the  words  'sell  or provide  services,  goods  or  other  property'  and substituting therefor the  words  'sell  goods  or provide services'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 248,
+      "table_ref": null
+    },
+    {
+      "text": "25. Section 10 of the Value Added Tax Act, 2013 is amended by inserting the following new subsection immediately after subsection (1)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 249,
+      "table_ref": null
+    },
+    {
+      "text": "(1A) The provisions of subsection (1) shall not apply to taxable supplies made under section 5(7).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 250,
+      "table_ref": null
+    },
+    {
+      "text": "26. Section 17 of the Value Added Tax Act, 2013 is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 251,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  subsection  (1),  by  inserting  the  words  'in  a return for the period' immediately after the words 'deducted by the registered person';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 252,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  subsection  (3),  by  inserting  the  following  new paragraph immediately after paragraph (e)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 253,
+      "table_ref": null
+    },
+    {
+      "text": "(f) in the case of a participant in the Open Tender System for the importation of petroleum products that have been cleared through a nonbonded facility, the custom entry showing the name and PIN of the winner of the tender and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 254,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 117 of Cap. 480.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 255,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 5 of No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 256,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 10 of No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 257,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 17 of No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 19,
+      "block_index": 258,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 259,
+      "table_ref": null
+    },
+    {
+      "text": "the  name  of  the  other  oil  marketing  company participating in the tender:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 260,
+      "table_ref": null
+    },
+    {
+      "text": "Provided  that  the  input  tax  that  may  have  been incurred by an oil marketing company participating  in  the  Open  Tender  System  before the  coming  into  force  of  this  provision  shall  be claimed within twelve months after this provision comes into force.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 261,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in  subsection  (5),  by  inserting  the  following  new paragraph immediately after paragraph (d)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 262,
+      "table_ref": null
+    },
+    {
+      "text": "(e) such excess arises from input tax under subsection (8):",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 263,
+      "table_ref": null
+    },
+    {
+      "text": "Provided  further  that  a  registered  person  who, since  the  commencement  of  subsection  (8)  but before the commencement of this provision, has a credit  arising  from  input  tax  under  subsection  (8) may  apply  for  the  refund  of  excess  tax  within twelve  months  from  the  commencement  of  this provision.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 264,
+      "table_ref": null
+    },
+    {
+      "text": "27. Section 22 of the Value Added Tax Act, 2013 is amended in subsection (4) by adding the following proviso-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 265,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 266,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the  Tax  Procedures  Act,  2015  shall  apply  with regard to imposition of interest and penalties; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 267,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  cases  where  interest  becomes  payable  it  shall not, in aggregate, exceed the principal tax.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 268,
+      "table_ref": null
+    },
+    {
+      "text": "28. The  Value  Added  Tax  Act,  2013  is  amended  by repealing section 30.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 269,
+      "table_ref": null
+    },
+    {
+      "text": "29. Section 34 of the Value Added Tax Act, 2013 is amended in subsection (1) by adding the following proviso-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 270,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that this section shall not apply to persons  supplying  imported  digital  services  over the internet or an electronic network or through a digital marketplace in respect to a turnover threshold of five million shillings.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 271,
+      "table_ref": null
+    },
+    {
+      "text": "30. The First  Schedule  to  the  Value  Added  Tax  Act, 2013 is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 272,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 22 of No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 273,
+      "table_ref": null
+    },
+    {
+      "text": "No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 274,
+      "table_ref": null
+    },
+    {
+      "text": "Repeal of section 30 of No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 275,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 34 of No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 276,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of First Schedule to No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 20,
+      "block_index": 277,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in Section A of Part I-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 278,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! by deleting paragraph 26;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 279,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! by deleting paragraph 63:",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 280,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that notwithstanding this subparagraph,  any  approval  granted  by the Cabinet Secretary before the commencement  thereof  in  respect  of  the supply  of  taxable  goods  and  which  is  in force at such commencement shall continue  to  apply  until  the  supply  of  the exempted taxable goods is made in full.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 281,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) ! by inserting the following new paragraph immediately after paragraph 66-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 282,
+      "table_ref": null
+    },
+    {
+      "text": "66A.Bioethanol  vapour  (BEV)  Stoves classified under HS  Code 7321.11.00 (cooking  appliances  and  plate  warmers for liquid fuel)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 283,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) ! inserting the words 'and pellets' immediately  after  the  word  'briquettes' appearing in paragraph 137; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 284,
+      "table_ref": null
+    },
+    {
+      "text": "(v) ! by inserting the following new paragraphs immediately after paragraph 139-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 285,
+      "table_ref": null
+    },
+    {
+      "text": "! Plant  and  machinery  of  chapter  84 and  85  imported  by  manufacturers of pharmaceutical products or investors in the manufacture of pharmaceutical  products  upon  the recommendation of the Cabinet Secretary responsible for matters relating health.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 286,
+      "table_ref": null
+    },
+    {
+      "text": "! Medical oxygen supplied to registered hospitals.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 287,
+      "table_ref": null
+    },
+    {
+      "text": "! Urine  bags,  adult  diapers,  artificial breasts, colostomy or ileostomy bags for medical use.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 288,
+      "table_ref": null
+    },
+    {
+      "text": "! Inputs and raw materials used in the manufacture of passenger motor vehicles.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 289,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 21,
+      "block_index": 290,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 291,
+      "table_ref": null
+    },
+    {
+      "text": "! Locally Manufactured passenger motor vehicles:",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 292,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that in this paragraph -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 293,
+      "table_ref": null
+    },
+    {
+      "text": "'locally manufactured passenger motor vehicle' means a motor vehicle for the transportation of passengers  which  is  manufactured in Kenya and whose ex-factory value comprises at least thirty percent of local content; and",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 294,
+      "table_ref": null
+    },
+    {
+      "text": "'local content' means parts designed and manufactured in Kenya  by  an  original  equipment manufacturer operating in Kenya.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 295,
+      "table_ref": null
+    },
+    {
+      "text": "! Taxable goods, inputs and raw materials imported or locally purchased by a company which is-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 296,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! engaged in business under a special operating framework arrangement with the Government; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 297,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! incorporated for purposes of undertaking  the  manufacture  of human vaccines; and whose capital investment is at least ten billion shillings,",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 298,
+      "table_ref": null
+    },
+    {
+      "text": "subject  to  approval  of  the  Cabinet Secretary for the National Treasury, on  recommendation  of  the  Cabinet Secretary for health.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 299,
+      "table_ref": null
+    },
+    {
+      "text": "! Such  capital  goods  the  exemption of which the Cabinet Secretary may determine to promote investment in the manufacturing sector:",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 300,
+      "table_ref": null
+    },
+    {
+      "text": "Provided  that the value of such investment is not less than two billion shillings.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 301,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in Part II by deleting paragraph 32;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 302,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in Part II by inserting the following new paragraph immediately after paragraph 33-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 22,
+      "block_index": 303,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 304,
+      "table_ref": null
+    },
+    {
+      "text": "Taxable  goods,  inputs  and  raw  materials imported or locally purchased by a company which-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 305,
+      "table_ref": null
+    },
+    {
+      "text": "(a) is  engaged  in  business  under  a  special operating framework arrangement with the Government; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 306,
+      "table_ref": null
+    },
+    {
+      "text": "(b) is incorporated for purposes of undertaking the  manufacture  of  human  vaccines;  and whose  capital  investment  is  at  least  ten",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 307,
+      "table_ref": null
+    },
+    {
+      "text": "subject to approval of the Cabinet Secretary  for  the  National  Treasury,  on recommendation  of  the  Cabinet  Secretary",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 308,
+      "table_ref": null
+    },
+    {
+      "text": "billion shillings, for health.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 309,
+      "table_ref": null
+    },
+    {
+      "text": "31. The Second Schedule to the Value Added Tax Act, 2013 is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 310,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  Part  A  by  inserting  the  following  paragraph immediately after paragraph 22-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 311,
+      "table_ref": null
+    },
+    {
+      "text": "! The exportation of taxable services in respect of business process outsourcing.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 312,
+      "table_ref": null
+    },
+    {
+      "text": "! Fertilizers of chapter 31.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 313,
+      "table_ref": null
+    },
+    {
+      "text": "! Inputs  or  raw  materials  locally  purchased  or imported  by  manufacturers  of  fertilizer  as approved  from  time  to  time  by  the  Cabinet Secretary responsible for Agriculture.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 314,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in Part B, by deleting paragraph 9.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART IV -VALUE ADDED TAX"
+      ],
+      "page_number": 23,
+      "block_index": 315,
+      "table_ref": null
+    },
+    {
+      "text": "PART V-EXCISE DUTY",
+      "block_type": "heading",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 316,
+      "table_ref": null
+    },
+    {
+      "text": "32. Section 10 of the Excise Duty  Act, 2015  is amended by inserting  the  following  proviso  to  subsection (1) -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 317,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that the Commissioner may, by notice in the Gazette and  with  the  approval  of  the  Cabinet Secretary, exempt specified products from inflation adjustment after considering the circumstances  prevailing  in  the  economy  in  that year in respect of such products.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 318,
+      "table_ref": null
+    },
+    {
+      "text": "33. Section 11 of the Excise Duty  Act, 2015  is amended in paragraph (a) by deleting the words 'other than to a purchaser'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 319,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the Second Schedule to No. 35 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 320,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 10 of No. 23 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 321,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 11of No. 23 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 23,
+      "block_index": 322,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 323,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 324,
+      "table_ref": null
+    },
+    {
+      "text": "34. Section 36 of the Excise Duty  Act, 2015  is amended in subsection (4) by adding the following proviso-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 325,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 326,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the  Tax  Procedures  Act,  2015  shall  apply  with regard to imposition of interest and penalties; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 327,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  cases  where  interest  becomes  payable  it  shall not, in aggregate, exceed the principal tax.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 328,
+      "table_ref": null
+    },
+    {
+      "text": "35. The First Schedule to the Excise Duty Act, 2015 is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 329,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in paragraph 1 of Part I, by deleting the following descriptions and corresponding rates of duty appearing in the second table-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 330,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! electronic cigarettes;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 331,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! cartridges for use in electronic cigarettes;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 332,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  the  second  table  appearing  in  paragraph  1  of Part I-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 333,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! by deleting the expression 'Shs. 12.17 per litre'  in  respect  of  the  tariff  description 'Fruit  juices  (including  grape  must),  and vegetable juices, unfermented and not containing added  spirit, whether  or not containing added sugar or other sweetening matter' and substituting therefor the expression 'Shs. 13.30 per litre';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 334,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! by deleting the expression '10%' in respect of  the  tariff  description  'Cosmetics  and Beauty products of tariff heading No. 3303, 3304, 3305  and  3307'  and  substituting therefor the expression '15%';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 335,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) ! by deleting the expression 'Shs. 121.85 per litre'  in  respect  of  the  tariff  description 'Beer, cider, perry, mead, opaque beer and mixtures of fermented beverages with nonalcoholic beverages and spirituous beverages of alcoholic strength not exceeding 6%' and substituting therefor the expression 'KSh. 134 per litre';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 336,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 36 of No. 23 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 337,
+      "table_ref": null
+    },
+    {
+      "text": "No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 338,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the First Schedule to No. 23 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART V-EXCISE DUTY"
+      ],
+      "page_number": 24,
+      "block_index": 339,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 340,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) ! by deleting the expression 'shs. 208.20 per litre'  in  respect  of  the  tariff  description 'Wines including fortified wines, and other alcoholic beverages obtained by fermentation of fruits' and substituting therefor the expression 'Shs. 229 per litre';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 341,
+      "table_ref": null
+    },
+    {
+      "text": "(v) ! by deleting the expression 'shs. 278.70 per litre'  in  respect  of  the  tariff  description 'Spirits of undenatured ethyl alcohol; spirits liqueurs and other spirituous beverages  of  alcoholic  strength  exceeding 6%' and substituting therefor the expression 'Shs. 335.30 per litre';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 342,
+      "table_ref": null
+    },
+    {
+      "text": "(vi) ! by deleting the expression 'Shs. 13,906.04 per  kg'  in  respect  of  the  tariff  description 'Cigars, cheroots, cigarillos, containing tobacco or tobacco substitutes' and substituting  therefor  the  expression  'Shs. 15,296.6 per kg';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 343,
+      "table_ref": null
+    },
+    {
+      "text": "(vii) ! by deleting the expression ' Shs. 3,447.61 per mille' in respect of the tariff description 'Cigarette with filters (hinge lid and soft cap)' and substituting therefor the expression 'Shs. 3,825.99 per mille';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 344,
+      "table_ref": null
+    },
+    {
+      "text": "(viii) ! by deleting the expression 'Shs. 2,502.74 per mille' in respect of the tariff description 'Cigarettes without filters (plain cigarettes)' and substituting therefor the expression 'Shs. 2,752.97 per mille';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 345,
+      "table_ref": null
+    },
+    {
+      "text": "(ix) ! by deleting the expression 'Shs. 9,734.45 per kg' in respect of the tariff description 'Other manufactured tobacco and manufactured tobacco substitutes; 'homogenous' and 'reconstituted tobacco';  tobacco  extracts  and  essences' and  substituting  therefor  the  expression 'Shs. 10,707.88 per kg';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 346,
+      "table_ref": null
+    },
+    {
+      "text": "(x) ! by deleting the expression 'shs. 36.74 per kg'  in  respect  of  the  tariff  description 'Imported  sugar  confectionary  of  tariff heading  17.04'  and  substituting  therefor the expression 'Shs. 40.37 per kg';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 25,
+      "block_index": 347,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 26,
+      "block_index": 348,
+      "table_ref": null
+    },
+    {
+      "text": "(xi) ! by  deleting  the  tariff  description  'White chocolate, chocolate in blocs, slabs or bars of tariff Nos. 1806.31.00, 1806.32.00, 1806.90.00' and the corresponding rate of excise  duty  and  substituting  therefor  the following new tariff description and corresponding rate of excise duty-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 26,
+      "block_index": 349,
+      "table_ref": null
+    },
+    {
+      "text": "Description",
+      "block_type": "heading",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 350,
+      "table_ref": null
+    },
+    {
+      "text": "Imported White chocolate including chocolate  in  blocks,  slabs  or  bars  of tariff  nos.  1806.31.00,  1806.32.00,  and 1806.90.00",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 351,
+      "table_ref": null
+    },
+    {
+      "text": "Tariff Description",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 352,
+      "table_ref": null
+    },
+    {
+      "text": "Ksh. 242.29 per kg",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 353,
+      "table_ref": null
+    },
+    {
+      "text": "(xii) ! by deleting the expression '10%' in respect of the tariff description 'Jewellery of tariff heading 7113  and  imported  jewellery  of  tariff  heading 7117' and substituting the expression '15%';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 354,
+      "table_ref": null
+    },
+    {
+      "text": "(xiii) ! by deleting the tariff description 'Products containing nicotine or nicotine substitutes intended  for  inhalation  without  combustion  or oral application but excluding medicinal products  approved  by  the  Cabinet  Secretary responsible  for  matters  relating  to  health  and other  manufactured  tobacco  and  manufactured tobacco substitutes that have been homogenized and reconstituted tobacco, tobacco extracts and essences'  and  the  corresponding  rate  of  excise duty and substituting therefor the following new tariff description and corresponding rate of excise duty -",
+      "block_type": "list_item",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 355,
+      "table_ref": null
+    },
+    {
+      "text": "Description",
+      "block_type": "heading",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 356,
+      "table_ref": null
+    },
+    {
+      "text": "Products containing nicotine or nicotine substitutes intended for inhalation  without  combustion  or  oral application but excluding medicinal products approved by the Cabinet Secretary responsible for matters relating to health and other manufactured tobacco and manufactured  tobacco  substitutes  that have been homogenized and reconstituted tobacco, tobacco extracts and essences",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 357,
+      "table_ref": null
+    },
+    {
+      "text": "Tariff description",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 358,
+      "table_ref": null
+    },
+    {
+      "text": "Ksh. 1,500",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Description"
+      ],
+      "page_number": 26,
+      "block_index": 359,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 360,
+      "table_ref": null
+    },
+    {
+      "text": "(xiv) ! by  inserting  the  expression  'and  3923.90.90' immediately  after  the  expression  '3923.30.00' appearing  in  the  tariff  description  'Imported Articles of plastic of tariff heading 3923.30.00';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 361,
+      "table_ref": null
+    },
+    {
+      "text": "(xv) ! by inserting the expression 'and imported potatoes of tariff numbers 0710.10.00, 2004.10.00  and  2005.20.00'  immediately  after the  expression  '07.01'  appearing  in  the  tariff description  'Imported  potatoes,  potato  crisps and potato chips of tariff heading 07.01'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 362,
+      "table_ref": null
+    },
+    {
+      "text": "(xvi) ! by deleting the following tariff description and the corresponding rates-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 363,
+      "table_ref": null
+    },
+    {
+      "text": "(xvii) ! by deleting the following tariff descriptions and the corresponding rates and substituting therefor the following-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 364,
+      "table_ref": null
+    },
+    {
+      "text": "Tariff description",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 365,
+      "table_ref": null
+    },
+    {
+      "text": "Rate of Excise Duty",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 366,
+      "table_ref": null
+    },
+    {
+      "text": "Imported furniture of any kind used in offices, kitchen, bedroom and other furniture",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 367,
+      "table_ref": null
+    },
+    {
+      "text": "25%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 368,
+      "table_ref": null
+    },
+    {
+      "text": "B.A.M",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 369,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! by inserting the following new items at the end of the second table appearing in paragraph 1 of Part I-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "block_index": 370,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 28,
+      "block_index": 371,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! in Part II -",
+      "block_type": "heading",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 372,
+      "table_ref": null
+    },
+    {
+      "text": "(i)  by inserting the following proviso in paragraph 4A-",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 373,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that this paragraph shall not apply to horse racing.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 374,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) by inserting  the  following  new  paragraphs immediately after paragraph 5-",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 375,
+      "table_ref": null
+    },
+    {
+      "text": "Excise  duty  on  fees  charged  by  digital lenders at a rate of twenty percent.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 376,
+      "table_ref": null
+    },
+    {
+      "text": "Excise duty on importation of cellular phones,  shall  be  at  ten  per  cent  of  the excisable value.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 377,
+      "table_ref": null
+    },
+    {
+      "text": "36. The  Second  Schedule  to  the  Excise  Duty  Act, 2015  is  amended  in  Part  A  by  adding  the  following  new paragraphs immediately after paragraph 14-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 378,
+      "table_ref": null
+    },
+    {
+      "text": "Neutral spirit imported or purchased locally by registered  pharmaceutical  manufacturers  upon approval by the Commissioner.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 379,
+      "table_ref": null
+    },
+    {
+      "text": "Locally manufactured passenger motor vehicles:",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 380,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that in this paragraph,",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 381,
+      "table_ref": null
+    },
+    {
+      "text": "'locally manufactured passenger motor vehicle' means a motor vehicle for the transportation of passengers which is manufactured in Kenya and whose ex-factory value comprises at least thirty percent of local content;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 382,
+      "table_ref": null
+    },
+    {
+      "text": "'local content' means parts designed and manufactured in Kenya by an original equipment manufacturer operating in Kenya.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 383,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the Second Schedule to No. 23 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 28,
+      "block_index": 384,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(d) ! in Part II -"
+      ],
+      "page_number": 29,
+      "block_index": 385,
+      "table_ref": null
+    },
+    {
+      "text": "PART VI -TAX PROCEDURES",
+      "block_type": "heading",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 386,
+      "table_ref": null
+    },
+    {
+      "text": "37. Section  9  of  the  Tax  Procedures  Act,  2015  is amended  in  paragraph  (b)(iii) by inserting the  words 'whether the entity is carrying out business or not' immediately after the words 'the trust'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 387,
+      "table_ref": null
+    },
+    {
+      "text": "38. Section  31  of  the  Tax  Procedures  Act,  2015  is amended by inserting  the  following  proviso  to  subsection (4) -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 388,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that in the case of value added tax, the input tax  shall  be  allowable  for  a  deduction  within  six  months after  the  end  of  the  tax  period  in  which  the  supply  or importation occurred.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 389,
+      "table_ref": null
+    },
+    {
+      "text": "39. The  Tax  Procedures  Act,  2015  is  amended  by repealing  section  40  and  replacing  it  with  the  following new section -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 390,
+      "table_ref": null
+    },
+    {
+      "text": "Security on property for unpaid tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 391,
+      "table_ref": null
+    },
+    {
+      "text": "40. (1)  Where  a  taxpayer,  being  the owner  of  property  in  Kenya,  fails  to  pay  a tax by the due date, the Commissioner may notify the Registrar in writing that the property,  to  the  extent  of  the  taxpayer's interest in the property, shall be the subject of a security for the unpaid tax specified in the notification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 392,
+      "table_ref": null
+    },
+    {
+      "text": "Provided  that  the  Commissioner  shall, within  seven  days  from  the  date  of  the notification  to  the  Registrar,  by  notice  in writing  inform  the  taxpayer  and  any  other person  who  may  have  an  interest  in  the property about the notification.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 393,
+      "table_ref": null
+    },
+    {
+      "text": "(2) Where the Registrar has been notified by the Commissioner under subsection  (1),  the  Registrar  shall,  without levying or charging a fee, register the Commissioner's notification as if it were an instrument of restraint on the disposal, mortgage on, or charge, as the case may be, the property specified in the notification.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 394,
+      "table_ref": null
+    },
+    {
+      "text": "(3) A registration  under  subsection  (2) shall, subject to any prior restraint on disposal,  mortgage  or  charge,  operate  as  a legal restraint on the disposal, mortgage, or",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 395,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 9 of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 396,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 31 of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 397,
+      "table_ref": null
+    },
+    {
+      "text": "Repeal and replacement of section 40 of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 29,
+      "block_index": 398,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VI -TAX PROCEDURES"
+      ],
+      "page_number": 30,
+      "block_index": 399,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 400,
+      "table_ref": null
+    },
+    {
+      "text": "charge on, the property to secure the amount of  the  unpaid  tax,  and  any  prior  restraint shall supersede the Commissioner's notification.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 401,
+      "table_ref": null
+    },
+    {
+      "text": "(4) The  Commissioner  shall,  upon  the payment  of  the  whole  of  the  amount  of unpaid tax secured under this section, direct the Registrar in writing to cancel the notification made under subsection (2), and the Registrar shall, without levying or charging a fee, record the cancellation of the notification  and  the  notification  shall  cease to apply.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 402,
+      "table_ref": null
+    },
+    {
+      "text": "(5) Where the taxpayer fails to pay the tax liability described  in  the notification under  subsection  (1)  within  two  months after receipt of the notification, the Commissioner or authorised officer may, at the  cost  of  the  taxpayer,  dispose  of  the property that is the subject of the restraint on disposal, mortgage  or charge, by public auction or private treaty, or as provided for under  the  relevant  Act  for  the  recovery  of the tax:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 403,
+      "table_ref": null
+    },
+    {
+      "text": "Provided  that  where  a  plan  has  been agreed  between  the  taxpayer  and  the Commissioner,  the  liability shall be settled within the agreed payment plan before the notification by the Commissioner is lifted.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 404,
+      "table_ref": null
+    },
+    {
+      "text": "(6) Subject  to  section  34,  where  the property  is  subject  to  a  prior  restraint,  that prior restraint shall have priority if the property is disposed of under subsection (5).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 405,
+      "table_ref": null
+    },
+    {
+      "text": "(7) For the purpose of this section-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 406,
+      "table_ref": null
+    },
+    {
+      "text": "'property' means land or building, aircraft,  ship,  motor  vehicle,  or  any  other property which the Commissioner may deem  sufficient to serve as security for unpaid taxes;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 30,
+      "block_index": 407,
+      "table_ref": null
+    },
+    {
+      "text": "No.5 of 2006.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 408,
+      "table_ref": null
+    },
+    {
+      "text": "No. 21 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 409,
+      "table_ref": null
+    },
+    {
+      "text": "No. 33 of 2012.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 410,
+      "table_ref": null
+    },
+    {
+      "text": "No. 5 of 2006.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 411,
+      "table_ref": null
+    },
+    {
+      "text": "No. 4 of 2009.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 412,
+      "table_ref": null
+    },
+    {
+      "text": "No. 3 of 2012.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 413,
+      "table_ref": null
+    },
+    {
+      "text": "No. 6 of 2012.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 414,
+      "table_ref": null
+    },
+    {
+      "text": "No. 33 of 2012.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 415,
+      "table_ref": null
+    },
+    {
+      "text": "No. 21 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 416,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 417,
+      "table_ref": null
+    },
+    {
+      "text": "'Registrar' includes-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 418,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the Land Registrar defined in section 3 of this Act;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 419,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! the  Registrar  of  Ships  appointed under section 14 of the Kenya Maritime Authority Act, 2006;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 420,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! the  Director-General  of  the  Kenya Civil  Aviation  Authority  appointed under section 19 of the Civil Aviation Act, 2013;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 421,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! the Director-General of the National Transport and Safety Authority  appointed  under  section 15  of  the  National  Transport  and Safety Authority Act, 2012; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 422,
+      "table_ref": null
+    },
+    {
+      "text": "(e) ! any other person who the Commissioner is satisfied has authority to hold property sufficient to serve as security for unpaid taxes;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 423,
+      "table_ref": null
+    },
+    {
+      "text": "'relevant Act' includes the Kenya Maritime  Authority  Act,  2006,  Merchant Shipping  Act,  2009,  Civil  Aviation  Act, 2013,  Land  Registration  Act,  2012,  Land Act  2012,  National  Transport  and  Safety Act, 2012, or any other Act that provides for the registration of property.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 424,
+      "table_ref": null
+    },
+    {
+      "text": "40. The  Tax  Procedures  Act,  2015  is  amended  in section 42 by-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 425,
+      "table_ref": null
+    },
+    {
+      "text": "(a)  deleting the word 'seven' appearing in subsection (6) and substituting therefore the words",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 426,
+      "table_ref": null
+    },
+    {
+      "text": "'fourteen';",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 427,
+      "table_ref": null
+    },
+    {
+      "text": "(b)   deleting  subsection  (9)  and  substituting  therefor the following new subsection-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 428,
+      "table_ref": null
+    },
+    {
+      "text": "(9) The Commissioner shall serve the taxpayer with a copy of a notice under this subsection (2), when serving the agent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 429,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 42 of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 31,
+      "block_index": 430,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 431,
+      "table_ref": null
+    },
+    {
+      "text": "(c)  inserting the following new subsection immediately after subsection 13-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 432,
+      "table_ref": null
+    },
+    {
+      "text": "(14) No notice shall be issued under this section unless the Commissioner has either confirmed its assessment through an Objection Decision and the taxpayer has defaulted to appeal to the Tax Appeals Tribunal within the prescribed timelines.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 433,
+      "table_ref": null
+    },
+    {
+      "text": "41. The  Tax  Procedures  Act,  2015  is  amended  in section  42A  (1)  by  inserting  the  words  'and  registered manufacturers whose value of investment in the preceding three years from the commencement of this Act is at least three billion' at the end of the proviso.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 434,
+      "table_ref": null
+    },
+    {
+      "text": "42. The  Tax  Procedures  Act,  2015,  is  amended  by repealing  section  47  and  replacing  it  with  the  following new section-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 435,
+      "table_ref": null
+    },
+    {
+      "text": "Offset or refund of overpaid tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 436,
+      "table_ref": null
+    },
+    {
+      "text": "47. (1)  Where a taxpayer has overpaid a  tax  under  any  tax  law,  the  taxpayer  may apply to the Commissioner, in the prescribed form-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 437,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! to  offset  the  overpaid  tax  against the  taxpayer's  future  tax  liabilities; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 438,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! for  a  refund  of  the  overpaid  tax within five  years,  or  six  months  in the  case  of  value  added  tax,  after the date on which  the tax  was overpaid.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 439,
+      "table_ref": null
+    },
+    {
+      "text": "(2)  The  Commissioner  shall  ascertain and determine an application under subsection (1) within ninety days and where the  Commissioner ascertains that  there  was an overpayment of tax-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 440,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  the  case  of  an  application  under subsection (1)(a), apply the overpaid tax to such future tax liability; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 441,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  the  case  of  an  application  under subsection (1)(b), refund the overpaid tax within a period of two",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 442,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of Section 42 A (1) of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 443,
+      "table_ref": null
+    },
+    {
+      "text": "Repeal and replacement of section 47 of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 32,
+      "block_index": 444,
+      "table_ref": null
+    },
+    {
+      "text": "Finance years from the date of the application.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 445,
+      "table_ref": null
+    },
+    {
+      "text": "(3)  Where  the  Commissioner  fails  to ascertain and determine an application under subsection (1) within ninety days, the same shall be deemed ascertained and approved.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 446,
+      "table_ref": null
+    },
+    {
+      "text": "(4) The Commissioner may, for purposes  of  ascertaining  the  validity  of  an application under subsection (1), subject the application to an audit.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 447,
+      "table_ref": null
+    },
+    {
+      "text": "(5) Where  the application is for a refund  of  tax  under  subsection  (1)(b),  the Commissioner shall  apply  the  overpayment in the following order-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 448,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  payment of any other tax owing by  the  taxpayer  under  the  specific tax law;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 449,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  payment  of  a  tax  owing  by  the taxpayer  under  any  other  tax  law; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 450,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! any remainder shall be refunded to the taxpayer.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 451,
+      "table_ref": null
+    },
+    {
+      "text": "(6)  Where  the  Commissioner  fails  to refund  the  overpaid  tax  within  the  period specified  in  subsection  (2)(b),  the  amount due shall attract interest of one per cent for each month or part thereof during which the amount remains unpaid.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 452,
+      "table_ref": null
+    },
+    {
+      "text": "(7) Where the Commissioner notifies a taxpayer that an application under subsection  (1)(a)  has  been  ascertained  and applies the overpaid tax liability to offset an outstanding tax in accordance with subsection  (2)(a),  interest  or  penalties  shall not accrue on the amount applied to offsetting  the  outstanding  tax  liability  from the date of the notification.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 33,
+      "block_index": 453,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 454,
+      "table_ref": null
+    },
+    {
+      "text": "Cap. 470.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 455,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 456,
+      "table_ref": null
+    },
+    {
+      "text": "(8) Where the Commissioner has applied the overpaid tax to offset an outstanding  tax  liability  under  subsection (2)(a), any outstanding tax after such application shall accrue interest and penalties in accordance with this Act.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 457,
+      "table_ref": null
+    },
+    {
+      "text": "(9) Notwithstanding any other provision  of  this  section,  where  a  person overpays an instalment tax due under section 12  of  the  Income  Tax  Act,  the Commissioner  shall  apply  the  overpaid  tax to offset the taxpayer's future instalment tax liability.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 458,
+      "table_ref": null
+    },
+    {
+      "text": "(10) Where, after the application of the overpaid tax under subsection (9), the Commissioner  later  determines  that  there was  no  overpayment  of  instalment  tax,  the amount of the tax that was used to offset the taxpayer's  future  instalment  tax  liabilities under subsection (9) shall be treated as a tax due to the Commissioner in the subsequent tax period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 459,
+      "table_ref": null
+    },
+    {
+      "text": "(11) The amount due under subsection (10)  shall  be  due  from  the  date  that  the Commissioner applied that amount to offset an instalment tax liability.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 460,
+      "table_ref": null
+    },
+    {
+      "text": "(12) The Commissioner shall notify the taxpayer in writing of the amount due under subsection (10) and specify in the notification-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 461,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the interest on the amount due; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 462,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! any  penalties  due  in  respect  of  the amount due.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 463,
+      "table_ref": null
+    },
+    {
+      "text": "(13) A person aggrieved by a decision of the Commissioner under this section may appeal  to  the  Tribunal  within  thirty  days after being notified of the decision.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 464,
+      "table_ref": null
+    },
+    {
+      "text": "43. The  Tax  Procedures  Act,  2015  is  amended  by inserting  the  following  new  sections  immediately  after section 47-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 465,
+      "table_ref": null
+    },
+    {
+      "text": "Insertion of new sections 47A and 47B in No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 34,
+      "block_index": 466,
+      "table_ref": null
+    },
+    {
+      "text": "Refund of tax paid in error.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 467,
+      "table_ref": null
+    },
+    {
+      "text": "Refund of tax paid on exempted or zerorated supply.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 468,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 469,
+      "table_ref": null
+    },
+    {
+      "text": "47A. (1)  Where  tax  has  been  paid  in error,  the  Commissioner  shall,  except  as otherwise provided in this Act or the relevant sdtax law, refund such tax.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 470,
+      "table_ref": null
+    },
+    {
+      "text": "(2) In processing a refund under subsection (1), the provisions of section 47(1), (2), (3), (4) and (5) shall apply, with the necessary modifications.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 471,
+      "table_ref": null
+    },
+    {
+      "text": "(3)  For  the  purposes  of  this  section, 'tax paid in error' means any tax paid which the  Commissioner  is  satisfied  ought  not  to have been paid.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 472,
+      "table_ref": null
+    },
+    {
+      "text": "47B. The  Commissioner  may,  upon approval by the Cabinet Secretary, refund a tax  paid  in  error  in  any  case  where  the supply is exempt or zero-rated under the Act but  such  exemption  or  the  zero  rating  was not  processed  within  the  specified  period due to circumstances beyond the control of the taxpayer.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 473,
+      "table_ref": null
+    },
+    {
+      "text": "44. Section  51  of  the  Tax  Procedures  Act,  2015  is amended -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 474,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (4), by deleting the word 'immediately' and substituting therefor the words 'within a period of fourteen days';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 475,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by  deleting  the  introductory  words  of  subsection (7) and substituting therefor the words 'The Commissioner  shall  consider  and  may  allow  an application under subsection (6) if';",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 476,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! by inserting the following new subsection immediately after subsection (7)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 477,
+      "table_ref": null
+    },
+    {
+      "text": "(7A) The Commissioner shall notify the taxpayer of the decision made under subsection (7) within fourteen days after receipt of the application.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 478,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! by deleting subsection (11) and substituting therefor the following new subsections -",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 479,
+      "table_ref": null
+    },
+    {
+      "text": "(11) The Commissioner shall make the objection decision within sixty days from the date",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 480,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 51 of No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 35,
+      "block_index": 481,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 482,
+      "table_ref": null
+    },
+    {
+      "text": "of receipt of a valid notice of objection failure to which the objection shall be deemed  to be allowed.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 483,
+      "table_ref": null
+    },
+    {
+      "text": "(12) A  person  who  is  dissatisfied  with  the decision  of  the  Commissioner  under  subsection (11) may appeal to the Tribunal within thirty days after being notified of the decision.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 484,
+      "table_ref": null
+    },
+    {
+      "text": "45. The  First  Schedule  to  the  Tax  Procedures  Act, 2015  is amended  by  adding the following paragraph immediately after paragraph (14)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 485,
+      "table_ref": null
+    },
+    {
+      "text": "(15) Registration of a trust.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 486,
+      "table_ref": null
+    },
+    {
+      "text": "46. Section  7  of  the  Miscellaneous  Fees  and  Levies Act, 2016, is amended in subsection (2A)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 487,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! by deleting paragraph (b) and substituting therefor the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 488,
+      "table_ref": null
+    },
+    {
+      "text": "(b) raw  materials  and  intermediate  products imported by manufacturers upon recommendation  to  the  Commissioner  by the Cabinet Secretary responsible for matters relating to industry.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 489,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by deleting paragraph (c) and substituting therefor the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 490,
+      "table_ref": null
+    },
+    {
+      "text": "(c)    input  for  the  construction  of  houses  under an affordable housing scheme upon recommendation  to  the  Commissioner  by the Cabinet Secretary responsible for matters relating to housing.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 491,
+      "table_ref": null
+    },
+    {
+      "text": "47. Section  8  of  the  Miscellaneous  Fees  and  Levies Act, 2016, is amended in subsection 2A-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 492,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! by deleting paragraph (a) and substituting therefor the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 493,
+      "table_ref": null
+    },
+    {
+      "text": "(a) raw materials and intermediate products imported by manufacturers upon recommendation  to  the  Commissioner  by the Cabinet Secretary responsible for matters relating to industry.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 494,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by deleting paragraph (b) and substituting therefor the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 495,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the First Schedule to No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 496,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the section 7 of No. 29 of 2016.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 497,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 8 of No. 29 of 2016.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 36,
+      "block_index": 498,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 37,
+      "block_index": 499,
+      "table_ref": null
+    },
+    {
+      "text": "(b)  input for the construction of houses under an affordable housing scheme upon recommendation to the Commissioner by the Cabinet Secretary responsible for matters relating to housing.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 37,
+      "block_index": 500,
+      "table_ref": null
+    },
+    {
+      "text": "48. Section 9A of the Miscellaneous Fees and Levies Act, 2016, is amended by adding the following proviso-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 37,
+      "block_index": 501,
+      "table_ref": null
+    },
+    {
+      "text": "Provided that this section shall not apply to currency notes and coins imported by the Central Bank of Kenya.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 37,
+      "block_index": 502,
+      "table_ref": null
+    },
+    {
+      "text": "PART VII-MISCELLANEOUS FEES AND LEVIES",
+      "block_type": "heading",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 503,
+      "table_ref": null
+    },
+    {
+      "text": "49. Section 9B of the Miscellaneous Fees and Levies Act,  2016  is  amended  in  paragraph  (b)  by  inserting  the words 'and levies' immediately after the word 'fees'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 504,
+      "table_ref": null
+    },
+    {
+      "text": "50. The First Schedule to the Miscellaneous Fees and Levies Act, 2016, is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 505,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in Part I by inserting the following new description and corresponding rate of export levy in the table in proper numerical order-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 506,
+      "table_ref": null
+    },
+    {
+      "text": "Tariff No.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 507,
+      "table_ref": null
+    },
+    {
+      "text": "2601",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 508,
+      "table_ref": null
+    },
+    {
+      "text": "Tariff Description",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 509,
+      "table_ref": null
+    },
+    {
+      "text": "Iron ores and concentrates, including roasted iron pyrites",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 510,
+      "table_ref": null
+    },
+    {
+      "text": "Export levy rate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 511,
+      "table_ref": null
+    },
+    {
+      "text": "USD 175 per tonne",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 512,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in paragraph (1) of Part III, by deleting the words 'the beginning of every financial year in accordance  with  this  paragraph'  and  substituting therefor the words 'at a date not later than the 1st October of every financial year in accordance with the formula specified in paragraph (2)'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 513,
+      "table_ref": null
+    },
+    {
+      "text": "51. The  Second  Schedule  to  the  Miscellaneous  Fees and Levies Act, 2016, is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 514,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  Part  A,  by  inserting  the  following  new  items immediately after item (xxv) -",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 515,
+      "table_ref": null
+    },
+    {
+      "text": "(xxva)  inputs and raw materials imported by manufacturers  of  pharmaceutical  products on the recommendation of the Cabinet Secretary responsible for matters relating to health;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 516,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 9A of No. 29 of 2016",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 517,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 9 of No. 29 of 2016.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 518,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the First Schedule to No. 29 of 2016.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 519,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the Second Schedule to No. 29 of 2016.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 37,
+      "block_index": 520,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 521,
+      "table_ref": null
+    },
+    {
+      "text": "(xxvb) goods imported for use in the construction and maintenance of human vaccine manufacturing  plants  as  approved  by  the Cabinet Secretary for the National Treasury on recommendation of the Cabinet Secretary for Health;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 522,
+      "table_ref": null
+    },
+    {
+      "text": "(xxvc)  goods,  inputs  and  raw  materials  imported by a company which is -",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 523,
+      "table_ref": null
+    },
+    {
+      "text": "(a)  engaged in business under  a special operating  framework  arrangement  with the Government; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 524,
+      "table_ref": null
+    },
+    {
+      "text": "(b) incorporated for purposes of undertaking  the  manufacture  of  human vaccines; and whose capital investment is at least ten billion shillings,",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 525,
+      "table_ref": null
+    },
+    {
+      "text": "subject to approval of the Cabinet Secretary for the National Treasury, on recommendation  of  the  Cabinet  Secretary for health.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 526,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  Part  B,  by  inserting  the  following  new  items immediately after item (viii) -",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 527,
+      "table_ref": null
+    },
+    {
+      "text": "(viiia)  inputs and raw materials imported by manufacturers  of  pharmaceutical  products on the recommendation of the Cabinet Secretary responsible for matters relating to health;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 528,
+      "table_ref": null
+    },
+    {
+      "text": "(viiib)  goods  imported  for  use  in  the  construction and maintenance of human vaccine manufacturing  plants  as  approved  by  the Cabinet Secretary for the National Treasury on recommendation of the Cabinet Secretary for Health.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 529,
+      "table_ref": null
+    },
+    {
+      "text": "(viiic)  goods,  inputs  and  raw  materials  imported by a company which is-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 530,
+      "table_ref": null
+    },
+    {
+      "text": "(a) engaged  in  business  under  a  special operating framework arrangement with the Government; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 531,
+      "table_ref": null
+    },
+    {
+      "text": "(b) incorporated for purposes of undertaking the manufacture of human vaccines; and whose capital",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VII-MISCELLANEOUS FEES AND LEVIES"
+      ],
+      "page_number": 38,
+      "block_index": 532,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "heading",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 39,
+      "block_index": 533,
+      "table_ref": null
+    },
+    {
+      "text": "investment is at least ten billion shillings, subject to approval of the Cabinet Secretary for the National Treasury, on recommendation of the Cabinet Secretary for health.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 39,
+      "block_index": 534,
+      "table_ref": null
+    },
+    {
+      "text": "PART VIII-MISCELLANEOUS",
+      "block_type": "heading",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 535,
+      "table_ref": null
+    },
+    {
+      "text": "52. Section 133 of the Evidence Act is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 536,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (1), by deleting the words 'to income tax,  customs  or  excise'  and  substituting  therefor the words 'the laws specified in the First Schedule to the Kenya Revenue Authority Act, 1995';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 537,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by deleting subsection (2) and substituting therefor the following new subsection-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 538,
+      "table_ref": null
+    },
+    {
+      "text": "(2) For  the  purposes  of  this  section,  'revenue officer'  means  any  officer  employed  in  or  about the business of any public office for the collection of public revenue.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 539,
+      "table_ref": null
+    },
+    {
+      "text": "53. Section 2 of the Capital Markets Act is amended in the definition of 'investment advisor' by deleting paragraph (3).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 540,
+      "table_ref": null
+    },
+    {
+      "text": "54. Section 29 of the Capital Markets Act is amended in subsection (1)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 541,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! by  deleting  the  words  'a  company  incorporated under  the  Companies  Act  with  such  minimum share capital' appearing in paragraph (a) and substituting therefor the words 'such legal entity as may be prescribed in the Regulations';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 542,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by  deleting  the  words  'director  and  at  least  one employee who is the chief executive of the applicant  company,  have'  appearing  in  paragraph (c) and substituting therefor the words 'the director, chief executive officer or such other person who directs, conducts, manages or supervises the business of the applicant has'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 543,
+      "table_ref": null
+    },
+    {
+      "text": "55. Section 10 of the Insurance Act is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 544,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in subsection (4), by deleting the expression 'section 21' and substituting therefor the expression 'section 21A';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 545,
+      "table_ref": null
+    },
+    {
+      "text": "Amend of section 133 of Cap. 80.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 546,
+      "table_ref": null
+    },
+    {
+      "text": "No. 2 of 1995.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 547,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 2 of Cap. 485A.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 548,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 29 of Cap. 485A.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 549,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 10 of Cap. 487.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 39,
+      "block_index": 550,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 551,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in subsection (8), by deleting the expression 'section 21' and substituting therefor the expression 'section 21A'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 552,
+      "table_ref": null
+    },
+    {
+      "text": "56. Section 2 of the Kenya Roads Board Act, 1999 is amended  in the definition of 'Fund'  by deleting the expression 'section 30' and substituting therefor the expression 'section 31'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 553,
+      "table_ref": null
+    },
+    {
+      "text": "57. Section 6 of the Kenya Roads Board Act, 1999 is amended in subsection (2)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 554,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! by deleting paragraph (c) and replacing it with the following new paragraph-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 555,
+      "table_ref": null
+    },
+    {
+      "text": "(c) manage the fund and allocate monies from the Fund in the following manner-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 556,
+      "table_ref": null
+    },
+    {
+      "text": "(i) ! fifty per cent of the Fund shall be allocated in accordance with paragraph (d); and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 557,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) ! fifty per cent of the Fund shall be allocated for the purposes of section 32A (2).",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 558,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by deleting the words 'from the fuel levy' appearing in the opening words of paragraph (d);",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 559,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in paragraph (d) (i), by deleting the words 'monies from  the  fuel  levy'  and  substituting  therefor  the words 'allocated funds';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 560,
+      "table_ref": null
+    },
+    {
+      "text": "(d) ! in paragraph (d) (ii), by deleting the words 'monies from the Fund' and substituting therefor the words 'allocated funds';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 561,
+      "table_ref": null
+    },
+    {
+      "text": "(e) ! in paragraph (d) (iii), by deleting the words 'monies from the fuel levy' and substituting therefor the words 'allocated funds';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 562,
+      "table_ref": null
+    },
+    {
+      "text": "(f) ! in paragraph (d) (iv), by deleting the words 'monies from the fuel levy' and substituting therefor the words 'allocated funds';",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 563,
+      "table_ref": null
+    },
+    {
+      "text": "(g) ! in paragraph (d) (v), by deleting the words 'monies from  the  fuel  levy'  and  substituting  therefor  the words 'allocated funds'; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 564,
+      "table_ref": null
+    },
+    {
+      "text": "(h) ! in paragraph (d) (vi), by deleting the words 'monies  from  the  Fund'  and  substituting  therefor the words 'allocated funds'.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 565,
+      "table_ref": null
+    },
+    {
+      "text": "58. Section 29A of the Betting, Lotteries and Gaming Act is amended by adding the following new subsection-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 566,
+      "table_ref": null
+    },
+    {
+      "text": "(3) This section shall not apply to horse racing.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 567,
+      "table_ref": null
+    },
+    {
+      "text": "59. Section 3(2) of the Road Maintenance Levy Fund Act,  1993  is  amended  by  inserting  the  words  'to  fund  the",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 568,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of the section 2 of No. 7 of 1999.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 569,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 6 of No. 7 of 1999.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 570,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 29A of Cap. 131",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 571,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 3 of",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 40,
+      "block_index": 572,
+      "table_ref": null
+    },
+    {
+      "text": "construction  of  roads  under  the  Road  Annuity  Programme and  similar  roads  approved  by  the  National  Assembly' immediately  after  the  words  'Public  Finance  Management Act, 2012'",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 573,
+      "table_ref": null
+    },
+    {
+      "text": "60. Section 33 of the Unclaimed Financial Assets Act, 2011 is amended by deleting subsection (6) and substituting therefor the following new subsection-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 574,
+      "table_ref": null
+    },
+    {
+      "text": "(6) The penalties payable under subsections (1), (4) and (5) of this section shall-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 575,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! be recoverable as civil debts summarily; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 576,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in total, not exceed the value of the assets found to be reportable and deliverable.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 577,
+      "table_ref": null
+    },
+    {
+      "text": "61. The  Unclaimed  Financial Assets Act, 2011  is amended by inserting the following new sections immediately after section 33-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 578,
+      "table_ref": null
+    },
+    {
+      "text": "Waiver of penalties, fines and audit fees.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 579,
+      "table_ref": null
+    },
+    {
+      "text": "Voluntary Unclaimed Financial Assets Disclosure Programme.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 580,
+      "table_ref": null
+    },
+    {
+      "text": "33A. The Authority may, with the approval of the Cabinet Secretary waive payment  of  any  of  the  penalties  and  fines under  section  33,  whether  in  part  or  in  full, where-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 581,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! the  waiver  is  intended  to  facilitate the  holder  of  the  asset  to  disclose and  deliver  the  undeclared  asset  to the Authority;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 582,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in the opinion of the Authority, there is justifiable reasons to do so; or",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 583,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! it is in the public interest to do so.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 584,
+      "table_ref": null
+    },
+    {
+      "text": "33B . (1) There is established a programme  to  be  known  as  the  Voluntary Unclaimed Financial Assets Disclosure Programme  which  shall  be  for  a  period  of twelve months from the date of the commencement of this section.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 585,
+      "table_ref": null
+    },
+    {
+      "text": "(2) The object and purpose of the programme  established by subsection (1) shall  be  to  grant  relief  of  the  penalties  and interest in unclaimed assets where the holder discloses, reports or delivers the assets to the Authority in accordance with this section.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 586,
+      "table_ref": null
+    },
+    {
+      "text": "No.9 of 1993",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 587,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of Section 33 of No. 40 of 2011.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 588,
+      "table_ref": null
+    },
+    {
+      "text": "Insertion of a new sections in No. 40 of 2011.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 41,
+      "block_index": 589,
+      "table_ref": null
+    },
+    {
+      "text": "!",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 590,
+      "table_ref": null
+    },
+    {
+      "text": "Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 591,
+      "table_ref": null
+    },
+    {
+      "text": "(3)  A  holder  of  unclaimed  assets  may disclose,  report  and  deliver  the  assets  to  the Authority  for  the  purpose  of  being  granted relief on penalties and interest on such assets.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 592,
+      "table_ref": null
+    },
+    {
+      "text": "(4) This  section  shall  apply  to  assets held up to the thirtieth day of June 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 593,
+      "table_ref": null
+    },
+    {
+      "text": "(5) A holder who discloses, reports and delivers the unclaimed financial assets within twelve months from the date of commencement  of  this  section  shall  not  be liable  to  the  penalties  or  interest  payable under sections 33(1), (4) and (5).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 594,
+      "table_ref": null
+    },
+    {
+      "text": "62. The Statutory Instruments Act, 2013 is amended in section 15 by inserting the following subsection immediately after subsection (3)-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 595,
+      "table_ref": null
+    },
+    {
+      "text": "(4)  Without  prejudice  to  the  provisions  of section 12 and this section, any statutory instrument which contains provisions dealing with taxes, levies or fees, or has the effect of imposition of a charge on a public fund or variation or repeal of such charge, the National Assembly  shall, within  twenty-eight  sitting  days  from  the  date  of receipt of the notice under section 11, consider the notice and make a resolution either to approve or reject the notice.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 596,
+      "table_ref": null
+    },
+    {
+      "text": "63. Section 21 of the Statutory Instruments Act, 2013 is  amended  by  inserting  the  following  new  subsection immediately after subsection (3) -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 597,
+      "table_ref": null
+    },
+    {
+      "text": "(4) The automatic revocation period for statutory instruments issued under the Income Tax Act,  the  Stamp  Duty  Act,  the  Value  Added  Tax Act, 2013, Tax Appeal Tribunal Act, 2013 Excise Duty  Act,  2015  and  Tax  Procedure  Act,  2013  is hereby extended for a period of twenty-four months  with  effect  from  the  twenty  fifth  day  of January, 2023.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 598,
+      "table_ref": null
+    },
+    {
+      "text": "64. Section  13  of  the  Retirement  Benefits  (Deputy President  and  Designated  State  Officers)  Act,  2015  is amended-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 599,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 15 of No. 23 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 600,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 21 of No. 23 of 2013.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 601,
+      "table_ref": null
+    },
+    {
+      "text": "Cap. 470. Cap. 480. No. 35 of 2013. No. 40 of 2013. No. 23 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 602,
+      "table_ref": null
+    },
+    {
+      "text": "No. 29 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 603,
+      "table_ref": null
+    },
+    {
+      "text": "Amendment of section 13 of No.8 of 2015.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 42,
+      "block_index": 604,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! by deleting subsection (1) and substituting therefor the following new subsection -",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 605,
+      "table_ref": null
+    },
+    {
+      "text": "(1) The benefits granted to an entitled person, or his or her surviving spouse, as the case may be, under this Act, shall be administered-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 606,
+      "table_ref": null
+    },
+    {
+      "text": "(a) ! in  the  case  of  a  retired  Deputy  President, retired Prime  Minister or retired  VicePresident,  by  the  Office  of  the  President, and  shall  be  provided  for  in  the  estimates of  the  national  government  referred  to  in Article 221(1) of the Constitution;",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 607,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! in  the  case  of  a  retired  Speaker  of  the National  Assembly  or  the  Senate,  by  the Parliamentary Service Commission,  and shall be provided for in the estimates of the parliamentary service prepared pursuant to Article 127(6)(c) of the Constitution; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 608,
+      "table_ref": null
+    },
+    {
+      "text": "(c) ! in  the  case  of  a  retired  Chief  Justice  or retired Deputy Chief Justice, by the Judicial Service Commission, and shall be provided for in the estimates of the Judiciary prepared pursuant to Article 173(3) of the Constitution.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 609,
+      "table_ref": null
+    },
+    {
+      "text": "(b) ! by inserting the following new subsections immediately after subsection (1)-",
+      "block_type": "list_item",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 610,
+      "table_ref": null
+    },
+    {
+      "text": "(1A)  For  purposes  of  this  section,  'benefits' means  the  benefits  granted  to  an  entitled  person under the First Schedule, Second Schedule or the Third Schedule to this Act.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 611,
+      "table_ref": null
+    },
+    {
+      "text": "(1B)  For  the  avoidance  of  doubt,  subsection (1)  shall  not  apply  to  the  pension,  lump  sum payment  upon  retirement,  and  gratuity  provided for in this Act.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 612,
+      "table_ref": null
+    },
+    {
+      "text": "(1C)  The  respective  entities  under  subsection (1),  shall  formulate  administrative  guidelines  for the  administration  of  this  section  including  on matters relating to the computation of benefits due to an entitled person under this section.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 613,
+      "table_ref": null
+    },
+    {
+      "text": "%",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART VIII-MISCELLANEOUS"
+      ],
+      "page_number": 43,
+      "block_index": 614,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "finance_act_2022_table_000",
+      "caption": "25%",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 27,
+      "table_index": 0,
+      "markdown": "| 0              | 1                                   | 2           |\n|:---------------|:------------------------------------|:------------|\n| Commodity code | Raw Materials                       | Excise duty |\n| 3907.91.00     | Imported Unsaturated polyster       | 10%         |\n| 3907.50.00     | Imported Alkyd                      | 10%         |\n| 3905.91.00     | Imported Emulsion VAM               | 10%         |\n| 3903.20.00     | Imported Emulsion - styrene Acrylic | 10%         |\n| 3905.19.00     | Imported Homopolymers               | 10%         |\n| 3906.90.00     | Imported Emulsion                   | 10%         |",
+      "records": [
+        {
+          "0": "Commodity code",
+          "1": "Raw Materials",
+          "2": "Excise duty"
+        },
+        {
+          "0": "3907.91.00",
+          "1": "Imported Unsaturated polyster",
+          "2": "10%"
+        },
+        {
+          "0": "3907.50.00",
+          "1": "Imported Alkyd",
+          "2": "10%"
+        },
+        {
+          "0": "3905.91.00",
+          "1": "Imported Emulsion VAM",
+          "2": "10%"
+        },
+        {
+          "0": "3903.20.00",
+          "1": "Imported Emulsion - styrene Acrylic",
+          "2": "10%"
+        },
+        {
+          "0": "3905.19.00",
+          "1": "Imported Homopolymers",
+          "2": "10%"
+        },
+        {
+          "0": "3906.90.00",
+          "1": "Imported Emulsion",
+          "2": "10%"
+        }
+      ],
+      "columns": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "table_id": "finance_act_2022_table_001",
+      "caption": "!",
+      "heading_path": [
+        "Finance"
+      ],
+      "page_number": 28,
+      "table_index": 1,
+      "markdown": "| Description                                               | Rate of Excise Duty    |\n|:----------------------------------------------------------|:-----------------------|\n| Electronic cigarettes and other nicotine delivery devices | 40%                    |\n| Liquid nicotine for electronic cigarettes                 | Ksh. 70 per millilitre |\n| Imported ready to use SIM cards                           | Shs. 50 per SIM card   |",
+      "records": [
+        {
+          "Description": "Electronic cigarettes and other nicotine delivery devices",
+          "Rate of Excise Duty": "40%"
+        },
+        {
+          "Description": "Liquid nicotine for electronic cigarettes",
+          "Rate of Excise Duty": "Ksh. 70 per millilitre"
+        },
+        {
+          "Description": "Imported ready to use SIM cards",
+          "Rate of Excise Duty": "Shs. 50 per SIM card"
+        }
+      ],
+      "columns": [
+        "Description",
+        "Rate of Excise Duty"
+      ]
+    }
+  ]
+}

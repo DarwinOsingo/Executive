@@ -1,0 +1,5095 @@
+{
+  "source_file": "Annual-Corporate-Report-2017-2018.pdf",
+  "doc_slug": "annual_corporate_report_2017_2018",
+  "is_scanned": false,
+  "total_pages": 40,
+  "error": null,
+  "blocks": [
+    {
+      "text": "V 7",
+      "block_type": "paragraph",
+      "heading_path": [],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "AUDIT AUTOMATION",
+      "block_type": "heading",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "ANNUAL CORPORATE REPORT 2017-2018",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 1,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "Accountability and effective management of public resources.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "To audit and report on the management of public resources for improved service delivery to the Kenyan people",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "IntegrIty: We are committed to honesty, reliability, and trustworthiness in our professional and personal conduct.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "ObjectIvIty: Our professional judgment is fair and is not swayed by personal bias, conflict of interest or undue influence by others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "PrOfessIOnal cOmPetency: Our work is based on appropriate professional knowledge, skills, experience, up-to-date techniques and leading practices.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "InnOvatIOn: We strive to continually improve on our delivery of services by being open to new ideas that are responsive to a rapidly changing operating environment.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "team sPIrIt: We have a strong sense of mutual commitment which creates the synergy needed to achieve our goal.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "AUDIT AUTOMATION"
+      ],
+      "page_number": 2,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "mOttO: Enhancing accountability",
+      "block_type": "heading",
+      "heading_path": [
+        "mOttO: Enhancing accountability"
+      ],
+      "page_number": 2,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "manDate: The Office of the Auditor-General (OAG) is an independent Office established under Article 229 of the Constitution of Kenya. The Office is charged with the primary oversight role of ensuring accountability within the three arms of Government (the Legislature, the Judiciary and the Executive) as well as the Constitutional Commissions and Independent Office and any entity that is funded from public funds.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "mOttO: Enhancing accountability"
+      ],
+      "page_number": 2,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "01 ACRONYMS AND ABBREVIATIONS",
+      "block_type": "list_item",
+      "heading_path": [
+        "mOttO: Enhancing accountability"
+      ],
+      "page_number": 3,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "02 FOREWORD",
+      "block_type": "list_item",
+      "heading_path": [
+        "mOttO: Enhancing accountability"
+      ],
+      "page_number": 3,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "03 OVERVIEW",
+      "block_type": "list_item",
+      "heading_path": [
+        "mOttO: Enhancing accountability"
+      ],
+      "page_number": 3,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "04 THE EXECUTIVE",
+      "block_type": "list_item",
+      "heading_path": [
+        "mOttO: Enhancing accountability"
+      ],
+      "page_number": 3,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "Who WE aRE",
+      "block_type": "heading",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "09 MANDATE",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "10 HOW WE CONDUCT AUDITS",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "11 ORGANOGRAM",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "12 COUNTY PRESENCE | TYPES OF AUDIT",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "13 STAKEHOLDERS ENGAGEMENT",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "OUR PRODUCTS",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "15 BUDGETARY ALLOCATION AND ANALYSIS",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "16 CERTIFICATION AUDITS",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "17 SPECIALISED AUDITS",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "18 QUALITY ASSURANCE AND STANDARDS",
+      "block_type": "list_item",
+      "heading_path": [
+        "Who WE aRE"
+      ],
+      "page_number": 3,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "Content",
+      "block_type": "heading",
+      "heading_path": [
+        "Content"
+      ],
+      "page_number": 3,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "03",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Content"
+      ],
+      "page_number": 4,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "CORPORATE SERVICES",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Content"
+      ],
+      "page_number": 4,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "21 PEOPLE 21 FINANCING OAG OPERATIONS 22 SUPPLY CHAIN MANAGEMENT 22 TRANSPORT FACILITATION 22 PREMISES AND OFFICE SPACE 23 RISK MAMAGEMENT | SUSTAINING THE TECHNOLOGY PUSH 24 LEGAL ADVISORY SERVICES 24 COMMUNICATION PROGRAMMES",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Content"
+      ],
+      "page_number": 4,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "acrOnyms anD abbrevIatIOns",
+      "block_type": "heading",
+      "heading_path": [
+        "acrOnyms anD abbrevIatIOns"
+      ],
+      "page_number": 5,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "OvervIeW",
+      "block_type": "heading",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "Won Performance Audit Award for African Region",
+      "block_type": "caption",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "Conducted 19 Specialised Audits",
+      "block_type": "caption",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "Made Significant Progress in construction of Kakamega Regional Office",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "Improved Staff Welfare",
+      "block_type": "caption",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "Professional Development of members of staff",
+      "block_type": "caption",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "CHALLENGES",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "Initiated construction of Regional Office in Eldoret",
+      "block_type": "caption",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "Positioned the Office at the global stage",
+      "block_type": "caption",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "Continued with devolution of audit function to the counties",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "Gave Professional and Technical Support to Supreme Audit Institutions across the world",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OvervIeW"
+      ],
+      "page_number": 7,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "THE EXECUTIVE",
+      "block_type": "heading",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 8,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "eDWarD OUKO",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "auditor-general",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "b.com (finance & accounting)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "Fellow\tMember\tof\tCertified\tPublic\tAccountants\tof\tKenya\t(FCPA)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "Certified\tPublic\tAccountant\tof\tKenya\t(CPA-K)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "Fellow\tMember\tof\tthe\tInstitute\tof\tChartered\tAccountants\tof\tEngland\tand Wales\t(FCA)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "Current Engagements:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "President\tTechnical\tC0mmittee\ton\tKnowledge\tSharing\t&\tManagement/ afrOsaI-e",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "Vice\tPresident\tAFROSAI\tGeneral\tAssembly",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "auditor-general african Development bank",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "Audit\tComittee\tMember-\tA\tnumber\tof\tUN\tAgencies",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "Deloitte & touché",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 9,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "Agnes\tMita",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "Deputy\tAuditor-General,\tCorporate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "Services",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "msc. auditing management b.com (accounting)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "More\tthan\t30\tyears\tin\tpublic\tsector auditing",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "alex rugera",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "Deputy\tAuditor-General,\tFinancial Audits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "b.com (accounting)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "cPa-K",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "senior audit manager, Deloitte & touché",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "audit finance, taxation and Consultancy",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "David gichana",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "Deputy\tAuditor-General,\tFinancial",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "Audits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "mba (finance)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "bsc (accounting)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "cPa-K",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "More\tthan\t25\tyears\tin\tpublic\tsector auditing",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 10,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "fredrick Odhiambo",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "Ag.\tDeputy\tAuditor-General, Specialised\tAudits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "mba",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "bsc",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "cPa-K",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "Certified\tFraud\tExaminer\t(CFE-US) Certified\tFinancial\tService\tAuditor (cfsa-Us)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "senior audit manager in other Supreme\tAudit\tinstitutions\tin\tthe British\tOverseas\tTerritories Deloitte & touché LLP,\tKPMG\tEast\tAfrica",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "David njoka",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "Ag.\tDeputy\tAuditor-General,",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "Financial\tAudits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "mba (strategic management)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "BSc\t(Business\tAdministration)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "cPa-K",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "More\tthan\t28\tyears\tin\tpublic\tsector auditing",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 11,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "Sylvester\tKiini",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "Deputy\tAuditor-General,\tFinancial",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "Audits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "mba (strategic management)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "bsc ( accounting)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "cPa-K",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "Vast\texperience\tin\tPublic\tsector auditing",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "Name:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "William agunda",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "Title:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "Ag.\tDeputy\tAuditor-General,",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "Financial\tAudits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "Qualification:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "bsc ( accounting)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "cPa-K",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Experience:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "More\tthan\t30\tyears\tin\tpublic\tsector auditing",
+      "block_type": "paragraph",
+      "heading_path": [
+        "THE EXECUTIVE"
+      ],
+      "page_number": 12,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "cHaPter 1: WHO We are",
+      "block_type": "heading",
+      "heading_path": [
+        "cHaPter 1: WHO We are"
+      ],
+      "page_number": 13,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  of  the  Auditor-General (OAG) is an Independent Office established under Article 229 of the Constitution of Kenya. The AuditorGeneral  is  mandated  to  audit  and report  in  respect  to  each  financial year on the accounts of:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 1: WHO We are"
+      ],
+      "page_number": 13,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "The National and County governments;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 1: WHO We are"
+      ],
+      "page_number": 13,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "The National Assembly;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 1: WHO We are"
+      ],
+      "page_number": 13,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "The Senate and the County assemblies;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 1: WHO We are"
+      ],
+      "page_number": 13,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "All Courts;",
+      "block_type": "heading",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "Every Commission and Independent Office established by the Constitution;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "Political parties funded from public funds;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "The public debt and;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "Any  entity  that  is  funded  from public funds.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "In  addition,  Article  229(6)  of  the Constitution  requires  the  AuditorGeneral  to  confirm  whether  public money  has  been  applied  lawfully and in an effective way.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "This  is  a  broad  responsibility  that requires  the  Auditor-General  to  go beyond  accounts  certification  and compliance  to  perform  work  that addresses  the  economy,  efficiency and effectiveness with which public resources  have  been  applied  and utilised including their impact on the lives of citizens.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "All Courts;"
+      ],
+      "page_number": 13,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "How\twe\tconduct\taudits",
+      "block_type": "heading",
+      "heading_path": [
+        "How\twe\tconduct\taudits"
+      ],
+      "page_number": 14,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "Beginning of the",
+      "block_type": "paragraph",
+      "heading_path": [
+        "How\twe\tconduct\taudits"
+      ],
+      "page_number": 14,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "Auditing Cycle",
+      "block_type": "paragraph",
+      "heading_path": [
+        "How\twe\tconduct\taudits"
+      ],
+      "page_number": 14,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "cOUnty Presence",
+      "block_type": "heading",
+      "heading_path": [
+        "cOUnty Presence"
+      ],
+      "page_number": 16,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "OAG has nine Regional Offices (Hubs)  which are very vital in the implementation of the Office's mandate. Through the establishment of our regional offices some positive aspects are accomplished i.e. getting continuous audit process to the ground, understanding of the audit dynamics of a client and establishing a strong rapport with our stakeholders. The Hub offices are as follow:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOUnty Presence"
+      ],
+      "page_number": 16,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "tyPes Of aUDIt",
+      "block_type": "heading",
+      "heading_path": [
+        "tyPes Of aUDIt"
+      ],
+      "page_number": 16,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "The Office carries out work that is of value addition in line with changing stakeholder requirements. To respond  to  this,  we  carry  out  the following types of audit:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "tyPes Of aUDIt"
+      ],
+      "page_number": 16,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "Certification\tAudits",
+      "block_type": "paragraph",
+      "heading_path": [
+        "tyPes Of aUDIt"
+      ],
+      "page_number": 16,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "Certification  Audits are  carried  out  to provide assurance on  fiscal  accountability.  This  audit also  confirms  compliance  to  laws and standards governing the accounting profession.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "tyPes Of aUDIt"
+      ],
+      "page_number": 16,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "Continuous\tAudits This refers to auditing on  a  consistent  and continuous basis to provide  assurance  on  managerial accountability. It involves the evaluation of management controls and the operationalisation of board policies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "tyPes Of aUDIt"
+      ],
+      "page_number": 16,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "Performance\tAudits",
+      "block_type": "heading",
+      "heading_path": [
+        "Performance\tAudits"
+      ],
+      "page_number": 16,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "Performance audits are conducted to show that  resources have  been  acquired economically and utilised efficiently and effectively in order for the National and County entities to provide  adequate  services  to  the",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Performance\tAudits"
+      ],
+      "page_number": 16,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "citizens. Performance audit involves an in-depth analysis of specific issues relating to the audited entity's processes  or  functions.  It  includes assessment  of  how  resources  are utilised in relation to:  economy, efficiency, effectiveness and equity.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Performance\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "Environmental\tAudits",
+      "block_type": "heading",
+      "heading_path": [
+        "Environmental\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "These are audits dedicated to p r o g r a m m e s , activities,  systems  and  laws  which have an impact on the environment. It involves an assessment of compliance with environmental laws,  regulations,  conventions  and issues to do with sustainability (managing the environment well for the present and future generations). The aim is to determine whether the audited entities take environmental issues into consideration when performing their duties.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Environmental\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "IT\tAudits",
+      "block_type": "heading",
+      "heading_path": [
+        "IT\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "These  are audits carried out to give assurance on the integrity of the IT systems and the information produced therein. IT audit involves the process of collecting and evaluating  evidence  to  determine whether a computer system safeguards  assets,  maintains  data integrity, allows organisational goals to be achieved effectively and uses resources efficiently.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IT\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "Forensic\tAudits",
+      "block_type": "heading",
+      "heading_path": [
+        "Forensic\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "Forensic Audits are conducted with the objective of detecting fraud, corruption or other financial improprieties.  Such  audits  entail  a detailed  scientific  examination  of records with a view of establishing facts of the matter, with the court process in mind. The evidence gathered must be sufficient to pass the  rigorous  court  process.  These reports assist the court to come up with  fair  and  realistic  judgements backed  up  by  proof  of  material presented.  It  is  very  vital  to  note that not all forensic findings end up in court.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Forensic\tAudits"
+      ],
+      "page_number": 17,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "staKeHOlDer engagement",
+      "block_type": "heading",
+      "heading_path": [
+        "staKeHOlDer engagement"
+      ],
+      "page_number": 17,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "The  increased  publication  of  our audit  reports  on  the  use  of  public funds that has dominated the media, highlights the public's amplified demand for transparency and prudence in the overall expenditure of public funds.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "staKeHOlDer engagement"
+      ],
+      "page_number": 17,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "It is with this mind-set that the Office has  designed  various  stakeholder engagement strategies tailored towards  achieving  the  overall  goal of  educating  stakeholders  on  the office's  role  and  mandate,  having continuous engagement and promoting accountability in the public sector.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "staKeHOlDer engagement"
+      ],
+      "page_number": 17,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "Our Stakeholders include;",
+      "block_type": "paragraph",
+      "heading_path": [
+        "staKeHOlDer engagement"
+      ],
+      "page_number": 17,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "Media",
+      "block_type": "heading",
+      "heading_path": [
+        "Media"
+      ],
+      "page_number": 17,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "The  media  play an  integral  part in keeping  the public  informed  as  they  set the agenda  and  hold  sway  over  the publics' opinion. Whatever the media  says  can  also  bring  about  a paradigm shift in areas that may not have  been  highlighted  in  the  past. With  the  public  outreach  at  an  alltime  high,  thanks  to  the  increased",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Media"
+      ],
+      "page_number": 17,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "use of social media platforms, the media helps maintain the momentum /interest created in the utilization of taxpayer's resources.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Media"
+      ],
+      "page_number": 17,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "The Office continuously engages with the media through various media workshops, for the improved understanding and simplification of reports for public consumption. The Office  has  also  developed  a  media handbook  to  guide  journalists  on reporting audit findings.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Media"
+      ],
+      "page_number": 17,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "The General Public",
+      "block_type": "heading",
+      "heading_path": [
+        "The General Public"
+      ],
+      "page_number": 17,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  strives to achieve its three pillars ( c e r t i f i c a t i o n of accounts, continuous audits and  service  delivery)  to  all,  in  line with its Constitutional mandate. The need  for  the  taxpayers  to  ensure that  they  get  value  for  money  can be further enhanced by having the citizens involved in the management of public funds through public participation, thereby effectively tracing  the  shilling  from  where  it hits the ground.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "The General Public"
+      ],
+      "page_number": 17,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "Parliament",
+      "block_type": "heading",
+      "heading_path": [
+        "Parliament"
+      ],
+      "page_number": 17,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "Our audit reports  are tabled  in  Parliament  where  they are deliberated upon by the various committees such as the Public Accounts Committee (PAC) and the Public Investments Committee (PIC). The Office strives to provide timely reports  and  expects  Parliament  to deliberate on them as well as ensure the recommendations are enforced by  the  audited  entities.  Through",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Parliament"
+      ],
+      "page_number": 17,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "these  Committees,  they  can  exert pressure on audited entities to ensure accountability of public resources. As Parliamentarians more often than not, change every five years, the need for proper engagement  with  them  to  better understand and interrogate the reports is of uttermost importance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Parliament"
+      ],
+      "page_number": 18,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "The Presidency",
+      "block_type": "heading",
+      "heading_path": [
+        "The Presidency"
+      ],
+      "page_number": 18,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "We continue to meet the Presidency's needs by updating it on  our  performance,  through  the Annual Corporate Report. The Office also takes up audit of special projects as may be requested by the Presidency.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "The Presidency"
+      ],
+      "page_number": 18,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "Audited Entities",
+      "block_type": "heading",
+      "heading_path": [
+        "Audited Entities"
+      ],
+      "page_number": 18,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "These are the clients that the Office engages with  as  they  are the  main  users  of  the  country's public resources. As outlined in the audit  process,  the  auditors  have a  back  and  forth  communication with the audited entities from the entry meeting right to the final  audit  report.  The  Office  has approximately 1,177 audited entities. Constant  engagement  helps  them to appreciate the role that the Office plays in terms of carrying out regularity/  financial,  forensic  audits of their accounts.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Audited Entities"
+      ],
+      "page_number": 18,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "OAG staff",
+      "block_type": "heading",
+      "heading_path": [
+        "OAG staff"
+      ],
+      "page_number": 18,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "The organisation's overall image and reputation is carried by the staff themselves. The Office ensures staff receive extensive training and capacity building such as the ongoing training  on  Teammate  version  12 software, on  a continuous  basis aimed at developing their skills and building staff unity.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OAG staff"
+      ],
+      "page_number": 18,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "Civil Society Organisations (CSOs)",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OAG staff"
+      ],
+      "page_number": 18,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "minded  Civil  Society  Organisations for the benefit of the citizens.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OAG staff"
+      ],
+      "page_number": 18,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "Donors/Cooperating partners",
+      "block_type": "heading",
+      "heading_path": [
+        "Donors/Cooperating partners"
+      ],
+      "page_number": 18,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "These  partners  are  largely  focused on compliance with standards for  uniform  reporting  as  well  as",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Donors/Cooperating partners"
+      ],
+      "page_number": 18,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "training and Workshops.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Donors/Cooperating partners"
+      ],
+      "page_number": 18,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "capacity-building of staff for effective audits. The  Office  always ensures that these needs are met through  sustained capacity-building",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Donors/Cooperating partners"
+      ],
+      "page_number": 18,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "The Office  also  meets  membership obligations through regular payments  to  parent  organisations that we subscribe to for professionalism of the auditing function.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Donors/Cooperating partners"
+      ],
+      "page_number": 18,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "cHaPter 2: OUr PrODUcts",
+      "block_type": "heading",
+      "heading_path": [
+        "cHaPter 2: OUr PrODUcts"
+      ],
+      "page_number": 19,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "The products of the AuditorGeneral's  work  are  audit  reports which are submitted to Parliament or  the  relevant  County  Assemblies within three months after the end  of  the  financial  year.  In  the execution of its mandate, the Office has however, experienced financial challenges, thus affecting timely compilation of audit reports.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 2: OUr PrODUcts"
+      ],
+      "page_number": 19,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "The  table  below  summarises  the Office's budgetary requirement against the allocated resources:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 2: OUr PrODUcts"
+      ],
+      "page_number": 19,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "Budget Analysis",
+      "block_type": "heading",
+      "heading_path": [
+        "Budget Analysis"
+      ],
+      "page_number": 19,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "The financial challenges notwithstanding, the Office continues to effectively use the available resources to fulfil its mandate. The Office has, consequently, developed an Annual Operational Plan (AOP) to drive the audit function.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Budget Analysis"
+      ],
+      "page_number": 19,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "annUal OPeratIOnal Plan",
+      "block_type": "heading",
+      "heading_path": [
+        "annUal OPeratIOnal Plan"
+      ],
+      "page_number": 20,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "This  is  a  planning  tool  for  audit purposes. It profiles the clients, identifies the resources required for timely and successful execution of an audit, using a risk-based audit approach. The audit plan uses a 'drill-down' approach which focuses  on  'tracing  the  shilling  to the ground', by ensuring that final projects  where  the  funds  will  be spent are audited.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "annUal OPeratIOnal Plan"
+      ],
+      "page_number": 20,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "Supreme Audit Institutions (ISSAIs) and International Organisation of Supreme Audit Institutions Governance (INTOSAI GOV) framework regarding audit planning,  quality  control,  auditor's response  to  risk  assessment  and entity risk management.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "annUal OPeratIOnal Plan"
+      ],
+      "page_number": 20,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "aUDIt",
+      "block_type": "heading",
+      "heading_path": [
+        "aUDIt"
+      ],
+      "page_number": 20,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "The Annual Operational Plan (AOP) reflects the OAG's adherence to International Standards of",
+      "block_type": "paragraph",
+      "heading_path": [
+        "aUDIt"
+      ],
+      "page_number": 20,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "Article  229(4)  of  the  Constitution of Kenya outlines the various accounts which the Auditor-General is  expected  to  audit  and  report on. Furthermore, Article 229(6) stipulates  that  the  Auditor-General should confirm whether public",
+      "block_type": "paragraph",
+      "heading_path": [
+        "aUDIt"
+      ],
+      "page_number": 20,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "Table 1: Certification audits for 2015/2016 and 2016/2017",
+      "block_type": "caption",
+      "heading_path": [
+        "aUDIt"
+      ],
+      "page_number": 20,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "money  has  been  applied  lawfully and  in  an  effective  manner.  This means that apart from certification audits,  the  Auditor-General  should also focus on performance audits.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "aUDIt"
+      ],
+      "page_number": 20,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "certIfIcatIOn aUDIts",
+      "block_type": "heading",
+      "heading_path": [
+        "certIfIcatIOn aUDIts"
+      ],
+      "page_number": 20,
+      "block_index": 203,
+      "table_ref": null
+    },
+    {
+      "text": "The  main  constitutional  mandate of  the  Auditor-General  is  to  certify accounts  of  public  entities.  These funds include public debt, recurrent expenditure, development expenditure and consolidated funds. The tables below show certification  audits  for  2015/16  and 2016/17:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "certIfIcatIOn aUDIts"
+      ],
+      "page_number": 20,
+      "block_index": 204,
+      "table_ref": null
+    },
+    {
+      "text": "The reason for the change in numbers of the statements for the financial  year  2015/16  and  2016/17 is  that  there  were  additional  new clients under County Funds and Donor funded projects.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "certIfIcatIOn aUDIts"
+      ],
+      "page_number": 21,
+      "block_index": 205,
+      "table_ref": null
+    },
+    {
+      "text": "sPecIalIseD aUDIts",
+      "block_type": "heading",
+      "heading_path": [
+        "sPecIalIseD aUDIts"
+      ],
+      "page_number": 21,
+      "block_index": 206,
+      "table_ref": null
+    },
+    {
+      "text": "Apart from financial audits, the Office  also  carries  out  specialised audits,  which  focus  on  lawful  and effective  use  of  public  resources, and  the  detection  of  fraud.  They include performance audits that address concerns on value for money, environmental audits, IT audits and forensic audit.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sPecIalIseD aUDIts"
+      ],
+      "page_number": 21,
+      "block_index": 207,
+      "table_ref": null
+    },
+    {
+      "text": "Performance audit award",
+      "block_type": "heading",
+      "heading_path": [
+        "Performance audit award"
+      ],
+      "page_number": 21,
+      "block_index": 208,
+      "table_ref": null
+    },
+    {
+      "text": "The  department  continues  to  play a  critical  role  in  ensuring  that  the public  gets  value  for  money  in  the utilisation  of  public  resources.  The good work of the department saw performance audit awarded the Best Prize, 2017 in Africa. The Provision of Mental Healthcare Services in Kenya report was voted the Best by a team of  independent jury from Supreme Audit Institutions (SAIs) of the United Kingdom, Netherlands, Norway and Sweden.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Performance audit award"
+      ],
+      "page_number": 21,
+      "block_index": 209,
+      "table_ref": null
+    },
+    {
+      "text": "This  is  the  second  time  SAI  Kenya has won the Prize. In 2012 the Office also won the Prize on a Performance audit that looked at Specialised Healthcare Delivery at Kenyatta National  Hospital:  Waiting-time  for Cancer, Renal and Heart Patients.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Performance audit award"
+      ],
+      "page_number": 21,
+      "block_index": 210,
+      "table_ref": null
+    },
+    {
+      "text": "The award, sponsored by the Swedish National Audit Office (SNAO) recognizes the SAIs' efforts to produce performance audit reports  that  are  of  high  quality, timely  and  professional.  The  aim of  the  prize  is  to  benchmark  good practices in performance audits and  to  highlight  efforts  made  by performance auditors.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Performance audit award"
+      ],
+      "page_number": 21,
+      "block_index": 211,
+      "table_ref": null
+    },
+    {
+      "text": "Number\t of\t Special\t Audits\t carried out\tin\t2017/2018",
+      "block_type": "heading",
+      "heading_path": [
+        "Number\t of\t Special\t Audits\t carried out\tin\t2017/2018"
+      ],
+      "page_number": 21,
+      "block_index": 212,
+      "table_ref": null
+    },
+    {
+      "text": "During the Financial year 2017/2018, the Office finalised 19 Special Audits as indicated below:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Number\t of\t Special\t Audits\t carried out\tin\t2017/2018"
+      ],
+      "page_number": 21,
+      "block_index": 213,
+      "table_ref": null
+    },
+    {
+      "text": "Procurement\tAudits",
+      "block_type": "heading",
+      "heading_path": [
+        "Procurement\tAudits"
+      ],
+      "page_number": 21,
+      "block_index": 214,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Management of Claims/ Benefits - NHIF;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Procurement\tAudits"
+      ],
+      "page_number": 21,
+      "block_index": 215,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í NHIF - Tender for provision of Group Cover and Last Expense for Civil Servants, National Police and Kenya Prison Service;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Procurement\tAudits"
+      ],
+      "page_number": 21,
+      "block_index": 216,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Water Dams/ Pans within Ministry of Water and Irrigation (MOWI);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Procurement\tAudits"
+      ],
+      "page_number": 21,
+      "block_index": 217,
+      "table_ref": null
+    },
+    {
+      "text": "Forensic\tAudit",
+      "block_type": "heading",
+      "heading_path": [
+        "Forensic\tAudit"
+      ],
+      "page_number": 21,
+      "block_index": 218,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í African  Institute  for  Capacity Development (AICAD);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Forensic\tAudit"
+      ],
+      "page_number": 21,
+      "block_index": 219,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Ministry of Agriculture, Livestock  and  Fisheries  (CBK/ KPCU);",
+      "block_type": "list_item",
+      "heading_path": [
+        "Forensic\tAudit"
+      ],
+      "page_number": 21,
+      "block_index": 220,
+      "table_ref": null
+    },
+    {
+      "text": "Performance audit",
+      "block_type": "heading",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 221,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Management of the Green School Project;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 222,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Implementation and Monitoring of  Provisions  on local content in Petroleum Extraction and Production in Kenya;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 223,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Management  of  Cash Transfer Programme for Older Persons;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 224,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Operationalization of Constituency Industrial Development Centres;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 225,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Implementation of Efficient Lighting Project by KPLC;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 226,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Management of Technical Institutions  by  the  Ministry  of Education;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 227,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Provision of Financial and Business Support to Women by Women Enterprise Fund;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 228,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Occupational Safety of Workers in Workplaces Kenya;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 229,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Provision of Sewerage Services in  Nairobi  City  by  Athi  Water Services Board;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 230,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Provision of Sewerage Services in Kisumu City by Lake Victoria South Water Services Board;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 231,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Provision of Mental Healthcare Services in Kenya;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 232,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í National School Upgrading Programme;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 233,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í Effectiveness Measures put in  place  by  KWS  in  protecting Wildlife;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Performance audit"
+      ],
+      "page_number": 21,
+      "block_index": 234,
+      "table_ref": null
+    },
+    {
+      "text": "It audit",
+      "block_type": "heading",
+      "heading_path": [
+        "It audit"
+      ],
+      "page_number": 21,
+      "block_index": 235,
+      "table_ref": null
+    },
+    {
+      "text": "Í Í IEBC- Examination of Eight ICT Related Contracts.",
+      "block_type": "list_item",
+      "heading_path": [
+        "It audit"
+      ],
+      "page_number": 21,
+      "block_index": 236,
+      "table_ref": null
+    },
+    {
+      "text": "QUalIty assUrance",
+      "block_type": "heading",
+      "heading_path": [
+        "QUalIty assUrance"
+      ],
+      "page_number": 22,
+      "block_index": 237,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  offers  technical  support to  the  audit  function.  This  support is  in  terms of training staff on new audit methodologies, developing auditing manuals and ensuring that audit  reports  are  of  the  required quality  and  meet  the  appropriate audit standards such as the ISSAIs.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "QUalIty assUrance"
+      ],
+      "page_number": 22,
+      "block_index": 238,
+      "table_ref": null
+    },
+    {
+      "text": "financial  audit  manual  (fam)  & compliance audit manual (cam)",
+      "block_type": "heading",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 239,
+      "table_ref": null
+    },
+    {
+      "text": "Since 2012, the Office of the Auditor-  General  (OAG)  has  used the Regularity Audit Manual (RAM)  which  contained  the  audit methodology  that  guided  auditors while carrying out audits. RAM was a combination of both financial and compliance audits.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 240,
+      "table_ref": null
+    },
+    {
+      "text": "However,  after  a  series  of  quality assurance reviews that were done  for  various  Supreme  Audit Institutions (SAIs) across the Englishspeaking  African  region  from  2012 to  2016;  the  African  Organization of  English-speaking  Supreme  Audit Institutions (AFROSAI-E) realised that RAM  was very bulky, the working  papers  were  too  detailed and  lacked  objectives  and  specific guidance  on  how  they  should  be completed.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 241,
+      "table_ref": null
+    },
+    {
+      "text": "AFROSAI-E, with input from several SAI representatives decided to split  RAM  so  as  to  have  separate audit  manuals  i.e.  Financial  Audit Manual (FAM) and Compliance Audit Manual (CAM). FAM is based on ISSAI 200Fundamental Principles of Financial Auditing and CAM ISSAI 400Fundamental Principles of Compliance Auditing .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 242,
+      "table_ref": null
+    },
+    {
+      "text": "Various countries in the AFROSAI-E region including Kenya, were involved in the process of developing FAM. CAM was developed by AFROSAI-E with assistance from the  Norwegian  Audit  Office.  The draft Manuals were given to SAIs to conduct pilot audits with the aim of identifying gaps and giving input to AFROSAI-E for incorporation in the final process. During the AFROSAI-E Technical Update of November 2017,  the  finalized  manuals  were given to the SAIs for customization and roll-out.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 243,
+      "table_ref": null
+    },
+    {
+      "text": "There was a customization workshop  held  in  South  Africa  in April  2018  where  SAIs  were  taken through the customization process of the manuals.  As  OAG  Kenya rolled out Teammate in September 2017,  the Understanding  the  Entity phase  of  FAM  was  uploaded  and used to test out FAM in the audits of 2016-17 financial statements. This  presented  the  auditors  with  a chance to get a feel of the manual and give input during customization of the same. OAG Kenya has opted for  a  combined  approach  in  the audits where the two manuals have been combined and given rise to a new manual - F!CAM. Although the approach is combined, the working papers are distinct and compliance audit will be done during continuous audits.  The  findings  from  the  two audits will culminate in a combined Auditor's Report as per OAG mandate in Article 229 of the Kenyan Constitution.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 244,
+      "table_ref": null
+    },
+    {
+      "text": "The  FAM  will  address  Article  229 (4) - financial audit, while CAM will address  Article  229(6)  -  lawfulness and  effectiveness  in  use  of  public funds. CAM, as a stand-alone compliance audit methodology is currently being used by the Procurement Audit Unit and will be used  on  any  other  audits  that  will require  a  stand-alone  compliance audit  report.  The  two  customized manuals  -  FAM  and  CAM  -  and the working papers have been uploaded  to  TeamMate  ready  for use in 2017/18 audits.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "financial  audit  manual  (fam)  & compliance audit manual (cam)"
+      ],
+      "page_number": 22,
+      "block_index": 245,
+      "table_ref": null
+    },
+    {
+      "text": "audit automation",
+      "block_type": "heading",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 22,
+      "block_index": 246,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  has  now  embraced  full automation of the auditing process following  the  formal  launch  and roll  out  of  the  TeamMate  Version 12 software Audit Management System (AMS)  on 7 th   November 2017.  The  AMS  is  a  suite  and  has all  the  requisite  modules  that  help",
+      "block_type": "paragraph",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 22,
+      "block_index": 247,
+      "table_ref": null
+    },
+    {
+      "text": "auditors  manage  the  entire  audit value chain; commencing with planning,  execution,  reporting  and follow-up.  TeamMate  Version  12  is an  upgrade  of  the  earlier  version 8  and  is  server-based  unlike  the former  that  was  individual  laptop based.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 248,
+      "table_ref": null
+    },
+    {
+      "text": "As a result of its centralized server approach, version 12 breaks the 'auditor silo' and information is readily accessible to all the team  members  in  a  project  and throughout its life cycle.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 249,
+      "table_ref": null
+    },
+    {
+      "text": "The reviewers can therefore provide insightful guidance to the  Team members on a  timely  and  efficient file unlike the physical file on version 8  which  were  dependent  on  the submission of a file.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 250,
+      "table_ref": null
+    },
+    {
+      "text": "Benefits of TeamMate",
+      "block_type": "paragraph",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 251,
+      "table_ref": null
+    },
+    {
+      "text": "Reviewing audits is a continuous process, value is imparted on the audit effectively and efficiently;",
+      "block_type": "list_item",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 252,
+      "table_ref": null
+    },
+    {
+      "text": "Monitoring staff  performance on  the  assigned  work  is  now real time;",
+      "block_type": "list_item",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 253,
+      "table_ref": null
+    },
+    {
+      "text": "Flexibility in working, one needs not be physically present in the  Office  to  undertake  their responsibilities.",
+      "block_type": "list_item",
+      "heading_path": [
+        "audit automation"
+      ],
+      "page_number": 23,
+      "block_index": 254,
+      "table_ref": null
+    },
+    {
+      "text": "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle",
+      "block_type": "heading",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 23,
+      "block_index": 255,
+      "table_ref": null
+    },
+    {
+      "text": "In  order  to  ensure  accountability within  the  public  sector,  our  audit reports are presented to the peoples' representatives, that is, Parliament and County Assemblies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 23,
+      "block_index": 256,
+      "table_ref": null
+    },
+    {
+      "text": "It is important that members of these legislative bodies are provided with the necessary support  through  capacity  building and liaison, to effectively discharge their mandate. During the year, the  Office  conducted  a  capacitybuilding workshop for Members of Parliament, to enhance their ability in understanding audit reports and  for  improved  scrutiny  during hearings.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 23,
+      "block_index": 257,
+      "table_ref": null
+    },
+    {
+      "text": "20",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 24,
+      "block_index": 258,
+      "table_ref": null
+    },
+    {
+      "text": "20",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 24,
+      "block_index": 259,
+      "table_ref": null
+    },
+    {
+      "text": "The ongoing construction of Kakamega Regional Office",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 24,
+      "block_index": 260,
+      "table_ref": null
+    },
+    {
+      "text": "Eldoret Regional Office under construction",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 24,
+      "block_index": 261,
+      "table_ref": null
+    },
+    {
+      "text": "Annual Corporate Report 2017/2018",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPOrtIng  ParlIament  anD cOUnty assemblIes Play OversIgHt rOle"
+      ],
+      "page_number": 24,
+      "block_index": 262,
+      "table_ref": null
+    },
+    {
+      "text": "cHaPter 3: cOrPOrate servIces",
+      "block_type": "heading",
+      "heading_path": [
+        "cHaPter 3: cOrPOrate servIces"
+      ],
+      "page_number": 25,
+      "block_index": 263,
+      "table_ref": null
+    },
+    {
+      "text": "The Corporate Services Department provides non-audit professional support  towards  the  achievement of OAG's core mandate. These services  are  domiciled  in  various divisions such as Human Resources, Administration, Procurement, Information Communication Technology (ICT), Legal Affairs  and Public Relations & Communications.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 3: cOrPOrate servIces"
+      ],
+      "page_number": 25,
+      "block_index": 264,
+      "table_ref": null
+    },
+    {
+      "text": "PeOPle",
+      "block_type": "heading",
+      "heading_path": [
+        "PeOPle"
+      ],
+      "page_number": 25,
+      "block_index": 265,
+      "table_ref": null
+    },
+    {
+      "text": "The Office implements and oversees training and staff development programmes  to  ensure  employees are  equipped  with  the  necessary competencies and skills in their various capacities and deployments.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PeOPle"
+      ],
+      "page_number": 25,
+      "block_index": 266,
+      "table_ref": null
+    },
+    {
+      "text": "In this undertaking, the Office exposed employees to various career  development  programmes i.e  in  Budget  as  a  Control  Tool  in Audit, Use of TeamMate software in audit,  Procurement  Audits,  Report Writing, amongst others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PeOPle"
+      ],
+      "page_number": 25,
+      "block_index": 267,
+      "table_ref": null
+    },
+    {
+      "text": "flexible resource available to an organisation.  Currently  the  Office has  a  total  of  1,566  employees,  as at  June  2018,  who  are  deployed equitably in all the sectors.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PeOPle"
+      ],
+      "page_number": 25,
+      "block_index": 268,
+      "table_ref": null
+    },
+    {
+      "text": "Deploying people in the right numbers, with the right skills and  attitude  in  the  right  place  is fundamental to organisational success.  In  this  regard,  the  Office has collapsed the silos in the organisation and replaced them with an organisation structure that will expose all staff in equal measure to all auditable entities prescribed in the Constitution.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PeOPle"
+      ],
+      "page_number": 25,
+      "block_index": 269,
+      "table_ref": null
+    },
+    {
+      "text": "Status\tof\tstaff\tat\tOAG:\t2017/18",
+      "block_type": "heading",
+      "heading_path": [
+        "Status\tof\tstaff\tat\tOAG:\t2017/18"
+      ],
+      "page_number": 25,
+      "block_index": 270,
+      "table_ref": null
+    },
+    {
+      "text": "Provision\t of\t Medical\t Insurance\t to staff",
+      "block_type": "heading",
+      "heading_path": [
+        "Provision\t of\t Medical\t Insurance\t to staff"
+      ],
+      "page_number": 25,
+      "block_index": 271,
+      "table_ref": null
+    },
+    {
+      "text": "The Office realises the need to keep  a  healthy  and  fit  workforce,",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Provision\t of\t Medical\t Insurance\t to staff"
+      ],
+      "page_number": 25,
+      "block_index": 272,
+      "table_ref": null
+    },
+    {
+      "text": "People represent the most",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Provision\t of\t Medical\t Insurance\t to staff"
+      ],
+      "page_number": 25,
+      "block_index": 273,
+      "table_ref": null
+    },
+    {
+      "text": "and of  sound  mental state,  who  are  capable of  tackling  their  duties effectively. In this regard, the Office has put in place a comprehensive medical scheme  covering  both out and in-patient services for",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Provision\t of\t Medical\t Insurance\t to staff"
+      ],
+      "page_number": 25,
+      "block_index": 274,
+      "table_ref": null
+    },
+    {
+      "text": "staff and  their  legal  dependents subject to the prevailing annual entitlements per family.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Provision\t of\t Medical\t Insurance\t to staff"
+      ],
+      "page_number": 25,
+      "block_index": 275,
+      "table_ref": null
+    },
+    {
+      "text": "fInancIng Oag OPeratIOns",
+      "block_type": "heading",
+      "heading_path": [
+        "fInancIng Oag OPeratIOns"
+      ],
+      "page_number": 25,
+      "block_index": 276,
+      "table_ref": null
+    },
+    {
+      "text": "Amid financial challenges, the Office has ensured that the scarce financial resources  are  efficiently  utilised  by ensuring strict adherence to internal controls, processes and procedures as well as the Public Finance Management  Act  (PFM  Act),  2012, Public Procurement and Assets Disposal Act, 2015,  and  ensuring that other relevant regulations and guidelines are duly followed.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "fInancIng Oag OPeratIOns"
+      ],
+      "page_number": 25,
+      "block_index": 277,
+      "table_ref": null
+    },
+    {
+      "text": "The new constitutional dispensation with two levels of government and the expanded mandate of the Office of  the  Auditor-General  has  meant that the Auditor-General has to audit the  National  Government  and  47 County Governments. The financial resources required to enable us undertake effective audits and meet the constitutional deadline are huge.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "fInancIng Oag OPeratIOns"
+      ],
+      "page_number": 25,
+      "block_index": 278,
+      "table_ref": null
+    },
+    {
+      "text": "The Office also desires to establish Offices  at  the  Counties  in-order  to execute efficient audits and enhance independence. A huge development budget is required to execute these capital projects.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "fInancIng Oag OPeratIOns"
+      ],
+      "page_number": 25,
+      "block_index": 279,
+      "table_ref": null
+    },
+    {
+      "text": "sUPPly cHaIn management",
+      "block_type": "heading",
+      "heading_path": [
+        "sUPPly cHaIn management"
+      ],
+      "page_number": 26,
+      "block_index": 280,
+      "table_ref": null
+    },
+    {
+      "text": "Over the years, OAG has continued to ensure that all procurement is  done  within  the  tenets  of  the procurement law.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPly cHaIn management"
+      ],
+      "page_number": 26,
+      "block_index": 281,
+      "table_ref": null
+    },
+    {
+      "text": "Following the recruitment of procurement professionals, the Office has registered marked improvements  in  promoting  good governance and accountability within the internal systems.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPly cHaIn management"
+      ],
+      "page_number": 26,
+      "block_index": 282,
+      "table_ref": null
+    },
+    {
+      "text": "One  of  the  key  milestone  during the year has been the ability of the Office  to  utilise  about  92%  of  the funds assigned in the Procurement Plan.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUPPly cHaIn management"
+      ],
+      "page_number": 26,
+      "block_index": 283,
+      "table_ref": null
+    },
+    {
+      "text": "transPOrt anD lOgIstIcs",
+      "block_type": "heading",
+      "heading_path": [
+        "transPOrt anD lOgIstIcs"
+      ],
+      "page_number": 26,
+      "block_index": 284,
+      "table_ref": null
+    },
+    {
+      "text": "The Office provides support services in terms of staff transport and logistics coordination. The Office manages a fleet of 105 vehicles as at the  end  of  June  2018.  The  vehicles and staff (drivers) are spread across all the nine regional offices.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "transPOrt anD lOgIstIcs"
+      ],
+      "page_number": 26,
+      "block_index": 285,
+      "table_ref": null
+    },
+    {
+      "text": "In the period 2017-2018, OAG increased  its fleet distribution in which more focus was in the regional offices. This approach was adopted since  the  regional  offices  have  low fleet  allocation,  higher  challenges in  fleet  servicing  and  repairs  and the  need  for  all-terrain  tough  fleet allocation for long distance and rugged terrain travel. The approach has greatly improved effective fleet availability in the regions. The average  effective  fleet  availability as at June 2018 was 89% and 78% for the regional offices and Head Office-Nairobi, respectively.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "transPOrt anD lOgIstIcs"
+      ],
+      "page_number": 26,
+      "block_index": 286,
+      "table_ref": null
+    },
+    {
+      "text": "In  this  period,  in  an  effort  by the Office to modernise its fleet, the Office disposed a total  of  23  vehicles  which  had been recommended by the Chief  Mechanical  and  Transport Engineer  (CMTE)  for  boarding. The  Transport  Section  continues to  adopt  new  approaches  and strategies in managing the emerging challenges in the provision of transport service and logistics support in the Office of the Auditor-General.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "transPOrt anD lOgIstIcs"
+      ],
+      "page_number": 26,
+      "block_index": 287,
+      "table_ref": null
+    },
+    {
+      "text": "PrOvIsIOn Of OffIce sPace",
+      "block_type": "heading",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 288,
+      "table_ref": null
+    },
+    {
+      "text": "The Public Audit Act 2015 , Section 4(3)  requires  the  Auditor-General to  ensure  reasonable  access  to  all parts  of  the  republic.  This  means",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 289,
+      "table_ref": null
+    },
+    {
+      "text": "that  OAG  must  strive  to  devolve its  audit  presence  to  cover  both national and county level while ensuring continuous audit presence at the grass roots.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 290,
+      "table_ref": null
+    },
+    {
+      "text": "In  an  effort  to  follow  the  shilling where it  hits  the  ground,  OAG  has embarked  on  critical  projects  that will  facilitate  its  auditors  in  their work.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 291,
+      "table_ref": null
+    },
+    {
+      "text": "The key projects are:-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 292,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  of  the  AuditorGeneral has constructed a two-storey building for Garissa regional office which became  operational  on  15 th December 2017.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 293,
+      "table_ref": null
+    },
+    {
+      "text": "Construction  of  a  regional office  in  Kakamega  which began in June 2017. The building  is  expected  to  be complete by end of 2018.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 294,
+      "table_ref": null
+    },
+    {
+      "text": "OAG acquired one-acre plot from the Kenya Railways for construction  of  its  Eldoret regional  offices.  The  works began  on  30 th April 2018 and it's expected to be completed in May 2019.",
+      "block_type": "list_item",
+      "heading_path": [
+        "PrOvIsIOn Of OffIce sPace"
+      ],
+      "page_number": 26,
+      "block_index": 295,
+      "table_ref": null
+    },
+    {
+      "text": "rIsK management",
+      "block_type": "heading",
+      "heading_path": [
+        "rIsK management"
+      ],
+      "page_number": 27,
+      "block_index": 296,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  continuously  reviewed the  systematic  identification  of  all risk  exposures  consisting  of  financial, operational, compliance and emerging  information  technology related risks, and the strategies which  are  in  place  to  mitigate  the impact of the crystallization of these risks on the achievements of the set strategic objectives.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "rIsK management"
+      ],
+      "page_number": 27,
+      "block_index": 297,
+      "table_ref": null
+    },
+    {
+      "text": "The Office has incorporated a robust  system  to  ensure  that  risks are adequately identified and effectively  mitigated  to  ensure  the integrity of financial and operational information, safeguarding of assets and compliance with laws and other internal and external requirements.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "rIsK management"
+      ],
+      "page_number": 27,
+      "block_index": 298,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  has  adequate  internal control  system  in  place  to  ensure that its mandate is delivered effectively and efficiently. Adequate resources have also been deployed to the key areas of the operation to ensure seamless delivery of services.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "rIsK management"
+      ],
+      "page_number": 27,
+      "block_index": 299,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  reviewed  the  adequacy of the governance structure to deliver on the mandate of the Office in  a  transparent  and  accountable manner. The directorate also determined  whether  the  existing organisational  structure  is  aligned to  the  strategic  objectives  which supports  the  achievement  of  the mandate.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "rIsK management"
+      ],
+      "page_number": 27,
+      "block_index": 300,
+      "table_ref": null
+    },
+    {
+      "text": "sUstaInIng  tHe  tecHnOlOgy PUsH",
+      "block_type": "heading",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 301,
+      "table_ref": null
+    },
+    {
+      "text": "As a continuation of the ICT Modernisation programme, the Office  continued  investing    heavily on ICT with a special emphasis on updating or upgrading our security, communications and networking technologies. The office  implemented  the  following systems: -",
+      "block_type": "paragraph",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 302,
+      "table_ref": null
+    },
+    {
+      "text": "New  Firewall  and  Network Admission Control system",
+      "block_type": "list_item",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 303,
+      "table_ref": null
+    },
+    {
+      "text": "Upgraded our Core Switch",
+      "block_type": "list_item",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 304,
+      "table_ref": null
+    },
+    {
+      "text": "Upgraded  our  internet  and Wan",
+      "block_type": "list_item",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 305,
+      "table_ref": null
+    },
+    {
+      "text": "System Center Configuration Manager",
+      "block_type": "list_item",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 306,
+      "table_ref": null
+    },
+    {
+      "text": "MS Azure Cloud Services",
+      "block_type": "list_item",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 307,
+      "table_ref": null
+    },
+    {
+      "text": "NetApp Storage Upgrade",
+      "block_type": "list_item",
+      "heading_path": [
+        "sUstaInIng  tHe  tecHnOlOgy PUsH"
+      ],
+      "page_number": 27,
+      "block_index": 308,
+      "table_ref": null
+    },
+    {
+      "text": "new firewall and network Admission\tControl\tSystem",
+      "block_type": "heading",
+      "heading_path": [
+        "new firewall and network Admission\tControl\tSystem"
+      ],
+      "page_number": 27,
+      "block_index": 309,
+      "table_ref": null
+    },
+    {
+      "text": "Due  to  the  continued  threats  to",
+      "block_type": "paragraph",
+      "heading_path": [
+        "new firewall and network Admission\tControl\tSystem"
+      ],
+      "page_number": 27,
+      "block_index": 310,
+      "table_ref": null
+    },
+    {
+      "text": "our  environment,  we  invested  in a new, fully integrated firewall that  focuses  on  threats  and  has  a unified management capability. This firewall uniquely provides advanced threat protection before, during, and after attacks.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "new firewall and network Admission\tControl\tSystem"
+      ],
+      "page_number": 27,
+      "block_index": 311,
+      "table_ref": null
+    },
+    {
+      "text": "As  a  complement  to  the  firewall, we also invested in a Network Admission  control system  device that allows us analyze systems attempting  to  access  the  network and prevents vulnerable computers from joining the network.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "new firewall and network Admission\tControl\tSystem"
+      ],
+      "page_number": 27,
+      "block_index": 312,
+      "table_ref": null
+    },
+    {
+      "text": "core switch Upgrade",
+      "block_type": "heading",
+      "heading_path": [
+        "core switch Upgrade"
+      ],
+      "page_number": 27,
+      "block_index": 313,
+      "table_ref": null
+    },
+    {
+      "text": "During the year, most of our networking equipment reached what in the technology field is referred  to  as  'end  of  Life'  (the period  when  the  Manufacturer  of the Equipment stops providing support for the Equipment). Due to a lack of adequate allocation of funds, the Office was unable to replace all our  old  or  aging  equipment.  We therefore  took  a  phased  approach in the replacement of our ICT networking equipment and started with our core Infrastructure, namely the Core Switch and Core Router.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "core switch Upgrade"
+      ],
+      "page_number": 27,
+      "block_index": 314,
+      "table_ref": null
+    },
+    {
+      "text": "Upgraded  our  internet  and  Wan bandwidth",
+      "block_type": "heading",
+      "heading_path": [
+        "Upgraded  our  internet  and  Wan bandwidth"
+      ],
+      "page_number": 28,
+      "block_index": 315,
+      "table_ref": null
+    },
+    {
+      "text": "During the year, we increased our  Internet  speeds  by  50%  at  the Headquarters  and  by  100-500%  in some  of  our  regional  offices.  It  is projected  that  by  the  end  of  this exercise, we would have upgraded all  our  sites  both  in  Nairobi  and regional offices with these  new speeds.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Upgraded  our  internet  and  Wan bandwidth"
+      ],
+      "page_number": 28,
+      "block_index": 316,
+      "table_ref": null
+    },
+    {
+      "text": "Microsoft System Centre Configuration\tManager",
+      "block_type": "heading",
+      "heading_path": [
+        "Microsoft System Centre Configuration\tManager"
+      ],
+      "page_number": 28,
+      "block_index": 317,
+      "table_ref": null
+    },
+    {
+      "text": "The Office also rolled out Microsoft System Centre Configuration Manager. With this system, we are  able  to  centrally  manage  our datacentre, user devices, and infrastructure. This system has allowed  us  to  manage  secure  and scalable software deployment, compliance  settings  management and provide a comprehensive asset management for servers, desktops, laptops, and mobile devices.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Microsoft System Centre Configuration\tManager"
+      ],
+      "page_number": 28,
+      "block_index": 318,
+      "table_ref": null
+    },
+    {
+      "text": "MS\tAzure\tCloud\tServices",
+      "block_type": "heading",
+      "heading_path": [
+        "MS\tAzure\tCloud\tServices"
+      ],
+      "page_number": 28,
+      "block_index": 319,
+      "table_ref": null
+    },
+    {
+      "text": "We invested in Azure Cloud Services that allows us have an alternate site, to host and run OAG applications.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "MS\tAzure\tCloud\tServices"
+      ],
+      "page_number": 28,
+      "block_index": 320,
+      "table_ref": null
+    },
+    {
+      "text": "netapp storage Upgrade",
+      "block_type": "heading",
+      "heading_path": [
+        "netapp storage Upgrade"
+      ],
+      "page_number": 28,
+      "block_index": 321,
+      "table_ref": null
+    },
+    {
+      "text": "We also doubled our storage capacity  to  allow  for  more  to  be stored in our systems.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "netapp storage Upgrade"
+      ],
+      "page_number": 28,
+      "block_index": 322,
+      "table_ref": null
+    },
+    {
+      "text": "However, we were not able to invest and renew licenses of some of our critical  systems  due  to  a  reduction of  funds  by  the  National  Treasury. This also affected our modernisation programme and the most affected was  the  replacement  of  our  most basic work  tool, laptops. In the period  under  review,  50%  of  these laptops had been used by staff for more  than  5  years  (the  industry standard is 3 years).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "netapp storage Upgrade"
+      ],
+      "page_number": 28,
+      "block_index": 323,
+      "table_ref": null
+    },
+    {
+      "text": "legal aDvIsOry servIces",
+      "block_type": "heading",
+      "heading_path": [
+        "legal aDvIsOry servIces"
+      ],
+      "page_number": 28,
+      "block_index": 324,
+      "table_ref": null
+    },
+    {
+      "text": "During  the  period,  Legal  Services offered technical support to all departments  in  the  enforcement of  the  laws,  full  management  of legal matters relating to Contracts, Agreements, Legal Notices and Gazette  Notices.  We  also  offered general  legal  advice  upon  request by OAG and its stakeholders.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "legal aDvIsOry servIces"
+      ],
+      "page_number": 28,
+      "block_index": 325,
+      "table_ref": null
+    },
+    {
+      "text": "The Office is also proactive in prevention  of  breaches  of  the  law by  training  officers  on  the  need  to respect  the  law,  to  ensure  probity and propriety by sensitizing officers on the need to conduct themselves in accordance with high professional standards  of  behaviour  and  in  a manner  that  does  not  bring  the Office into disrepute.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "legal aDvIsOry servIces"
+      ],
+      "page_number": 28,
+      "block_index": 326,
+      "table_ref": null
+    },
+    {
+      "text": "Staff in the legal unit have attended several  trainings  to  improve  their functionality in the Office and to  keep  them  abreast  on  recent developments in law and other issues affecting the areas of compliance auditing.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "legal aDvIsOry servIces"
+      ],
+      "page_number": 28,
+      "block_index": 327,
+      "table_ref": null
+    },
+    {
+      "text": "An additional member of staff was deployed  to  the  unit  to  increase efficiency and reduce workload.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "legal aDvIsOry servIces"
+      ],
+      "page_number": 28,
+      "block_index": 328,
+      "table_ref": null
+    },
+    {
+      "text": "cOmmUnIcatIOn PrOgrammes",
+      "block_type": "heading",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 28,
+      "block_index": 329,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  of  the  Auditor  General has attained a solid reputation and positive image through an effective execution of its communication strategy. OAG has reduced the communication gap with key stakeholders,  ultimately  leading  to an enhanced reputation.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 28,
+      "block_index": 330,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  has  devised  interactive and creative ways of engaging employees  knowing  that  they  are the biggest asset for an organization. As a result, employees continue to renew  their  commitment  and  rally behind OAG mission.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 28,
+      "block_index": 331,
+      "table_ref": null
+    },
+    {
+      "text": "During  the  year,  we  successfully adopted a new logo which reinforced our new identity following the enactment of the 2010 Constitution.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 28,
+      "block_index": 332,
+      "table_ref": null
+    },
+    {
+      "text": "Planned communication activities played  a  major  role  in  the  roll-out of Teammate (audit software), ensuring it got the buy-in of staff, and flawless launch. Staff were  actively  engaged  in  various communication programmes before, during and after the launch. Information  was  shared  in  good time. We prepared various user and instructional materials to ensure maximum uptake.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 28,
+      "block_index": 333,
+      "table_ref": null
+    },
+    {
+      "text": "In  promoting  the  impact  of  audit reports  to  the  citizens,  the  Office continues  to  build  the  capacity  of journalists for better understanding and accurate reporting of audit findings. OAG in collaboration with GIZ, has been able to maintain goodwill with journalists by offering",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 28,
+      "block_index": 334,
+      "table_ref": null
+    },
+    {
+      "text": "training on the audit process; exposing them to audit jargons for better understanding of audit findings, for the  benefit  of  the  citizens  by  extension.  During  this period 77 journalists were trained on how to interpret our reports and give reliable information in regards to the findings. More journalists need to be trained on a continuous basis, but funding has been a challange.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 29,
+      "block_index": 335,
+      "table_ref": null
+    },
+    {
+      "text": "The Office also continues to publish an internal Magazine, 'OAG Perspectives' and 'Supreme Auditor' ,  targeted at  external  stakeholders.  It  also  publishes  the Annual Corporate  Report . These, together with improved presence  of  the  Office  on  social  media  platforms, are  avenues  through  which  the  Office  endeavours  to address stakeholder's needs.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 29,
+      "block_index": 336,
+      "table_ref": null
+    },
+    {
+      "text": "One  of  the  3  strategic  pillars  that  enable  the  Office achieve its mandate in ensuring accountability of public resources is service delivery to all kenyans.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 29,
+      "block_index": 337,
+      "table_ref": null
+    },
+    {
+      "text": "The Office strives to enhance its overall visibility to the general public and uses mainstream and social media responses to gauge its impact.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 29,
+      "block_index": 338,
+      "table_ref": null
+    },
+    {
+      "text": "Illustrated below  is  the  summary  highlighting  the frequency  at  which  the  Office  makes  its  mark  in  the Media's agenda.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cOmmUnIcatIOn PrOgrammes"
+      ],
+      "page_number": 29,
+      "block_index": 339,
+      "table_ref": null
+    },
+    {
+      "text": "Media\tConversations\tTouching\tOn\tThe\tOffice\tof\tThe\tAuditor-General's\tMandate\tFor\tJuly\t2017\t-\tJune\t2018",
+      "block_type": "heading",
+      "heading_path": [
+        "Media\tConversations\tTouching\tOn\tThe\tOffice\tof\tThe\tAuditor-General's\tMandate\tFor\tJuly\t2017\t-\tJune\t2018"
+      ],
+      "page_number": 29,
+      "block_index": 340,
+      "table_ref": null
+    },
+    {
+      "text": "Table: Summary of number of relevant conversations on OAG in mainstream and social media 2017/2018",
+      "block_type": "caption",
+      "heading_path": [
+        "Media\tConversations\tTouching\tOn\tThe\tOffice\tof\tThe\tAuditor-General's\tMandate\tFor\tJuly\t2017\t-\tJune\t2018"
+      ],
+      "page_number": 29,
+      "block_index": 341,
+      "table_ref": null
+    },
+    {
+      "text": "cHaPter 4: InternatIOnal engagements",
+      "block_type": "heading",
+      "heading_path": [
+        "cHaPter 4: InternatIOnal engagements"
+      ],
+      "page_number": 31,
+      "block_index": 342,
+      "table_ref": null
+    },
+    {
+      "text": "leaDersHIP at afrOsaI",
+      "block_type": "heading",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 343,
+      "table_ref": null
+    },
+    {
+      "text": "The  Office  is  honoured  to  serve in  various  capacities  at  the  global arena. The Auditor-General, for instance, serves as the President of the AFROSAI's Technical Committee of Knowledge Sharing Management and as the Vice -President of the Office of AFROSAI General Assembly. In his capacity, he is coordinating  a  Cooperative  Audit on Illicit  Financial Flows (IFFs) with a focus on corruption which is being carried  out  by  12  African  Supreme Audit  Institutions  (SAIs);  five  from Francophone  and  seven  from  the Anglophone countries.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 344,
+      "table_ref": null
+    },
+    {
+      "text": "The  objective  of  the  audit  is to establish the extent to which African countries  have  domesticated  and implemented two international treaties; The African Union Convention on Preventing and",
+      "block_type": "paragraph",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 345,
+      "table_ref": null
+    },
+    {
+      "text": "Combating Corruption (AUCPCC) and the United Nations Convention Against Corruption (UNCAC).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 346,
+      "table_ref": null
+    },
+    {
+      "text": "During the period under review, the Office  also  signed  a  Memorandum of Understanding with the National  Audit  Chamber  (NAC)  of the  Republic  of  South  Sudan  for provision of technical support. The  objective  of  this  project  is  to maintain  and  reinforce  key  audit related  capacities  for  the  NAC  of South Sudan and improve their Public Financial Management Administration and Accounting Systems. The arrangement will also enable the SAI South Sudan to meet its targets as set out in its strategic plan for 2017-2022. The project receives financial support from the INTOSAI Development Initiative (IDI).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 347,
+      "table_ref": null
+    },
+    {
+      "text": "Under the Kenya Petroleum",
+      "block_type": "paragraph",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 348,
+      "table_ref": null
+    },
+    {
+      "text": "Technical Assistance Programme (KEPTAP)  a  project  of  the  World Bank, the Office has been a beneficiary of various capacity building/training programmes conducted  with  a  view  to  equip various  actors  with  the  requisite knowledge  in  the  Petroleum  value chain. The extractive industries sector is an emerging and complex field whose emergence led to the  establishment  of  a  unit  that specializes in energy audits.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "leaDersHIP at afrOsaI"
+      ],
+      "page_number": 31,
+      "block_index": 349,
+      "table_ref": null
+    },
+    {
+      "text": "resOUrce PersOns",
+      "block_type": "heading",
+      "heading_path": [
+        "resOUrce PersOns"
+      ],
+      "page_number": 31,
+      "block_index": 350,
+      "table_ref": null
+    },
+    {
+      "text": "The Office continues to provide support  to  other  SAIs,  as  part  of the contribution to the membership of  INTOSAI  and  AFROSAI-E.  The capacity-building support are mainly in  the  subject  areas  of  Leadership and Management, Auditing, Communications  and  Stakeholder Engagement and Human Resource.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "resOUrce PersOns"
+      ],
+      "page_number": 31,
+      "block_index": 351,
+      "table_ref": null
+    },
+    {
+      "text": "In our contributions to INTOSAI, AFROSAI and in our daily operations we also work closely with various development  partners  with interest in Public Finance Management and use of public resources. These include The World Bank, GIZ, Swedish International Development Agency, and Danish International Development Agency, Swedish National Audit Office (SNAO), amongst others.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "resOUrce PersOns"
+      ],
+      "page_number": 31,
+      "block_index": 352,
+      "table_ref": null
+    },
+    {
+      "text": "cHaPter 5:",
+      "block_type": "heading",
+      "heading_path": [
+        "cHaPter 5:"
+      ],
+      "page_number": 32,
+      "block_index": 353,
+      "table_ref": null
+    },
+    {
+      "text": "Article 226 (4) of the Constitution of Kenya provides for the accounts of Office of the Auditor-General to be audited and reported on by a professionally qualified accountant appointed by the National Assembly.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 5:"
+      ],
+      "page_number": 32,
+      "block_index": 354,
+      "table_ref": null
+    },
+    {
+      "text": "The National Assembly is yet to appoint an auditor, but attached is the unaudited financial statement for the Office for 2017/18.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "cHaPter 5:"
+      ],
+      "page_number": 32,
+      "block_index": 355,
+      "table_ref": null
+    },
+    {
+      "text": "fInancIal statements",
+      "block_type": "heading",
+      "heading_path": [
+        "fInancIal statements"
+      ],
+      "page_number": 32,
+      "block_index": 356,
+      "table_ref": null
+    },
+    {
+      "text": "OFFICE OF THE AUDITOR GENERAL",
+      "block_type": "heading",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL"
+      ],
+      "page_number": 33,
+      "block_index": 357,
+      "table_ref": null
+    },
+    {
+      "text": "Reports and Financial Statements",
+      "block_type": "heading",
+      "heading_path": [
+        "Reports and Financial Statements"
+      ],
+      "page_number": 33,
+      "block_index": 358,
+      "table_ref": null
+    },
+    {
+      "text": "For the year ended June 30, 2018",
+      "block_type": "heading",
+      "heading_path": [
+        "For the year ended June 30, 2018"
+      ],
+      "page_number": 33,
+      "block_index": 359,
+      "table_ref": null
+    },
+    {
+      "text": "V. STATEMENT OF RECEIPTS AND PAYMENTS",
+      "block_type": "heading",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "block_index": 360,
+      "table_ref": null
+    },
+    {
+      "text": "The accounting policies and explanatory notes to these financial statements form an integral part of the financial statements. The entity financial statements were approved on ___________ 2018 and signed by:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "block_index": 361,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "block_index": 362,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "block_index": 363,
+      "table_ref": null
+    },
+    {
+      "text": "DAG Corporate Services Agnes Mita",
+      "block_type": "caption",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "block_index": 364,
+      "table_ref": null
+    },
+    {
+      "text": "Ag. Director Finance Dr. CPA Nebert Mandala ICPAK Number: 4366",
+      "block_type": "caption",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "block_index": 365,
+      "table_ref": null
+    },
+    {
+      "text": "OFFICE OF THE AUDITOR GENERAL",
+      "block_type": "heading",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL"
+      ],
+      "page_number": 34,
+      "block_index": 366,
+      "table_ref": null
+    },
+    {
+      "text": "Reports and Financial Statements For the year ended June 30, 2018",
+      "block_type": "heading",
+      "heading_path": [
+        "Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 34,
+      "block_index": 367,
+      "table_ref": null
+    },
+    {
+      "text": "VI. STATEMENT OF ASSETS AND LIABILITIES",
+      "block_type": "heading",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "block_index": 368,
+      "table_ref": null
+    },
+    {
+      "text": "The accounting policies and explanatory notes to these financial statements form an integral part of the financial statements. The entity financial statements were approved on ___________ 2018 and signed by:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "block_index": 369,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "block_index": 370,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "block_index": 371,
+      "table_ref": null
+    },
+    {
+      "text": "DAG Corporate Services Agnes Mita",
+      "block_type": "caption",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "block_index": 372,
+      "table_ref": null
+    },
+    {
+      "text": "Ag. Director Finance Dr. CPA Nebert Mandala ICPAK Number: 4366",
+      "block_type": "caption",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "block_index": 373,
+      "table_ref": null
+    },
+    {
+      "text": "OFFICE OF THE AUDITOR GENERAL",
+      "block_type": "heading",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL"
+      ],
+      "page_number": 35,
+      "block_index": 374,
+      "table_ref": null
+    },
+    {
+      "text": "Reports and Financial Statements For the year ended June 30, 2018",
+      "block_type": "heading",
+      "heading_path": [
+        "Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 35,
+      "block_index": 375,
+      "table_ref": null
+    },
+    {
+      "text": "VII. STATEMENT OF CASH FLOWS",
+      "block_type": "heading",
+      "heading_path": [
+        "VII. STATEMENT OF CASH FLOWS"
+      ],
+      "page_number": 35,
+      "block_index": 376,
+      "table_ref": null
+    },
+    {
+      "text": "-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VII. STATEMENT OF CASH FLOWS"
+      ],
+      "page_number": 35,
+      "block_index": 377,
+      "table_ref": null
+    },
+    {
+      "text": "-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VII. STATEMENT OF CASH FLOWS"
+      ],
+      "page_number": 35,
+      "block_index": 378,
+      "table_ref": null
+    },
+    {
+      "text": "-",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VII. STATEMENT OF CASH FLOWS"
+      ],
+      "page_number": 35,
+      "block_index": 379,
+      "table_ref": null
+    },
+    {
+      "text": "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018",
+      "block_type": "heading",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 36,
+      "block_index": 380,
+      "table_ref": null
+    },
+    {
+      "text": "The accounting policies and explanatory notes to these financial statements form an integral part of the financial statements. The entity financial statements were approved on ___________ 20 18 and signed by:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 36,
+      "block_index": 381,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 36,
+      "block_index": 382,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 36,
+      "block_index": 383,
+      "table_ref": null
+    },
+    {
+      "text": "DAG Corporate Services Agnes Mita",
+      "block_type": "caption",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 36,
+      "block_index": 384,
+      "table_ref": null
+    },
+    {
+      "text": "Ag. Director Finance Dr. CPA Nebert Mandala ICPAK Number: 4366",
+      "block_type": "caption",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL Reports and Financial Statements For the year ended June 30, 2018"
+      ],
+      "page_number": 36,
+      "block_index": 385,
+      "table_ref": null
+    },
+    {
+      "text": "OFFICE OF THE AUDITOR GENERAL",
+      "block_type": "heading",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL"
+      ],
+      "page_number": 37,
+      "block_index": 386,
+      "table_ref": null
+    },
+    {
+      "text": "Reports and Financial Statements",
+      "block_type": "paragraph",
+      "heading_path": [
+        "OFFICE OF THE AUDITOR GENERAL"
+      ],
+      "page_number": 37,
+      "block_index": 387,
+      "table_ref": null
+    },
+    {
+      "text": "For the year ended June 30, 2018",
+      "block_type": "heading",
+      "heading_path": [
+        "For the year ended June 30, 2018"
+      ],
+      "page_number": 37,
+      "block_index": 388,
+      "table_ref": null
+    },
+    {
+      "text": "VIII. SUMMARY STATEMENT OF APPROPRIATION: RECURRENT AND DEVELOPMENT COMBINED",
+      "block_type": "heading",
+      "heading_path": [
+        "VIII. SUMMARY STATEMENT OF APPROPRIATION: RECURRENT AND DEVELOPMENT COMBINED"
+      ],
+      "page_number": 37,
+      "block_index": 389,
+      "table_ref": null
+    },
+    {
+      "text": "(a) Commentary on significant underutilization (below 90% of utilization) and any overutilization (above 100%)",
+      "block_type": "heading",
+      "heading_path": [
+        "(a) Commentary on significant underutilization (below 90% of utilization) and any overutilization (above 100%)"
+      ],
+      "page_number": 37,
+      "block_index": 390,
+      "table_ref": null
+    },
+    {
+      "text": "i. Use of goods, Other grants and Acquisition of Assets absorption rates were 82%, 51% and 86% respectively occasioned by the fact that the last exchequer request of Kshs 200 Million in June 2018 was not honoured.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(a) Commentary on significant underutilization (below 90% of utilization) and any overutilization (above 100%)"
+      ],
+      "page_number": 37,
+      "block_index": 391,
+      "table_ref": null
+    },
+    {
+      "text": "The changes between original and final budget were as a result of reductions in the final budget amounts by the National ii.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(a) Commentary on significant underutilization (below 90% of utilization) and any overutilization (above 100%)"
+      ],
+      "page_number": 37,
+      "block_index": 392,
+      "table_ref": null
+    },
+    {
+      "text": "Treasury through Supplementary Budgets.",
+      "block_type": "heading",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 37,
+      "block_index": 393,
+      "table_ref": null
+    },
+    {
+      "text": "OFFICE OF THE AUDITOR GENERAL",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 394,
+      "table_ref": null
+    },
+    {
+      "text": "Reports and Financial Statements",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 395,
+      "table_ref": null
+    },
+    {
+      "text": "For the year ended June 30, 2018",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 396,
+      "table_ref": null
+    },
+    {
+      "text": "The entity financial statements were approved on ___________ 20 18 and signed by:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 397,
+      "table_ref": null
+    },
+    {
+      "text": "________________________",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 398,
+      "table_ref": null
+    },
+    {
+      "text": "Ag. Director Finance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 399,
+      "table_ref": null
+    },
+    {
+      "text": "Dr. CPA Nebert Mandala",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 400,
+      "table_ref": null
+    },
+    {
+      "text": "Agnes Mita",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 401,
+      "table_ref": null
+    },
+    {
+      "text": "ICPAK Number: 4366",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 38,
+      "block_index": 402,
+      "table_ref": null
+    },
+    {
+      "text": "36",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 40,
+      "block_index": 403,
+      "table_ref": null
+    },
+    {
+      "text": "36",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Treasury through Supplementary Budgets."
+      ],
+      "page_number": 40,
+      "block_index": 404,
+      "table_ref": null
+    },
+    {
+      "text": "CONTACTS",
+      "block_type": "heading",
+      "heading_path": [
+        "CONTACTS"
+      ],
+      "page_number": 40,
+      "block_index": 405,
+      "table_ref": null
+    },
+    {
+      "text": "Office of the Auditor-General Anniversary Towers, University Way P.O. Box 30084-00100, NAIROBI. Telephone: +254 20 3214000 E-mail: info@oagkenya.go.ke",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTACTS"
+      ],
+      "page_number": 40,
+      "block_index": 406,
+      "table_ref": null
+    },
+    {
+      "text": "Website: www.oagkenya.go.ke",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTACTS"
+      ],
+      "page_number": 40,
+      "block_index": 407,
+      "table_ref": null
+    },
+    {
+      "text": "@OAG_Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTACTS"
+      ],
+      "page_number": 40,
+      "block_index": 408,
+      "table_ref": null
+    },
+    {
+      "text": "Offi ce of the Auditor-General Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTACTS"
+      ],
+      "page_number": 40,
+      "block_index": 409,
+      "table_ref": null
+    },
+    {
+      "text": "Offi ce of the Auditor-General Kenya annual corporate report 2017/2018",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CONTACTS"
+      ],
+      "page_number": 40,
+      "block_index": 410,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_000",
+      "caption": "",
+      "heading_path": [
+        "Content"
+      ],
+      "page_number": 4,
+      "table_index": 0,
+      "markdown": "|   0 | 1                         |\n|----:|:--------------------------|\n|  04 | INTERNATIONAL ENGAGEMENTS |\n|  27 | LEADERSHIP AT AFROSAI     |\n|  27 | RESOURCE PERSONS          |",
+      "records": [
+        {
+          "0": "04",
+          "1": "INTERNATIONAL ENGAGEMENTS"
+        },
+        {
+          "0": "27",
+          "1": "LEADERSHIP AT AFROSAI"
+        },
+        {
+          "0": "27",
+          "1": "RESOURCE PERSONS"
+        }
+      ],
+      "columns": [
+        0,
+        1
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_001",
+      "caption": "acrOnyms anD abbrevIatIOns",
+      "heading_path": [
+        "acrOnyms anD abbrevIatIOns"
+      ],
+      "page_number": 5,
+      "table_index": 1,
+      "markdown": "| 0           | 1   | 2                                                                         |\n|:------------|:----|:--------------------------------------------------------------------------|\n| AMS         | -   | Audit Management Software                                                 |\n| AfDB        | -   | African Development Bank                                                  |\n| AFROSAI-E   | -   | African Organisation of English-speaking Supreme Audit Institutions       |\n| AOP         | -   | Annual Operational Plan                                                   |\n| CAM         | -   | Compliance Audit Manual                                                   |\n| CDF         | -   | Constituency Development Fund                                             |\n| CoB         | -   | Controller of Budget                                                      |\n| CPAK        | -   | Certified Public Accountant of Kenya                                      |\n| CS          | -   | Corporate Services                                                        |\n| DAG         | -   | Deputy Auditor General                                                    |\n| FAO         | -   | Food and Agriculture Organisation                                         |\n| FAM         | -   | Financial Audit Manual                                                    |\n| FCA         | -   | Fellow Member of the Institute of Chartered Accountants of England &Wales |\n| FCPA        | -   | Fellow Member of the Institute of Certified Public Accountants of Kenya   |\n| F!CAM       | -   | Financial and Compliance Audit Manual                                     |\n| ICPAK       | -   | Institute of Certified Public Accountants of Kenya                        |\n| IDI         | -   | INTOSAI Development Initiative                                            |\n| IFFs        | -   | Illicit Financial Flows                                                   |\n| INTOSAI     | -   | International Organisation of Supreme Audit Institutions                  |\n| INTOSAI-GOV | -   | International Organisation of Supreme Audit Institutions Governance       |\n| ISSAI       | -   | International Standards of Supreme Audit Institutions                     |\n| MDAs        | -   | State Ministries, Departments and Agencies                                |\n| NAC         | -   | National Audit Chamber of Republic of South Sudan                         |\n| OAG         | -   | Office of the Auditor-General                                             |\n| PAC         | -   | Public Accounts Committee                                                 |\n| PIC         | -   | Public Investment Committee                                               |\n| PFM Act     | -   | Public Finance Management Act                                             |\n| RAM         | -   | Regularity Audit Manual                                                   |\n| SA          | -   | Specialised Audit                                                         |\n| SAI         | -   | Supreme Audit Institution                                                 |\n| SNAO        | -   | Swedish National Audit Office                                             |\n| GIZ         | -   | Deutsche Gesellschaft für Internationale Zusammenarbeit                   |",
+      "records": [
+        {
+          "0": "AMS",
+          "1": "-",
+          "2": "Audit Management Software"
+        },
+        {
+          "0": "AfDB",
+          "1": "-",
+          "2": "African Development Bank"
+        },
+        {
+          "0": "AFROSAI-E",
+          "1": "-",
+          "2": "African Organisation of English-speaking Supreme Audit Institutions"
+        },
+        {
+          "0": "AOP",
+          "1": "-",
+          "2": "Annual Operational Plan"
+        },
+        {
+          "0": "CAM",
+          "1": "-",
+          "2": "Compliance Audit Manual"
+        },
+        {
+          "0": "CDF",
+          "1": "-",
+          "2": "Constituency Development Fund"
+        },
+        {
+          "0": "CoB",
+          "1": "-",
+          "2": "Controller of Budget"
+        },
+        {
+          "0": "CPAK",
+          "1": "-",
+          "2": "Certified Public Accountant of Kenya"
+        },
+        {
+          "0": "CS",
+          "1": "-",
+          "2": "Corporate Services"
+        },
+        {
+          "0": "DAG",
+          "1": "-",
+          "2": "Deputy Auditor General"
+        },
+        {
+          "0": "FAO",
+          "1": "-",
+          "2": "Food and Agriculture Organisation"
+        },
+        {
+          "0": "FAM",
+          "1": "-",
+          "2": "Financial Audit Manual"
+        },
+        {
+          "0": "FCA",
+          "1": "-",
+          "2": "Fellow Member of the Institute of Chartered Accountants of England &Wales"
+        },
+        {
+          "0": "FCPA",
+          "1": "-",
+          "2": "Fellow Member of the Institute of Certified Public Accountants of Kenya"
+        },
+        {
+          "0": "F!CAM",
+          "1": "-",
+          "2": "Financial and Compliance Audit Manual"
+        },
+        {
+          "0": "ICPAK",
+          "1": "-",
+          "2": "Institute of Certified Public Accountants of Kenya"
+        },
+        {
+          "0": "IDI",
+          "1": "-",
+          "2": "INTOSAI Development Initiative"
+        },
+        {
+          "0": "IFFs",
+          "1": "-",
+          "2": "Illicit Financial Flows"
+        },
+        {
+          "0": "INTOSAI",
+          "1": "-",
+          "2": "International Organisation of Supreme Audit Institutions"
+        },
+        {
+          "0": "INTOSAI-GOV",
+          "1": "-",
+          "2": "International Organisation of Supreme Audit Institutions Governance"
+        },
+        {
+          "0": "ISSAI",
+          "1": "-",
+          "2": "International Standards of Supreme Audit Institutions"
+        },
+        {
+          "0": "MDAs",
+          "1": "-",
+          "2": "State Ministries, Departments and Agencies"
+        },
+        {
+          "0": "NAC",
+          "1": "-",
+          "2": "National Audit Chamber of Republic of South Sudan"
+        },
+        {
+          "0": "OAG",
+          "1": "-",
+          "2": "Office of the Auditor-General"
+        },
+        {
+          "0": "PAC",
+          "1": "-",
+          "2": "Public Accounts Committee"
+        },
+        {
+          "0": "PIC",
+          "1": "-",
+          "2": "Public Investment Committee"
+        },
+        {
+          "0": "PFM Act",
+          "1": "-",
+          "2": "Public Finance Management Act"
+        },
+        {
+          "0": "RAM",
+          "1": "-",
+          "2": "Regularity Audit Manual"
+        },
+        {
+          "0": "SA",
+          "1": "-",
+          "2": "Specialised Audit"
+        },
+        {
+          "0": "SAI",
+          "1": "-",
+          "2": "Supreme Audit Institution"
+        },
+        {
+          "0": "SNAO",
+          "1": "-",
+          "2": "Swedish National Audit Office"
+        },
+        {
+          "0": "GIZ",
+          "1": "-",
+          "2": "Deutsche Gesellschaft für Internationale Zusammenarbeit"
+        }
+      ],
+      "columns": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_002",
+      "caption": "The  table  below  summarises  the Office's budgetary requirement against the allocated resources:",
+      "heading_path": [
+        "cHaPter 2: OUr PrODUcts"
+      ],
+      "page_number": 19,
+      "table_index": 2,
+      "markdown": "| Budgetary Allocation.   | Budgetary Allocation.2015-16   | Budgetary Allocation.   | Budgetary Allocation.shortfall Kshs. (Mil - lion)   | Budgetary Allocation.2016-17   | Budgetary Allocation.   | Budgetary Allocation.   | Budgetary Allocation.2017-18 require-   | Budgetary Allocation.allocation Kshs. (Mil - lion)   | Budgetary Allocation.shortfall Kshs. (Mil - lion)   |\n|:------------------------|:-------------------------------|:------------------------|:----------------------------------------------------|:-------------------------------|:------------------------|:------------------------|:----------------------------------------|:-----------------------------------------------------|:----------------------------------------------------|\n| recurrent               | 5,984                          | 3,785                   | 2,239                                               | 6,143                          | 4,253                   | 1,890                   | 7,222.47                                | 5,193.30                                             | 2,029.17                                            |\n| Development             | 3,500                          | 155                     | 3,345                                               | 2,110                          | 176                     | 1,934                   | 1,500.00                                | 102.84                                               | 1,297.16                                            |\n| total                   | 9,484                          | 3,900                   | 5,584                                               | 8,253                          | 4,429                   | 3,824                   | 8,722.47                                | 5,296.14                                             | 3,426.33                                            |",
+      "records": [
+        {
+          "Budgetary Allocation.": "1,890",
+          "Budgetary Allocation.2015-16": "5,984",
+          "Budgetary Allocation.shortfall Kshs. (Mil - lion)": "2,029.17",
+          "Budgetary Allocation.2016-17": "6,143",
+          "Budgetary Allocation.2017-18 require-": "7,222.47",
+          "Budgetary Allocation.allocation Kshs. (Mil - lion)": "5,193.30"
+        },
+        {
+          "Budgetary Allocation.": "1,934",
+          "Budgetary Allocation.2015-16": "3,500",
+          "Budgetary Allocation.shortfall Kshs. (Mil - lion)": "1,297.16",
+          "Budgetary Allocation.2016-17": "2,110",
+          "Budgetary Allocation.2017-18 require-": "1,500.00",
+          "Budgetary Allocation.allocation Kshs. (Mil - lion)": "102.84"
+        },
+        {
+          "Budgetary Allocation.": "3,824",
+          "Budgetary Allocation.2015-16": "9,484",
+          "Budgetary Allocation.shortfall Kshs. (Mil - lion)": "3,426.33",
+          "Budgetary Allocation.2016-17": "8,253",
+          "Budgetary Allocation.2017-18 require-": "8,722.47",
+          "Budgetary Allocation.allocation Kshs. (Mil - lion)": "5,296.14"
+        }
+      ],
+      "columns": [
+        "Budgetary Allocation.",
+        "Budgetary Allocation.2015-16",
+        "Budgetary Allocation.",
+        "Budgetary Allocation.shortfall Kshs. (Mil - lion)",
+        "Budgetary Allocation.2016-17",
+        "Budgetary Allocation.",
+        "Budgetary Allocation.",
+        "Budgetary Allocation.2017-18 require-",
+        "Budgetary Allocation.allocation Kshs. (Mil - lion)",
+        "Budgetary Allocation.shortfall Kshs. (Mil - lion)"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_003",
+      "caption": "",
+      "heading_path": [
+        "aUDIt"
+      ],
+      "page_number": 20,
+      "table_index": 3,
+      "markdown": "| entIty                                    | fInancIal year   | nO. Of statements   |\n|:------------------------------------------|:-----------------|:--------------------|\n| CDF                                       | 2015/2016        | 290                 |\n| Central Government                        | 2015/2016        | 110                 |\n| County Government                         | 2015/2016        | 47                  |\n| County Assembly Financial Statements      | 2015/2016        | 47                  |\n| County Funds (Car loans, Mortgages, etc.) | 2015/2016        | 35                  |\n| State Corporations                        | 2015/2016        | 251                 |\n| Donor Funded Projects                     | 2015/2016        | 160                 |\n| Water Companies and Boards                | 2015/2016        | 80                  |\n| Political Parties                         | 2015/2016        | 3                   |\n| entIty                                    | fInancIal year   | nO. Of statements   |\n| CDF                                       | 2016/2017        | 290                 |\n| Central Government                        | 2016/2017        | 109                 |\n| County Government                         | 2016/2017        | 47                  |\n| County Assemblies                         | 2016/2017        | 47                  |\n| County Funds (Car loans, Mortgages, etc.) | 2016/2017        | 55                  |\n| State Corporations                        | 2016/2017        | 246                 |\n| Donor Funded Projects                     | 2016/2017        | 164                 |\n| Water Companies and Boards                | 2016/2017        | 83                  |\n| Political Parties                         | 2016/2017        | 5                   |",
+      "records": [
+        {
+          "entIty": "CDF",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "290"
+        },
+        {
+          "entIty": "Central Government",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "110"
+        },
+        {
+          "entIty": "County Government",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "47"
+        },
+        {
+          "entIty": "County Assembly Financial Statements",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "47"
+        },
+        {
+          "entIty": "County Funds (Car loans, Mortgages, etc.)",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "35"
+        },
+        {
+          "entIty": "State Corporations",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "251"
+        },
+        {
+          "entIty": "Donor Funded Projects",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "160"
+        },
+        {
+          "entIty": "Water Companies and Boards",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "80"
+        },
+        {
+          "entIty": "Political Parties",
+          "fInancIal year": "2015/2016",
+          "nO. Of statements": "3"
+        },
+        {
+          "entIty": "entIty",
+          "fInancIal year": "fInancIal year",
+          "nO. Of statements": "nO. Of statements"
+        },
+        {
+          "entIty": "CDF",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "290"
+        },
+        {
+          "entIty": "Central Government",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "109"
+        },
+        {
+          "entIty": "County Government",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "47"
+        },
+        {
+          "entIty": "County Assemblies",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "47"
+        },
+        {
+          "entIty": "County Funds (Car loans, Mortgages, etc.)",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "55"
+        },
+        {
+          "entIty": "State Corporations",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "246"
+        },
+        {
+          "entIty": "Donor Funded Projects",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "164"
+        },
+        {
+          "entIty": "Water Companies and Boards",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "83"
+        },
+        {
+          "entIty": "Political Parties",
+          "fInancIal year": "2016/2017",
+          "nO. Of statements": "5"
+        }
+      ],
+      "columns": [
+        "entIty",
+        "fInancIal year",
+        "nO. Of statements"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_004",
+      "caption": "Status\tof\tstaff\tat\tOAG:\t2017/18",
+      "heading_path": [
+        "Status\tof\tstaff\tat\tOAG:\t2017/18"
+      ],
+      "page_number": 25,
+      "table_index": 4,
+      "markdown": "| Staff                                 |   total |\n|:--------------------------------------|--------:|\n| Number of staff recruited             |     288 |\n| Number of staff that have resigned    |       4 |\n| Number of staff that have retired     |      23 |\n| Number of staff that have passed away |       7 |",
+      "records": [
+        {
+          "Staff": "Number of staff recruited",
+          "total": "288"
+        },
+        {
+          "Staff": "Number of staff that have resigned",
+          "total": "4"
+        },
+        {
+          "Staff": "Number of staff that have retired",
+          "total": "23"
+        },
+        {
+          "Staff": "Number of staff that have passed away",
+          "total": "7"
+        }
+      ],
+      "columns": [
+        "Staff",
+        "total"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_005",
+      "caption": "Media\tConversations\tTouching\tOn\tThe\tOffice\tof\tThe\tAuditor-General's\tMandate\tFor\tJuly\t2017\t-\tJune\t2018",
+      "heading_path": [
+        "Media\tConversations\tTouching\tOn\tThe\tOffice\tof\tThe\tAuditor-General's\tMandate\tFor\tJuly\t2017\t-\tJune\t2018"
+      ],
+      "page_number": 29,
+      "table_index": 5,
+      "markdown": "| Source of conversation                                                                                             | Frequency   |   Percentage |\n|:-------------------------------------------------------------------------------------------------------------------|:------------|-------------:|\n| Committee proceedings                                                                                              | 166         |            4 |\n| Reporting on OAG audit findings                                                                                    | 1057        |           24 |\n| Comments and opinions of stakeholders from social media                                                            | 2355        |           54 |\n| Editorial                                                                                                          | 44          |            1 |\n| General news stories - The Standard, Daily Nation, The Star, Kenya Updates, Kenya Today, Kenya News, People Daily. | 776         |           18 |\n| total                                                                                                              | 4,398       |          100 |",
+      "records": [
+        {
+          "Source of conversation": "Committee proceedings",
+          "Frequency": "166",
+          "Percentage": "4"
+        },
+        {
+          "Source of conversation": "Reporting on OAG audit findings",
+          "Frequency": "1057",
+          "Percentage": "24"
+        },
+        {
+          "Source of conversation": "Comments and opinions of stakeholders from social media",
+          "Frequency": "2355",
+          "Percentage": "54"
+        },
+        {
+          "Source of conversation": "Editorial",
+          "Frequency": "44",
+          "Percentage": "1"
+        },
+        {
+          "Source of conversation": "General news stories - The Standard, Daily Nation, The Star, Kenya Updates, Kenya Today, Kenya News, People Daily.",
+          "Frequency": "776",
+          "Percentage": "18"
+        },
+        {
+          "Source of conversation": "total",
+          "Frequency": "4,398",
+          "Percentage": "100"
+        }
+      ],
+      "columns": [
+        "Source of conversation",
+        "Frequency",
+        "Percentage"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_006",
+      "caption": "V. STATEMENT OF RECEIPTS AND PAYMENTS",
+      "heading_path": [
+        "V. STATEMENT OF RECEIPTS AND PAYMENTS"
+      ],
+      "page_number": 33,
+      "table_index": 6,
+      "markdown": "|                                          | Note   | 2017-2018     | 2016-2017     |\n|:-----------------------------------------|:-------|:--------------|:--------------|\n| RECEIPTS                                 |        |               |               |\n| Transfers from National Treasury         | 4      | 4,578,446,059 | 4,170,600,000 |\n| Transfers from Other Government Entities | 5      | -             | -             |\n| Proceeds from Sale of Assets             | 8      | -             | -             |\n| Other Revenues                           | 11     | 186,360,165   | 203,784,340   |\n| TOTAL REVENUES                           |        | 4,764,806,224 | 4,374,384,340 |\n| PAYMENTS                                 |        |               |               |\n| Compensation of Employees                | 12     | 3,003,867,555 | 2,522,698,802 |\n| Use of goods and services                | 13     | 1,170,259,234 | 1,235,041,256 |\n| Subsidies                                | 14     | -             | -             |\n| Transfers to Other Government Units      | 15     | -             | -             |\n| Other grants and transfers               | 16     | 1,028,919     | 1,088,073     |\n| Social Security Benefits                 | 17     | 1,222,400     | 9,170,600     |\n| Acquisition of Assets                    | 18     | 540,128,045   | 578,530,715   |\n| Finance Costs, including Loan Interest   | 19     | -             | -             |\n| Other Expenses                           | 21     | -             | -             |\n| TOTAL PAYMENTS                           |        | 4,716,506,153 | 4,346,529,446 |\n| SURPLUS/DEFICIT                          |        | 48,300,071    | 27,854,894    |",
+      "records": [
+        {
+          "": "RECEIPTS",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Transfers from National Treasury",
+          "Note": "4",
+          "2017-2018": "4,578,446,059",
+          "2016-2017": "4,170,600,000"
+        },
+        {
+          "": "Transfers from Other Government Entities",
+          "Note": "5",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Proceeds from Sale of Assets",
+          "Note": "8",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Other Revenues",
+          "Note": "11",
+          "2017-2018": "186,360,165",
+          "2016-2017": "203,784,340"
+        },
+        {
+          "": "TOTAL REVENUES",
+          "Note": "",
+          "2017-2018": "4,764,806,224",
+          "2016-2017": "4,374,384,340"
+        },
+        {
+          "": "PAYMENTS",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Compensation of Employees",
+          "Note": "12",
+          "2017-2018": "3,003,867,555",
+          "2016-2017": "2,522,698,802"
+        },
+        {
+          "": "Use of goods and services",
+          "Note": "13",
+          "2017-2018": "1,170,259,234",
+          "2016-2017": "1,235,041,256"
+        },
+        {
+          "": "Subsidies",
+          "Note": "14",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Transfers to Other Government Units",
+          "Note": "15",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Other grants and transfers",
+          "Note": "16",
+          "2017-2018": "1,028,919",
+          "2016-2017": "1,088,073"
+        },
+        {
+          "": "Social Security Benefits",
+          "Note": "17",
+          "2017-2018": "1,222,400",
+          "2016-2017": "9,170,600"
+        },
+        {
+          "": "Acquisition of Assets",
+          "Note": "18",
+          "2017-2018": "540,128,045",
+          "2016-2017": "578,530,715"
+        },
+        {
+          "": "Finance Costs, including Loan Interest",
+          "Note": "19",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Other Expenses",
+          "Note": "21",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "TOTAL PAYMENTS",
+          "Note": "",
+          "2017-2018": "4,716,506,153",
+          "2016-2017": "4,346,529,446"
+        },
+        {
+          "": "SURPLUS/DEFICIT",
+          "Note": "",
+          "2017-2018": "48,300,071",
+          "2016-2017": "27,854,894"
+        }
+      ],
+      "columns": [
+        "",
+        "Note",
+        "2017-2018",
+        "2016-2017"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_007",
+      "caption": "VI. STATEMENT OF ASSETS AND LIABILITIES",
+      "heading_path": [
+        "VI. STATEMENT OF ASSETS AND LIABILITIES"
+      ],
+      "page_number": 34,
+      "table_index": 7,
+      "markdown": "|                                                                   | Note   | 2017-2018   | 2016-2017    |\n|:------------------------------------------------------------------|:-------|:------------|:-------------|\n| FINANCIAL ASSETS                                                  |        |             |              |\n| Cash and Cash Equivalents                                         |        |             |              |\n| Bank Balances                                                     | 22A    | 29,742,106  | 108,326,240  |\n| Cash Balances                                                     | 22B    | 3,988,896   | 4,973,716    |\n| Total Cash And Cash Equivalents                                   |        | 33,731,002  | 113,299,956  |\n| Accounts Receivables - Outstanding Imprest and Clearence Accounts | 23     | 69,732,890  | 15,506,084   |\n| TOTAL FINANCIAL ASSETS                                            |        | 103,463,892 | 128,806,040  |\n| LESS: FINANCIAL LIABILITIES                                       |        |             |              |\n| Accounts Payables - Deposits                                      | 24     | 38,024,066  | 107,767,813  |\n| NET FINANCIAL ASSETS                                              |        | 65,439,826  | 21,038,227   |\n| REPRESENTED BY                                                    |        |             |              |\n| Fund balance b/fwd                                                | 25     | 17,139,755  | - 49,088,967 |\n| Prior year adjustments                                            | 26     | -           | 42,272,300   |\n| Surplus/Defict for the year                                       |        | 48,300,071  | 27,854,894   |\n| NET FINANCIAL POSSITION                                           |        | 65,439,826  | 21,038,227   |",
+      "records": [
+        {
+          "": "FINANCIAL ASSETS",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Cash and Cash Equivalents",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Bank Balances",
+          "Note": "22A",
+          "2017-2018": "29,742,106",
+          "2016-2017": "108,326,240"
+        },
+        {
+          "": "Cash Balances",
+          "Note": "22B",
+          "2017-2018": "3,988,896",
+          "2016-2017": "4,973,716"
+        },
+        {
+          "": "Total Cash And Cash Equivalents",
+          "Note": "",
+          "2017-2018": "33,731,002",
+          "2016-2017": "113,299,956"
+        },
+        {
+          "": "Accounts Receivables - Outstanding Imprest and Clearence Accounts",
+          "Note": "23",
+          "2017-2018": "69,732,890",
+          "2016-2017": "15,506,084"
+        },
+        {
+          "": "TOTAL FINANCIAL ASSETS",
+          "Note": "",
+          "2017-2018": "103,463,892",
+          "2016-2017": "128,806,040"
+        },
+        {
+          "": "LESS: FINANCIAL LIABILITIES",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Accounts Payables - Deposits",
+          "Note": "24",
+          "2017-2018": "38,024,066",
+          "2016-2017": "107,767,813"
+        },
+        {
+          "": "NET FINANCIAL ASSETS",
+          "Note": "",
+          "2017-2018": "65,439,826",
+          "2016-2017": "21,038,227"
+        },
+        {
+          "": "REPRESENTED BY",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Fund balance b/fwd",
+          "Note": "25",
+          "2017-2018": "17,139,755",
+          "2016-2017": "- 49,088,967"
+        },
+        {
+          "": "Prior year adjustments",
+          "Note": "26",
+          "2017-2018": "-",
+          "2016-2017": "42,272,300"
+        },
+        {
+          "": "Surplus/Defict for the year",
+          "Note": "",
+          "2017-2018": "48,300,071",
+          "2016-2017": "27,854,894"
+        },
+        {
+          "": "NET FINANCIAL POSSITION",
+          "Note": "",
+          "2017-2018": "65,439,826",
+          "2016-2017": "21,038,227"
+        }
+      ],
+      "columns": [
+        "",
+        "Note",
+        "2017-2018",
+        "2016-2017"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_008",
+      "caption": "VII. STATEMENT OF CASH FLOWS",
+      "heading_path": [
+        "VII. STATEMENT OF CASH FLOWS"
+      ],
+      "page_number": 35,
+      "table_index": 8,
+      "markdown": "|                                                          | Note   | 2017-2018     | 2016-2017     |\n|:---------------------------------------------------------|:-------|:--------------|:--------------|\n| CASH FLOWFROMOPERATINGACTIVITIES                         |        | Kshs          | Kshs          |\n| Receipts for operating income                            |        |               |               |\n| Transfers from National Treasury                         | 4      | 4,578,446,059 | 4,170,600,000 |\n| Other Revenues                                           | 11     | 186,360,165   | 203,784,340   |\n|                                                          |        | 4,764,806,224 | 4,374,384,340 |\n| Payments for operating expenses                          |        |               |               |\n| Compensation of Employees                                | 12     | 3,003,867,555 | 2,522,698,802 |\n| Use of goods and services                                | 13     | 1,170,259,234 | 1,235,041,256 |\n| Other grants and transfers                               | 16     | 1,028,919     | 1,088,073     |\n| Social Security Benefits                                 | 17     | 1,222,400     | 9,170,600     |\n| Finance Costs, including Loan Interest                   | 19     | -             | -             |\n|                                                          |        | 4,176,378,108 | 3,767,998,731 |\n| Adjusted for:                                            |        |               |               |\n| Changes in receivables                                   |        | - 54,226,806  | - 13,992,887  |\n| Changes in payables                                      |        | - 69,743,747  | - 5,417,287   |\n| Adjustments during the year                              | 26     | - 3,898,472   | 42,272,300    |\n| Net cashflow from operating activities                   |        | 460,559,091   | 629,247,735   |\n| CASHFLOWFROMINVESTING ACTIVITIES                         |        |               |               |\n| Proceeds from Sale of Assets                             | 8      | -             | -             |\n| Acquisition of Assets                                    | 18     | (540,128,045) | (578,530,715) |\n| Net cash flows from Investing Activities                 |        | (540,128,045) | (578,530,715) |\n| CASHFLOWFROMBORROWINGACTIVITIES                          |        |               |               |\n| Proceeds from Domestic Borrowings                        | 6      | -             | -             |\n| Proceeds from Foreign Borrowings                         | 7      | -             | -             |\n| Repayment of principal on Domestic and Foreign borrowing | 20     | -             | -             |\n| Net cash flow from financing activities                  |        | -             | -             |\n| NET INCREASE IN CASH AND CASH EQUIVALENT                 |        | - 79,568,954  | 50,717,020    |\n| Cash and cash equivalent at BEGINNING of the year        |        | 113,299,956   | 62,582,936    |\n| Cash and cash equivalent at END of the year              |        | 33,731,002    | 113,299,956   |",
+      "records": [
+        {
+          "": "CASH FLOWFROMOPERATINGACTIVITIES",
+          "Note": "",
+          "2017-2018": "Kshs",
+          "2016-2017": "Kshs"
+        },
+        {
+          "": "Receipts for operating income",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Transfers from National Treasury",
+          "Note": "4",
+          "2017-2018": "4,578,446,059",
+          "2016-2017": "4,170,600,000"
+        },
+        {
+          "": "Other Revenues",
+          "Note": "11",
+          "2017-2018": "186,360,165",
+          "2016-2017": "203,784,340"
+        },
+        {
+          "": "",
+          "Note": "",
+          "2017-2018": "4,764,806,224",
+          "2016-2017": "4,374,384,340"
+        },
+        {
+          "": "Payments for operating expenses",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Compensation of Employees",
+          "Note": "12",
+          "2017-2018": "3,003,867,555",
+          "2016-2017": "2,522,698,802"
+        },
+        {
+          "": "Use of goods and services",
+          "Note": "13",
+          "2017-2018": "1,170,259,234",
+          "2016-2017": "1,235,041,256"
+        },
+        {
+          "": "Other grants and transfers",
+          "Note": "16",
+          "2017-2018": "1,028,919",
+          "2016-2017": "1,088,073"
+        },
+        {
+          "": "Social Security Benefits",
+          "Note": "17",
+          "2017-2018": "1,222,400",
+          "2016-2017": "9,170,600"
+        },
+        {
+          "": "Finance Costs, including Loan Interest",
+          "Note": "19",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "",
+          "Note": "",
+          "2017-2018": "4,176,378,108",
+          "2016-2017": "3,767,998,731"
+        },
+        {
+          "": "Adjusted for:",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Changes in receivables",
+          "Note": "",
+          "2017-2018": "- 54,226,806",
+          "2016-2017": "- 13,992,887"
+        },
+        {
+          "": "Changes in payables",
+          "Note": "",
+          "2017-2018": "- 69,743,747",
+          "2016-2017": "- 5,417,287"
+        },
+        {
+          "": "Adjustments during the year",
+          "Note": "26",
+          "2017-2018": "- 3,898,472",
+          "2016-2017": "42,272,300"
+        },
+        {
+          "": "Net cashflow from operating activities",
+          "Note": "",
+          "2017-2018": "460,559,091",
+          "2016-2017": "629,247,735"
+        },
+        {
+          "": "CASHFLOWFROMINVESTING ACTIVITIES",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Proceeds from Sale of Assets",
+          "Note": "8",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Acquisition of Assets",
+          "Note": "18",
+          "2017-2018": "(540,128,045)",
+          "2016-2017": "(578,530,715)"
+        },
+        {
+          "": "Net cash flows from Investing Activities",
+          "Note": "",
+          "2017-2018": "(540,128,045)",
+          "2016-2017": "(578,530,715)"
+        },
+        {
+          "": "CASHFLOWFROMBORROWINGACTIVITIES",
+          "Note": "",
+          "2017-2018": "",
+          "2016-2017": ""
+        },
+        {
+          "": "Proceeds from Domestic Borrowings",
+          "Note": "6",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Proceeds from Foreign Borrowings",
+          "Note": "7",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Repayment of principal on Domestic and Foreign borrowing",
+          "Note": "20",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "Net cash flow from financing activities",
+          "Note": "",
+          "2017-2018": "-",
+          "2016-2017": "-"
+        },
+        {
+          "": "NET INCREASE IN CASH AND CASH EQUIVALENT",
+          "Note": "",
+          "2017-2018": "- 79,568,954",
+          "2016-2017": "50,717,020"
+        },
+        {
+          "": "Cash and cash equivalent at BEGINNING of the year",
+          "Note": "",
+          "2017-2018": "113,299,956",
+          "2016-2017": "62,582,936"
+        },
+        {
+          "": "Cash and cash equivalent at END of the year",
+          "Note": "",
+          "2017-2018": "33,731,002",
+          "2016-2017": "113,299,956"
+        }
+      ],
+      "columns": [
+        "",
+        "Note",
+        "2017-2018",
+        "2016-2017"
+      ]
+    },
+    {
+      "table_id": "annual_corporate_report_2017_2018_table_009",
+      "caption": "VIII. SUMMARY STATEMENT OF APPROPRIATION: RECURRENT AND DEVELOPMENT COMBINED",
+      "heading_path": [
+        "VIII. SUMMARY STATEMENT OF APPROPRIATION: RECURRENT AND DEVELOPMENT COMBINED"
+      ],
+      "page_number": 37,
+      "table_index": 9,
+      "markdown": "| %of Utilisation Difference to Final   | Budget f=d/c%   |          | 90%                | 91%                  | 90%            |          | 93%                       | 82%                       | 51%                        | 100%                     |                       | 86%           | 89%             |\n|:--------------------------------------|:----------------|:---------|:-------------------|:---------------------|:---------------|:---------|:--------------------------|:--------------------------|:---------------------------|:-------------------------|:----------------------|:--------------|:----------------|\n| Budget Utilisation Difference         | e=c-d           |          | 512,658,067        | 18,639,835           | 531,297,902    |          | 239,630,987               | 253,913,116               | 971,081                    | 0                        | 85,082,789            | 579,597,973   | (48,300,070)    |\n| Actual on Comparable Basis            | d               |          | 4,578,446,059      | 186,360,165          | 4,764,806,224  |          | 3,003,867,555             | 1,170,259,234             | 1,028,919                  | 1,222,400                | 540,128,045           | 4,716,506,153 | 48,300,070      |\n| Final Budget                          | c=a+b           |          | 5,091,104,126      | 205,000,000          | 5,296,104,126  |          | 3,243,498,542             | 1,424,172,350             | 2,000,000                  | 1,222,400                | 625,210,834           | 5,296,104,126 | 0               |\n| Adjustments                           | b               |          |                    | 0                    | 0              |          | 0                         | 0                         | 0                          | 0                        |                       | 0             | 0               |\n| Original Budget                       | a               |          |                    | 0                    | 0              |          | 0                         | 0                         | 0                          | 0                        |                       | 0             | 0               |\n| Revenue/Expense Item                  |                 | RECEIPTS | Exchequer releases | Other Receipts - AIA | Total Receipts | Payments | Compensation of Employees | Use of goods and services | Other grants and transfers | Social Security Benefits | Acquisition of Assets | Grand Total   | Surplus/Deficit |",
+      "records": [
+        {
+          "%of Utilisation Difference to Final": "Budget Utilisation Difference",
+          "Budget f=d/c%": "e=c-d",
+          "": "85,082,789",
+          "90%": "531,297,902",
+          "91%": "18,639,835",
+          "93%": "239,630,987",
+          "82%": "253,913,116",
+          "51%": "971,081",
+          "100%": "0",
+          "86%": "579,597,973",
+          "89%": "(48,300,070)"
+        },
+        {
+          "%of Utilisation Difference to Final": "Actual on Comparable Basis",
+          "Budget f=d/c%": "d",
+          "": "540,128,045",
+          "90%": "4,764,806,224",
+          "91%": "186,360,165",
+          "93%": "3,003,867,555",
+          "82%": "1,170,259,234",
+          "51%": "1,028,919",
+          "100%": "1,222,400",
+          "86%": "4,716,506,153",
+          "89%": "48,300,070"
+        },
+        {
+          "%of Utilisation Difference to Final": "Final Budget",
+          "Budget f=d/c%": "c=a+b",
+          "": "625,210,834",
+          "90%": "5,296,104,126",
+          "91%": "205,000,000",
+          "93%": "3,243,498,542",
+          "82%": "1,424,172,350",
+          "51%": "2,000,000",
+          "100%": "1,222,400",
+          "86%": "5,296,104,126",
+          "89%": "0"
+        },
+        {
+          "%of Utilisation Difference to Final": "Adjustments",
+          "Budget f=d/c%": "b",
+          "": "",
+          "90%": "0",
+          "91%": "0",
+          "93%": "0",
+          "82%": "0",
+          "51%": "0",
+          "100%": "0",
+          "86%": "0",
+          "89%": "0"
+        },
+        {
+          "%of Utilisation Difference to Final": "Original Budget",
+          "Budget f=d/c%": "a",
+          "": "",
+          "90%": "0",
+          "91%": "0",
+          "93%": "0",
+          "82%": "0",
+          "51%": "0",
+          "100%": "0",
+          "86%": "0",
+          "89%": "0"
+        },
+        {
+          "%of Utilisation Difference to Final": "Revenue/Expense Item",
+          "Budget f=d/c%": "",
+          "": "Acquisition of Assets",
+          "90%": "Total Receipts",
+          "91%": "Other Receipts - AIA",
+          "93%": "Compensation of Employees",
+          "82%": "Use of goods and services",
+          "51%": "Other grants and transfers",
+          "100%": "Social Security Benefits",
+          "86%": "Grand Total",
+          "89%": "Surplus/Deficit"
+        }
+      ],
+      "columns": [
+        "%of Utilisation Difference to Final",
+        "Budget f=d/c%",
+        "",
+        "90%",
+        "91%",
+        "90%",
+        "",
+        "93%",
+        "82%",
+        "51%",
+        "100%",
+        "",
+        "86%",
+        "89%"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3276 @@
+{
+  "source_file": "The-9th-Corporate-Plan.pdf",
+  "doc_slug": "the_9th_corporate_plan",
+  "is_scanned": false,
+  "total_pages": 32,
+  "error": null,
+  "blocks": [
+    {
+      "text": "MISSION",
+      "block_type": "heading",
+      "heading_path": [
+        "MISSION"
+      ],
+      "page_number": 2,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "To efficiently and effectively mobilise government revenue and facilitate trade by fostering compliance with tax and customs laws.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "MISSION"
+      ],
+      "page_number": 2,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "VISION",
+      "block_type": "heading",
+      "heading_path": [
+        "VISION"
+      ],
+      "page_number": 2,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "An agile tax and customs revenue agency facilitating voluntary compliance for all.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "VISION"
+      ],
+      "page_number": 2,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "CORE VALUES (TECHIS)",
+      "block_type": "heading",
+      "heading_path": [
+        "CORE VALUES (TECHIS)"
+      ],
+      "page_number": 2,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "TRUSTWORTHY",
+      "block_type": "heading",
+      "heading_path": [
+        "TRUSTWORTHY"
+      ],
+      "page_number": 2,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "We interact with others in a way that gives them confidence in our intentions and those of our orgnisation",
+      "block_type": "paragraph",
+      "heading_path": [
+        "TRUSTWORTHY"
+      ],
+      "page_number": 2,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "HELPFUL",
+      "block_type": "heading",
+      "heading_path": [
+        "HELPFUL"
+      ],
+      "page_number": 2,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "We respond to and anticipate client needs in a timely, professional and courteous manner.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "HELPFUL"
+      ],
+      "page_number": 2,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "ETHICAL",
+      "block_type": "heading",
+      "heading_path": [
+        "ETHICAL"
+      ],
+      "page_number": 2,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "We act with integrity, transparency and honesty in everyrhing we do",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ETHICAL"
+      ],
+      "page_number": 2,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "INNOVATIVE",
+      "block_type": "heading",
+      "heading_path": [
+        "INNOVATIVE"
+      ],
+      "page_number": 2,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "We embrace creativity and proactively seek new and improved ways of delivery services.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "INNOVATIVE"
+      ],
+      "page_number": 2,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "COMPETENT",
+      "block_type": "heading",
+      "heading_path": [
+        "COMPETENT"
+      ],
+      "page_number": 2,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "We possess functional, technical knowledge and skills that ensure efficiency in the delivery of our services to our customers.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "COMPETENT"
+      ],
+      "page_number": 2,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "SIMPLE",
+      "block_type": "heading",
+      "heading_path": [
+        "SIMPLE"
+      ],
+      "page_number": 2,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "Our processes are simple and tax laws easy to understand.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "SIMPLE"
+      ],
+      "page_number": 2,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "TABLE OF CONTENTS",
+      "block_type": "heading",
+      "heading_path": [
+        "TABLE OF CONTENTS"
+      ],
+      "page_number": 5,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "DEFINITION OF CONCEPTS & TERMINOLOGIES",
+      "block_type": "heading",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "Active taxpayers: Taxpayers who are either filing and/or paying taxes.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "Customer: Someone who seeks or expects to receive a service from KRA.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "Informal sector: Micro, small and medium-scale businesses that are semi-organised and unregulated. These are characterised by simple labour-intensive technology and may not have licences from authorities. Additionally, they are not registered with the Registrar of Companies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "Key activities: Projects (new or existing) designed to help KRA achieve its Strategic Objectives and have significant  organisation-wide  impact.  They  are  managed  formally  like  projects  with  owner,  schedule, resources needed, action steps, progress and expected results.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "Key Performance Indicators (KPIs): Measures of tracking progress or assessing the performance of KRA's strategy. They are critical (key) indicators of progress towards the intended result.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "Key Result Areas (KRAs): Broad areas in which the authority should deliver results.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "On-time filing rate: The number of declarations filed on-time relative to the number of expected tax declarations for each of CIT, PIT, VAT, domestic excise tax, and PAYE withholding.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "On-time payment rate: It measures the payment level of taxes due paid within the prescribed timelines.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "Strategic goals: These are KRA's long-term and major objectives to be achieved over the Corporate Plan period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "Strategic objectives: Qualitative, continuous improvement actions critical to the strategy's success. It is what the Authority commits to accomplish in order to achieve strategic goals.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "Strategic  outcomes: They  focus  on  accomplishments  or  impacts,  and  are  classified  as  Intermediate Outcomes or End Outcomes.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "Strategies: Actions  that  will  be  undertaken  to  attain  strategic  objectives.  Strategies  bridge  the  gap between 'where we are' and 'where we want to be'.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Base Expansion: Increasing tax revenues by expanding the type or level of income or assets that are subject to taxation not previously included in the tax system. It would include recruiting new taxpayers, introducing new taxes, subjecting persons and entities to tax that were previously exempt and addition of new obligations to the taxpayers already in the system.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DEFINITION OF CONCEPTS & TERMINOLOGIES"
+      ],
+      "page_number": 6,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "ACRONYMS AND ABBREVIATIONS",
+      "block_type": "heading",
+      "heading_path": [
+        "ACRONYMS AND ABBREVIATIONS"
+      ],
+      "page_number": 7,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "Unlock and tap the full revenue potential through technology transformation, service excellence and integrity.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ACRONYMS AND ABBREVIATIONS"
+      ],
+      "page_number": 8,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "EXECUTIVE SUMMARY",
+      "block_type": "heading",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "K enya Revenue Authority (KRA) was established by an Act of Parliament, Chapter 469 of the Laws of Kenya, which became effective  on  1 st   July,  1995.  The  Authority is  charged  with  the  responsibility  of  assessing, collecting  and  accounting  for  all  revenues,  and advising on matters relating to the administration, and collection, of revenue under the written laws or the specified provisions of the written laws.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "The Ninth Corporate Plan will run for five years, unlike  the  previous  eight  corporate  plans  that had  a  three-year  cycle.  This  ensures  alignment with  the  various  national  blueprints.  The  Plan provides a roadmap for the Authority to navigate its business environment and guide decisions in order  to  realise  the  mandate  over  the  medium term.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "The Plan was developed through a consultative process in line with the guidelines issued by The National  Treasury  and  Economic  Planning.  The national, regional and international development priorities were considered during the Plan development.  This  included  BETA,  the  Fourth Medium-Term Plan (MTP IV 2023-2027) of Kenya Vision 2030, the sectoral policies and laws, the East Africa Community Vision 2050, the United Nations 2030 Agenda for Sustainable Development, Africa's  Agenda  2063  and  the  Constitution  of Kenya, 2010.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "An environmental scan focusing on internal and external  factors  that  may  impact  on  the  Plan was  carried  out.  In  addition,  a  detailed  review of  the  Eighth  Corporate  Plan  2021/22-2023/24 was  undertaken  to  establish  key  achievements, challenges  and  lessons  learnt.  Key  stakeholders were  engaged  and  their  expectations  analysed. The results from the situational analysis informed the development of the strategic issues, objectives, strategies and key activities.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "The  Theme  for  this  Ninth  Corporate  Plan  is  to",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "'Unlock  and  tap  the  full  revenue  potential through technology transformation, service excellence  and  integrity' .  The  Plan  is  premised on  the  Vision  of  attaining 'An  agile  tax  and customs  revenue  agency  facilitating  voluntary compliance for all' .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "The Plan outlines four (4) strategic goals, namely (1) enhance revenue collection, (2) increase customer satisfaction, (3) digitalise revenue administration, and (4) strengthen human resource management. The four goals are aligned to the identified strategic issues that the Authority will focus on during the period. These are: Tax and customs  compliance;  Customer-centric  service delivery; Automation and integration of business systems  and  processes;  and  Staff  capacity  and integrity.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "Seven (7) Key Result Areas (KRAs) that will result in the attainment of strategic goals were determined and summarised as follows: Revenue mobilisation; Customs border management; Tax simplification; Taxpayer education and engagement; Trade facilitation;  Operational  efficiency;  and,  Human resource management. The seven KRAs shall be realised through fourteen (14) strategic objectives and  twenty-  two  (22)  strategies.  The  Plan  will be  implemented  through  Annual  Work  Plans cascaded through the performance contracts.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "A  risk  management  framework,  indicating  possible risks that the Authority may be exposed to, and the proposed  mitigation  measures,  was  developed. The  Authority  forecasts  that  implementation  of the  Ninth  Plan  will  require  approximately  Kshs 283,548 million mainly financed by The National Treasury and development partners.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "A  robust  monitoring,  evaluation  and  reporting framework  is  in  place  to  track  implementation of  the  Plan  and  provide  feedback  for  timely corrective action towards attainment of the strategic goals. Monitoring of the Corporate Plan will be conducted on a quarterly basis and evaluated mid-term and end-term.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 9,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 1",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "~svoM",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "INTRODUCTION",
+      "block_type": "heading",
+      "heading_path": [
+        "INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "1.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "1.0 Overview"
+      ],
+      "page_number": 11,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "This Chapter provides the justification for strategic planning  in  Kenya  Revenue  Authority  (KRA).  It further  outlines  the  role  of  the  Authority  in  the realisation of the national development agenda, including regional and international development frameworks that Kenya is a member.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.0 Overview"
+      ],
+      "page_number": 11,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "1.1 Strategy as an imperative for KRA's success",
+      "block_type": "heading",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "KRA  has  previously  been  guided  by  three-year corporate planning cycles up to the Eighth Corporate Plan. The Ninth Corporate Plan, however, will span over five financial years (2024/25  -2028/29).  These  Plans  have  served  to drive  the  Authority's  strategic  direction  in  the achievement of its goals and objectives. They also provide a roadmap for the Authority to navigate the  ever-changing  business  environment  and make informed decisions in order to achieve its vision in accordance with the mandate and core values.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "52 REVENUE GROWTH IN 6 YEARS",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "from Kshs 1.580 trillion to Kshs 2.407 trillion",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "The  Authority  has  sustained  revenue  growth despite  the  economic  shocks  over  the  last  five (5)  years.  The  revenue  collected  grew  by 52% , from Kshs  1.580  trillion in  FY  2018/19  to Kshs 2.407 trillion in FY 2023/24. This was as a result of implementation of tax base expansion strategies, customer support programmes, taxation at source initiatives (eTIMS), debt collection initiatives, dispute resolution  framework  and  leveraging technology. However, over the same period, the Authority  was  only  able  to  meet  the  revenue target in FY 2020/21 and FY 2022/23.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "The Ninth Corporate Plan seeks to focus on the Authority's efforts in revenue mobilisation for the government in bridging the resource gap amidst the rising expenditure and debt repayments. The Plan articulates initiatives not only for enhanced revenue  collection,  but  also  for  quality  service delivery by aligning employees around the organisation's  goals  and  objectives  in  order  to fulfil the government's development agenda.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "The theme for this Plan period, 'Unlock and tap the  full  revenue  potential  through  technology transformation, service excellence and integrity', resonates with the Plan's key focus areas, which underscore the following thematic areas:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "Revenue  mobilisation -  aims  at  unlocking and maximising the full revenue potential and ensuring sustainability. The goal is to achieve a revenue to GDP ratio of 27% by 2030 as per the Sector Performance Standards 2015.",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "Service  excellence -  ensures  simplified  tax processes for both internal and external customers thus enhancing customer experience.",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "Technology transformation - geared towards achieving a seamless tax administration through a revamped IT infrastructure and endto-end  integrated  ecosystem  that  enables real-time revenue collection and access to 3rd party data.",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "Performance  and  integrity  culture -  aims at  improving  staff  productivity  and  public confidence by inculcating a culture of performance and integrity among KRA staff.",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "Mutual collaborations - aims to establish and maintain  effective partnerships with  both the  public  and  private  sectors,  especially  in respect  of  access  to  3rd  party  data,  border management and exchange of information.",
+      "block_type": "list_item",
+      "heading_path": [
+        "1.1 Strategy as an imperative for KRA's success"
+      ],
+      "page_number": 11,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "1.2 Context of Strategic Planning",
+      "block_type": "heading",
+      "heading_path": [
+        "1.2 Context of Strategic Planning"
+      ],
+      "page_number": 11,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "The  Ninth  Corporate  Plan  was  developed  in consideration of national development blueprints, and regional and international development framework. These include Bottom-Up Economic Transformation  Agenda  (BETA),  Budget  Policy Statement 2024, Fourth Medium Term Plan (MTP IV  2023-2027)  of  Kenya  Vision  2030,  East  Africa Community  Vision  2050,  Africa  Agenda  2063 and Sustainable Development Goals (SDGs). The Plan also takes into account the provisions of the Constitution of Kenya , 2010 .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "1.2 Context of Strategic Planning"
+      ],
+      "page_number": 11,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "STRATEGIC DIRECTION",
+      "block_type": "heading",
+      "heading_path": [
+        "STRATEGIC DIRECTION"
+      ],
+      "page_number": 13,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "2.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "2.0 Overview"
+      ],
+      "page_number": 13,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "This  Chapter  describes  KRA's  strategic  direction over the next five-year horizon. This entails the set of goals and objectives that the Authority aims to achieve over the Plan period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.0 Overview"
+      ],
+      "page_number": 13,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "2.1 Mandate",
+      "block_type": "heading",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "KRA  was  established  by  an  Act  of  Parliament, Chapter 469 of the Laws of Kenya, which became effective on 1st July 1995. The Authority was created to  consolidate  the  revenue  collection  functions of  the  then-existing  government  departments, namely the Income Tax Department, the Customs and Excise Department, and the Value Added Tax Department.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority is mandated to:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "Assess, collect and account for all revenues in accordance with specific laws set out in the first part of the First Schedule of the Act, and the revenue provisions of the second part of the  First  Schedule  (which  contains  written laws relating to revenue),",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "Advise  on  matters  relating  to  the  administration of, and collection of, revenue under the written laws or the specified provisions of the written laws, and",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "Perform such other functions in relation to  revenue  as  the  Cabinet  Secretary  to  the National  Treasury  and  Economic  Planning may direct.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "In  addition,  KRA administers revenue aspects of the Acts listed in the First and Second Schedules of  Kenya  Revenue  Authority  Act  (Cap  469)  and collects  levies  for  various  government  agencies under the provision of various Acts.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.1 Mandate"
+      ],
+      "page_number": 13,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "2.2 Vision Statement",
+      "block_type": "heading",
+      "heading_path": [
+        "2.2 Vision Statement"
+      ],
+      "page_number": 13,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "An agile tax and customs revenue agency facilitating voluntary compliance for all.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.2 Vision Statement"
+      ],
+      "page_number": 13,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "2.3 Mission Statement",
+      "block_type": "heading",
+      "heading_path": [
+        "2.3 Mission Statement"
+      ],
+      "page_number": 13,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "To efficiently and effectively mobilise government revenue and facilitate trade by fostering compliance with tax and customs laws.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.3 Mission Statement"
+      ],
+      "page_number": 13,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "2.4 Strategic Goals",
+      "block_type": "heading",
+      "heading_path": [
+        "2.4 Strategic Goals"
+      ],
+      "page_number": 13,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "To enhance revenue collection",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.4 Strategic Goals"
+      ],
+      "page_number": 13,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "To increase customer satisfaction",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.4 Strategic Goals"
+      ],
+      "page_number": 13,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "To digitalise revenue administration",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.4 Strategic Goals"
+      ],
+      "page_number": 13,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "To strengthen human resource capacity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.4 Strategic Goals"
+      ],
+      "page_number": 13,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "2.5 Core Values (TECHIS)",
+      "block_type": "heading",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "Trustworthy: We interact with others in a way that gives them confidence in our intentions and those of the organisation.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "Ethical: We  act  with  integrity,  transparency and honesty in everything we do.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "Competent: We possess functional, technical knowledge and skills that ensure efficiency in the delivery of our services to our customers.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "Helpful: We respond to and anticipate clients' needs in a timely, professional and courteous manner.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "Innovative: We  embrace  creativity  and  proactively  seek  new  and  improved  ways  of delivering services.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "Simple: Our  processes  are  straightforward and tax laws easy to understand.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.5 Core Values (TECHIS)"
+      ],
+      "page_number": 13,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "2.6 Quality Policy Statement",
+      "block_type": "heading",
+      "heading_path": [
+        "2.6 Quality Policy Statement"
+      ],
+      "page_number": 13,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "KRA is committed to facilitating all stakeholders to comply with tax and customs legislation. The Authority shall endeavour to continually improve service delivery and enhance revenue mobilisation by meeting the requirements of ISO 9001:2015, the International  Standard  on  Quality  Management Systems,  and  complying  with  relevant  statutory and regulatory requirements.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.6 Quality Policy Statement"
+      ],
+      "page_number": 13,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "2.7 Quality Objectives",
+      "block_type": "heading",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 13,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "To enhance revenue mobilisation through tax base expansion, tax and customs compliance, intelligence management and data analytics.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 13,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "To enhance service excellence through process optimisation, simplification and customer centric service delivery.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 13,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "To transform into a highly digitalised seamless revenue administration facilitating ease of tax compliance and trade.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 13,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "To strengthen human resource capacity and capability.",
+      "block_type": "list_item",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 13,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 3",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 14,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "0",
+      "block_type": "paragraph",
+      "heading_path": [
+        "2.7 Quality Objectives"
+      ],
+      "page_number": 14,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "SITUATIONAL & STAKEHOLDER ANALYSES",
+      "block_type": "heading",
+      "heading_path": [
+        "SITUATIONAL & STAKEHOLDER ANALYSES"
+      ],
+      "page_number": 15,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "3.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "3.0 Overview"
+      ],
+      "page_number": 15,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "This Chapter entails analysing the internal and external operating environment, KRA's performance of key measures over the Eighth Corporate Plan, and of key stakeholders who have an impact on KRA's undertakings over the Plan period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.0 Overview"
+      ],
+      "page_number": 15,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "3.1 Situational Analysis",
+      "block_type": "heading",
+      "heading_path": [
+        "3.1 Situational Analysis"
+      ],
+      "page_number": 15,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "3.1.1 External environment",
+      "block_type": "heading",
+      "heading_path": [
+        "3.1.1 External environment"
+      ],
+      "page_number": 15,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "PESTEL (Political, Economic, Social, Technological, Ecological and Legal) analysis is applied for the external environment. The aim is to understand the opportunities and threats presented by this environment, within which the Authority will operate over the Plan period. The external environment is both macro and micro. A summary of the opportunities and threats is as shown in Table 3.1.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1.1 External environment"
+      ],
+      "page_number": 15,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3.1: Summary of Opportunities and Threats",
+      "block_type": "caption",
+      "heading_path": [
+        "3.1.1 External environment"
+      ],
+      "page_number": 16,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "3.1.2 Internal Environment",
+      "block_type": "heading",
+      "heading_path": [
+        "3.1.2 Internal Environment"
+      ],
+      "page_number": 17,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "A  scan  of  internal  operating  environment  was  applied  to  understand  the  strengths  and  weaknesses presented  by  KRA's  governance  and  administrative  structures,  business  processes,  resources  and capabilities. A summary of the strengths and weaknesses is as shown in Table 3.2.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1.2 Internal Environment"
+      ],
+      "page_number": 17,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3.2: Summary of Strengths and Weakness",
+      "block_type": "caption",
+      "heading_path": [
+        "3.1.2 Internal Environment"
+      ],
+      "page_number": 17,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "3.1.5 Analysis of past performance",
+      "block_type": "heading",
+      "heading_path": [
+        "3.1.5 Analysis of past performance"
+      ],
+      "page_number": 18,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "KRA's  Eighth  Corporate  Plan  has  progressively  registered  successes  towards  meeting  the  Authority's overall mandate of revenue mobilisation. The Plan was implemented through 61 KPIs and 200 initiatives. A summary of key achievements is as shown in Table 3.3",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.1.5 Analysis of past performance"
+      ],
+      "page_number": 18,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3.3: Eighth Corporate Plan performance",
+      "block_type": "caption",
+      "heading_path": [
+        "3.1.5 Analysis of past performance"
+      ],
+      "page_number": 18,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "3.2 Stakeholder Analysis",
+      "block_type": "heading",
+      "heading_path": [
+        "3.2 Stakeholder Analysis"
+      ],
+      "page_number": 19,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "KRA's major stakeholders include taxpayers, National Treasury, National Assembly, development partners, County Governments and other MDAs. The results of the stakeholder analysis are presented in Table 3.4.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "3.2 Stakeholder Analysis"
+      ],
+      "page_number": 19,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3.4: Stakeholder Analysis",
+      "block_type": "heading",
+      "heading_path": [
+        "Table 3.4: Stakeholder Analysis"
+      ],
+      "page_number": 19,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 4",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Table 3.4: Stakeholder Analysis"
+      ],
+      "page_number": 20,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "STRATEGIC ISSUES, GOALS AND KEY RESULT AREAS",
+      "block_type": "heading",
+      "heading_path": [
+        "STRATEGIC ISSUES, GOALS AND KEY RESULT AREAS"
+      ],
+      "page_number": 21,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "4.0 Introduction",
+      "block_type": "heading",
+      "heading_path": [
+        "4.0 Introduction"
+      ],
+      "page_number": 21,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "This  chapter  describes  the  Authority's  strategic direction over the next five-year horizon. It presents the strategic issues, goals and  key result areas that will drive the achievement of its mandate, mission and vision.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.0 Introduction"
+      ],
+      "page_number": 21,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "4.1 Strategic Issues",
+      "block_type": "heading",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "Four (4) strategic issues were identified from the opportunities, threats, strengths and weaknesses. These are the issues the Authority will deal with in order to achieve the mission and vision, and they are aligned to 4 out of the 5 Thematic Areas of the Plan.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "These are:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "Tax and customs compliance",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "Customer-centric service delivery",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "Automation and integration of business systems and processes, and",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "Staff capacity and integrity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "Table 4.1: Strategic issues, Goals and Key Result Areas",
+      "block_type": "caption",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "4.2 Strategic Goals",
+      "block_type": "heading",
+      "heading_path": [
+        "4.2 Strategic Goals"
+      ],
+      "page_number": 21,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "The strategic goals that will address the strategic issues identified above are to:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.2 Strategic Goals"
+      ],
+      "page_number": 21,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "Enhance revenue collection",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.2 Strategic Goals"
+      ],
+      "page_number": 21,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "Increase customer satisfaction",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.2 Strategic Goals"
+      ],
+      "page_number": 21,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Digitalise revenue administration and",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.2 Strategic Goals"
+      ],
+      "page_number": 21,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "Strengthen human resource management.",
+      "block_type": "list_item",
+      "heading_path": [
+        "4.2 Strategic Goals"
+      ],
+      "page_number": 21,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "4.3 Key Result Areas",
+      "block_type": "heading",
+      "heading_path": [
+        "4.3 Key Result Areas"
+      ],
+      "page_number": 21,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "The Key Result Areas that will yield the attainment of the four (4) strategic goals during the  Plan  period  were  determined.  These  were placed  further  into  the  four  perspectives  of the  Balanced  Scorecard  (BSC)  framework  as tabulated in Table 4.1.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.3 Key Result Areas"
+      ],
+      "page_number": 21,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 5",
+      "block_type": "paragraph",
+      "heading_path": [
+        "4.3 Key Result Areas"
+      ],
+      "page_number": 22,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "STRATEGIC OBJECTIVES AND STRATEGIES",
+      "block_type": "heading",
+      "heading_path": [
+        "STRATEGIC OBJECTIVES AND STRATEGIES"
+      ],
+      "page_number": 23,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "5.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "5.0 Overview"
+      ],
+      "page_number": 23,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "This chapter outlines the strategic objectives and strategies that will drive the achievement of the strategic goals during the Plan period. Over this plan period, the Authority is expected to collect approximately of Kshs 20,485 billion as per the Budget Policy Statement, 2024.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.0 Overview"
+      ],
+      "page_number": 23,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "5.1 Strategic Objectives",
+      "block_type": "heading",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "To achieve the above strategic goals, fourteen (14) strategic objectives that the Authority will focus on were formulated as follows:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "Enhance tax and customs compliance",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "Tax Base Expansion (TBE)",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "Improve border management",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "Simplify tax and customs processes",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "Enhance taxpayer education",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "Attain service excellence",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "Improve trade facilitation",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "Scale up infrastructure to meet business demands",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "Attain a fully integrated and simplified revenue administration",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "Enhance data management maturity",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "Improve quality standards and operations",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "Optimise human resource capacity and capability",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "Improve work environment and",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "Enhance integrity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "The outcomes and outcome indicators for each of the strategic objectives were identified to enable the Authority monitor the implementation of this Plan. Table 5.1 presents the strategic objectives, outcomes and annual projections.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 23,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "Table 5.1: Outcomes and annual projections",
+      "block_type": "caption",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 24,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "5.2 Strategic Choices",
+      "block_type": "heading",
+      "heading_path": [
+        "5.2 Strategic Choices"
+      ],
+      "page_number": 25,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "The strategic objectives listed above will be achieved through implementation of twenty-tw0 (22) strategies as tabulated in Table 5.2 below:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.2 Strategic Choices"
+      ],
+      "page_number": 25,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "Table 5.2: Strategic Objectives and Strategies",
+      "block_type": "caption",
+      "heading_path": [
+        "5.2 Strategic Choices"
+      ],
+      "page_number": 25,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 6",
+      "block_type": "paragraph",
+      "heading_path": [
+        "5.2 Strategic Choices"
+      ],
+      "page_number": 26,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "IMPLEMENTATION & COORDINATION FRAMEWORK",
+      "block_type": "heading",
+      "heading_path": [
+        "IMPLEMENTATION & COORDINATION FRAMEWORK"
+      ],
+      "page_number": 27,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "6.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "6.0 Overview"
+      ],
+      "page_number": 27,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "This Chapter highlights the framework for implementation  and  coordination  of  the  Ninth Corporate Plan.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.0 Overview"
+      ],
+      "page_number": 27,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "6.1 Implementation of the Plan",
+      "block_type": "heading",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "The  Ninth  Corporate  Plan  will  be  implemented through an elaborate action plan indicating responsibility for each key activity. Annual targets will  be  set  and  these  targets will form the basis for annual budgets and performance contracting.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "Table 6.1: Accountability of Strategic Theme Teams",
+      "block_type": "caption",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "The terms of reference for the Strategic Theme Teams are as follows:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "Leading and coordinating the execution of key activities relevant to the KRAs",
+      "block_type": "list_item",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "Providing subject matter expertise regarding delivery of the KRAs",
+      "block_type": "list_item",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "Assigning roles and responsibilities for key activities",
+      "block_type": "list_item",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "Coordinating meetings to evaluate progress",
+      "block_type": "list_item",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "Preparing reports with recommendations to management.",
+      "block_type": "list_item",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "6.2 Coordination Framework",
+      "block_type": "heading",
+      "heading_path": [
+        "6.2 Coordination Framework"
+      ],
+      "page_number": 27,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "The  Authority  will strengthen  its  institutional capacity and put in place the requisite coordination framework for successful implementation of the Ninth  Corporate  Plan.  To  effectively  implement the Corporate Plan, a review of the organisation's structure and optimal staffing levels is currently ongoing.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.2 Coordination Framework"
+      ],
+      "page_number": 27,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "The  Board  of  Directors  will  oversee  the  overall implementation  of  the  Corporate  Plan,  while the Commissioner General will lead the management and Strategic Theme Team leaders in  implementing  the  planned  strategies  and activities.  The  Strategic  Theme  Teams  will  be accountable  for  each  Strategic  Issue,  leading and  coordinating  the  execution  of  the  strategic activities relevant to respective Key Result Areas  (KRAs).  The  Strategy,  Innovation  and  Risk Management  Department  will  be  responsible for  reporting  the  status  of  implementation.  The composition  of  the  Strategic  Theme  Teams  is shown in Table 6.1.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.2 Coordination Framework"
+      ],
+      "page_number": 27,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 7",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.2 Coordination Framework"
+      ],
+      "page_number": 28,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "<b",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.2 Coordination Framework"
+      ],
+      "page_number": 28,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "<b6",
+      "block_type": "paragraph",
+      "heading_path": [
+        "6.2 Coordination Framework"
+      ],
+      "page_number": 28,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "RESOURCE REQUIREMENTS & MOBILISATION STRATEGIES",
+      "block_type": "heading",
+      "heading_path": [
+        "RESOURCE REQUIREMENTS & MOBILISATION STRATEGIES"
+      ],
+      "page_number": 29,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "7.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "7.0 Overview"
+      ],
+      "page_number": 29,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority will allocate resources for the identified key result areas on an annual basis over the Plan period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "7.0 Overview"
+      ],
+      "page_number": 29,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "7.1 Financial Requirements",
+      "block_type": "heading",
+      "heading_path": [
+        "7.1 Financial Requirements"
+      ],
+      "page_number": 29,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "The Authority's budget during the Plan period is estimated at Kshs 283,548 million , of which Kshs 260,128 million (92%) is recurrent and Kshs 23, 420 million (8%) development, as summarised in Table 7.1.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "7.1 Financial Requirements"
+      ],
+      "page_number": 29,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "Table 7.1: Financial requirements for implementing the Plan",
+      "block_type": "caption",
+      "heading_path": [
+        "7.1 Financial Requirements"
+      ],
+      "page_number": 29,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "7.2 Resource Mobilisation Strategies",
+      "block_type": "heading",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 29,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "It is estimated that KRA will receive full funding for recurrent expenditure, Kshs 260,128 million and seek grants for capital expenditure, Kshs 23,420 million .",
+      "block_type": "paragraph",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 29,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "In order to ensure full realisation of the planned activities, the following will be done:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 29,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "Negotiate with The National Treasury for the allocation of at least two per cent (2%) of previous year revenue collected,",
+      "block_type": "list_item",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 29,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "Engage development partners to fund selected projects/initiatives,",
+      "block_type": "list_item",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 29,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "Seek loans to fund capital projects as per section 16 (1)(c) of the Kenya Revenue Authority Act.",
+      "block_type": "list_item",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 29,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "CHAPTER 8",
+      "block_type": "paragraph",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 30,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "o",
+      "block_type": "paragraph",
+      "heading_path": [
+        "7.2 Resource Mobilisation Strategies"
+      ],
+      "page_number": 30,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "MONITORING, EVALUATION AND REPORTING FRAMEWORK",
+      "block_type": "heading",
+      "heading_path": [
+        "MONITORING, EVALUATION AND REPORTING FRAMEWORK"
+      ],
+      "page_number": 31,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "8.0 Overview",
+      "block_type": "heading",
+      "heading_path": [
+        "8.0 Overview"
+      ],
+      "page_number": 31,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "This  Chapter  presents  the  Monitoring  and  Evaluation  Framework  that  KRA  will  follow  to  track implementation of various initiatives and thereby the achievement of the identified objectives.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "8.0 Overview"
+      ],
+      "page_number": 31,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "8.1 Monitoring Framework",
+      "block_type": "heading",
+      "heading_path": [
+        "8.1 Monitoring Framework"
+      ],
+      "page_number": 31,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "Monitoring and evaluation is central in KRA's planning process in order to track implementation of various initiatives and provide feedback necessary in decision-making. Monitoring will be conducted on a quarterly basis and will focus on implementation of the Annual Work Plans that will be developed in collaboration with departmental representatives. Key Performance Indicators (KPIs) with baseline data and monthly targets will be determined during preparation of the Annual Work Plans.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "8.1 Monitoring Framework"
+      ],
+      "page_number": 31,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "The Planning, Monitoring and Evaluation (PME) section within the Strategy Department will coordinate all  monitoring  and  evaluation  activities.  Performance  on  the  KPIs  will  be  provided  by  the  relevant departments through the iPlanner monitoring and evaluation system. The system allows for departments to review and verify the information captured before submission to PME for collation. The data in iPlanner will be analysed and presented to Management for decision-making and further guidance.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "8.1 Monitoring Framework"
+      ],
+      "page_number": 31,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "Table 8.1: Outcome Matrix",
+      "block_type": "heading",
+      "heading_path": [
+        "Table 8.1: Outcome Matrix"
+      ],
+      "page_number": 31,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "Contact Us",
+      "block_type": "heading",
+      "heading_path": [
+        "Contact Us"
+      ],
+      "page_number": 32,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "P.O. Box 48240-00100 GPO Nairobi, Kenya Tel No. 020 281 0000 Contact Centre: 020 4999 999, 0711 099 999",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Contact Us"
+      ],
+      "page_number": 32,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "2",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Contact Us"
+      ],
+      "page_number": 32,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "2",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Contact Us"
+      ],
+      "page_number": 32,
+      "block_index": 203,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "the_9th_corporate_plan_table_000",
+      "caption": "ACRONYMS AND ABBREVIATIONS",
+      "heading_path": [
+        "ACRONYMS AND ABBREVIATIONS"
+      ],
+      "page_number": 7,
+      "table_index": 0,
+      "markdown": "| 0      | 1   | 2                                                                |\n|:-------|:----|:-----------------------------------------------------------------|\n| BETA   | -   | Bottom-Up Economic Transformation Agenda                         |\n| BSC    | -   | Balanced Scorecard                                               |\n| CAO    | -   | Competent Authority Office                                       |\n| C&BC   | -   | Customs and Border Control                                       |\n| CDO    | -   | Corporate Data Office                                            |\n| CIT    | -   | Corporate Income Tax                                             |\n| CSSD   | -   | Corporate Support Services Department                            |\n| CPU    | -   | Corporate Policy Unit                                            |\n| DTD    | -   | Domestic Taxes Department                                        |\n| EAC    | -   | East African Community                                           |\n| EACCMA | -   | East Africa Community Customs Management Act                     |\n| EOI    | -   | Exchange of Information                                          |\n| eTIMS  | -   | Electronic Tax Integrated Management System                      |\n| F&LS   | -   | Facilities and Logistics Services                                |\n| GDP    | -   | Gross Domestic Product                                           |\n| HR     | -   | Human Resource                                                   |\n| ICT    | -   | Information and Communication Technology                         |\n| I&E    | -   | Investigations and Enforcement                                   |\n| ISO    | -   | International organization for Standardisation                   |\n| I&SO   | -   | Intelligence & Strategic Operations                              |\n| IT     | -   | Information Technology                                           |\n| KESRA  | -   | Kenya School of Revenue Administration                           |\n| KPI    | -   | Key Performance Indicator                                        |\n| KRA    | -   | Key Result Area                                                  |\n| M&C    | -   | Marketing & Communication                                        |\n| MDAs   | -   | Ministries, Departments and Agencies                             |\n| MSME   | -   | Micro, Small and Medium Enterprises                              |\n| MTP    | -   | Medium-Term Plan                                                 |\n| ODPP   | -   | Office of the Director of Public Prosecutions                    |\n| PAYE   | -   | Pay As You Earn                                                  |\n| PESTEL | -   | Political, Economic, Social, Technological, Ecological and Legal |\n| PIT    | -   | Personal Income Tax                                              |\n| RKM&CP | -   | Research, Knowledge Management & Corporate Planning              |\n| SCM    | -   | Supply Chain Management                                          |\n| SDGs   | -   | Sustainable Development Goals                                    |\n| SIRM   | -   | Strategy, Innovation & Risk Management                           |\n| SO     | -   | Strategic Objective                                              |\n| TBE    | -   | Tax Base Expansion                                               |\n| U0M    | -   | Unit of Measure                                                  |\n| VAT    | -   | Value Added Tax                                                  |",
+      "records": [
+        {
+          "0": "BETA",
+          "1": "-",
+          "2": "Bottom-Up Economic Transformation Agenda"
+        },
+        {
+          "0": "BSC",
+          "1": "-",
+          "2": "Balanced Scorecard"
+        },
+        {
+          "0": "CAO",
+          "1": "-",
+          "2": "Competent Authority Office"
+        },
+        {
+          "0": "C&BC",
+          "1": "-",
+          "2": "Customs and Border Control"
+        },
+        {
+          "0": "CDO",
+          "1": "-",
+          "2": "Corporate Data Office"
+        },
+        {
+          "0": "CIT",
+          "1": "-",
+          "2": "Corporate Income Tax"
+        },
+        {
+          "0": "CSSD",
+          "1": "-",
+          "2": "Corporate Support Services Department"
+        },
+        {
+          "0": "CPU",
+          "1": "-",
+          "2": "Corporate Policy Unit"
+        },
+        {
+          "0": "DTD",
+          "1": "-",
+          "2": "Domestic Taxes Department"
+        },
+        {
+          "0": "EAC",
+          "1": "-",
+          "2": "East African Community"
+        },
+        {
+          "0": "EACCMA",
+          "1": "-",
+          "2": "East Africa Community Customs Management Act"
+        },
+        {
+          "0": "EOI",
+          "1": "-",
+          "2": "Exchange of Information"
+        },
+        {
+          "0": "eTIMS",
+          "1": "-",
+          "2": "Electronic Tax Integrated Management System"
+        },
+        {
+          "0": "F&LS",
+          "1": "-",
+          "2": "Facilities and Logistics Services"
+        },
+        {
+          "0": "GDP",
+          "1": "-",
+          "2": "Gross Domestic Product"
+        },
+        {
+          "0": "HR",
+          "1": "-",
+          "2": "Human Resource"
+        },
+        {
+          "0": "ICT",
+          "1": "-",
+          "2": "Information and Communication Technology"
+        },
+        {
+          "0": "I&E",
+          "1": "-",
+          "2": "Investigations and Enforcement"
+        },
+        {
+          "0": "ISO",
+          "1": "-",
+          "2": "International organization for Standardisation"
+        },
+        {
+          "0": "I&SO",
+          "1": "-",
+          "2": "Intelligence & Strategic Operations"
+        },
+        {
+          "0": "IT",
+          "1": "-",
+          "2": "Information Technology"
+        },
+        {
+          "0": "KESRA",
+          "1": "-",
+          "2": "Kenya School of Revenue Administration"
+        },
+        {
+          "0": "KPI",
+          "1": "-",
+          "2": "Key Performance Indicator"
+        },
+        {
+          "0": "KRA",
+          "1": "-",
+          "2": "Key Result Area"
+        },
+        {
+          "0": "M&C",
+          "1": "-",
+          "2": "Marketing & Communication"
+        },
+        {
+          "0": "MDAs",
+          "1": "-",
+          "2": "Ministries, Departments and Agencies"
+        },
+        {
+          "0": "MSME",
+          "1": "-",
+          "2": "Micro, Small and Medium Enterprises"
+        },
+        {
+          "0": "MTP",
+          "1": "-",
+          "2": "Medium-Term Plan"
+        },
+        {
+          "0": "ODPP",
+          "1": "-",
+          "2": "Office of the Director of Public Prosecutions"
+        },
+        {
+          "0": "PAYE",
+          "1": "-",
+          "2": "Pay As You Earn"
+        },
+        {
+          "0": "PESTEL",
+          "1": "-",
+          "2": "Political, Economic, Social, Technological, Ecological and Legal"
+        },
+        {
+          "0": "PIT",
+          "1": "-",
+          "2": "Personal Income Tax"
+        },
+        {
+          "0": "RKM&CP",
+          "1": "-",
+          "2": "Research, Knowledge Management & Corporate Planning"
+        },
+        {
+          "0": "SCM",
+          "1": "-",
+          "2": "Supply Chain Management"
+        },
+        {
+          "0": "SDGs",
+          "1": "-",
+          "2": "Sustainable Development Goals"
+        },
+        {
+          "0": "SIRM",
+          "1": "-",
+          "2": "Strategy, Innovation & Risk Management"
+        },
+        {
+          "0": "SO",
+          "1": "-",
+          "2": "Strategic Objective"
+        },
+        {
+          "0": "TBE",
+          "1": "-",
+          "2": "Tax Base Expansion"
+        },
+        {
+          "0": "U0M",
+          "1": "-",
+          "2": "Unit of Measure"
+        },
+        {
+          "0": "VAT",
+          "1": "-",
+          "2": "Value Added Tax"
+        }
+      ],
+      "columns": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_001",
+      "caption": "",
+      "heading_path": [
+        "3.1.1 External environment"
+      ],
+      "page_number": 16,
+      "table_index": 1,
+      "markdown": "| Environmental factor   | Opportunity                                                                                                                                                                                                                                                                                                                                                                      | Threat                                                                                                                                                                                                                                                                                                                                                                                         |\n|:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Political              | • Bottom-Up Economic Transformation Agenda guiding the priorities to be focused on in the Plan • Effective tax system reforms-MTRS, National Tax Policy creating certainty in the tax system • Existence of political goodwill resulting in support of the Authority's revenue mobilisation initiatives                                                                          | • Geo-political tensions affecting border management and trading across borders • Frequent changes in tax policies that create uncertainty thus affecting tax compliance and increasing compliance costs • Global uncertainties such as Russia-Ukraine war, Israel-Gaza war, etc. weakening economic growth and increasing cost of living thus reducing tax revenues                           |\n| Economic               | • Existence of tax policies and administrative measures that support economic growth • Growth in service sector - transport, e-commerce, digital economy - for tax base expansion • Membership in EAC and continental blocs improving facilitation of trade • Africa Continental Free Trade Area enhances economic activities and facilitate trade • Expansion of EAC membership | • Growth of the informal and digital sectors that are hard to tax • External shocks, such as global recession, that weaken the economy and reduce tax revenues • The depreciation of the Kenyan shilling, which reduces customs revenue • Illicit trade and counterfeit trade that hinder economic growth, hence reduced tax revenues • Reduced government expenditure on development projects |\n| Social                 | • Increased use of social media aiding creation of awareness of tax and customs laws • High literacy levels facilitating tax education • Womenequally empowered economically • Growing middle class                                                                                                                                                                              | • Adverse cultural practices such as cattle rustling • Low tax morale among taxpayers, hence reducing tax compliance • High unemployment rate • Social illnesses - drug and substance abuse leading to increased disease burden • Rampant corruption                                                                                                                                           |\n| Technological          | • Integration of systems with government and third-party data producers enhancing compliance and tax base expansion • Data analytics and emerging technologies enables data mining for tax purposes • Growing digitisation levels easing service delivery • Growth in mobile phone ownership and Internet usage improving accessibility of • • •                                 | Cyber security threats affecting service delivery Rapid technological advancements that require policy review and new capacities that may be difficult to adapt to the changes Limited access and inaccurate third-party data affecting accuracy and availability of taxpayer data                                                                                                             |\n| Legal                  | • Modernised legal framework • Multilateral exchange of information helps curb tax evasion and fraud • Tax Appeals Tribunal fast tracking dispute resolutions                                                                                                                                                                                                                    | • Lack of dedicated courts to deal with tax disputes delaying recovery of tax in dispute • Data privacy requirements that limit access to third-party data • Forum shopping leading to unfavourable judgments • Rigidity on amendments of the EAC Customs Management Act (EACCMA) of 2004                                                                                                      |\n| Ecological             | • EACCMA (it restricts the entry of restricted and prohibited goods into the country) • Environmental Management and Coordination (Controlled Substances) Regulations, 2007 • Government initiative on planting of trees                                                                                                                                                         | • Climate changeaffecting the agriculture sector                                                                                                                                                                                                                                                                                                                                               |",
+      "records": [
+        {
+          "Environmental factor": "Political",
+          "Opportunity": "• Bottom-Up Economic Transformation Agenda guiding the priorities to be focused on in the Plan • Effective tax system reforms-MTRS, National Tax Policy creating certainty in the tax system • Existence of political goodwill resulting in support of the Authority's revenue mobilisation initiatives",
+          "Threat": "• Geo-political tensions affecting border management and trading across borders • Frequent changes in tax policies that create uncertainty thus affecting tax compliance and increasing compliance costs • Global uncertainties such as Russia-Ukraine war, Israel-Gaza war, etc. weakening economic growth and increasing cost of living thus reducing tax revenues"
+        },
+        {
+          "Environmental factor": "Economic",
+          "Opportunity": "• Existence of tax policies and administrative measures that support economic growth • Growth in service sector - transport, e-commerce, digital economy - for tax base expansion • Membership in EAC and continental blocs improving facilitation of trade • Africa Continental Free Trade Area enhances economic activities and facilitate trade • Expansion of EAC membership",
+          "Threat": "• Growth of the informal and digital sectors that are hard to tax • External shocks, such as global recession, that weaken the economy and reduce tax revenues • The depreciation of the Kenyan shilling, which reduces customs revenue • Illicit trade and counterfeit trade that hinder economic growth, hence reduced tax revenues • Reduced government expenditure on development projects"
+        },
+        {
+          "Environmental factor": "Social",
+          "Opportunity": "• Increased use of social media aiding creation of awareness of tax and customs laws • High literacy levels facilitating tax education • Womenequally empowered economically • Growing middle class",
+          "Threat": "• Adverse cultural practices such as cattle rustling • Low tax morale among taxpayers, hence reducing tax compliance • High unemployment rate • Social illnesses - drug and substance abuse leading to increased disease burden • Rampant corruption"
+        },
+        {
+          "Environmental factor": "Technological",
+          "Opportunity": "• Integration of systems with government and third-party data producers enhancing compliance and tax base expansion • Data analytics and emerging technologies enables data mining for tax purposes • Growing digitisation levels easing service delivery • Growth in mobile phone ownership and Internet usage improving accessibility of • • •",
+          "Threat": "Cyber security threats affecting service delivery Rapid technological advancements that require policy review and new capacities that may be difficult to adapt to the changes Limited access and inaccurate third-party data affecting accuracy and availability of taxpayer data"
+        },
+        {
+          "Environmental factor": "Legal",
+          "Opportunity": "• Modernised legal framework • Multilateral exchange of information helps curb tax evasion and fraud • Tax Appeals Tribunal fast tracking dispute resolutions",
+          "Threat": "• Lack of dedicated courts to deal with tax disputes delaying recovery of tax in dispute • Data privacy requirements that limit access to third-party data • Forum shopping leading to unfavourable judgments • Rigidity on amendments of the EAC Customs Management Act (EACCMA) of 2004"
+        },
+        {
+          "Environmental factor": "Ecological",
+          "Opportunity": "• EACCMA (it restricts the entry of restricted and prohibited goods into the country) • Environmental Management and Coordination (Controlled Substances) Regulations, 2007 • Government initiative on planting of trees",
+          "Threat": "• Climate changeaffecting the agriculture sector"
+        }
+      ],
+      "columns": [
+        "Environmental factor",
+        "Opportunity",
+        "Threat"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_002",
+      "caption": "",
+      "heading_path": [
+        "3.1.2 Internal Environment"
+      ],
+      "page_number": 17,
+      "table_index": 2,
+      "markdown": "| Factor                                                                                                                                                                                                                                                                                                                                                                                                                               | Strengths                                                                                                                                                       | Weaknesses                  |\n|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------|\n| Governance and Administrative Structures • Supportive management Management) enhancing decision-making process. • Quality Standards aiding process improvement • National coverage for ease of accessibility services to taxpayers • Existence and application of internal policies setting standards and improving the work culture. • Existence of Alternate Tax Dispute Resolution Mechanism for fast-tracking tax dispute cases. | Senior of • Inadequate funding hindering implementation of planned projects and programmes                                                                      | (Board and                  |\n| • High levels of automation • Internal and external system integrations enhancing tax compliance and collections • High business systems availability/uptime reducing service turnaround time                                                                                                                                                                                                                                        | • Slow pace of adoption of new technologies • Partial integration of KRA systems affecting 3600 view of a taxpayer • Silo mentality reducing staff productivity | Internal Business Processes |\n| • Competent technical staff able to mobilise revenue and deliver services to taxpayers • KESRA as an anchor trainer for KRA in tax and customs training                                                                                                                                                                                                                                                                              | • High staff turnover in specialised areas • Inadequate staff numbers impacting negatively on the service delivery • Work environment challenges (space, tools) | Resources and capabilities  |",
+      "records": [
+        {
+          "Factor": "Governance and Administrative Structures • Supportive management Management) enhancing decision-making process. • Quality Standards aiding process improvement • National coverage for ease of accessibility services to taxpayers • Existence and application of internal policies setting standards and improving the work culture. • Existence of Alternate Tax Dispute Resolution Mechanism for fast-tracking tax dispute cases.",
+          "Strengths": "Senior of • Inadequate funding hindering implementation of planned projects and programmes",
+          "Weaknesses": "(Board and"
+        },
+        {
+          "Factor": "• High levels of automation • Internal and external system integrations enhancing tax compliance and collections • High business systems availability/uptime reducing service turnaround time",
+          "Strengths": "• Slow pace of adoption of new technologies • Partial integration of KRA systems affecting 3600 view of a taxpayer • Silo mentality reducing staff productivity",
+          "Weaknesses": "Internal Business Processes"
+        },
+        {
+          "Factor": "• Competent technical staff able to mobilise revenue and deliver services to taxpayers • KESRA as an anchor trainer for KRA in tax and customs training",
+          "Strengths": "• High staff turnover in specialised areas • Inadequate staff numbers impacting negatively on the service delivery • Work environment challenges (space, tools)",
+          "Weaknesses": "Resources and capabilities"
+        }
+      ],
+      "columns": [
+        "Factor",
+        "Strengths",
+        "Weaknesses"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_003",
+      "caption": "",
+      "heading_path": [
+        "3.1.5 Analysis of past performance"
+      ],
+      "page_number": 18,
+      "table_index": 3,
+      "markdown": "| KPI                                                           | UoM             | Baseline 2020/21   | 2021/22   | 2022/23   | 2023/24         |\n|:--------------------------------------------------------------|:----------------|:-------------------|:----------|:----------|:----------------|\n| Total revenue collected                                       | Kshs bn         | 1,662              | 2,031     | 2,166     | 2,407           |\n| Active taxpayers                                              | No (mn)         | 6.55               | 7.225     | 8.153     | 9.669           |\n| On-time filing rate                                           | %               | 68                 | 70        | 83        | 81              |\n| On-time payment rate                                          | %               | 88                 | 77        | 76        | 81              |\n| Collectible Debt/Revenue Ratio                                | %               | 10                 | 4.15      | 4.22      | 4.44            |\n| Customer satisfaction index                                   | %               | 72.2               | 72.5      | 73.3      | 73.8            |\n| Tax simplification index                                      | Index           | N/A                | 45        | 49.1      | N/A             |\n| Pre-arrival Cargo Clearance                                   | %clearing rate  | 20.03              | 25.28     | 34        | 40.6            |\n| Time taken to release goods (Port of Mombasa, ICD-N, KR Shed) | Time in Hrs     | 146                | 112.6     | 50.29     | 51.2            |\n| Average refunds processing and payment time                   | Days            | 102                | 65        | 42        | 41              |\n| Cases resolved out of suitable disputes received              | %               | 64                 | 77        | 79.8      | 76              |\n| Cost of collection                                            | %               | 1.49               | 1.25      | 1.38      | 1.33            |\n| Automation level                                              | %               | 95.7               | 96.6      | N/A       | N/A             |\n| Systems integration                                           | No.             | 23                 | 9         | 1         | 6               |\n| Data Utilisation index                                        | %               | 71                 | 75        | 84        | N/A             |\n| ISO 9001:2015 recertification                                 | Recertification | N/A                | N/A       | N/A       | Recertification |\n| Employee satisfaction index                                   | %               | 66.2               | 71.6      | N/A       | 76.7            |\n| Work environment                                              | %               | 71.6               | 75.5      | N/A       | 76              |\n| Corruption perception index                                   | %               | 34.2               | 31.4      | 31.12     | 30.99           |",
+      "records": [
+        {
+          "KPI": "Total revenue collected",
+          "UoM": "Kshs bn",
+          "Baseline 2020/21": "1,662",
+          "2021/22": "2,031",
+          "2022/23": "2,166",
+          "2023/24": "2,407"
+        },
+        {
+          "KPI": "Active taxpayers",
+          "UoM": "No (mn)",
+          "Baseline 2020/21": "6.55",
+          "2021/22": "7.225",
+          "2022/23": "8.153",
+          "2023/24": "9.669"
+        },
+        {
+          "KPI": "On-time filing rate",
+          "UoM": "%",
+          "Baseline 2020/21": "68",
+          "2021/22": "70",
+          "2022/23": "83",
+          "2023/24": "81"
+        },
+        {
+          "KPI": "On-time payment rate",
+          "UoM": "%",
+          "Baseline 2020/21": "88",
+          "2021/22": "77",
+          "2022/23": "76",
+          "2023/24": "81"
+        },
+        {
+          "KPI": "Collectible Debt/Revenue Ratio",
+          "UoM": "%",
+          "Baseline 2020/21": "10",
+          "2021/22": "4.15",
+          "2022/23": "4.22",
+          "2023/24": "4.44"
+        },
+        {
+          "KPI": "Customer satisfaction index",
+          "UoM": "%",
+          "Baseline 2020/21": "72.2",
+          "2021/22": "72.5",
+          "2022/23": "73.3",
+          "2023/24": "73.8"
+        },
+        {
+          "KPI": "Tax simplification index",
+          "UoM": "Index",
+          "Baseline 2020/21": "N/A",
+          "2021/22": "45",
+          "2022/23": "49.1",
+          "2023/24": "N/A"
+        },
+        {
+          "KPI": "Pre-arrival Cargo Clearance",
+          "UoM": "%clearing rate",
+          "Baseline 2020/21": "20.03",
+          "2021/22": "25.28",
+          "2022/23": "34",
+          "2023/24": "40.6"
+        },
+        {
+          "KPI": "Time taken to release goods (Port of Mombasa, ICD-N, KR Shed)",
+          "UoM": "Time in Hrs",
+          "Baseline 2020/21": "146",
+          "2021/22": "112.6",
+          "2022/23": "50.29",
+          "2023/24": "51.2"
+        },
+        {
+          "KPI": "Average refunds processing and payment time",
+          "UoM": "Days",
+          "Baseline 2020/21": "102",
+          "2021/22": "65",
+          "2022/23": "42",
+          "2023/24": "41"
+        },
+        {
+          "KPI": "Cases resolved out of suitable disputes received",
+          "UoM": "%",
+          "Baseline 2020/21": "64",
+          "2021/22": "77",
+          "2022/23": "79.8",
+          "2023/24": "76"
+        },
+        {
+          "KPI": "Cost of collection",
+          "UoM": "%",
+          "Baseline 2020/21": "1.49",
+          "2021/22": "1.25",
+          "2022/23": "1.38",
+          "2023/24": "1.33"
+        },
+        {
+          "KPI": "Automation level",
+          "UoM": "%",
+          "Baseline 2020/21": "95.7",
+          "2021/22": "96.6",
+          "2022/23": "N/A",
+          "2023/24": "N/A"
+        },
+        {
+          "KPI": "Systems integration",
+          "UoM": "No.",
+          "Baseline 2020/21": "23",
+          "2021/22": "9",
+          "2022/23": "1",
+          "2023/24": "6"
+        },
+        {
+          "KPI": "Data Utilisation index",
+          "UoM": "%",
+          "Baseline 2020/21": "71",
+          "2021/22": "75",
+          "2022/23": "84",
+          "2023/24": "N/A"
+        },
+        {
+          "KPI": "ISO 9001:2015 recertification",
+          "UoM": "Recertification",
+          "Baseline 2020/21": "N/A",
+          "2021/22": "N/A",
+          "2022/23": "N/A",
+          "2023/24": "Recertification"
+        },
+        {
+          "KPI": "Employee satisfaction index",
+          "UoM": "%",
+          "Baseline 2020/21": "66.2",
+          "2021/22": "71.6",
+          "2022/23": "N/A",
+          "2023/24": "76.7"
+        },
+        {
+          "KPI": "Work environment",
+          "UoM": "%",
+          "Baseline 2020/21": "71.6",
+          "2021/22": "75.5",
+          "2022/23": "N/A",
+          "2023/24": "76"
+        },
+        {
+          "KPI": "Corruption perception index",
+          "UoM": "%",
+          "Baseline 2020/21": "34.2",
+          "2021/22": "31.4",
+          "2022/23": "31.12",
+          "2023/24": "30.99"
+        }
+      ],
+      "columns": [
+        "KPI",
+        "UoM",
+        "Baseline 2020/21",
+        "2021/22",
+        "2022/23",
+        "2023/24"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_004",
+      "caption": "Table 3.4: Stakeholder Analysis",
+      "heading_path": [
+        "Table 3.4: Stakeholder Analysis"
+      ],
+      "page_number": 19,
+      "table_index": 4,
+      "markdown": "|   S/NO | Stakeholder                                                                       | Role                          | Expectation of stakeholder                                                                                                                                                                                                                                                                   | Expectation of KRA                                                                                                          |\n|-------:|:----------------------------------------------------------------------------------|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|\n|      1 | Taxpayer                                                                          | Filing, payment and reporting | • Seamless integration of systems to provide timely services • Timely payments for claims • Fair administrative procedures • Transparent processes • Customer support services; e.g., call centres, M-Service • Low compliance costs • Efficient and effective complaints handling mechanism | • Adherence to tax laws and regulations • Compliance with filing, reporting and payment obligations • Provision of feedback |\n|      2 | National Treasury                                                                 | Provision of resources        | • Tax revenue collection • Enforcement of tax and customs laws • Trade facilitation • • •                                                                                                                                                                                                    | Strategic partnerships Sufficient funding for KRA programmes Reduction of tax expenditures                                  |\n|      3 | National Assembly                                                                 | Legislation                   | • Efficient and effective complaints handling mechanism for the taxpayers • Prudent utilisation of resources • Enforcement of tax and customs laws                                                                                                                                           | • Timely legislation of tax laws • Strategic partnerships                                                                   |\n|      4 | Other national Ministries, Departments and Agencies (MDAs) and County Governments | Law and order                 | • Border Management • Protection of the society                                                                                                                                                                                                                                              | Strategic partnerships                                                                                                      |\n|      4 | Other national Ministries, Departments and Agencies (MDAs) and County Governments | Provision of taxpayer data    | • Revenue mobilisation • Timely information • Low compliance costs for the taxpayers • •                                                                                                                                                                                                     | Strategic partnerships Systems Integration of KRA and County systems • Adherence to tax laws • Provision of taxpayer data   |\n|      5 | Development partners, international agencies & regional partners                  | Collaborative engagement      | • Clear policies and procedures • Accountability and transparency • Strategic partnerships • Compliance with terms of engagement                                                                                                                                                             | • Strategic partnerships • Financial and technical support                                                                  |",
+      "records": [
+        {
+          "S/NO": "1",
+          "Stakeholder": "Taxpayer",
+          "Role": "Filing, payment and reporting",
+          "Expectation of stakeholder": "• Seamless integration of systems to provide timely services • Timely payments for claims • Fair administrative procedures • Transparent processes • Customer support services; e.g., call centres, M-Service • Low compliance costs • Efficient and effective complaints handling mechanism",
+          "Expectation of KRA": "• Adherence to tax laws and regulations • Compliance with filing, reporting and payment obligations • Provision of feedback"
+        },
+        {
+          "S/NO": "2",
+          "Stakeholder": "National Treasury",
+          "Role": "Provision of resources",
+          "Expectation of stakeholder": "• Tax revenue collection • Enforcement of tax and customs laws • Trade facilitation • • •",
+          "Expectation of KRA": "Strategic partnerships Sufficient funding for KRA programmes Reduction of tax expenditures"
+        },
+        {
+          "S/NO": "3",
+          "Stakeholder": "National Assembly",
+          "Role": "Legislation",
+          "Expectation of stakeholder": "• Efficient and effective complaints handling mechanism for the taxpayers • Prudent utilisation of resources • Enforcement of tax and customs laws",
+          "Expectation of KRA": "• Timely legislation of tax laws • Strategic partnerships"
+        },
+        {
+          "S/NO": "4",
+          "Stakeholder": "Other national Ministries, Departments and Agencies (MDAs) and County Governments",
+          "Role": "Law and order",
+          "Expectation of stakeholder": "• Border Management • Protection of the society",
+          "Expectation of KRA": "Strategic partnerships"
+        },
+        {
+          "S/NO": "4",
+          "Stakeholder": "Other national Ministries, Departments and Agencies (MDAs) and County Governments",
+          "Role": "Provision of taxpayer data",
+          "Expectation of stakeholder": "• Revenue mobilisation • Timely information • Low compliance costs for the taxpayers • •",
+          "Expectation of KRA": "Strategic partnerships Systems Integration of KRA and County systems • Adherence to tax laws • Provision of taxpayer data"
+        },
+        {
+          "S/NO": "5",
+          "Stakeholder": "Development partners, international agencies & regional partners",
+          "Role": "Collaborative engagement",
+          "Expectation of stakeholder": "• Clear policies and procedures • Accountability and transparency • Strategic partnerships • Compliance with terms of engagement",
+          "Expectation of KRA": "• Strategic partnerships • Financial and technical support"
+        }
+      ],
+      "columns": [
+        "S/NO",
+        "Stakeholder",
+        "Role",
+        "Expectation of stakeholder",
+        "Expectation of KRA"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_005",
+      "caption": "Staff capacity and integrity.",
+      "heading_path": [
+        "4.1 Strategic Issues"
+      ],
+      "page_number": 21,
+      "table_index": 5,
+      "markdown": "| Perspective      | Strategic Issue                                           | Goal                                 | Key Result Area                  |\n|:-----------------|:----------------------------------------------------------|:-------------------------------------|:---------------------------------|\n| Revenue          | Tax & customs compliance                                  | Enhance revenue collection           | KRA 1: Revenue mobilisation      |\n| Revenue          | Tax & customs compliance                                  | Enhance revenue collection           | KRA 2: Customs border management |\n| Customer         | Customer-centric service delivery                         | Increase customer satisfaction       | KRA 3: Tax simplification        |\n| Customer         | Customer-centric service delivery                         | Increase customer satisfaction       | KRA 5: Trade facilitation        |\n| Business Process | Automation and integration business systems and processes | Digitalise revenue administration    | KRA 6: Operational efficiency    |\n| People           | Staff capacity and integrity                              | Strengthen human resource management | KRA 7: Human resource management |",
+      "records": [
+        {
+          "Perspective": "Revenue",
+          "Strategic Issue": "Tax & customs compliance",
+          "Goal": "Enhance revenue collection",
+          "Key Result Area": "KRA 1: Revenue mobilisation"
+        },
+        {
+          "Perspective": "Revenue",
+          "Strategic Issue": "Tax & customs compliance",
+          "Goal": "Enhance revenue collection",
+          "Key Result Area": "KRA 2: Customs border management"
+        },
+        {
+          "Perspective": "Customer",
+          "Strategic Issue": "Customer-centric service delivery",
+          "Goal": "Increase customer satisfaction",
+          "Key Result Area": "KRA 3: Tax simplification"
+        },
+        {
+          "Perspective": "Customer",
+          "Strategic Issue": "Customer-centric service delivery",
+          "Goal": "Increase customer satisfaction",
+          "Key Result Area": "KRA 5: Trade facilitation"
+        },
+        {
+          "Perspective": "Business Process",
+          "Strategic Issue": "Automation and integration business systems and processes",
+          "Goal": "Digitalise revenue administration",
+          "Key Result Area": "KRA 6: Operational efficiency"
+        },
+        {
+          "Perspective": "People",
+          "Strategic Issue": "Staff capacity and integrity",
+          "Goal": "Strengthen human resource management",
+          "Key Result Area": "KRA 7: Human resource management"
+        }
+      ],
+      "columns": [
+        "Perspective",
+        "Strategic Issue",
+        "Goal",
+        "Key Result Area"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_006",
+      "caption": "",
+      "heading_path": [
+        "5.1 Strategic Objectives"
+      ],
+      "page_number": 24,
+      "table_index": 6,
+      "markdown": "| Strategic Objective.                                  | Outcome.                                 | Outcome indicator.                       | Projection.2024/25                       | Projection.2025/26                       | Projection.2026/27                       | Projection.2027/28                       | Projection.2028/29                       |\n|:------------------------------------------------------|:-----------------------------------------|:-----------------------------------------|:-----------------------------------------|:-----------------------------------------|:-----------------------------------------|:-----------------------------------------|:-----------------------------------------|\n| KRA 1: Revenue mobilisation                           | KRA 1: Revenue mobilisation              | KRA 1: Revenue mobilisation              | KRA 1: Revenue mobilisation              | KRA 1: Revenue mobilisation              | KRA 1: Revenue mobilisation              | KRA 1: Revenue mobilisation              | KRA 1: Revenue mobilisation              |\n| SO1: Enhance tax and customs compliance               | Enhanced compliance                      | Total revenue collected (Kshs bn)        | 3,116                                    | 3,541                                    | 4,049                                    | 4,586                                    | 5,194                                    |\n| SO1: Enhance tax and customs compliance               | Enhanced compliance                      | On-time filing rate (%)                  | 84                                       | 86                                       | 87                                       | 89                                       | 90                                       |\n| SO1: Enhance tax and customs compliance               | Enhanced compliance                      | On-time payment rate (%)                 | 82                                       | 82.5                                     | 83                                       | 84                                       | 85                                       |\n| SO2: Tax Base Expansion                               | Increased active taxpayers               | No. of active taxpayers (mn)             | 9.87                                     | 10.67                                    | 11.47                                    | 12.27                                    | 13.07                                    |\n| KRA 2: Customs Border Management                      | KRA 2: Customs Border Management         | KRA 2: Customs Border Management         | KRA 2: Customs Border Management         | KRA 2: Customs Border Management         | KRA 2: Customs Border Management         | KRA 2: Customs Border Management         | KRA 2: Customs Border Management         |\n| SO3: Improve border management                        | Eradicate smuggling                      | Illicit trade perception index           | x                                        | N/A                                      | x-2                                      | N/A                                      | x-4                                      |\n| KRA 3: Tax simplification                             | KRA 3: Tax simplification                | KRA 3: Tax simplification                | KRA 3: Tax simplification                | KRA 3: Tax simplification                | KRA 3: Tax simplification                | KRA 3: Tax simplification                | KRA 3: Tax simplification                |\n| SO4: Simplify tax and customs processes               | Simplified tax and customs processes     | Tax simplification index (%)             | 53                                       | 55                                       | 57                                       | 59                                       | 61                                       |\n| KRA 4: Taxpayer education and engagement              | KRA 4: Taxpayer education and engagement | KRA 4: Taxpayer education and engagement | KRA 4: Taxpayer education and engagement | KRA 4: Taxpayer education and engagement | KRA 4: Taxpayer education and engagement | KRA 4: Taxpayer education and engagement | KRA 4: Taxpayer education and engagement |\n| SO5: Enhance taxpayer education                       | Increased taxpayer literacy              | Tax literacy score (%)                   | 58.1                                     | N/A                                      | 60.69                                    | N/A                                      | 62.1                                     |\n| SO6: Attain service excellence                        | Increased service accessibility          | Customer satisfaction index (%)          | N/A                                      | 76                                       | N/A                                      | 77                                       | N/A                                      |\n| KRA 5: Trade facilitation                             | KRA 5: Trade facilitation                | KRA 5: Trade facilitation                | KRA 5: Trade facilitation                | KRA 5: Trade facilitation                | KRA 5: Trade facilitation                | KRA 5: Trade facilitation                | KRA 5: Trade facilitation                |\n| SO7: Improve trade facilitation                       | Reduced clearance time                   | Time taken to release goods (hours)      | 62                                       | 59                                       | 56                                       | 53                                       | 50                                       |\n| KRA 6: Operational efficiency                         | KRA 6: Operational efficiency            | KRA 6: Operational efficiency            | KRA 6: Operational efficiency            | KRA 6: Operational efficiency            | KRA 6: Operational efficiency            | KRA 6: Operational efficiency            | KRA 6: Operational efficiency            |\n| SO8: Scale up infrastructure to meet business demands | Reliable systems                         | %system uptime                           | 99.2                                     | 99.4                                     | 99.6                                     | 99.8                                     | 99.8                                     |\n| SO9: Attain a fully integrated and simplified revenue | Seamless revenue administration          | Automation level (%)                     | 97.3                                     | 97.4                                     | 97.4                                     | 97.5                                     | 97.5                                     |",
+      "records": [
+        {
+          "Strategic Objective.": "KRA 1: Revenue mobilisation",
+          "Outcome.": "KRA 1: Revenue mobilisation",
+          "Outcome indicator.": "KRA 1: Revenue mobilisation",
+          "Projection.2024/25": "KRA 1: Revenue mobilisation",
+          "Projection.2025/26": "KRA 1: Revenue mobilisation",
+          "Projection.2026/27": "KRA 1: Revenue mobilisation",
+          "Projection.2027/28": "KRA 1: Revenue mobilisation",
+          "Projection.2028/29": "KRA 1: Revenue mobilisation"
+        },
+        {
+          "Strategic Objective.": "SO1: Enhance tax and customs compliance",
+          "Outcome.": "Enhanced compliance",
+          "Outcome indicator.": "Total revenue collected (Kshs bn)",
+          "Projection.2024/25": "3,116",
+          "Projection.2025/26": "3,541",
+          "Projection.2026/27": "4,049",
+          "Projection.2027/28": "4,586",
+          "Projection.2028/29": "5,194"
+        },
+        {
+          "Strategic Objective.": "SO1: Enhance tax and customs compliance",
+          "Outcome.": "Enhanced compliance",
+          "Outcome indicator.": "On-time filing rate (%)",
+          "Projection.2024/25": "84",
+          "Projection.2025/26": "86",
+          "Projection.2026/27": "87",
+          "Projection.2027/28": "89",
+          "Projection.2028/29": "90"
+        },
+        {
+          "Strategic Objective.": "SO1: Enhance tax and customs compliance",
+          "Outcome.": "Enhanced compliance",
+          "Outcome indicator.": "On-time payment rate (%)",
+          "Projection.2024/25": "82",
+          "Projection.2025/26": "82.5",
+          "Projection.2026/27": "83",
+          "Projection.2027/28": "84",
+          "Projection.2028/29": "85"
+        },
+        {
+          "Strategic Objective.": "SO2: Tax Base Expansion",
+          "Outcome.": "Increased active taxpayers",
+          "Outcome indicator.": "No. of active taxpayers (mn)",
+          "Projection.2024/25": "9.87",
+          "Projection.2025/26": "10.67",
+          "Projection.2026/27": "11.47",
+          "Projection.2027/28": "12.27",
+          "Projection.2028/29": "13.07"
+        },
+        {
+          "Strategic Objective.": "KRA 2: Customs Border Management",
+          "Outcome.": "KRA 2: Customs Border Management",
+          "Outcome indicator.": "KRA 2: Customs Border Management",
+          "Projection.2024/25": "KRA 2: Customs Border Management",
+          "Projection.2025/26": "KRA 2: Customs Border Management",
+          "Projection.2026/27": "KRA 2: Customs Border Management",
+          "Projection.2027/28": "KRA 2: Customs Border Management",
+          "Projection.2028/29": "KRA 2: Customs Border Management"
+        },
+        {
+          "Strategic Objective.": "SO3: Improve border management",
+          "Outcome.": "Eradicate smuggling",
+          "Outcome indicator.": "Illicit trade perception index",
+          "Projection.2024/25": "x",
+          "Projection.2025/26": "N/A",
+          "Projection.2026/27": "x-2",
+          "Projection.2027/28": "N/A",
+          "Projection.2028/29": "x-4"
+        },
+        {
+          "Strategic Objective.": "KRA 3: Tax simplification",
+          "Outcome.": "KRA 3: Tax simplification",
+          "Outcome indicator.": "KRA 3: Tax simplification",
+          "Projection.2024/25": "KRA 3: Tax simplification",
+          "Projection.2025/26": "KRA 3: Tax simplification",
+          "Projection.2026/27": "KRA 3: Tax simplification",
+          "Projection.2027/28": "KRA 3: Tax simplification",
+          "Projection.2028/29": "KRA 3: Tax simplification"
+        },
+        {
+          "Strategic Objective.": "SO4: Simplify tax and customs processes",
+          "Outcome.": "Simplified tax and customs processes",
+          "Outcome indicator.": "Tax simplification index (%)",
+          "Projection.2024/25": "53",
+          "Projection.2025/26": "55",
+          "Projection.2026/27": "57",
+          "Projection.2027/28": "59",
+          "Projection.2028/29": "61"
+        },
+        {
+          "Strategic Objective.": "KRA 4: Taxpayer education and engagement",
+          "Outcome.": "KRA 4: Taxpayer education and engagement",
+          "Outcome indicator.": "KRA 4: Taxpayer education and engagement",
+          "Projection.2024/25": "KRA 4: Taxpayer education and engagement",
+          "Projection.2025/26": "KRA 4: Taxpayer education and engagement",
+          "Projection.2026/27": "KRA 4: Taxpayer education and engagement",
+          "Projection.2027/28": "KRA 4: Taxpayer education and engagement",
+          "Projection.2028/29": "KRA 4: Taxpayer education and engagement"
+        },
+        {
+          "Strategic Objective.": "SO5: Enhance taxpayer education",
+          "Outcome.": "Increased taxpayer literacy",
+          "Outcome indicator.": "Tax literacy score (%)",
+          "Projection.2024/25": "58.1",
+          "Projection.2025/26": "N/A",
+          "Projection.2026/27": "60.69",
+          "Projection.2027/28": "N/A",
+          "Projection.2028/29": "62.1"
+        },
+        {
+          "Strategic Objective.": "SO6: Attain service excellence",
+          "Outcome.": "Increased service accessibility",
+          "Outcome indicator.": "Customer satisfaction index (%)",
+          "Projection.2024/25": "N/A",
+          "Projection.2025/26": "76",
+          "Projection.2026/27": "N/A",
+          "Projection.2027/28": "77",
+          "Projection.2028/29": "N/A"
+        },
+        {
+          "Strategic Objective.": "KRA 5: Trade facilitation",
+          "Outcome.": "KRA 5: Trade facilitation",
+          "Outcome indicator.": "KRA 5: Trade facilitation",
+          "Projection.2024/25": "KRA 5: Trade facilitation",
+          "Projection.2025/26": "KRA 5: Trade facilitation",
+          "Projection.2026/27": "KRA 5: Trade facilitation",
+          "Projection.2027/28": "KRA 5: Trade facilitation",
+          "Projection.2028/29": "KRA 5: Trade facilitation"
+        },
+        {
+          "Strategic Objective.": "SO7: Improve trade facilitation",
+          "Outcome.": "Reduced clearance time",
+          "Outcome indicator.": "Time taken to release goods (hours)",
+          "Projection.2024/25": "62",
+          "Projection.2025/26": "59",
+          "Projection.2026/27": "56",
+          "Projection.2027/28": "53",
+          "Projection.2028/29": "50"
+        },
+        {
+          "Strategic Objective.": "KRA 6: Operational efficiency",
+          "Outcome.": "KRA 6: Operational efficiency",
+          "Outcome indicator.": "KRA 6: Operational efficiency",
+          "Projection.2024/25": "KRA 6: Operational efficiency",
+          "Projection.2025/26": "KRA 6: Operational efficiency",
+          "Projection.2026/27": "KRA 6: Operational efficiency",
+          "Projection.2027/28": "KRA 6: Operational efficiency",
+          "Projection.2028/29": "KRA 6: Operational efficiency"
+        },
+        {
+          "Strategic Objective.": "SO8: Scale up infrastructure to meet business demands",
+          "Outcome.": "Reliable systems",
+          "Outcome indicator.": "%system uptime",
+          "Projection.2024/25": "99.2",
+          "Projection.2025/26": "99.4",
+          "Projection.2026/27": "99.6",
+          "Projection.2027/28": "99.8",
+          "Projection.2028/29": "99.8"
+        },
+        {
+          "Strategic Objective.": "SO9: Attain a fully integrated and simplified revenue",
+          "Outcome.": "Seamless revenue administration",
+          "Outcome indicator.": "Automation level (%)",
+          "Projection.2024/25": "97.3",
+          "Projection.2025/26": "97.4",
+          "Projection.2026/27": "97.4",
+          "Projection.2027/28": "97.5",
+          "Projection.2028/29": "97.5"
+        }
+      ],
+      "columns": [
+        "Strategic Objective.",
+        "Outcome.",
+        "Outcome indicator.",
+        "Projection.2024/25",
+        "Projection.2025/26",
+        "Projection.2026/27",
+        "Projection.2027/28",
+        "Projection.2028/29"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_007",
+      "caption": "The strategic objectives listed above will be achieved through implementation of twenty-tw0 (22) strategies as tabulated in Table 5.2 below:",
+      "heading_path": [
+        "5.2 Strategic Choices"
+      ],
+      "page_number": 25,
+      "table_index": 7,
+      "markdown": "| Perspective      | KRA                       | Strategic Objective                                             | Strategies                                                       |\n|:-----------------|:--------------------------|:----------------------------------------------------------------|:-----------------------------------------------------------------|\n| Revenue          | Revenue mobilisation      | Enhance tax and customs compliance                              | Optimise Domestic Taxes Revenue                                  |\n| Revenue          | Revenue mobilisation      | Enhance tax and customs compliance                              | Revolutionise debt management                                    |\n| Revenue          | Revenue mobilisation      | Enhance tax and customs compliance                              | Enhance Customs compliance                                       |\n| Revenue          | Revenue mobilisation      | Enhance tax and customs compliance                              | Implement Intelligence led and prosecution guided investigations |\n| Revenue          | Revenue mobilisation      | Tax Base Expansion                                              | Expand the tax base focusing on MSMEs                            |\n| Revenue          | Customs border management | Improve border management                                       | Strengthen border security and management of border processes    |\n| Customer         | Tax simplification        | Simplify tax and customs processes                              | Streamline the taxation process                                  |\n| Customer         | education and engagement  | Enhance Taxpayer Education                                      | Revamp corporate tax education                                   |\n| Customer         | education and engagement  | Enhance Taxpayer Education                                      | Enhance citizen engagement                                       |\n| Customer         | education and engagement  | Attain Service Excellence                                       | Implement customer service improvement programmes                |\n| Customer         | education and engagement  | Attain Service Excellence                                       | Increase accessibility to KRA services                           |\n| Customer         | Trade facilitation        | Improve Trade facilitation                                      | Ease clearance of imports and exports                            |\n| Customer         | Trade facilitation        | Improve Trade facilitation                                      | Strengthen refunds management                                    |\n| Business Process | Operational efficiency    | Scale up infrastructure to meet business demands                | Enhance IT infrastructure, network, security and back-up         |\n| Business Process | Operational efficiency    | Attain a fully integrated and simplified revenue administration | Enhance and integrate core business systems                      |\n| Business Process | Operational efficiency    | Enhance data management maturity                                | Strengthen data management and analytics                         |\n| Business Process | Operational efficiency    | Improve quality standards and operations                        | Streamline quality standards                                     |\n| People           | Human resource management | and capability                                                  | Talent management                                                |\n| People           | Human resource management | and capability                                                  | Position KESRA as premier training institution                   |\n| People           | Human resource management | and capability                                                  | Enhance Staff productivity                                       |\n| People           | Human resource management | Improve work environment                                        | Expand and modernise equipment and facilities                    |\n| People           | Human resource management | Enhance integrity                                               | Mainstream ethics and integrity in the Authority                 |",
+      "records": [
+        {
+          "Perspective": "Revenue",
+          "KRA": "Revenue mobilisation",
+          "Strategic Objective": "Enhance tax and customs compliance",
+          "Strategies": "Optimise Domestic Taxes Revenue"
+        },
+        {
+          "Perspective": "Revenue",
+          "KRA": "Revenue mobilisation",
+          "Strategic Objective": "Enhance tax and customs compliance",
+          "Strategies": "Revolutionise debt management"
+        },
+        {
+          "Perspective": "Revenue",
+          "KRA": "Revenue mobilisation",
+          "Strategic Objective": "Enhance tax and customs compliance",
+          "Strategies": "Enhance Customs compliance"
+        },
+        {
+          "Perspective": "Revenue",
+          "KRA": "Revenue mobilisation",
+          "Strategic Objective": "Enhance tax and customs compliance",
+          "Strategies": "Implement Intelligence led and prosecution guided investigations"
+        },
+        {
+          "Perspective": "Revenue",
+          "KRA": "Revenue mobilisation",
+          "Strategic Objective": "Tax Base Expansion",
+          "Strategies": "Expand the tax base focusing on MSMEs"
+        },
+        {
+          "Perspective": "Revenue",
+          "KRA": "Customs border management",
+          "Strategic Objective": "Improve border management",
+          "Strategies": "Strengthen border security and management of border processes"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "Tax simplification",
+          "Strategic Objective": "Simplify tax and customs processes",
+          "Strategies": "Streamline the taxation process"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "education and engagement",
+          "Strategic Objective": "Enhance Taxpayer Education",
+          "Strategies": "Revamp corporate tax education"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "education and engagement",
+          "Strategic Objective": "Enhance Taxpayer Education",
+          "Strategies": "Enhance citizen engagement"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "education and engagement",
+          "Strategic Objective": "Attain Service Excellence",
+          "Strategies": "Implement customer service improvement programmes"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "education and engagement",
+          "Strategic Objective": "Attain Service Excellence",
+          "Strategies": "Increase accessibility to KRA services"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "Trade facilitation",
+          "Strategic Objective": "Improve Trade facilitation",
+          "Strategies": "Ease clearance of imports and exports"
+        },
+        {
+          "Perspective": "Customer",
+          "KRA": "Trade facilitation",
+          "Strategic Objective": "Improve Trade facilitation",
+          "Strategies": "Strengthen refunds management"
+        },
+        {
+          "Perspective": "Business Process",
+          "KRA": "Operational efficiency",
+          "Strategic Objective": "Scale up infrastructure to meet business demands",
+          "Strategies": "Enhance IT infrastructure, network, security and back-up"
+        },
+        {
+          "Perspective": "Business Process",
+          "KRA": "Operational efficiency",
+          "Strategic Objective": "Attain a fully integrated and simplified revenue administration",
+          "Strategies": "Enhance and integrate core business systems"
+        },
+        {
+          "Perspective": "Business Process",
+          "KRA": "Operational efficiency",
+          "Strategic Objective": "Enhance data management maturity",
+          "Strategies": "Strengthen data management and analytics"
+        },
+        {
+          "Perspective": "Business Process",
+          "KRA": "Operational efficiency",
+          "Strategic Objective": "Improve quality standards and operations",
+          "Strategies": "Streamline quality standards"
+        },
+        {
+          "Perspective": "People",
+          "KRA": "Human resource management",
+          "Strategic Objective": "and capability",
+          "Strategies": "Talent management"
+        },
+        {
+          "Perspective": "People",
+          "KRA": "Human resource management",
+          "Strategic Objective": "and capability",
+          "Strategies": "Position KESRA as premier training institution"
+        },
+        {
+          "Perspective": "People",
+          "KRA": "Human resource management",
+          "Strategic Objective": "and capability",
+          "Strategies": "Enhance Staff productivity"
+        },
+        {
+          "Perspective": "People",
+          "KRA": "Human resource management",
+          "Strategic Objective": "Improve work environment",
+          "Strategies": "Expand and modernise equipment and facilities"
+        },
+        {
+          "Perspective": "People",
+          "KRA": "Human resource management",
+          "Strategic Objective": "Enhance integrity",
+          "Strategies": "Mainstream ethics and integrity in the Authority"
+        }
+      ],
+      "columns": [
+        "Perspective",
+        "KRA",
+        "Strategic Objective",
+        "Strategies"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_008",
+      "caption": "",
+      "heading_path": [
+        "6.1 Implementation of the Plan"
+      ],
+      "page_number": 27,
+      "table_index": 8,
+      "markdown": "| Strategic Issue                                              | Key Result Area                                                                              | Lead     | Membership                                                      |\n|:-------------------------------------------------------------|:---------------------------------------------------------------------------------------------|:---------|:----------------------------------------------------------------|\n| Tax and customs compliance                                   | KRA 1: Revenue mobilisation KRA 2: Customs border management                                 | DTD C&BC | SIRM I&SO I&E CSSD - HR CSSD - ICT                              |\n| Customer-centric service delivery                            | KRA 3: Tax simplification KRA 4: Taxpayer education and engagement KRA 5: Trade facilitation | M&C      | DTD C&BC SIRM - RKM&CP & CPU I&SO I&E CSSD - HR, F&LS & ICT SCM |\n| Automation and integration of business systems and processes | KRA 6: Operational efficiency                                                                | CSSD-ICT | DTD C&BC SIRM -CDO CSSD - HR, F&LS SCM                          |\n| Staff capacity and integrity                                 | KRA 7: Human resource management                                                             | CSSD-HR  | I&SO All departments                                            |",
+      "records": [
+        {
+          "Strategic Issue": "Tax and customs compliance",
+          "Key Result Area": "KRA 1: Revenue mobilisation KRA 2: Customs border management",
+          "Lead": "DTD C&BC",
+          "Membership": "SIRM I&SO I&E CSSD - HR CSSD - ICT"
+        },
+        {
+          "Strategic Issue": "Customer-centric service delivery",
+          "Key Result Area": "KRA 3: Tax simplification KRA 4: Taxpayer education and engagement KRA 5: Trade facilitation",
+          "Lead": "M&C",
+          "Membership": "DTD C&BC SIRM - RKM&CP & CPU I&SO I&E CSSD - HR, F&LS & ICT SCM"
+        },
+        {
+          "Strategic Issue": "Automation and integration of business systems and processes",
+          "Key Result Area": "KRA 6: Operational efficiency",
+          "Lead": "CSSD-ICT",
+          "Membership": "DTD C&BC SIRM -CDO CSSD - HR, F&LS SCM"
+        },
+        {
+          "Strategic Issue": "Staff capacity and integrity",
+          "Key Result Area": "KRA 7: Human resource management",
+          "Lead": "CSSD-HR",
+          "Membership": "I&SO All departments"
+        }
+      ],
+      "columns": [
+        "Strategic Issue",
+        "Key Result Area",
+        "Lead",
+        "Membership"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_009",
+      "caption": "",
+      "heading_path": [
+        "7.1 Financial Requirements"
+      ],
+      "page_number": 29,
+      "table_index": 9,
+      "markdown": "| Cost Item.                               | Projected Resource Requirements (Kshs mn).2024/25   | Projected Resource Requirements (Kshs mn).2025/26   | Projected Resource Requirements (Kshs mn).2026/27   | Projected Resource Requirements (Kshs mn).2027/28   | Projected Resource Requirements (Kshs mn).2028/29   | Projected Resource Requirements (Kshs mn).Total   |\n|:-----------------------------------------|:----------------------------------------------------|:----------------------------------------------------|:----------------------------------------------------|:----------------------------------------------------|:----------------------------------------------------|:--------------------------------------------------|\n| KRA 1: Revenue mobilisation              | 4,266                                               | 4,883                                               | 5,812                                               | 6,420                                               | 7,062                                               | 28,443                                            |\n| KRA 2: Management of border processes.   | 551                                                 | 1,000                                               | 1,200                                               | 1,404                                               | 1,659                                               | 5,814                                             |\n| KRA 3: Tax simplification                | 55                                                  | 61                                                  | 67                                                  | 80                                                  | 88                                                  | 351                                               |\n| KRA 4: Taxpayer education and engagement | 393                                                 | 403                                                 | 247                                                 | 267                                                 | 294                                                 | 1,604                                             |\n| KRA 5: Trade facilitation                | 50                                                  | 54                                                  | 60                                                  | 68                                                  | 75                                                  | 307                                               |\n| KRA 6: Operational efficiency            | 1,072                                               | 1,229                                               | 1,914                                               | 2,109                                               | 2,375                                               | 8,699                                             |\n| KRA 7: Human resource management         | 38,741                                              | 41,981                                              | 46,512                                              | 52,331                                              | 58,767                                              | 238,332                                           |\n| Total                                    | 45,127                                              | 49,611                                              | 55,811                                              | 62,680                                              | 70,319                                              | 283,548                                           |",
+      "records": [
+        {
+          "Cost Item.": "KRA 1: Revenue mobilisation",
+          "Projected Resource Requirements (Kshs mn).2024/25": "4,266",
+          "Projected Resource Requirements (Kshs mn).2025/26": "4,883",
+          "Projected Resource Requirements (Kshs mn).2026/27": "5,812",
+          "Projected Resource Requirements (Kshs mn).2027/28": "6,420",
+          "Projected Resource Requirements (Kshs mn).2028/29": "7,062",
+          "Projected Resource Requirements (Kshs mn).Total": "28,443"
+        },
+        {
+          "Cost Item.": "KRA 2: Management of border processes.",
+          "Projected Resource Requirements (Kshs mn).2024/25": "551",
+          "Projected Resource Requirements (Kshs mn).2025/26": "1,000",
+          "Projected Resource Requirements (Kshs mn).2026/27": "1,200",
+          "Projected Resource Requirements (Kshs mn).2027/28": "1,404",
+          "Projected Resource Requirements (Kshs mn).2028/29": "1,659",
+          "Projected Resource Requirements (Kshs mn).Total": "5,814"
+        },
+        {
+          "Cost Item.": "KRA 3: Tax simplification",
+          "Projected Resource Requirements (Kshs mn).2024/25": "55",
+          "Projected Resource Requirements (Kshs mn).2025/26": "61",
+          "Projected Resource Requirements (Kshs mn).2026/27": "67",
+          "Projected Resource Requirements (Kshs mn).2027/28": "80",
+          "Projected Resource Requirements (Kshs mn).2028/29": "88",
+          "Projected Resource Requirements (Kshs mn).Total": "351"
+        },
+        {
+          "Cost Item.": "KRA 4: Taxpayer education and engagement",
+          "Projected Resource Requirements (Kshs mn).2024/25": "393",
+          "Projected Resource Requirements (Kshs mn).2025/26": "403",
+          "Projected Resource Requirements (Kshs mn).2026/27": "247",
+          "Projected Resource Requirements (Kshs mn).2027/28": "267",
+          "Projected Resource Requirements (Kshs mn).2028/29": "294",
+          "Projected Resource Requirements (Kshs mn).Total": "1,604"
+        },
+        {
+          "Cost Item.": "KRA 5: Trade facilitation",
+          "Projected Resource Requirements (Kshs mn).2024/25": "50",
+          "Projected Resource Requirements (Kshs mn).2025/26": "54",
+          "Projected Resource Requirements (Kshs mn).2026/27": "60",
+          "Projected Resource Requirements (Kshs mn).2027/28": "68",
+          "Projected Resource Requirements (Kshs mn).2028/29": "75",
+          "Projected Resource Requirements (Kshs mn).Total": "307"
+        },
+        {
+          "Cost Item.": "KRA 6: Operational efficiency",
+          "Projected Resource Requirements (Kshs mn).2024/25": "1,072",
+          "Projected Resource Requirements (Kshs mn).2025/26": "1,229",
+          "Projected Resource Requirements (Kshs mn).2026/27": "1,914",
+          "Projected Resource Requirements (Kshs mn).2027/28": "2,109",
+          "Projected Resource Requirements (Kshs mn).2028/29": "2,375",
+          "Projected Resource Requirements (Kshs mn).Total": "8,699"
+        },
+        {
+          "Cost Item.": "KRA 7: Human resource management",
+          "Projected Resource Requirements (Kshs mn).2024/25": "38,741",
+          "Projected Resource Requirements (Kshs mn).2025/26": "41,981",
+          "Projected Resource Requirements (Kshs mn).2026/27": "46,512",
+          "Projected Resource Requirements (Kshs mn).2027/28": "52,331",
+          "Projected Resource Requirements (Kshs mn).2028/29": "58,767",
+          "Projected Resource Requirements (Kshs mn).Total": "238,332"
+        },
+        {
+          "Cost Item.": "Total",
+          "Projected Resource Requirements (Kshs mn).2024/25": "45,127",
+          "Projected Resource Requirements (Kshs mn).2025/26": "49,611",
+          "Projected Resource Requirements (Kshs mn).2026/27": "55,811",
+          "Projected Resource Requirements (Kshs mn).2027/28": "62,680",
+          "Projected Resource Requirements (Kshs mn).2028/29": "70,319",
+          "Projected Resource Requirements (Kshs mn).Total": "283,548"
+        }
+      ],
+      "columns": [
+        "Cost Item.",
+        "Projected Resource Requirements (Kshs mn).2024/25",
+        "Projected Resource Requirements (Kshs mn).2025/26",
+        "Projected Resource Requirements (Kshs mn).2026/27",
+        "Projected Resource Requirements (Kshs mn).2027/28",
+        "Projected Resource Requirements (Kshs mn).2028/29",
+        "Projected Resource Requirements (Kshs mn).Total"
+      ]
+    },
+    {
+      "table_id": "the_9th_corporate_plan_table_010",
+      "caption": "Table 8.1: Outcome Matrix",
+      "heading_path": [
+        "Table 8.1: Outcome Matrix"
+      ],
+      "page_number": 31,
+      "table_index": 10,
+      "markdown": "| Key Result Area.Key Result Area          | Outcome.Outcome                            | Outcome indicator.Outcome indicator   | Baseline.Value   | Baseline.Year (FY)   | Target.Mid-term   | Target.End-term   |\n|:-----------------------------------------|:-------------------------------------------|:--------------------------------------|:-----------------|:---------------------|:------------------|:------------------|\n| KRA 1: Revenue mobilisation              | Improved compliance                        | Total revenue collected (Kshs bn)     | 2,407            | 2023/24              | 8,681             | 20,485            |\n| KRA 1: Revenue mobilisation              | Improved compliance                        | On-time filing rate                   | 81               | 2023/24              | 87                | 90                |\n| KRA 1: Revenue mobilisation              | Improved compliance                        | On-time payment rate                  | 82               | 2023/24              | 83                | 85                |\n| KRA 1: Revenue mobilisation              | Increased active taxpayers                 | Number of active taxpayers (mn)       | 9.699            | 2023/24              | 10.04             | 13.07             |\n| KRA 2: Customs Border Management         | Eradicate smuggling                        | Illicit trade perception Index (%)    | N/A              | 2023/24              | x-2               | x-4               |\n| KRA 3: Tax simplification                | Simplified tax and customs processes       | Tax simplification index (%)          | 49.1             | 2022/23              | 57                | 61                |\n| KRA 4: Taxpayer education and engagement | Increased taxpayer literacy                | Tax literacy score (%)                | N/A              | 2023/24              | 60.69             | 62                |\n| KRA 4: Taxpayer education and engagement | Reduced taxpayer effort                    | Customer satisfaction index (%)       | 73.8             | 2023/24              | 76                | 77                |\n| KRA 5: Trade facilitation                | Reduced clearance time                     | Time taken to release goods (hours)   | 65               | 2023/24              | 56                | 50                |\n| KRA 6: Operational efficiency            | Reliable systems                           | %systems uptime                       | 99               | 2023/24              | 99.6              | 99.8              |\n| KRA 6: Operational efficiency            | Seamless revenue administration            | Automation level (%)                  | 97.3             | 2023/24              | 97.4              | 97.5              |\n| KRA 6: Operational efficiency            | Data-driven decision-making                | Data Management Maturity level        | Level 2          | 2022/23              | Level 2           | Level 3           |\n| KRA 6: Operational efficiency            | Increased compliance to standards          | ISO 9001: 2015- recertification       | Recertification  | 2023/24              | Recertification   | Recertification   |\n| KRA 7: Human resource management         | Improved staff productivity & satisfaction | Employee satisfaction index (%)       | 76.7             | 2023/24              | 77.7              | 78.7              |\n| KRA 7: Human resource management         | Conducive work environment                 | Work environment index (%)            | 76               | 2023/24              | 77                | 78                |\n| KRA 7: Human resource management         | Improved public confidence                 | Corruption perception index (%)       | 30.99            | 2023/24              | 29                | 28                |",
+      "records": [
+        {
+          "Key Result Area.Key Result Area": "KRA 1: Revenue mobilisation",
+          "Outcome.Outcome": "Improved compliance",
+          "Outcome indicator.Outcome indicator": "Total revenue collected (Kshs bn)",
+          "Baseline.Value": "2,407",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "8,681",
+          "Target.End-term": "20,485"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 1: Revenue mobilisation",
+          "Outcome.Outcome": "Improved compliance",
+          "Outcome indicator.Outcome indicator": "On-time filing rate",
+          "Baseline.Value": "81",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "87",
+          "Target.End-term": "90"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 1: Revenue mobilisation",
+          "Outcome.Outcome": "Improved compliance",
+          "Outcome indicator.Outcome indicator": "On-time payment rate",
+          "Baseline.Value": "82",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "83",
+          "Target.End-term": "85"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 1: Revenue mobilisation",
+          "Outcome.Outcome": "Increased active taxpayers",
+          "Outcome indicator.Outcome indicator": "Number of active taxpayers (mn)",
+          "Baseline.Value": "9.699",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "10.04",
+          "Target.End-term": "13.07"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 2: Customs Border Management",
+          "Outcome.Outcome": "Eradicate smuggling",
+          "Outcome indicator.Outcome indicator": "Illicit trade perception Index (%)",
+          "Baseline.Value": "N/A",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "x-2",
+          "Target.End-term": "x-4"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 3: Tax simplification",
+          "Outcome.Outcome": "Simplified tax and customs processes",
+          "Outcome indicator.Outcome indicator": "Tax simplification index (%)",
+          "Baseline.Value": "49.1",
+          "Baseline.Year (FY)": "2022/23",
+          "Target.Mid-term": "57",
+          "Target.End-term": "61"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 4: Taxpayer education and engagement",
+          "Outcome.Outcome": "Increased taxpayer literacy",
+          "Outcome indicator.Outcome indicator": "Tax literacy score (%)",
+          "Baseline.Value": "N/A",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "60.69",
+          "Target.End-term": "62"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 4: Taxpayer education and engagement",
+          "Outcome.Outcome": "Reduced taxpayer effort",
+          "Outcome indicator.Outcome indicator": "Customer satisfaction index (%)",
+          "Baseline.Value": "73.8",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "76",
+          "Target.End-term": "77"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 5: Trade facilitation",
+          "Outcome.Outcome": "Reduced clearance time",
+          "Outcome indicator.Outcome indicator": "Time taken to release goods (hours)",
+          "Baseline.Value": "65",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "56",
+          "Target.End-term": "50"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 6: Operational efficiency",
+          "Outcome.Outcome": "Reliable systems",
+          "Outcome indicator.Outcome indicator": "%systems uptime",
+          "Baseline.Value": "99",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "99.6",
+          "Target.End-term": "99.8"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 6: Operational efficiency",
+          "Outcome.Outcome": "Seamless revenue administration",
+          "Outcome indicator.Outcome indicator": "Automation level (%)",
+          "Baseline.Value": "97.3",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "97.4",
+          "Target.End-term": "97.5"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 6: Operational efficiency",
+          "Outcome.Outcome": "Data-driven decision-making",
+          "Outcome indicator.Outcome indicator": "Data Management Maturity level",
+          "Baseline.Value": "Level 2",
+          "Baseline.Year (FY)": "2022/23",
+          "Target.Mid-term": "Level 2",
+          "Target.End-term": "Level 3"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 6: Operational efficiency",
+          "Outcome.Outcome": "Increased compliance to standards",
+          "Outcome indicator.Outcome indicator": "ISO 9001: 2015- recertification",
+          "Baseline.Value": "Recertification",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "Recertification",
+          "Target.End-term": "Recertification"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 7: Human resource management",
+          "Outcome.Outcome": "Improved staff productivity & satisfaction",
+          "Outcome indicator.Outcome indicator": "Employee satisfaction index (%)",
+          "Baseline.Value": "76.7",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "77.7",
+          "Target.End-term": "78.7"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 7: Human resource management",
+          "Outcome.Outcome": "Conducive work environment",
+          "Outcome indicator.Outcome indicator": "Work environment index (%)",
+          "Baseline.Value": "76",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "77",
+          "Target.End-term": "78"
+        },
+        {
+          "Key Result Area.Key Result Area": "KRA 7: Human resource management",
+          "Outcome.Outcome": "Improved public confidence",
+          "Outcome indicator.Outcome indicator": "Corruption perception index (%)",
+          "Baseline.Value": "30.99",
+          "Baseline.Year (FY)": "2023/24",
+          "Target.Mid-term": "29",
+          "Target.End-term": "28"
+        }
+      ],
+      "columns": [
+        "Key Result Area.Key Result Area",
+        "Outcome.Outcome",
+        "Outcome indicator.Outcome indicator",
+        "Baseline.Value",
+        "Baseline.Year (FY)",
+        "Target.Mid-term",
+        "Target.End-term"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3405 @@
+{
+  "source_file": "2022-POST-ELECTION-ECONOMIC-AND-FISCAL-REPORT.pdf",
+  "doc_slug": "2022_post_election_economic_and_fiscal_r",
+  "is_scanned": false,
+  "total_pages": 45,
+  "error": null,
+  "blocks": [
+    {
+      "text": "REPUBLIC OF KENYA THE NATIONAL TREASURY AND ECONOMIC PLANNING",
+      "block_type": "heading",
+      "heading_path": [
+        "REPUBLIC OF KENYA THE NATIONAL TREASURY AND ECONOMIC PLANNING"
+      ],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "2022 POST-ELECTION ECONOMIC AND FISCAL REPORT",
+      "block_type": "heading",
+      "heading_path": [
+        "2022 POST-ELECTION ECONOMIC AND FISCAL REPORT"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury Treasury Building -Nairobi, Kenya",
+      "block_type": "heading",
+      "heading_path": [
+        "The National Treasury Treasury Building -Nairobi, Kenya"
+      ],
+      "page_number": 1,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "P.O Box 30007 00100 Email: psfinance@treasury.go.ke Website: http://www.treasury.go.ke",
+      "block_type": "heading",
+      "heading_path": [
+        "P.O Box 30007 00100 Email: psfinance@treasury.go.ke Website: http://www.treasury.go.ke"
+      ],
+      "page_number": 1,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "DECEMBER 2022",
+      "block_type": "heading",
+      "heading_path": [
+        "DECEMBER 2022"
+      ],
+      "page_number": 1,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "FOREWORD",
+      "block_type": "heading",
+      "heading_path": [
+        "FOREWORD"
+      ],
+      "page_number": 2,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "This  Post-Election  Fiscal  and  Economic  Update  is  the  third  Report  since  the enactment of the Constitution of Kenya, 2010 and is prepared in accordance with the Public Finance Management Act, 2012. It also marks the second transition to a New Administration following the just concluded 2022 General Elections.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "FOREWORD"
+      ],
+      "page_number": 2,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "This  report  provides  a  summary  of  all  election  related  spending  including direct  expenses,  indirect  expenses,  and  any  other  expense  related  to  the election.  Further,  the  report  contains  a  statement  with  policy  decisions which are of economic and /or fiscal material implications to the Government.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "FOREWORD"
+      ],
+      "page_number": 2,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "The 2022 General Elections was conducted at a time when the country was experiencing  one  of  the  worst  droughts  in  our  recent  history  which  has affected  agricultural  output.  This  was  in  addition  to  the  impact  of  the Ukraine -Russia conflict and  the negative effects  of  the  COVID-19 Pandemic. The Government in partnership with the Development Partners and the Private Sector under the auspices of the National Steering Committee on Drought Response has provided response to adverse impact of the ongoing drought to affected persons, regions and communities. The Committee will work with both the National and County Governments in strengthening the national capacity for resilient recovery to protect development gains from recurrent drought.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "FOREWORD"
+      ],
+      "page_number": 2,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "In  spite  of  these  challenges, Kenya's  economy  has  demonstrated  strong resilience by recording p ositive growth momentum in the first half of 2022 with the economy expanding by a remarkable 6.0 percent supported by the ongoing recovery  in  the  services  and  industry  sectors. The economy is projected to grow by 5.5 percent in 2022 and above 6.0 percent over the medium term. This  growth will  be  reinforced  by  the  Government's  development  agenda geared towards economic turnaround and inclusive growth.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "FOREWORD"
+      ],
+      "page_number": 2,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "The economic turnaround programme will seek to increase investments in at least  five  sectors  envisaged to have the biggest impact on the economy as well as on household welfare. These include Agriculture; Micro, Small and Medium  Enterprise  (MSME);  Housing  and  Settlement;  Healthcare;  and Digital  Superhighway  and  Creative  Industry.  To  kick  off  the  process,  the Government has launched the Hustlers Fund, as an intervention to correct market failure problems at the bottom of the pyramid. This program aims to lift  those  at  the  bottom  of  the  pyramid  through  structured  products  in personnel finance that includes savings, credit, insurance and investment. Finally, I wish to express my appreciation to all the Ministries, Departments and  Agencies  who  actively  participated  in  the  just  concluded  General Elections  for  their  professionalism,  commitment  and  efforts  in  ensuring  a peaceful election and smooth transition into the new administration.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "FOREWORD"
+      ],
+      "page_number": 2,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "NJUGUNA NDUNG'U, CBS CABINET SECRETARY",
+      "block_type": "heading",
+      "heading_path": [
+        "NJUGUNA NDUNG'U, CBS CABINET SECRETARY"
+      ],
+      "page_number": 3,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "CERTIFICATION BY THE PRINCIPAL SECRETARY",
+      "block_type": "heading",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "In accordance with Section 27 of the Public Finance Management Act, 2012, I  certify  that  the  National  Treasury  has  prepared  the  2022  Post-Election Economic and Fiscal Report and to the fullest extent possible, provided the required information in the Report for which we are responsible. The 2022 Report includes the following:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "(i) all  policy decisions with material economic or fiscal implications that the national government made before the day on which the contents of this updates were finalized;",
+      "block_type": "list_item",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) all other circumstances with material economic or fiscal implications of which the National Treasury was aware before those days; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) the economic and fiscal updates have been prepared using  the best professional judgment and information available before the economic and fiscal updates were finalized.",
+      "block_type": "list_item",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "The  FY  2021/22  Approved  Budget,  the  FY  2022/23  Budget,  the  2022 Budget Policy Statement (2022 BPS) and the Medium Term Debt Management Strategy are the main references for the information contained in this Report.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "DR.CHRIS KIPTOO, CBS PRINCIPAL SECRETARY",
+      "block_type": "paragraph",
+      "heading_path": [
+        "CERTIFICATION BY THE PRINCIPAL SECRETARY"
+      ],
+      "page_number": 4,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "LIST OF ABBREVIATIONS",
+      "block_type": "heading",
+      "heading_path": [
+        "LIST OF ABBREVIATIONS"
+      ],
+      "page_number": 5,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "TABLE OF CONTENT",
+      "block_type": "heading",
+      "heading_path": [
+        "TABLE OF CONTENT"
+      ],
+      "page_number": 6,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "Legal Basis",
+      "block_type": "heading",
+      "heading_path": [
+        "Legal Basis"
+      ],
+      "page_number": 7,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "Legal Basis for Publication of Post-Election and Economic and Financial Report",
+      "block_type": "heading",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "The Post-Election and Economic and Financial Report (PEFR) is published in accordance with Section 27 of the Public Finance Management Act, 2012.  The law states that:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury shall arrange to publish a Post-Election  Economic and Fiscal update not later than four months after the polling day of the general election.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "The Post-Election Economic and Fiscal update shall:",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "detail all election related spending including:-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "direct  election  expenses  such  as  those  for  the  Independent  Election  and Boundaries Commission (IEBC) for the cost of elections and election materials;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "indirect election expenses such as allocations to police and security forces for the election year; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "any other expenses related to the election specified in regulations or instructions.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "be accompanied by a Statement signed by the Principal Secretary stating that the economic and fiscal updates include:-",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "all  policy  decisions  with  material  economic  or  fiscal  implication  that  the Government made before the day on which the contents of the economic and fiscal updates were finalized;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "all other circumstances with material economic and fiscal implications of which the National Treasury was aware before those days; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "a confirmation that the economic and fiscal update were prepared using the best professional judgment and information available before the economic and fiscal update were finalized.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Legal Basis for Publication of Post-Election and Economic and Financial Report"
+      ],
+      "page_number": 7,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "PART ONE INTRODUCTION",
+      "block_type": "heading",
+      "heading_path": [
+        "PART ONE INTRODUCTION"
+      ],
+      "page_number": 7,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "BACKGROUND",
+      "block_type": "heading",
+      "heading_path": [
+        "BACKGROUND"
+      ],
+      "page_number": 8,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "1. Following the conduct of the 2022 General Elections on 9 th  August, 2022  the  Public  Financial  Management  Act  (PFMA),  2012  requires  the National Treasury to arrange to be published a Post-Election Economic and Fiscal Report (PEFR) not later than four months after the polling day. The reports  details  all  election  related  spending,  both  direct  and  indirect,  and shall be accompanied by a statement stating any policy decisions, circumstances with material economic or fiscal implications and a confirmation that the economic and fiscal update were prepared using the best professional judgment.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "BACKGROUND"
+      ],
+      "page_number": 8,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "2. The objective of the PEFR is to provide a review of election related expenditure and evaluate economic performance and how this impacts the financial objectives and fiscal responsibility principles set out in the Budget Policy Statement (BPS). It also seeks to promote transparency and accountability in the financing of the general elections as well as how this has impacted the economic performance of the country.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "BACKGROUND"
+      ],
+      "page_number": 8,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "3. This  update  is  organized  as  follows:  Section  I  gives  the  background, Section II  highlights  recent  economic  and  political  developments  and outlook in the country focusing on the policy decisions and other circumstances that have economic and fiscal implications. Section III provides an overview on budget implementation with a detailed account of all the direct and indirect election-related expenditures.  Section IV concludes.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "BACKGROUND"
+      ],
+      "page_number": 8,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS",
+      "block_type": "heading",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 9,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "4. This  Post-Election  Economic  and  Fiscal  report  has  been  prepared against a background of persistent global economic slowdown reflecting the impact of the ongoing Russia-Ukraine conflict, effects of COVID-19 containment measures,  higher-than-expected  inflation  worldwide  triggered by higher global oil and food prices and the impact of the contractionary monetary  policy  in  the  advanced  economies  that  has  created  tighter financial  conditions.  As  a  result,  the  International  Monetary  Fund  projects global  growth  to  slow  down  to  3.2  percent  in  2022  and  2.7  percent  in 2023 from 6.0 percent in 2021.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 9,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "5. On  the  domestic  scene,  the  Kenyan  economy  has  demonstrated remarkable  resilience  and  recovery  from  COVID-19  shock  due  to  the diversified nature of the economy and the proactive Government measures to support businesses. Consequently, the economy grew by 7.5 percent in 2021 following a contraction of 0.3 percent in 2020. The  growth momentum continued in the first half of 2022 with the economy expanding by  6.0  percent  supported  by  the  ongoing  recovery  in  the  services  and industry sectors despite the contraction in the agricultural sector as a result of the prolonged drought.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 9,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "6. Taking  into  account  the  adverse  impact  of  the  drought  conditions, inflationary  pressures  as  well  other  external  pressures,  the  economy  is projected to grow by 5.5 percent in 2022 from the initial projection of 6.0 percent  in  the  2022  Budget  Policy  Statement  (BPS).  The  economy  is projected to recover in 2023 to 6.1 percent and maintain that momentum over the medium-term.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 9,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "7. The economy continues to register macroeconomic stability. The yearon-year inflation rate was above the 7.5 percent upper target for the fifth consecutive month in November 2022. Inflation rate was at 9.5 percent in November 2022 from 5.8 percent in November 2021 mainly due to higher international food and fuel prices. Inflation is expected to remain elevated in the near term, due in part to the scaling down of the Government price support  measures,  resulting  in  increases  in  fuel  and  electricity  prices,  the impact of tax measures in the FY 2022/23 Budget, and global inflationary pressures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 10,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "8. Monetary policy stance remains tight to anchor inflation expectations due to  the  elevated  risk  of  high  inflation  outlook  as  a  result  of  increased global  commodity  prices  and  supply  chain  disruptions.  Towards  this  end, the Central Bank Rate (CBR) was raised to 8.75 percent from 8.25 percent in  November, 2022. The interbank rate remained stable at 4.6 percent in November 2022 compared to 5.0 percent in November 2021 while the 91day Treasury Bills rate was at 9.2 percent compared to 7.1 percent over the same  period.  The  low  (below  10  percent)  and  stable  interest  rates  were supported by ample liquidity in the money market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 10,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "9. Lending  to  the  private  sector  has  remained  strong  with  the  credit expanding by 13.3 percent in the 12 months to October 2022 compared to a growth of 8.1 percent over the same period in 2021. Strong credit growth was observed in manufacturing (17.5 percent), trade (15.3 percent), business services (13.2 percent), and consumer durables (14.0 percent). All economic sectors  registered  positive  growth  rates  reflecting  improved  demand  as economic activities picked up.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 10,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "10. The external sector has largely remained stable despite the tight global financial conditions attributed to the strengthening US Dollar and uncertainties  regarding  the  ongoing  Russian-Ukraine  conflict.  The  current account deficit was generally stable at USD 6,020.6 million (5.4 percent of GDP) in September 2022 compared to USD 5,739.5 million (5.2 percent of GDP)  in September 2021. The current account balance was mainly supported by improved receipts from service exports and resilient remittances.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 11,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "11. The  official  foreign  exchange  reserves  stood  at  USD  7,787.5  million (4.4 months of import cover) in September 2022 compared to USD 9,632.2 million  (5.9  months  of  import  cover)  in  September  2021.  The  official reserves continue to fulfill the requirement to maintain it at minimum of 4.0 months  of  imports  cover  providing  adequate  buffer  against  short-term shocks in the foreign exchange market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 11,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "12. Due to the strong US dollar, the exchange rate to the Kenya Shilling like all world currencies has weakened. The Kenya Shilling to the US Dollar exchanged  at  Ksh.121.9  in  November  2022  compared  to  Ksh.111.9  in November 2021. Over the same period, the Kenyan Shilling  strengthened against other major international currencies. The Euro exchanged at Ksh.124.2  in  November  2022  compared  to  Ksh.127.9  in  November  2021 while  the  Sterling  Pound  exchanged  at  Ksh.143.0  compared  to  Ksh.151.0 over the same period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 11,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "13. The Governments' prudent policies and targeted stimulus interventions  have  helped  the  country  during  the  health  crisis  and  will continue to anchor a stronger and stable economic growth. The fiscal policy has ensured checks and balances in the management of public resources to foster more transparency and accountability, while the monetary policy has ensured  price  stability  and  prudent  monetary  stance  to  support  economic recovery.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART TWO MACRO-ECONOMIC AND FISCAL UPDATES I. RECENT ECONOMIC DEVELOPMENTS"
+      ],
+      "page_number": 12,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "Macroeconomic Outlook",
+      "block_type": "heading",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 12,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "14. The macroeconomic framework underpinning the FY 2023/24 Budget takes into account the global  and  domestic  economic  developments including  risks  associated  with  elevated  domestic  inflation  due  to  high commodity  prices,  subdued  agricultural  performance  due  to  depressed rainfall,  as  well  as  increased  global  risks  including  inflation,  recession,  and the  continued  Russian-Ukraine  conflict  that  may  hamper  the  projected global economic recovery.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 12,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "15. The economy is projected to grow by 5.5 percent in 2022 and above 6.0  percent  over  the  medium  term  (in  terms  of  fiscal  years  the  economic growth is projected at 5.8 percent in the FY 2022/23 and 6.1 percent in the FY 2023/24). Growth over the medium term will be supported by a broadbased  private  sector  growth,  including  recoveries  in  agriculture  while  the public sector consolidates. From an expenditure perspective, private consumption is  expected  to  support  aggregate  demand,  supported  by  the ongoing  labour  market  recovery,  improved  consumer  confidence,  and resilient remittances.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 12,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "16. The growth outlook will be reinforced by the Government's development  agenda  geared  towards  economic  turnaround  and  inclusive growth.  Special  focus  will  be  placed  on  increased  employment,  more equitable distribution of income, social security while also expanding the tax revenue  base,  and  increased  foreign  exchange  earnings.  The  economic turnaround  programme  will  seek  to  increase  investments  in  at  least  five sectors envisaged to have the biggest impact on the economy as well as on household  welfare.  These  include  Agriculture;  Micro,  Small  and  Medium Enterprise (MSME); Housing and Settlement; Healthcare; and Digital Superhighway and Creative Industry.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 13,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "17. In  furtherance  of  the  agenda  on  inclusive  growth  and  innovation  in Micro,  Small,  and  Medium  Enterprises  (MSMEs),  the  Government  has launched  the  Hustlers  Fund,  as  an  intervention  to  correct  market  failure problems at the bottom of the pyramid. This program aims to lift those at the bottom of the pyramid through structured products in personnel finance that  includes  savings,  credit,  insurance  and  investment.  To  address  the adverse impact of the ongoing drought, the Government in partnership with the Development Partners and the private sector under the auspices of the National Steering Committee on Drought Response has provided response to  affected  persons,  regions  and  communities.  The  Committee  will  work with  both  the  National  and  County  Governments  in  strengthening  the national capacity for resilient recovery to protect development gains from recurrent drought.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 13,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "18. To further support this growth outlook, monetary policy will aim at maintaining  macroeconomic  stability.  Inflation  is  expected  to  gradually decline  and  remain  within  the  5.0  percent  target  range,  due  to  muted demand pressures and the policy interventions by the Government. Interest rates are expected to remain low and stable supporting growth of private sector  credit.  The  foreign  exchange  market  is  expected  to  largely  remain stable  with  adequate  foreign  exchange  reserves  providing  buffer  against short-term shocks in the foreign exchange market.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 13,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "19. To  anchor  macro  stability,  the  fiscal  policy  aims  to  pursue  growth friendly  fiscal  consolidation  to  preserve  debt  sustainability.  This  will  be achieved  through  enhancing  revenue  collection  and  curtailing  non-core expenditures while prioritizing high impact social and investment expenditure. Growth in revenue collection is expected to play a major role in  the  realization  of fiscal  consolidation. In this regard, the Government is developing the National Tax Policy and the Medium-Term Revenue Strategy which boost revenues and reinforce the fiscal consolidation plan.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 14,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "20. Therefore, the fiscal deficit is projected to decline from 6.2 percent of GDP in FY 2021/22 to 5.8 percent of GDP in FY2022/23 and further to 4.3 percent of GDP in FY 2023/24. This will stabilize the growth of public debt and  create  fiscal  space  for  implementation  of  the  Government  policy priorities.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 14,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "21. The  Macroeconomic  indicators  for  the  FY2023/24  and  the  medium term are shown in Table 1.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 14,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "Table 1: Medium Term Macroeconomic Indicators",
+      "block_type": "caption",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 15,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "Source: The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 15,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "Risk to the outlook",
+      "block_type": "heading",
+      "heading_path": [
+        "Risk to the outlook"
+      ],
+      "page_number": 16,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "22. There are down side risks to this macroeconomic outlook emanating from  domestic  as  well  as  external  sources.  On  the  domestic  front,  the emergence  of  new  COVID-19  variants  may  occasion  restrictive  measures. Other risks emanate from unfavorable weather conditions that could affect agricultural production, the rising inflationary pressures and market failures that restrict access to credit.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Risk to the outlook"
+      ],
+      "page_number": 16,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "23. On the external  front,  uncertainties  in  the  global  economic  outlook have also increased  which  could  impact  on  the  domestic  economy.  These risks include: the possible worsening of the Russia - Ukraine conflict which could heighten the risk of oil and commodity price volatility and elevated inflationary  pressures;  the  continued  COVID-19  restrictions  in  China  could further  disrupt  the  global  supply  chains;  and  global  monetary  policy tightening,  especially  in  the  United  States,  could  increase  volatility  in  the financial markets.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Risk to the outlook"
+      ],
+      "page_number": 16,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "24. The Government continues to respond to the adverse impact of these emerging issues through fiscal measures, among them fertilizer subsidies to lower the cost of production, targeted intervention to persons and communities  affected  by  the  ongoing  drought  and  establishment  of  the Hustler Fund to support growth of MSMEs and individual traders that will correct the market failures of the vast majority of Kenya's at the bottom of the pyramid.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Risk to the outlook"
+      ],
+      "page_number": 16,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "25. The  upside  risk  to  the  domestic  economy  relate  to  faster  than projected  rebound  in  economic  activities  that  would  result  in  higher",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Risk to the outlook"
+      ],
+      "page_number": 16,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "Government  revenues  providing  fiscal  space  that  would  support  fiscal consolidation. The Kenyan Government continues to monitor the domestic and  external  environment  and  will  take  appropriate  policy  measures  to safeguard the economy against the adverse effects of the risks if they were to materialize.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Risk to the outlook"
+      ],
+      "page_number": 17,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "Fiscal Performance and Emerging Challenges",
+      "block_type": "heading",
+      "heading_path": [
+        "Fiscal Performance and Emerging Challenges"
+      ],
+      "page_number": 17,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "Budget  implementation  during  the  first  four  months  of  the  FY 2022/23  has  progressed  smoothly.  However,  there  has  been  expenditure pressures due to in part, the ongoing drought as well as the need to cushion farmers with subsidized fertilizers and other emerging spending priorities.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Fiscal Performance and Emerging Challenges"
+      ],
+      "page_number": 17,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "Revenues",
+      "block_type": "heading",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 17,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "Cumulatively, total revenue collection including ministerial appropriation  in  aid  (A-i-A)  for  the  period  July  2022  to  October  2022 amounted  to  Ksh.731.3  billion  compared  to  a  target  of  Ksh.733.1  billion recording a shortfall of Ksh.1.9 billion. The below target performance was on  account  of  shortfall  registered  in  ordinary  revenue  of  Ksh.19.3  billion despite the surplus collection of Ksh.17.4 billion registered in ministerial A-iA.  Total  revenue  for  the  period  grew  by  11.9  percent  compared  with  a growth of 29.3 percent in a similar period in FY 2021/22. The slowdown in growth is mainly attributed to the fact that last FY's growth was a recovery from a contraction (lower base) registered in FY 2020/21 due to the impact of  the  COVID-19 pandemic and the associated mitigation measures  (Table 2).",
+      "block_type": "list_item",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 17,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "Table 2: Cumulative Revenue Performance for the period ending October 2022 (Ksh Billions)",
+      "block_type": "caption",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 18,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "1/ includes rent on land/buildings, fines and forfeitures, other taxes, loan interest receipts reimbursements and other fund contributions, fees, and miscellaneous revenue.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 18,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "Source: The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 18,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "Ordinary  revenue  for  the  period  to  October  2022  was  Ksh.635.5 billion  against  a  target  of  Ksh.654.7  billion  translating  into  a  shortfall  of Ksh.19.3 billion. The performance was on account of below target collection of main tax heads with income tax recording a shortfall of Ksh.26.6 billion, VAT (Ksh.5.8 billion), excise taxes Ksh.3.1 billion  and  Import  duty Ksh.1.5 billion.  Ordinary  revenues  recorded  a  growth  of  10.2  percent  in  October 2022  compared  to  a  growth  of  25.8  percent  in  October  2021.  All  tax",
+      "block_type": "list_item",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 18,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "revenue  categories  recorded  positive  growths,  an  indication  of  continued recovery in revenue collection.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 19,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "Expenditure"
+      ],
+      "page_number": 19,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "29. Total  expenditure  and  net  lending  for  the  period  July  2022  to October 2022 amounted to Ksh.868.8 billion against a target of Ksh.937.8 billion and translating to a shortfall in expenditure of Ksh.69.0 billion. This was largely on account of below target recurrent expenditure by Ksh.26.8 billion  and  disbursement  to  County  Governments  by  Ksh.46.0  billion. Development expenditure was above target by Ksh.3.7 billion to amount to Ksh.128.4 billion by end October 2022.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Expenditure"
+      ],
+      "page_number": 19,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "Fiscal balance and financing",
+      "block_type": "heading",
+      "heading_path": [
+        "Fiscal balance and financing"
+      ],
+      "page_number": 19,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "30. Overall,  fiscal  deficit  including  grants  (on  cash  basis)  for  the  period July  2022  to  October  2022  was  Ksh.135.4  billion  (1.0  percent  of  GDP) against a target of Ksh.202.4 billion (1.4 percent of GDP). The Grants for the period were Ksh.2.1 billion against a target of Ksh.2.3 billion registering a shortfall of Ksh.0.2 billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Fiscal balance and financing"
+      ],
+      "page_number": 19,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "31. The deficit was funded as follows:",
+      "block_type": "heading",
+      "heading_path": [
+        "31. The deficit was funded as follows:"
+      ],
+      "page_number": 19,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "Net Domestic Financing of Ksh.10.2 billion or 0.8 percent of GDP.",
+      "block_type": "list_item",
+      "heading_path": [
+        "31. The deficit was funded as follows:"
+      ],
+      "page_number": 19,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "Net Foreign repayment of Ksh.44.3 billion or 0.3 percent of GDP  which constituted of disbursements (inflows) of Ksh.126.6 billion and external repayments (outflows) of principal debt of Ksh.82.2 billion.",
+      "block_type": "list_item",
+      "heading_path": [
+        "31. The deficit was funded as follows:"
+      ],
+      "page_number": 19,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "Revision of the FY 2022/23 Budget",
+      "block_type": "heading",
+      "heading_path": [
+        "Revision of the FY 2022/23 Budget"
+      ],
+      "page_number": 20,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "32. The  FY  2022/23  Budget  has  been  revised  to  cater  for  the  emerging expenditure  pressures  due  to  in  part,  the  ongoing  drought  as  well  as  the need to cushion farmers with subsidized fertilizers. Additionally, the revision is consistent with the Government' s strong commitment to fiscal consolidation  while  safeguarding  against  contracting  economic  activity  in order to create fiscal space and sustain the reduction in fiscal deficit.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revision of the FY 2022/23 Budget"
+      ],
+      "page_number": 20,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "Therefore,  total  revenues  for  the  FY  2022/23  are  projected  at Ksh.2,512.7  billion  (17.3  percent  of  GDP)  with  ordinary  revenues  at Ksh.2,191.9 billion (15.1 percent of GDP). Total expenditures are projected at  Ksh.3,390.0  billion  (23.3  percent  of  GDP)  with  recurrent  expenditures projected  at  Ksh.2,352.7  billion  (16.2  percent  of  GDP),  development expenditures are projected at Ksh.596.6 billion (4.1 percent of GDP) and an allocation  of  Ksh.4.0  billion  to  Contingency  Fund.  Transfer  to  County Governments is projected at Ksh.436.6 billion (3.0 percent of GDP).",
+      "block_type": "list_item",
+      "heading_path": [
+        "Revision of the FY 2022/23 Budget"
+      ],
+      "page_number": 20,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "The  resulting  fiscal  deficit  of  Ksh.849.2  billion  (5.8  percent  of  GDP) will be financed by a net external financing of Ksh.298.4 billion and a net",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revision of the FY 2022/23 Budget"
+      ],
+      "page_number": 20,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "34. domestic borrowing of Ksh.550.9 billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Revision of the FY 2022/23 Budget"
+      ],
+      "page_number": 20,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "II. COUNTY  GOVERNMENTS'  FISCAL  PERFORMANCE  AND  POLICY MEASURES",
+      "block_type": "heading",
+      "heading_path": [
+        "II. COUNTY  GOVERNMENTS'  FISCAL  PERFORMANCE  AND  POLICY MEASURES"
+      ],
+      "page_number": 20,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "· Cumulative disbursements to County Governments",
+      "block_type": "heading",
+      "heading_path": [
+        "· Cumulative disbursements to County Governments"
+      ],
+      "page_number": 20,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "35. In the past 8 years since the advent of devolution, over Ksh.2.7 trillion has been disbursed to the County Governments in form of equitable share from  revenue  raised  nationally,  conditional  allocations  from  the  national government share of revenue as well as proceeds of loans and grants from our development partners.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Cumulative disbursements to County Governments"
+      ],
+      "page_number": 20,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "36. In FY 2022/23, County Governments were allocated Ksh.370 billion as equitable share from the projected share of revenue raised nationally. In the  last  two  quarters  of  the  financial  year  before  election  for  the  period January to June 2022, counties received a total of Ksh.195.42 billion which represents 52.8% of the total allocations (Ksh.370 billion).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Cumulative disbursements to County Governments"
+      ],
+      "page_number": 21,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "37. In the first two quarters of the financial year after elections up to 30th November, 2022 a total of Ksh.122.1 billion was disbursed to counties. This represents 33% of total allocation to counties.  The lower disbursement in the  1st  quarter  of  the  new  financial  year  was  occasioned  by  slowed economic growth due to under-performance of revenue collection attributed  to  high  inflation,  global  challenges  such  as  Russia  Ukraine  war which has led to high global crude oil and food prices.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Cumulative disbursements to County Governments"
+      ],
+      "page_number": 21,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "38. Further,  the  National  Treasury  proposed  to  allocate  and  transfer  to county governments additional conditional allocations amounting to Ksh.22.52  billion  in  FY  2022/23.  The  allocations  comprise  of  Ksh.5.36 billion  from  the  National  Government  share  of  Revenue  raised  nationally pursuant to Article 202 (2) of the Constitution, and; Ksh.17.16 billion from proceeds of loans and grants from development partners. These allocations are  contained  in  County  Governments  Additional  Allocations  Bill,  2022 which  has  been  passed  by  Parliament  and  is  now  awaiting  Presidential ascent.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Cumulative disbursements to County Governments"
+      ],
+      "page_number": 21,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "· Enhancement of County Governments' Own-Source-Revenue",
+      "block_type": "heading",
+      "heading_path": [
+        "· Enhancement of County Governments' Own-Source-Revenue"
+      ],
+      "page_number": 22,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "39. In order to support the County Governments to enhance their Own Source  Revenue,  the  National  Treasury  in  consultation  with  the  County Governments and other stakeholders developed the National Rating Bill and the  County Governments (Revenue Raising Process), Bill. The objective of the  National  Rating  Bill  is  to  unlock  more  revenues  for  the  county governments from property taxes. On  the other hand, the County Governments  (Revenue  Raising  Process),  Bill  outlines  the  process  to  be followed by counties in exercising their power under Articles 209 and 210 of the  Constitution  to  impose,  vary  or  waiver  taxes,  fees,  levies  and  other charges.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Enhancement of County Governments' Own-Source-Revenue"
+      ],
+      "page_number": 22,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "40. Since the two bills lapsed in the 12th Parliament, the National Rating Bill  is  being  resubmitted  to  Parliament  while  the  County  Governments (Revenue Raising Process), Bill will first be resubmitted to Cabinet before its re-submission to the 13th Parliament for consideration and enactment into law.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Enhancement of County Governments' Own-Source-Revenue"
+      ],
+      "page_number": 22,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "· Pending Bills",
+      "block_type": "heading",
+      "heading_path": [
+        "· Pending Bills"
+      ],
+      "page_number": 22,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "41. The Office of the Controller of Budget (COB) reported that as at 25 th November 2022, a total of Ksh.23.3 billion had been paid by the county governments  to  settle  pending  bills  leaving  an  outstanding  balance  of Ksh.132.84 billion consisting of both  eligible  and  ineligible  bills.  This  is  an improvement in comparison with the pending bills paid as at 30 th  June 2022 which  were  a  total  of  Ksh.20.7  billion  leaving  an  outstanding  balance  of Ksh.134.9 billion. This also shows that pending bills have reduced cumulatively  since  the  end  of  the  previous  financial  year.  This  is  an indication of the continued commitment by the new government to support businesses in the small and medium scale enterprises and enhancing recovery after  suffering  the  negative  effects  of  the  COVID-19  pandemic  by  ensuring timely payment and clearing of pending bills by all State agencies as well as by the County Governments.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Pending Bills"
+      ],
+      "page_number": 22,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "III. PUBLIC DEBT",
+      "block_type": "heading",
+      "heading_path": [
+        "III. PUBLIC DEBT"
+      ],
+      "page_number": 23,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "· Total Public and Publicly Guaranteed Debt",
+      "block_type": "heading",
+      "heading_path": [
+        "· Total Public and Publicly Guaranteed Debt"
+      ],
+      "page_number": 23,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "The total nominal public debt and public guaranteed debt stock as at end  July  2022  (Pre-election  period)  stood  at  Kshs.8,637.77  billion  (61.5 percent  of  GDP).  The  external  debt  amounted  to  Kshs.4,327.02  billion (30.8  percent  of  the  GDP)  whereas  the  domestic  debt  was  Kshs.4,335.27 billion (30.7 percent of GDP).",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Total Public and Publicly Guaranteed Debt"
+      ],
+      "page_number": 23,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "As  at  end  October  2022  (Post  election  period),  the  nominal  public debt  amount  to  Kshs.8,745.66  billion  (62.30  percent  of  GDP).  Domestic debt  stock  was  Kshs.4,386.09  billion  (31.24  percent  of  GDP)  whereas external  debt  stock  was  Kshs.4,359.67  billion  (31.05  percent  of  GDP). Domestic  and  external  debt  stock  accounted  for  50.15  percent  and  49.85 percent of total debt stock, respectively.",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Total Public and Publicly Guaranteed Debt"
+      ],
+      "page_number": 23,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "· Size of Public and Publicly Guaranteed External Debt",
+      "block_type": "heading",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 23,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "External  public  debt  increased  to  Kshs.4,359.57  billion  as  at  end October  2022  from  Kshs4,327.02  billion  as  at  end  July 2022.  This comprised of debt owed to bilateral lenders that amounted to Kshs.1,085.77",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 23,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "billion (24.91%), multilateral creditors Kshs.1,978.65 (45.39 percent), commercial  creditors  Kshs.1,153.06  billion  (26.17  percent).  The  supplier credit and guaranteed debt totaled to Kshs.12.05 billion (0.28 percent) and Kshs.142.08 billion (3.26 percent) as provided in Table 3. Generally, debt owed to commercial creditors have been reducing, which is consistent with the 2022 Medium-Term Debt Management Strategy whose objective is to optimize concessional borrowing and reduce commercial borrowing.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 24,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3: Size of Public and Publicly Guaranteed External Debt",
+      "block_type": "caption",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 24,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 24,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 1: Composition of External Creditor Category",
+      "block_type": "caption",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 25,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 25,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "· Debt Service",
+      "block_type": "heading",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 25,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "45. The total public debt service increased by 5.28 percent from Kshs.158.13 billion as at end July to Kshs.166.48 billion as at end October 2022.  This  comprises  domestic  debt  service  at  Kshs.147.53  billion  and external debt service at Kshs.18.95 billion. As at end of October 2022, the cumulative  debt  service  to  eternal  creditors  amounted  to  Kshs.18,949.38 billion. This comprised principal payment and interest payment of Kshs.3,718.93  billion  and  Kshs.15,230.45  billion.      The  actual  cumulative debt  service  to  external  creditors  comprised  22.6  percent  to  multilateral creditors, 18.1 percent to bilateral creditors and 59.3 percent to commercial lenders as provided in Table 4 below.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 25,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "Table 4: Total Public Debt Service (Kshs. Millions)",
+      "block_type": "caption",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 26,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 26,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 2: Percentage Composition of Total Debt Service",
+      "block_type": "caption",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 26,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 26,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 3: Composition of External Debt Service",
+      "block_type": "caption",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 27,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 27,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "· Redemption Profile Domestic and External Debt",
+      "block_type": "heading",
+      "heading_path": [
+        "· Redemption Profile Domestic and External Debt"
+      ],
+      "page_number": 27,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "46. The redemption profile of total debt as at end of June 2022 is shown in Figure 4 below. Domestic debt accounts for Kshs.943.08 billion or 81.5 per  cent  of  the  total  amortization  in  2022  mainly  comprising  of  Treasury bills, while external debt accounts for Kshs.213.89 billion or 18.5 per cent of the  total  amortization.  The  profile  shows  a  relatively  smooth  repayment structure,  with  maturities  spread  out  in  future  years  except  for  spikes  in 2024,  2028,  and  2048  whereas  the  international  sovereign  bonds  are maturing.t",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Redemption Profile Domestic and External Debt"
+      ],
+      "page_number": 27,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 4: Redemption Profile (Kshs. millions) as at End June 2021",
+      "block_type": "caption",
+      "heading_path": [
+        "· Redemption Profile Domestic and External Debt"
+      ],
+      "page_number": 28,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "·",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Redemption Profile Domestic and External Debt"
+      ],
+      "page_number": 28,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Redemption Profile Domestic and External Debt"
+      ],
+      "page_number": 28,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "· Movement in Exchange Rates Pre and Post-Election Period",
+      "block_type": "heading",
+      "heading_path": [
+        "· Movement in Exchange Rates Pre and Post-Election Period"
+      ],
+      "page_number": 28,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "Public  debt  is  mainly  denominated  in  five  currencies,  which  include USD, Euro, Yen, Yuan and Sterling Pound. From end of July 2022 to end of October 2022, the Kenya shillings depreciated against USD and Euro by 2.1 percent and 0.3 percent, respectively.",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Movement in Exchange Rates Pre and Post-Election Period"
+      ],
+      "page_number": 28,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "During the same period, it strengthened against Japanese Yen, Chinese Yuan  and  Sterling  Pound  by  8.0  percent,  5.0  percent  and  2.4  percent, respectively. Currently, USD, Euro, Japanese Yen, Chinese Yuan and Sterling Pound are  trading  at  Kshs.121.33,  Kshs.121.09,  Kshs.82.25,  Kshs.16.74  and Kshs.140.30, respectively.",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Movement in Exchange Rates Pre and Post-Election Period"
+      ],
+      "page_number": 28,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 5: Movements in Exchange Rates",
+      "block_type": "caption",
+      "heading_path": [
+        "· Movement in Exchange Rates Pre and Post-Election Period"
+      ],
+      "page_number": 29,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Movement in Exchange Rates Pre and Post-Election Period"
+      ],
+      "page_number": 29,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "Currency Composition of the External Debt",
+      "block_type": "heading",
+      "heading_path": [
+        "Currency Composition of the External Debt"
+      ],
+      "page_number": 29,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "The  proportion  of  external  debt  denominated  in  USD,  Euro,  Yen, Yuan and Sterling Pound was 69.3 percent, 18.8 percent, 4.1 percent, 5.3 percent  and  2.3  percent  respectively.  Other  currencies  accounted  for  0.2 percent  of  total  external  debt  (Chart  6).  The  Government  is  currently exercising  currency  diversification  with  an  aim  of  mitigating  the  exchange rate risk on external debt.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Currency Composition of the External Debt"
+      ],
+      "page_number": 29,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 6 Currency Composition of the External Debt",
+      "block_type": "caption",
+      "heading_path": [
+        "Currency Composition of the External Debt"
+      ],
+      "page_number": 30,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Monthly Bulletin, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Currency Composition of the External Debt"
+      ],
+      "page_number": 30,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "PART THREE",
+      "block_type": "heading",
+      "heading_path": [
+        "PART THREE"
+      ],
+      "page_number": 31,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "ELECTION EXPENDITURE",
+      "block_type": "heading",
+      "heading_path": [
+        "ELECTION EXPENDITURE"
+      ],
+      "page_number": 31,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "Overall Budget and Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 31,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "The expenditures for the 2022 General Election were budgeted in the Financial Year 2021/22 for preparatory activities and in the Financial Year 2022/23  for  the  actual  conduct  of  the  Elections.  These  activities  were undertaken  by  various  MDAs  with  respect  to  their  specific  mandates  in",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 31,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "50. ensuring free, fair and peaceful Elections.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 31,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "51. The  total  approved  estimates  for  the  2022  General  Election is KSh.46,922,889,376 comprising KSh.24,405,157,364 in the FY 2021/22 and Ksh.22,527,211,012 in FY 2022/23. The total expenditure is Ksh.36,432,443,153 which comprise Ksh.20,762,051,224 in FY 2021/22 and Ksh.15,670,391,929  in  FY  2022/23.  A  summary  of  these  allocations  and expenditure is as indicated in Table 5 below.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 31,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "Table 5: Summary of Election Related Expenditure",
+      "block_type": "caption",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "N/B: The allocation of Ksh.330.7 million under the Executive Office of the President is provided for in the National Treasury for Assumption of Office activities",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "The specific allocations and actual expenditures for MDAs involved in the 2022 General Elections are as discussed below.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 32,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "(i) Independent Electoral and Boundaries Commission (IEBC)",
+      "block_type": "heading",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 32,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "To enable the conduct of a credible and fair General Elections, IEBC was allocated a total of KSh.44,852,431,776. This is composed of KSh.23,165,591,776  in  the  FY  2021/22  and  KSh.21,686,840,000  in  FY 2022/23 wholly funded through the exchequer. The total actual expenditure amounted to Ksh.34,541,701,548 which comprise Ksh.19,682,558,582 in FY 2021/22 and Ksh.14,859,142,966 in FY 2022/23.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 32,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "IEBC  has  however  indicated  that  some  payments  in  regards  to  the 2022 General Elections are still being processed and the actual expenditures will increase upon finalization and capturing of these expenditure including emerging  issues  such  as  forex  losses,  transport  services,  re-print  of  ballot papers  due  to  court  rulings,  payments  to  Mobile  Network  Operators  for results transmission and legal fees.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 33,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "The  detail  of  the  allocation  and  actual  expenditure  is  provided  in Table 6 below.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 33,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "Table 6: Election Expenditure for IEBC",
+      "block_type": "caption",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 33,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 33,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "56. Some of the milestones for the 2022 General Elections include:",
+      "block_type": "heading",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "(i) Registered  2,550,939  new  voters  and  undertook  3,280,930 walk-in verifications;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) Successfully  conducted  a  total  of  1,882  electoral  positions,  9 postponed elections and 9 by-elections;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) Mapped 5,346 new polling stations;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) Recruited and trained 423,781 poll officials on electoral process;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "(v) Reviewed and published 18 electoral training manuals",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "(vi) Registered,  verified  and  conducted  elections  in  27  Diaspora Polling Stations;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "(vii) Received and resolved 325 complaints and disputes arising from the General Elections;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "(viii) Vetted 21,863 aspirants for the elections and registered 16,098 candidates for the elections;",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "(ix) Held 4,155 stakeholder forums accredited 15,226 observers and 160  media  personnel  and  trained  635  journalists  on  elections; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "(x) Purchased 14,100 KIEMS kits.",
+      "block_type": "list_item",
+      "heading_path": [
+        "56. Some of the milestones for the 2022 General Elections include:"
+      ],
+      "page_number": 34,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) Ministry of Interior and National Administration",
+      "block_type": "heading",
+      "heading_path": [
+        "(ii) Ministry of Interior and National Administration"
+      ],
+      "page_number": 34,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "57. Due to heightened activities in the run up to the elections including campaigns,  nomination  of  candidates  by  the  various  political  parties,  and during the General Election, security operations were enhanced to protect citizens and their properties as they exercised their constitutional rights. To make sure security was not compromised, the Ministry deployed adequate security personnel during the election period.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(ii) Ministry of Interior and National Administration"
+      ],
+      "page_number": 34,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "58. The Ministry was allocated and spent a total of Ksh.524,000,000 in FY 2022/23 to enhance security operations in identified hot spot areas. This includes expenditures of Ksh.424,990,090 to the National Police Service and Ksh.100,000,000 to the National Cohesion and Integration Commission.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(ii) Ministry of Interior and National Administration"
+      ],
+      "page_number": 35,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "The allocation to the National Police Service was utilized in feeding of officers deployed for the elections, fuel expenses, repair and maintenance of motor  vehicles  and  payment  of  applicable  allowances.  The  Cohesion Commission played a key role during the preparation and execution of the General Election to ensure peaceful coexistence during and after the General Election.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(ii) Ministry of Interior and National Administration"
+      ],
+      "page_number": 35,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) The Executive Office of the President",
+      "block_type": "heading",
+      "heading_path": [
+        "(iii) The Executive Office of the President"
+      ],
+      "page_number": 35,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "60. As  part  of  its  key  role  in  the  2022  General  Election,  the  Presidency coordinated transition activities relating to Assumption of Office for the new Administration.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(iii) The Executive Office of the President"
+      ],
+      "page_number": 35,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "A total of Ksh.330,714,647 million was provided and spent under the National Treasury in  the  FY  2022/23 Budget  to  undertake  Assumption  of Office  activities  for  smooth  transition  to  the  next  administration  after  the 2022 General Elections.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(iii) The Executive Office of the President"
+      ],
+      "page_number": 35,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "These activities were implemented jointly with the Ministry of Foreign Affairs,  State  Department  for  Sports,  State  Department  for  Interior,  State Department  for  Culture  and  Heritage,  State  Department  for  Broadcasting, State Department for ICT & Innovation and the Judiciary.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(iii) The Executive Office of the President"
+      ],
+      "page_number": 35,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) Ministry of Defence",
+      "block_type": "heading",
+      "heading_path": [
+        "(iv) Ministry of Defence"
+      ],
+      "page_number": 36,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "63. The  Ministry  of  Defence  is  mandated  to  defend  and  protect  the sovereignty and territorial integrity of the Country against external aggression. In this regard, the Ministry plays a key role in ensuring integrity of  our  territorial  borders  during  elections.  The  Ministry  was  allocated adequate  resources  to  enhance  security  operations  along  the  borders  and other  identified  hot  spots  to  ensure  elections  are  not  affected  by  external security threats.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(iv) Ministry of Defence"
+      ],
+      "page_number": 36,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "(v) The Judiciary",
+      "block_type": "heading",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 36,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "64. The  Judiciary  is  a  key  stakeholder  in  the  Election  process  and  plays critical roles in ensuring elections are free, fair and credible through hearing and determination of electoral disputes.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 36,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "65. To enable the Judiciary fulfill its mandate in the conduct of the 2022 General Elections, a total of KSh.516,523,914 was allocated which comprise KSh.156,073,518 in the FY 2021/22 and KSh.369,929,396 in FY 2022/23.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 36,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "66. The actual expenditure for the period amounted to Ksh.499,897,628 which comprise Ksh.139,968,232 in FY 2021/22 and Ksh.359,929,396 in FY 2022/23.    These  expenditures  were  supported  by  the  Exchequer  and Development Partners funds. The detail of the approved budget and actual expenditures is provided in Table 7 below.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 36,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "Table 7: Elections Expenditure for the Judiciary",
+      "block_type": "caption",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "The major activities undertaken by the Judiciary include:",
+      "block_type": "list_item",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "(i) Training  of  Judges,  Judicial  Officers  and  ICT  staff  on  Election Dispute Resolution (EDR);",
+      "block_type": "list_item",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) Hearing  and  determination  of  matters  relating to political parties;",
+      "block_type": "list_item",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) Preparation, hearing and  determination of the Presidential Election petition;",
+      "block_type": "list_item",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) Hearing and determination of electoral cases in the High Court and Courts of Appeal;",
+      "block_type": "list_item",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 38,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "(v) Swearing in of the President, Deputy President, Governors and Deputy Governors.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 38,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "(vi) Office of the Registrar of Political Parties",
+      "block_type": "heading",
+      "heading_path": [
+        "(vi) Office of the Registrar of Political Parties"
+      ],
+      "page_number": 38,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "The Office of the Registrar of Political Parties was allocated Ksh.475,863,260 which comprise Ksh.372,205,780 in the FY 2021/22 and Ksh.103,657,480 in FY 2022/23. The actual expenditure is Ksh.333,982,942 comprising  Ksh.241,765,651  in  FY  2021/22  and  Ksh.92,217,291  in  FY 2022/23 as tabulated in Table 8 below.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(vi) Office of the Registrar of Political Parties"
+      ],
+      "page_number": 38,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "Table 8: Elections Expenditure for ORPP",
+      "block_type": "caption",
+      "heading_path": [
+        "(vi) Office of the Registrar of Political Parties"
+      ],
+      "page_number": 39,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(vi) Office of the Registrar of Political Parties"
+      ],
+      "page_number": 39,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "69. Some of the Activities undertaken by the Registrar included:",
+      "block_type": "heading",
+      "heading_path": [
+        "69. Some of the Activities undertaken by the Registrar included:"
+      ],
+      "page_number": 40,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "(i) Monitored political parties activities at County and Constituency levels;",
+      "block_type": "list_item",
+      "heading_path": [
+        "69. Some of the Activities undertaken by the Registrar included:"
+      ],
+      "page_number": 40,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "(ii) Trained  political parties' aspirants, political parties' chief agents, county and constituency agents and trainer of trainers;",
+      "block_type": "list_item",
+      "heading_path": [
+        "69. Some of the Activities undertaken by the Registrar included:"
+      ],
+      "page_number": 40,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "(iii) Upgraded the Integrated Political Parties Management System (IPPMS) to facilitate public verification of membership status, resignations and registration; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "69. Some of the Activities undertaken by the Registrar included:"
+      ],
+      "page_number": 40,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "(iv) Automated  County  offices  to  decentralize  management  of political parties database for improved service delivery.",
+      "block_type": "list_item",
+      "heading_path": [
+        "69. Some of the Activities undertaken by the Registrar included:"
+      ],
+      "page_number": 40,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "(vii) Ethics and Anti-Corruption Commission",
+      "block_type": "heading",
+      "heading_path": [
+        "(vii) Ethics and Anti-Corruption Commission"
+      ],
+      "page_number": 40,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "70. The  Ethics  and  Anti-Corruption  Commission  (EACC)  participated  in election related activities in line with its mandate to safeguard resources at risk of misappropriation and embezzlement due to the anticipated transitions in both County and National Governments.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(vii) Ethics and Anti-Corruption Commission"
+      ],
+      "page_number": 40,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "71. In  order  to  fulfill  its  mandate,  the  Commission  allocated  a  total  of Ksh.108,868,689 for the electoral process. This comprised  Ksh.85,296,200 in  the  FY  2021/22 and Ksh.23,572,489 in FY 2022/23. The overall actual expenditure for the period is Ksh.92,115,213 which comprise KShs. 71,845,044 in FY 2021/22 and Ksh.20,270,169 in FY 2022/23 as indicated in Table 9 below.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(vii) Ethics and Anti-Corruption Commission"
+      ],
+      "page_number": 40,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "Table 9: Elections Expenditure for EACC",
+      "block_type": "caption",
+      "heading_path": [
+        "(vii) Ethics and Anti-Corruption Commission"
+      ],
+      "page_number": 41,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(vii) Ethics and Anti-Corruption Commission"
+      ],
+      "page_number": 41,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "(viii) Independent Policing Oversight Authority (IPOA)",
+      "block_type": "heading",
+      "heading_path": [
+        "(viii) Independent Policing Oversight Authority (IPOA)"
+      ],
+      "page_number": 41,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "To  effectively  oversight  police  operations  during  the  2022  General elections,  IPOA  allocated  a  total  of  Ksh.13,500,000  for  the  2022  General Election which comprise KSh.1,000,000 in the FY 2021/22 and KSh.12,500,000  in  FY  2022/23.  The  actual  expenditure  for  the  period  is Ksh.9,044,085 which comprise Ksh.923,625 in FY 2021/22 and Ksh.8,120,460 in FY 2022/23 as indicated in Table 10 below.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(viii) Independent Policing Oversight Authority (IPOA)"
+      ],
+      "page_number": 41,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "Table 10: Elections Expenditure for IPOA",
+      "block_type": "caption",
+      "heading_path": [
+        "(viii) Independent Policing Oversight Authority (IPOA)"
+      ],
+      "page_number": 42,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(viii) Independent Policing Oversight Authority (IPOA)"
+      ],
+      "page_number": 42,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "73. In FY 2021/22, the Authority utilized Ksh.923,625 in monitoring the party primaries from its domestic travel allocation and Ksh.6,698,880 in FY 2022/23 to monitor the conduct of the General Elections. The balance of the allocations was utilized in report writing and validation of the reports by stakeholders and acquisition of other election related materials.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "(viii) Independent Policing Oversight Authority (IPOA)"
+      ],
+      "page_number": 42,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "Composition of Election Related Budget",
+      "block_type": "heading",
+      "heading_path": [
+        "Composition of Election Related Budget"
+      ],
+      "page_number": 42,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "· Direct Expenditure",
+      "block_type": "heading",
+      "heading_path": [
+        "· Direct Expenditure"
+      ],
+      "page_number": 42,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "74. The  total  allocation  for  direct  expenditure  for  the  2022  General Election  is  Ksh.44,852,431,776  under  IEBC.  Actual  expenditure  for  direct expenses amount to Ksh.34,541,701,548.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Direct Expenditure"
+      ],
+      "page_number": 42,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "· Indirect Election Expenses",
+      "block_type": "heading",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "block_index": 203,
+      "table_ref": null
+    },
+    {
+      "text": "The  total  budgetary  allocation  to  indirect  expenses  for  the  2022 General  Elections  is  Ksh.2,070,457,600  while  the  actual  expenditures  on indirect expenses is Ksh.1,890,741,548.",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "block_index": 204,
+      "table_ref": null
+    },
+    {
+      "text": "The  summary  of  the  direct  and  indirect  election  related  budgetary allocations is summarized in Table 11 below.",
+      "block_type": "list_item",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "block_index": 205,
+      "table_ref": null
+    },
+    {
+      "text": "Table 11: Composition of Election Related Expenditures",
+      "block_type": "caption",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "block_index": 206,
+      "table_ref": null
+    },
+    {
+      "text": "N/B: The allocation of Ksh.330.7 million under the Executive Office of the President is provided for in the National Treasury for Assumption of Office activities",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "block_index": 207,
+      "table_ref": null
+    },
+    {
+      "text": "Source: Compilation, National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "block_index": 208,
+      "table_ref": null
+    },
+    {
+      "text": "PART FOUR CONCLUSION",
+      "block_type": "heading",
+      "heading_path": [
+        "PART FOUR CONCLUSION"
+      ],
+      "page_number": 44,
+      "block_index": 209,
+      "table_ref": null
+    },
+    {
+      "text": "77. The  conduct  of  the  2022  General  Election  was  mostly  peaceful. Political Parties and candidates had the opportunity to campaign freely due to measure put in place by the Government including adequate deployment by security agencies to enhance vigilance and protect livelihoods and life of the citizenry. To support the 2022 General Elections, the Government also allocated adequate resources to the MDAs involved in the exercise.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART FOUR CONCLUSION"
+      ],
+      "page_number": 44,
+      "block_index": 210,
+      "table_ref": null
+    },
+    {
+      "text": "78. Following the peaceful elections and the smooth transition to the new administration,  and  notwithstanding  the  adverse  impact  of  the  drought conditions,  inflationary  pressures  as  well  other  external  pressures;  the economy  is  projected  to  grow  by  5.5  percent  in  2022  from  the  initial projection of 6.0 percent in the 2022 Budget Policy Statement (BPS). The economy is projected to recover in 2023 to 6.1 percent and maintain that momentum  over  the  medium-term.  This  will  sustain  a  stable  microeconomic environment supported by sound and sustainable economic and fiscal policies.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART FOUR CONCLUSION"
+      ],
+      "page_number": 44,
+      "block_index": 211,
+      "table_ref": null
+    },
+    {
+      "text": "79. The Government will continue to monitor and address the challenges including  the  drought  situation  in  some  parts  of  the  Country,  threats  to security and slowdown in the global economy. Under these circumstances, we  remain  steadfast  in  maintaining  macroeconomic  stability,  even  in  the face of expenditure pressures.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART FOUR CONCLUSION"
+      ],
+      "page_number": 44,
+      "block_index": 212,
+      "table_ref": null
+    },
+    {
+      "text": "80. As  we  usher  in  the  new  administration,  our  focus  will  be  on  the Government  will  pursue  fiscal  consolidation  policy  in  pursuit  of  attaining debt  sustainability.  The  policy's  main  objective  is  to  free  resources  to growth-enhancing  programmes  by  gradually  reducing  the  overall  fiscal deficit  and  the  pace  of  debt  accumulation.  The  fiscal  consolidation  policy will be supported by enhanced revenue mobilization, sustained rationalization of non-priority recurrent expenditure and redirecting resources  to  finance  priority  growth-supporting  capital  projects  with  high return on investment.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART FOUR CONCLUSION"
+      ],
+      "page_number": 44,
+      "block_index": 213,
+      "table_ref": null
+    },
+    {
+      "text": "81. In addition, the government is committed to pursuing an all-inclusive growth model using the bottom-up approach. The bottom-up approach will involve  initiation  of  government  interventions  that  benefit  lower  income people through schemes that ensure benefits of growth are distributed and shared fairly across all clusters of the society by creating opportunities for all. 82.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "PART FOUR CONCLUSION"
+      ],
+      "page_number": 45,
+      "block_index": 214,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_000",
+      "caption": "LIST OF ABBREVIATIONS",
+      "heading_path": [
+        "LIST OF ABBREVIATIONS"
+      ],
+      "page_number": 5,
+      "table_index": 0,
+      "markdown": "| 0     | 1                                               |\n|:------|:------------------------------------------------|\n| A-I-A | Appropriations-In-Aid                           |\n| BPS   | Budget Policy Statement                         |\n| FY    | Financial Year                                  |\n| GDP   | Gross Domestic Product                          |\n| IEBC  | Independent Electoral and Boundaries Commission |\n| IPOA  | Independent Policing Oversight Authority        |\n| EACC  | Ethics and Anti-Corruption Commission           |\n| KSh.  | Kenya Shilling                                  |\n| MDA   | Ministries, Departments and Agencies            |\n| PFMA  | Public Finance Management Act, 2012             |\n| PAYE  | Pay-As-You-Earn                                 |\n| PFM   | Public Finance Management                       |\n| VAT   | Value Added Tax                                 |\n| DoRA  | Division of Revenue Act                         |\n| DoRB  | Division of Revenue Bill                        |",
+      "records": [
+        {
+          "0": "A-I-A",
+          "1": "Appropriations-In-Aid"
+        },
+        {
+          "0": "BPS",
+          "1": "Budget Policy Statement"
+        },
+        {
+          "0": "FY",
+          "1": "Financial Year"
+        },
+        {
+          "0": "GDP",
+          "1": "Gross Domestic Product"
+        },
+        {
+          "0": "IEBC",
+          "1": "Independent Electoral and Boundaries Commission"
+        },
+        {
+          "0": "IPOA",
+          "1": "Independent Policing Oversight Authority"
+        },
+        {
+          "0": "EACC",
+          "1": "Ethics and Anti-Corruption Commission"
+        },
+        {
+          "0": "KSh.",
+          "1": "Kenya Shilling"
+        },
+        {
+          "0": "MDA",
+          "1": "Ministries, Departments and Agencies"
+        },
+        {
+          "0": "PFMA",
+          "1": "Public Finance Management Act, 2012"
+        },
+        {
+          "0": "PAYE",
+          "1": "Pay-As-You-Earn"
+        },
+        {
+          "0": "PFM",
+          "1": "Public Finance Management"
+        },
+        {
+          "0": "VAT",
+          "1": "Value Added Tax"
+        },
+        {
+          "0": "DoRA",
+          "1": "Division of Revenue Act"
+        },
+        {
+          "0": "DoRB",
+          "1": "Division of Revenue Bill"
+        }
+      ],
+      "columns": [
+        0,
+        1
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_001",
+      "caption": "21. The  Macroeconomic  indicators  for  the  FY2023/24  and  the  medium term are shown in Table 1.",
+      "heading_path": [
+        "Macroeconomic Outlook"
+      ],
+      "page_number": 15,
+      "table_index": 1,
+      "markdown": "|                               | 2020/21.Prel Act   | Approred   |        | 2022/23.   | 2022/23.Proj   | 2023/24.   |   2023/24. | 2024/25.   | 2024/25.   | 2025/26.   | 2025/26.   |        |\n|:------------------------------|:-------------------|:-----------|:-------|:-----------|:---------------|:-----------|-----------:|:-----------|:-----------|:-----------|:-----------|:-------|\n| Real GDP                      |                    | 68         | 65     | 58         | 58             | 59         |      61    | 60         | 62         | 61         | 61         | 62     |\n|                               | 50                 | 48         | 62     | 61         | 69             | 53         |      58    | 52         | 48         | 60         | 59         | 60     |\n| (PI Index (eop)               | 63                 | 52         | 69     | 55         | 64             | 50         |      54    | 50         | 50         | 50         | 50         | 50     |\n|                               | 57                 | 54         | 68     | 60         | 10             | 50         |      58    | 50         | 50         | 50         | 50         | 50     |\n| Texs oftrade ( deterioratiou) | 36                 |            | 11     | 04         | 11             | 02         |       6    | 03         |            | 04         | 07         | 06     |\n|                               | 201                | 239        | 188    | 193        | 179            | 207        |     189    | 211        | 189        | 212        | 186        | 186    |\n|                               | 49                 | 47         | 42     | 47         | 39             | 49         |      47    | 50         | 48         | 50         | 52         | 49     |\n|                               | 152                | 191        | 146    | 146        | 141            | 157        |     142    | 161        | 141        | 162        | 134        |        |\n| Saring                        | 141                | 191        | 129    | 142        | 131            | 154        |     136    | 154        | 135        | 154        | 133        | 132    |\n|                               | 22                 |            | 15     | 07         |                | 22         |      11    | 16         | 16         |            | 21         | 17     |\n|                               | 163                | 244        | 145    | 149        | 142            | 176        |     125    | 170        | 119        | 165        | 112        |        |\n|                               | 159                | 171        |        |            | 173            | 181        |     178    | 181        | 178        | 181        | 180        | 183    |\n|                               | 244                | 256        | 238    | 240        | 233            | 228        |     224    | 222        | 218        | 215        | 217        | 223    |\n|                               | 85                 | 85         | 65     | 64         | 60             | 47         |      46    | 41         | 41         | 35         |            |        |\n|                               | 82                 | 80         | 62     | 62         | 58             | 44         |      43    |            | 38         | 32         | 35         | 36     |\n|                               | 38                 | 33         |        | 12         |                | 02         |       3    | 05         | 07         | 09         | 08         | 07     |\n|                               | 60                 | 48         | 59     |            | 48             | 53         |      52    |            |            | 59         |            |        |\n|                               | 58                 | 58         | 58     | 58         | 58             | 58         |      58    | 59         | 59         | 59         | 59         | 60     |\n|                               | 11370              | 12.646     | 12.736 | 14002      | 14522          | 15,605     |      16.29 | 17,402     | 18.180     | 19.577     | 20437      | 22,872 |",
+      "records": [
+        {
+          "": "62",
+          "2020/21.Prel Act": "",
+          "Approred": "68",
+          "2022/23.": "58",
+          "2022/23.Proj": "58",
+          "2023/24.": "61",
+          "2024/25.": "62",
+          "2025/26.": "61"
+        },
+        {
+          "": "60",
+          "2020/21.Prel Act": "50",
+          "Approred": "48",
+          "2022/23.": "61",
+          "2022/23.Proj": "69",
+          "2023/24.": "58",
+          "2024/25.": "48",
+          "2025/26.": "59"
+        },
+        {
+          "": "50",
+          "2020/21.Prel Act": "63",
+          "Approred": "52",
+          "2022/23.": "55",
+          "2022/23.Proj": "64",
+          "2023/24.": "54",
+          "2024/25.": "50",
+          "2025/26.": "50"
+        },
+        {
+          "": "50",
+          "2020/21.Prel Act": "57",
+          "Approred": "54",
+          "2022/23.": "60",
+          "2022/23.Proj": "10",
+          "2023/24.": "58",
+          "2024/25.": "50",
+          "2025/26.": "50"
+        },
+        {
+          "": "06",
+          "2020/21.Prel Act": "36",
+          "Approred": "",
+          "2022/23.": "04",
+          "2022/23.Proj": "11",
+          "2023/24.": "06",
+          "2024/25.": "",
+          "2025/26.": "07"
+        },
+        {
+          "": "186",
+          "2020/21.Prel Act": "201",
+          "Approred": "239",
+          "2022/23.": "193",
+          "2022/23.Proj": "179",
+          "2023/24.": "189",
+          "2024/25.": "189",
+          "2025/26.": "186"
+        },
+        {
+          "": "49",
+          "2020/21.Prel Act": "49",
+          "Approred": "47",
+          "2022/23.": "47",
+          "2022/23.Proj": "39",
+          "2023/24.": "47",
+          "2024/25.": "48",
+          "2025/26.": "52"
+        },
+        {
+          "": "",
+          "2020/21.Prel Act": "152",
+          "Approred": "191",
+          "2022/23.": "146",
+          "2022/23.Proj": "141",
+          "2023/24.": "142",
+          "2024/25.": "141",
+          "2025/26.": "134"
+        },
+        {
+          "": "132",
+          "2020/21.Prel Act": "141",
+          "Approred": "191",
+          "2022/23.": "142",
+          "2022/23.Proj": "131",
+          "2023/24.": "136",
+          "2024/25.": "135",
+          "2025/26.": "133"
+        },
+        {
+          "": "17",
+          "2020/21.Prel Act": "22",
+          "Approred": "",
+          "2022/23.": "07",
+          "2022/23.Proj": "",
+          "2023/24.": "11",
+          "2024/25.": "16",
+          "2025/26.": "21"
+        },
+        {
+          "": "",
+          "2020/21.Prel Act": "163",
+          "Approred": "244",
+          "2022/23.": "149",
+          "2022/23.Proj": "142",
+          "2023/24.": "125",
+          "2024/25.": "119",
+          "2025/26.": "112"
+        },
+        {
+          "": "183",
+          "2020/21.Prel Act": "159",
+          "Approred": "171",
+          "2022/23.": "",
+          "2022/23.Proj": "173",
+          "2023/24.": "178",
+          "2024/25.": "178",
+          "2025/26.": "180"
+        },
+        {
+          "": "223",
+          "2020/21.Prel Act": "244",
+          "Approred": "256",
+          "2022/23.": "240",
+          "2022/23.Proj": "233",
+          "2023/24.": "224",
+          "2024/25.": "218",
+          "2025/26.": "217"
+        },
+        {
+          "": "",
+          "2020/21.Prel Act": "85",
+          "Approred": "85",
+          "2022/23.": "64",
+          "2022/23.Proj": "60",
+          "2023/24.": "46",
+          "2024/25.": "41",
+          "2025/26.": ""
+        },
+        {
+          "": "36",
+          "2020/21.Prel Act": "82",
+          "Approred": "80",
+          "2022/23.": "62",
+          "2022/23.Proj": "58",
+          "2023/24.": "43",
+          "2024/25.": "38",
+          "2025/26.": "35"
+        },
+        {
+          "": "07",
+          "2020/21.Prel Act": "38",
+          "Approred": "33",
+          "2022/23.": "12",
+          "2022/23.Proj": "",
+          "2023/24.": "03",
+          "2024/25.": "07",
+          "2025/26.": "08"
+        },
+        {
+          "": "",
+          "2020/21.Prel Act": "60",
+          "Approred": "48",
+          "2022/23.": "",
+          "2022/23.Proj": "48",
+          "2023/24.": "52",
+          "2024/25.": "",
+          "2025/26.": ""
+        },
+        {
+          "": "60",
+          "2020/21.Prel Act": "58",
+          "Approred": "58",
+          "2022/23.": "58",
+          "2022/23.Proj": "58",
+          "2023/24.": "58",
+          "2024/25.": "59",
+          "2025/26.": "59"
+        },
+        {
+          "": "22,872",
+          "2020/21.Prel Act": "11370",
+          "Approred": "12.646",
+          "2022/23.": "14002",
+          "2022/23.Proj": "14522",
+          "2023/24.": "16.290",
+          "2024/25.": "18.180",
+          "2025/26.": "20437"
+        }
+      ],
+      "columns": [
+        "",
+        "2020/21.Prel Act",
+        "Approred",
+        "",
+        "2022/23.",
+        "2022/23.Proj",
+        "2023/24.",
+        "2023/24.",
+        "2024/25.",
+        "2024/25.",
+        "2025/26.",
+        "2025/26.",
+        ""
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_002",
+      "caption": "",
+      "heading_path": [
+        "Revenues"
+      ],
+      "page_number": 18,
+      "table_index": 2,
+      "markdown": "| [Revenue (Ksh hillions)   | Oct-21.   | Oct-21.96 of GDP   | Oct-22.Printed Iarget   | Oct-22.Prel   | Oct-22.Deviation   | Oct-22.GDP   | Oct-22.Perlormauce Rate   | Oct-22.Gronth   |\n|:--------------------------|:----------|:-------------------|:------------------------|:--------------|:-------------------|:-------------|:--------------------------|:----------------|\n| TOTAL REVENUE             | 653.6     | 5.196              | 733.1                   |               | (1.9)              | 5.29         |                           | 11.90           |\n|                           | 576.6     | 4.596              | 654.7                   | 6355          | (19.3)             |              | 97.190                    |                 |\n| Impont Duty               | 359       |                    | 45.2                    | 437           | (LS)               | 0.300        | 96.68]                    |                 |\n| Excise Taxes              | 78.8      |                    | 88.2                    | 85.1          |                    |              |                           | 8.09            |\n| Income Tar                | 253.2     |                    | 306.1                   | 279.4         | (26.6)             |              | 91.390                    | 10.390          |\n| 0 w PAYE                  | 144.1     |                    | 159.4                   | 148.6         | (Io.7)             |              |                           |                 |\n| 0 w Other Income Tax      | 109.2     |                    | 146.7                   | 130.8         |                    | 0.900        |                           | 19.89           |\n| Value Added Tar (VAT)     | 159.7     |                    | 1815                    | 175.6         |                    |              | 96.89                     |                 |\n| 0 WVAT (Domestic)         | 78.5      |                    | 93.9                    | 84.9          | (9.o)|             |              |                           | 839             |\n|                           | 81.2      |                    | 815                     | 90.7          | 32                 | 0.690        |                           | 11.79           |\n| Other Revênue             |           |                    | 33.8                    | 51.7          | 17.8               |              |                           | 5500            |\n|                           | 77.       | 0.69               | 78,4                    | 95.8          |                    | 0.796        |                           | 24.490          |\n| Recurent                  |           |                    | 33.6                    | 69.1          | 15.6               |              | 129.1%                    | 35.59           |\n| Developent                | 26.0      |                    |                         | 26.7          | 18                 | 0.200        |                           | 27              |\n| GDP                       | 12,752.2  |                    | 14,038                  | 14,038        |                    |              |                           | 10.190          |",
+      "records": [
+        {
+          "[Revenue (Ksh hillions)": "TOTAL REVENUE",
+          "Oct-21.": "653.6",
+          "Oct-21.96 of GDP": "5.196",
+          "Oct-22.Printed Iarget": "733.1",
+          "Oct-22.Prel": "",
+          "Oct-22.Deviation": "(1.9)",
+          "Oct-22.GDP": "5.29",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "11.90"
+        },
+        {
+          "[Revenue (Ksh hillions)": "",
+          "Oct-21.": "576.6",
+          "Oct-21.96 of GDP": "4.596",
+          "Oct-22.Printed Iarget": "654.7",
+          "Oct-22.Prel": "6355",
+          "Oct-22.Deviation": "(19.3)",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "97.190",
+          "Oct-22.Gronth": ""
+        },
+        {
+          "[Revenue (Ksh hillions)": "Impont Duty",
+          "Oct-21.": "359",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "45.2",
+          "Oct-22.Prel": "437",
+          "Oct-22.Deviation": "(LS)",
+          "Oct-22.GDP": "0.300",
+          "Oct-22.Perlormauce Rate": "96.68]",
+          "Oct-22.Gronth": ""
+        },
+        {
+          "[Revenue (Ksh hillions)": "Excise Taxes",
+          "Oct-21.": "78.8",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "88.2",
+          "Oct-22.Prel": "85.1",
+          "Oct-22.Deviation": "",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "8.09"
+        },
+        {
+          "[Revenue (Ksh hillions)": "Income Tar",
+          "Oct-21.": "253.2",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "306.1",
+          "Oct-22.Prel": "279.4",
+          "Oct-22.Deviation": "(26.6)",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "91.390",
+          "Oct-22.Gronth": "10.390"
+        },
+        {
+          "[Revenue (Ksh hillions)": "0 w PAYE",
+          "Oct-21.": "144.1",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "159.4",
+          "Oct-22.Prel": "148.6",
+          "Oct-22.Deviation": "(Io.7)",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": ""
+        },
+        {
+          "[Revenue (Ksh hillions)": "0 w Other Income Tax",
+          "Oct-21.": "109.2",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "146.7",
+          "Oct-22.Prel": "130.8",
+          "Oct-22.Deviation": "",
+          "Oct-22.GDP": "0.900",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "19.89"
+        },
+        {
+          "[Revenue (Ksh hillions)": "Value Added Tar (VAT)",
+          "Oct-21.": "159.7",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "1815",
+          "Oct-22.Prel": "175.6",
+          "Oct-22.Deviation": "",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "96.89",
+          "Oct-22.Gronth": ""
+        },
+        {
+          "[Revenue (Ksh hillions)": "0 WVAT (Domestic)",
+          "Oct-21.": "78.5",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "93.9",
+          "Oct-22.Prel": "84.9",
+          "Oct-22.Deviation": "(9.o)|",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "839"
+        },
+        {
+          "[Revenue (Ksh hillions)": "",
+          "Oct-21.": "81.2",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "815",
+          "Oct-22.Prel": "90.7",
+          "Oct-22.Deviation": "32",
+          "Oct-22.GDP": "0.690",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "11.79"
+        },
+        {
+          "[Revenue (Ksh hillions)": "Other Revênue",
+          "Oct-21.": "",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "33.8",
+          "Oct-22.Prel": "51.7",
+          "Oct-22.Deviation": "17.8",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "5500"
+        },
+        {
+          "[Revenue (Ksh hillions)": "",
+          "Oct-21.": "77.",
+          "Oct-21.96 of GDP": "0.69",
+          "Oct-22.Printed Iarget": "78,4",
+          "Oct-22.Prel": "95.8",
+          "Oct-22.Deviation": "",
+          "Oct-22.GDP": "0.796",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "24.490"
+        },
+        {
+          "[Revenue (Ksh hillions)": "Recurent",
+          "Oct-21.": "",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "33.6",
+          "Oct-22.Prel": "69.1",
+          "Oct-22.Deviation": "15.6",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "129.1%",
+          "Oct-22.Gronth": "35.59"
+        },
+        {
+          "[Revenue (Ksh hillions)": "Developent",
+          "Oct-21.": "26.0",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "",
+          "Oct-22.Prel": "26.7",
+          "Oct-22.Deviation": "18",
+          "Oct-22.GDP": "0.200",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "27"
+        },
+        {
+          "[Revenue (Ksh hillions)": "GDP",
+          "Oct-21.": "12,752.2",
+          "Oct-21.96 of GDP": "",
+          "Oct-22.Printed Iarget": "14,038",
+          "Oct-22.Prel": "14,038",
+          "Oct-22.Deviation": "",
+          "Oct-22.GDP": "",
+          "Oct-22.Perlormauce Rate": "",
+          "Oct-22.Gronth": "10.190"
+        }
+      ],
+      "columns": [
+        "[Revenue (Ksh hillions)",
+        "Oct-21.",
+        "Oct-21.96 of GDP",
+        "Oct-22.Printed Iarget",
+        "Oct-22.Prel",
+        "Oct-22.Deviation",
+        "Oct-22.GDP",
+        "Oct-22.Perlormauce Rate",
+        "Oct-22.Gronth"
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_003",
+      "caption": "",
+      "heading_path": [
+        "· Size of Public and Publicly Guaranteed External Debt"
+      ],
+      "page_number": 24,
+      "table_index": 3,
+      "markdown": "| CREDITOR                     | End April 2022   | End Jar 2022   | End June 2022   | End 2022 Jul   | Stock at the End August 2022   | Stock at the End September 2022   | Stock at the 2022   |\n|:-----------------------------|:-----------------|:---------------|:----------------|:---------------|:-------------------------------|:----------------------------------|:--------------------|\n| BILAIERAL                    | 1,097,074        | 1,110,208      | 1,105,737       | 1,089,031      | 1,092,173                      | 1,078,956                         | 1,085,775           |\n|                              | 1,876,457        |                | 1923.444        | 1,959,880      | 1,959,809                      | 1,957,899                         | 1,978,647           |\n| (OJIJIERCIL                  |                  |                |                 |                |                                |                                   |                     |\n| Commercial Bank              | 287,966          |                | 276,646         | 274,26-        | 26-,802                        |                                   |                     |\n| International Sovereign Boud | 821,992          | 828,841        | 836,610         | 843,-80        |                                |                                   | 862,-60             |\n| Suppliers Credit             |                  | 12,231         | 12,1            | 11,949         | 11,94;                         |                                   |                     |\n| Sub Iotal                    | 1,121,967        | 1,122,416      | 1,125,410       | 1,129,693      | 1,128,838                      | 1,155,469                         | 1,153,064           |\n|                              | 4,095,498        | 4,136,968      | 4,154,59]       | 4,178,603      | 4,180,820                      | 4,192,324                         |                     |\n| Sub Iotal                    | 156,684          | 159,189        | 145,357         | 148,422        |                                | 142,467                           | 142,083             |\n|                              | 4,252,182        | 4,296,158      | 4,299,948       | 4,327,025      | 4,327,931                      | 4,334,791                         | 4,359,569           |",
+      "records": [
+        {
+          "CREDITOR": "BILAIERAL",
+          "End April 2022": "1,097,074",
+          "End Jar 2022": "1,110,208",
+          "End June 2022": "1,105,737",
+          "End 2022 Jul": "1,089,031",
+          "Stock at the End August 2022": "1,092,173",
+          "Stock at the End September 2022": "1,078,956",
+          "Stock at the 2022": "1,085,775"
+        },
+        {
+          "CREDITOR": "",
+          "End April 2022": "1,876,457",
+          "End Jar 2022": "",
+          "End June 2022": "1923.444",
+          "End 2022 Jul": "1,959,880",
+          "Stock at the End August 2022": "1,959,809",
+          "Stock at the End September 2022": "1,957,899",
+          "Stock at the 2022": "1,978,647"
+        },
+        {
+          "CREDITOR": "(OJIJIERCIL",
+          "End April 2022": "",
+          "End Jar 2022": "",
+          "End June 2022": "",
+          "End 2022 Jul": "",
+          "Stock at the End August 2022": "",
+          "Stock at the End September 2022": "",
+          "Stock at the 2022": ""
+        },
+        {
+          "CREDITOR": "Commercial Bank",
+          "End April 2022": "287,966",
+          "End Jar 2022": "",
+          "End June 2022": "276,646",
+          "End 2022 Jul": "274,26-",
+          "Stock at the End August 2022": "26-,802",
+          "Stock at the End September 2022": "",
+          "Stock at the 2022": ""
+        },
+        {
+          "CREDITOR": "International Sovereign Boud",
+          "End April 2022": "821,992",
+          "End Jar 2022": "828,841",
+          "End June 2022": "836,610",
+          "End 2022 Jul": "843,-80",
+          "Stock at the End August 2022": "",
+          "Stock at the End September 2022": "",
+          "Stock at the 2022": "862,-60"
+        },
+        {
+          "CREDITOR": "Suppliers Credit",
+          "End April 2022": "",
+          "End Jar 2022": "12,231",
+          "End June 2022": "12,1",
+          "End 2022 Jul": "11,949",
+          "Stock at the End August 2022": "11,94;",
+          "Stock at the End September 2022": "",
+          "Stock at the 2022": ""
+        },
+        {
+          "CREDITOR": "Sub Iotal",
+          "End April 2022": "1,121,967",
+          "End Jar 2022": "1,122,416",
+          "End June 2022": "1,125,410",
+          "End 2022 Jul": "1,129,693",
+          "Stock at the End August 2022": "1,128,838",
+          "Stock at the End September 2022": "1,155,469",
+          "Stock at the 2022": "1,153,064"
+        },
+        {
+          "CREDITOR": "",
+          "End April 2022": "4,095,498",
+          "End Jar 2022": "4,136,968",
+          "End June 2022": "4,154,59]",
+          "End 2022 Jul": "4,178,603",
+          "Stock at the End August 2022": "4,180,820",
+          "Stock at the End September 2022": "4,192,324",
+          "Stock at the 2022": ""
+        },
+        {
+          "CREDITOR": "Sub Iotal",
+          "End April 2022": "156,684",
+          "End Jar 2022": "159,189",
+          "End June 2022": "145,357",
+          "End 2022 Jul": "148,422",
+          "Stock at the End August 2022": "",
+          "Stock at the End September 2022": "142,467",
+          "Stock at the 2022": "142,083"
+        },
+        {
+          "CREDITOR": "",
+          "End April 2022": "4,252,182",
+          "End Jar 2022": "4,296,158",
+          "End June 2022": "4,299,948",
+          "End 2022 Jul": "4,327,025",
+          "Stock at the End August 2022": "4,327,931",
+          "Stock at the End September 2022": "4,334,791",
+          "Stock at the 2022": "4,359,569"
+        }
+      ],
+      "columns": [
+        "CREDITOR",
+        "End April 2022",
+        "End Jar 2022",
+        "End June 2022",
+        "End 2022 Jul",
+        "Stock at the End August 2022",
+        "Stock at the End September 2022",
+        "Stock at the 2022"
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_004",
+      "caption": "",
+      "heading_path": [
+        "· Debt Service"
+      ],
+      "page_number": 26,
+      "table_index": 4,
+      "markdown": "|                                     |         |         |         | 22-Jull   | 22-Augl   | 22-Sepl   | 22-Octl   |\n|:------------------------------------|:--------|:--------|:--------|:----------|:----------|:----------|:----------|\n| Erternal Principal                  |         | 15333   | 10.257  | 38,636    | 16,246    | 12127     | 15,230    |\n| Erterual Interest                   | 3,609   | 11716   |         | 16,206    |           |           |           |\n| Iotal Exterual Debt Sertice         |         |         | 20.201  |           | 31,97     | 16,39;    | 18,949    |\n| IEDS as a% of Total Debt Sertice    | 1       | 1       | 17      | 3;        | 18        | 1-        | 11        |\n| Iotal Domestic Interest             | 39,272  |         | 29,38-  | 33,626    |           | 32,417    | 44,333    |\n| Redemption                          | 71,103  |         | 66,036  | 69,665    |           | 64,312    | 103,200   |\n| Iotal Domestic Service              | 110,37; |         | 95,420  | 103,291   |           | 96,*29    |           |\n| Domestic Debt Service as a % of TDS | 86      | 8;      | 83      |           | 82        | 86        | 89        |\n| Iotal Debt Service                  | 128,986 | 197,185 | 1l5,621 | 158,134   | 179,039   | 113,124   | 166,482   |",
+      "records": [
+        {
+          "": "10.257",
+          "22-Jull": "38,636",
+          "22-Augl": "16,246",
+          "22-Sepl": "12127",
+          "22-Octl": "15,230"
+        },
+        {
+          "": "",
+          "22-Jull": "16,206",
+          "22-Augl": "",
+          "22-Sepl": "",
+          "22-Octl": ""
+        },
+        {
+          "": "20.201",
+          "22-Jull": "",
+          "22-Augl": "31,97",
+          "22-Sepl": "16,39;",
+          "22-Octl": "18,949"
+        },
+        {
+          "": "17",
+          "22-Jull": "3;",
+          "22-Augl": "18",
+          "22-Sepl": "1-",
+          "22-Octl": "11"
+        },
+        {
+          "": "29,38-",
+          "22-Jull": "33,626",
+          "22-Augl": "",
+          "22-Sepl": "32,417",
+          "22-Octl": "44,333"
+        },
+        {
+          "": "66,036",
+          "22-Jull": "69,665",
+          "22-Augl": "",
+          "22-Sepl": "64,312",
+          "22-Octl": "103,200"
+        },
+        {
+          "": "95,420",
+          "22-Jull": "103,291",
+          "22-Augl": "",
+          "22-Sepl": "96,*29",
+          "22-Octl": ""
+        },
+        {
+          "": "83",
+          "22-Jull": "",
+          "22-Augl": "82",
+          "22-Sepl": "86",
+          "22-Octl": "89"
+        },
+        {
+          "": "1l5,621",
+          "22-Jull": "158,134",
+          "22-Augl": "179,039",
+          "22-Sepl": "113,124",
+          "22-Octl": "166,482"
+        }
+      ],
+      "columns": [
+        "",
+        "",
+        "",
+        "",
+        "22-Jull",
+        "22-Augl",
+        "22-Sepl",
+        "22-Octl"
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_005",
+      "caption": "",
+      "heading_path": [
+        "Overall Budget and Expenditure"
+      ],
+      "page_number": 32,
+      "table_index": 5,
+      "markdown": "|                                     | APPROTED BUDGET.FI 2021/22   | APPROTED BUDGET.   | APPROTED BUDGET.   | FI 2021/22     | FI 2022/23     |                |\n|:------------------------------------|:-----------------------------|:-------------------|:-------------------|:---------------|:---------------|:---------------|\n| Independent Electoral ad Boubdaries |                              |                    | 44,852,431,776     |                |                |                |\n| Commssion                           |                              |                    |                    |                |                |                |\n| for Interior ad Bationa Minstry t   |                              |                    |                    |                |                |                |\n|                                     | 524,990,090                  |                    | 524,990,090        | 524,990,090    |                |                |\n| of Poltica Paties                   |                              | 103,657,480        | 476,863,260        |                | 92,217,291     |                |\n| The Judiciary                       |                              | 369,929,396        | 516,523,914        | 139,968,232    | 369,929,396    |                |\n|                                     |                              | 330,711,647        | 330,711,647        |                | 330,711,647    | 330,711,6+7    |\n|                                     | 85,296,200                   |                    | 106,868,689        | 71,845,044     | 20,270,169     |                |\n| Mistry of Defence                   |                              |                    |                    |                |                |                |\n|                                     |                              |                    |                    | 923,62;        | 8,120,-60      | 9,044,08;      |\n|                                     | 24,405,157,364               | 22,527,211,012     | 46,922,889,376     | 20,762,051,224 | 15,670,391,929 | 36,432,443,153 |",
+      "records": [
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "44,852,431,776",
+          "FI 2021/22": "",
+          "FI 2022/23": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2021/22": "",
+          "FI 2022/23": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2021/22": "",
+          "FI 2022/23": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "524,990,090",
+          "APPROTED BUDGET.": "524,990,090",
+          "FI 2021/22": "524,990,090",
+          "FI 2022/23": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "476,863,260",
+          "FI 2021/22": "",
+          "FI 2022/23": "92,217,291"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "516,523,914",
+          "FI 2021/22": "139,968,232",
+          "FI 2022/23": "369,929,396"
+        },
+        {
+          "": "330,711,6+7",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "330,711,647",
+          "FI 2021/22": "",
+          "FI 2022/23": "330,711,647"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "85,296,200",
+          "APPROTED BUDGET.": "106,868,689",
+          "FI 2021/22": "71,845,044",
+          "FI 2022/23": "20,270,169"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2021/22": "",
+          "FI 2022/23": ""
+        },
+        {
+          "": "9,044,08;",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2021/22": "923,62;",
+          "FI 2022/23": "8,120,-60"
+        },
+        {
+          "": "36,432,443,153",
+          "APPROTED BUDGET.FI 2021/22": "24,405,157,364",
+          "APPROTED BUDGET.": "46,922,889,376",
+          "FI 2021/22": "20,762,051,224",
+          "FI 2022/23": "15,670,391,929"
+        }
+      ],
+      "columns": [
+        "",
+        "APPROTED BUDGET.FI 2021/22",
+        "APPROTED BUDGET.",
+        "APPROTED BUDGET.",
+        "FI 2021/22",
+        "FI 2022/23",
+        ""
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_006",
+      "caption": "The  detail  of  the  allocation  and  actual  expenditure  is  provided  in Table 6 below.",
+      "heading_path": [
+        "(i) Independent Electoral and Boundaries Commission (IEBC)"
+      ],
+      "page_number": 33,
+      "table_index": 6,
+      "markdown": "|                                              | APPROTED BUDGET.FI 2021/22   | APPROTED BUDGET.                | APPROTED BUDGET.   |               | FI 2022/23    | IOIAL                                            |\n|:---------------------------------------------|:-----------------------------|:--------------------------------|:-------------------|:--------------|:--------------|:-------------------------------------------------|\n| Mass Voter Registration                      | 2564,158,917                 |                                 |                    |               |               | 2359,158,917                                     |\n| Transport                                    |                              | 3,124,069,321                   | 3,682,021,080      | 351,412,683   |               | 3,299,661,02S                                    |\n|                                              |                              |                                 | 424,621,000        | 302,471,000   |               | 349,621,000                                      |\n|                                              | 107,821,000                  |                                 | 177,361,000        | 107,821,000   |               | 177,361,000                                      |\n|                                              | 106,360,00                   |                                 |                    | 88,360,000    |               |                                                  |\n| JTages                                       |                              |                                 |                    |               |               |                                                  |\n| Voter Registration Díaspora                  | 255,820,000                  |                                 |                    |               |               | 236,037,000                                      |\n|                                              | 102,270,00                   |                                 |                    | 102,270,000   |               | 102,270,000                                      |\n| Tratnng of                                   |                              |                                 | 2510,019,530       |               | 2,351,310,86S |                                                  |\n|                                              | 196,997,380                  |                                 | 196,997,380        |               |               | 156,997,380                                      |\n| Education Partnership and Coordination Voter | 1,242,076,800                |                                 |                    | 1,120,978,309 | 307,079,000   | 1,428,057,309                                    |\n|                                              | 6,322,126,230                |                                 |                    |               |               |                                                  |\n| Diaspora                                     |                              |                                 |                    |               |               |                                                  |\n| Legal and Comphiance                         |                              | 1,031,685,382                   |                    | 201,180,521   |               |                                                  |\n|                                              | 455,99,68                    | 1,148,30,000                    |                    | 4,530,678,921 | 819,173,417   |                                                  |\n| Boundary Delmitation                         |                              |                                 | 69.132,000         | 59,132,000    |               | 59,432,000                                       |\n|                                              |                              | 1,678,993,9*0                   |                    | 414,750,897   | 1,315,023,00  | 1729,774,397                                     |\n|                                              | 1 524,791,776                | 4,421,676,562                   |                    |               | 764,131,429   | 1                                                |\n| IOIAL                                        |                              | 23,165,591,776 | 21,686,840,000 | 44,852,431,776     |               |               | 19,682,558,582 | 14,859,142,966 | 34,541,701,548 |",
+      "records": [
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "2564,158,917",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": "2359,158,917"
+        },
+        {
+          "": "351,412,683",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "3,682,021,080",
+          "FI 2022/23": "",
+          "IOIAL": "3,299,661,02S"
+        },
+        {
+          "": "302,471,000",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "424,621,000",
+          "FI 2022/23": "",
+          "IOIAL": "349,621,000"
+        },
+        {
+          "": "107,821,000",
+          "APPROTED BUDGET.FI 2021/22": "107,821,000",
+          "APPROTED BUDGET.": "177,361,000",
+          "FI 2022/23": "",
+          "IOIAL": "177,361,000"
+        },
+        {
+          "": "88,360,000",
+          "APPROTED BUDGET.FI 2021/22": "106,360,00",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "255,820,000",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": "236,037,000"
+        },
+        {
+          "": "102,270,000",
+          "APPROTED BUDGET.FI 2021/22": "102,270,00",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": "102,270,000"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "2510,019,530",
+          "FI 2022/23": "2,351,310,86S",
+          "IOIAL": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "196,997,380",
+          "APPROTED BUDGET.": "196,997,380",
+          "FI 2022/23": "",
+          "IOIAL": "156,997,380"
+        },
+        {
+          "": "1,120,978,309",
+          "APPROTED BUDGET.FI 2021/22": "1,242,076,800",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "307,079,000",
+          "IOIAL": "1,428,057,309"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "6,322,126,230",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": ""
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": ""
+        },
+        {
+          "": "201,180,521",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "",
+          "IOIAL": ""
+        },
+        {
+          "": "4,530,678,921",
+          "APPROTED BUDGET.FI 2021/22": "455,99,68",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "819,173,417",
+          "IOIAL": ""
+        },
+        {
+          "": "59,132,000",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "69.132,000",
+          "FI 2022/23": "",
+          "IOIAL": "59,432,000"
+        },
+        {
+          "": "414,750,897",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "1,315,023,00",
+          "IOIAL": "1729,774,397"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "1 524,791,776",
+          "APPROTED BUDGET.": "",
+          "FI 2022/23": "764,131,429",
+          "IOIAL": "1"
+        },
+        {
+          "": "",
+          "APPROTED BUDGET.FI 2021/22": "",
+          "APPROTED BUDGET.": "44,852,431,776",
+          "FI 2022/23": "",
+          "IOIAL": "19,682,558,582 | 14,859,142,966 | 34,541,701,548"
+        }
+      ],
+      "columns": [
+        "",
+        "APPROTED BUDGET.FI 2021/22",
+        "APPROTED BUDGET.",
+        "APPROTED BUDGET.",
+        "",
+        "FI 2022/23",
+        "IOIAL"
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_007",
+      "caption": "",
+      "heading_path": [
+        "(v) The Judiciary"
+      ],
+      "page_number": 37,
+      "table_index": 7,
+      "markdown": "| ACIITITI.                                                   | APPROTED BUDGET.   | APPROTED BUDGET.[FT 2022/23   | APPROTED BUDGET.[IOIAL   | JFT 2021/22   | JFI 2022/23   | [IOIAL      |\n|:------------------------------------------------------------|:-------------------|:------------------------------|:-------------------------|:--------------|:--------------|:------------|\n|                                                             |                    |                               |                          | 45924,631     |               | 110,924631  |\n| Electon  Resohition Dispute                                 |                    |                               | 7,292,000                |               |               |             |\n| Poltical Paties Irbuna Disputes                             |                    | 29,;49.766                    |                          |               |               |             |\n| Benchalig by Judzes of te Supreme Cout ad JCE               |                    | 21,972000                     |                          |               |               | 21,972000   |\n| Determination of Presidentíal Election Pettion              |                    |                               |                          |               |               |             |\n| Renovatíon adupscalng of the main coutroom for Supreme Cout |                    |                               |                          |               |               |             |\n| Cout of Appea: Hearng and Determnation of Appeals           |                    |                               |                          |               |               |             |\n| Hiph Cout Electon Pettition Heang ad Determinaton           |                    |                               |                          |               |               |             |\n| Sweang                                                      |                    |                               |                          |               |               |             |\n| IOIAL                                                       | 136,073,518        | 369,929,396                   | 516,523,914              | 139,968,232   | 359,929,396   | 499,897,628 |",
+      "records": [
+        {
+          "ACIITITI.": "",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "45924,631",
+          "JFI 2022/23": "",
+          "[IOIAL": "110,924631"
+        },
+        {
+          "ACIITITI.": "Electon  Resohition Dispute",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "7,292,000",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "Poltical Paties Irbuna Disputes",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "29,;49.766",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "Benchalig by Judzes of te Supreme Cout ad JCE",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "21,972000",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": "21,972000"
+        },
+        {
+          "ACIITITI.": "Determination of Presidentíal Election Pettion",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "Renovatíon adupscalng of the main coutroom for Supreme Cout",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "Cout of Appea: Hearng and Determnation of Appeals",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "Hiph Cout Electon Pettition Heang ad Determinaton",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "Sweang",
+          "APPROTED BUDGET.": "",
+          "APPROTED BUDGET.[FT 2022/23": "",
+          "APPROTED BUDGET.[IOIAL": "",
+          "JFT 2021/22": "",
+          "JFI 2022/23": "",
+          "[IOIAL": ""
+        },
+        {
+          "ACIITITI.": "IOIAL",
+          "APPROTED BUDGET.": "136,073,518",
+          "APPROTED BUDGET.[FT 2022/23": "369,929,396",
+          "APPROTED BUDGET.[IOIAL": "516,523,914",
+          "JFT 2021/22": "139,968,232",
+          "JFI 2022/23": "359,929,396",
+          "[IOIAL": "499,897,628"
+        }
+      ],
+      "columns": [
+        "ACIITITI.",
+        "APPROTED BUDGET.",
+        "APPROTED BUDGET.[FT 2022/23",
+        "APPROTED BUDGET.[IOIAL",
+        "JFT 2021/22",
+        "JFI 2022/23",
+        "[IOIAL"
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_008",
+      "caption": "",
+      "heading_path": [
+        "(vii) Ethics and Anti-Corruption Commission"
+      ],
+      "page_number": 41,
+      "table_index": 8,
+      "markdown": "| ACTIVITY.                                                                            | APPROVED BUDGET.FY 2021/22   | APPROVED BUDGET.FY 2022/23   | APPROVED BUDGET.TOTAL   | ACTUAL EXPENDITURE.FY 2021/22   | ACTUAL EXPENDITURE.FY 2022/23   | ACTUAL EXPENDITURE.TOTAL   |\n|:-------------------------------------------------------------------------------------|:-----------------------------|:-----------------------------|:------------------------|:--------------------------------|:--------------------------------|:---------------------------|\n| Integrity Programmes íor in  Tertíary youth                                          | 1,403,200                    |                              | 1,907,200|              | 1,631,441                       | 309,250|                        | 1,940,691|                 |\n| Development and printíng of IEC materials - Intensify_publíc educatíon and awareness | 4,000,00o                    | 1,500,000                    |                         | 3,784,143                       |                                 | 3,784,143                  |\n| Stakeholder Workshops (Private Sector; Civil Society & Faith Based)                  | 2,911,000                    | 3,120,000                    |                         | 1,067,800                       |                                 |                            |\n| Medía Engagement                                                                     |                              | 1,950,000                    |                         | 200,000                         | 1,851,702                       | 2,051,702/                 |\n|                                                                                      | 2,045,00o                    | 2,000,00o                    |                         | 1,689,080                       | 868,620                         | 2,557,700|                 |\n| Pre-electíon monitoring of bribery incidents through surveillance                    | 1,300,000                    | 700,00o                      |                         |                                 | 4,254,086                       | 4,254,086|                 |\n| Fuel and maintenance)                                                                | 72,000,000                   | 8,598,489                    | 80,598,489              | 62,390,000                      | 8,598,489                       |                            |\n| Other Election Related Activitíes                                                    | 1,637,000                    | 5,200,000                    |                         | 1,082,580                       | 3,158,922                       | 4,241,502/                 |\n| TOTAL                                                                                | 85,296,200]                  |                              |                         | 71,845,044                      | 20,270,169                      | 92,115,213                 |",
+      "records": [
+        {
+          "ACTIVITY.": "Integrity Programmes íor in  Tertíary youth",
+          "APPROVED BUDGET.FY 2021/22": "1,403,200",
+          "APPROVED BUDGET.FY 2022/23": "",
+          "APPROVED BUDGET.TOTAL": "1,907,200|",
+          "ACTUAL EXPENDITURE.FY 2021/22": "1,631,441",
+          "ACTUAL EXPENDITURE.FY 2022/23": "309,250|",
+          "ACTUAL EXPENDITURE.TOTAL": "1,940,691|"
+        },
+        {
+          "ACTIVITY.": "Development and printíng of IEC materials - Intensify_publíc educatíon and awareness",
+          "APPROVED BUDGET.FY 2021/22": "4,000,00o",
+          "APPROVED BUDGET.FY 2022/23": "1,500,000",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "3,784,143",
+          "ACTUAL EXPENDITURE.FY 2022/23": "",
+          "ACTUAL EXPENDITURE.TOTAL": "3,784,143"
+        },
+        {
+          "ACTIVITY.": "Stakeholder Workshops (Private Sector; Civil Society & Faith Based)",
+          "APPROVED BUDGET.FY 2021/22": "2,911,000",
+          "APPROVED BUDGET.FY 2022/23": "3,120,000",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "1,067,800",
+          "ACTUAL EXPENDITURE.FY 2022/23": "",
+          "ACTUAL EXPENDITURE.TOTAL": ""
+        },
+        {
+          "ACTIVITY.": "Medía Engagement",
+          "APPROVED BUDGET.FY 2021/22": "",
+          "APPROVED BUDGET.FY 2022/23": "1,950,000",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "200,000",
+          "ACTUAL EXPENDITURE.FY 2022/23": "1,851,702",
+          "ACTUAL EXPENDITURE.TOTAL": "2,051,702/"
+        },
+        {
+          "ACTIVITY.": "",
+          "APPROVED BUDGET.FY 2021/22": "2,045,00o",
+          "APPROVED BUDGET.FY 2022/23": "2,000,00o",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "1,689,080",
+          "ACTUAL EXPENDITURE.FY 2022/23": "868,620",
+          "ACTUAL EXPENDITURE.TOTAL": "2,557,700|"
+        },
+        {
+          "ACTIVITY.": "Pre-electíon monitoring of bribery incidents through surveillance",
+          "APPROVED BUDGET.FY 2021/22": "1,300,000",
+          "APPROVED BUDGET.FY 2022/23": "700,00o",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "",
+          "ACTUAL EXPENDITURE.FY 2022/23": "4,254,086",
+          "ACTUAL EXPENDITURE.TOTAL": "4,254,086|"
+        },
+        {
+          "ACTIVITY.": "Fuel and maintenance)",
+          "APPROVED BUDGET.FY 2021/22": "72,000,000",
+          "APPROVED BUDGET.FY 2022/23": "8,598,489",
+          "APPROVED BUDGET.TOTAL": "80,598,489",
+          "ACTUAL EXPENDITURE.FY 2021/22": "62,390,000",
+          "ACTUAL EXPENDITURE.FY 2022/23": "8,598,489",
+          "ACTUAL EXPENDITURE.TOTAL": ""
+        },
+        {
+          "ACTIVITY.": "Other Election Related Activitíes",
+          "APPROVED BUDGET.FY 2021/22": "1,637,000",
+          "APPROVED BUDGET.FY 2022/23": "5,200,000",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "1,082,580",
+          "ACTUAL EXPENDITURE.FY 2022/23": "3,158,922",
+          "ACTUAL EXPENDITURE.TOTAL": "4,241,502/"
+        },
+        {
+          "ACTIVITY.": "TOTAL",
+          "APPROVED BUDGET.FY 2021/22": "85,296,200]",
+          "APPROVED BUDGET.FY 2022/23": "",
+          "APPROVED BUDGET.TOTAL": "",
+          "ACTUAL EXPENDITURE.FY 2021/22": "71,845,044",
+          "ACTUAL EXPENDITURE.FY 2022/23": "20,270,169",
+          "ACTUAL EXPENDITURE.TOTAL": "92,115,213"
+        }
+      ],
+      "columns": [
+        "ACTIVITY.",
+        "APPROVED BUDGET.FY 2021/22",
+        "APPROVED BUDGET.FY 2022/23",
+        "APPROVED BUDGET.TOTAL",
+        "ACTUAL EXPENDITURE.FY 2021/22",
+        "ACTUAL EXPENDITURE.FY 2022/23",
+        "ACTUAL EXPENDITURE.TOTAL"
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_009",
+      "caption": "",
+      "heading_path": [
+        "(viii) Independent Policing Oversight Authority (IPOA)"
+      ],
+      "page_number": 42,
+      "table_index": 9,
+      "markdown": "|                                                | ALLOCATION   | ALLOCATION   | ALLOCATION   |         |           |           |\n|:-----------------------------------------------|:-------------|:-------------|:-------------|:--------|:----------|:----------|\n| Montorng of Paty Prmaries ad General Elections |              | 1347,840     |              |         | 6,698,880 |           |\n| Triting                                        |              |              |              |         |           |           |\n| of Reflector Braded Vests Printing             |              |              | 1o ooo       |         |           | 1soooo    |\n| Printng of Branded Posters                     |              |              |              |         |           |           |\n| Puchase of Power Baks                          |              |              |              |         | 6ooo      |           |\n| IOIAL                                          |              | 12,500,000   |              | 923,625 | 8,120,460 | 9,044,085 |",
+      "records": [
+        {
+          "": "",
+          "ALLOCATION": ""
+        },
+        {
+          "": "",
+          "ALLOCATION": ""
+        },
+        {
+          "": "1soooo",
+          "ALLOCATION": "1o ooo"
+        },
+        {
+          "": "",
+          "ALLOCATION": ""
+        },
+        {
+          "": "",
+          "ALLOCATION": ""
+        },
+        {
+          "": "9,044,085",
+          "ALLOCATION": ""
+        }
+      ],
+      "columns": [
+        "",
+        "ALLOCATION",
+        "ALLOCATION",
+        "ALLOCATION",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "table_id": "2022_post_election_economic_and_fiscal_r_table_010",
+      "caption": "The  summary  of  the  direct  and  indirect  election  related  budgetary allocations is summarized in Table 11 below.",
+      "heading_path": [
+        "· Indirect Election Expenses"
+      ],
+      "page_number": 43,
+      "table_index": 10,
+      "markdown": "|              | DIRECT   |            |            | DIRECT   | @NDIRECT   |             |\n|:-------------|:---------|:-----------|:-----------|:---------|:-----------|:------------|\n| Comnsion     |          |            |            |          |            |             |\n|              |          | 524990,090 | 324990.090 |          | 324990,090 | 324990,090  |\n|              |          |            |            |          | 333982942  | 333982942   |\n| The Judiciay |          |            |            |          |            | 499,893,628 |\n|              |          | 13500000   |            |          |            |             |",
+      "records": [
+        {
+          "": "",
+          "DIRECT": "",
+          "@NDIRECT": ""
+        },
+        {
+          "": "324990,090",
+          "DIRECT": "",
+          "@NDIRECT": "324990,090"
+        },
+        {
+          "": "333982942",
+          "DIRECT": "",
+          "@NDIRECT": "333982942"
+        },
+        {
+          "": "499,893,628",
+          "DIRECT": "",
+          "@NDIRECT": ""
+        },
+        {
+          "": "",
+          "DIRECT": "",
+          "@NDIRECT": ""
+        }
+      ],
+      "columns": [
+        "",
+        "DIRECT",
+        "",
+        "",
+        "DIRECT",
+        "@NDIRECT",
+        ""
+      ]
+    }
+  ]
+}

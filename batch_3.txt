@@ -1,0 +1,114 @@
+/home/darwin/PRES/Executive/data/raw/ANNUAL-REVENUE-PERFORMANCE-FY-2023-2024.-080724.pdf
+/home/darwin/PRES/Executive/data/raw/ANNUAL-REVENUE-PERFORMANCE-FY-2024-25-KRA-Corporate-Colours.pdf
+/home/darwin/PRES/Executive/data/raw/Act-Anticorruption-Revised-2016.pdf
+/home/darwin/PRES/Executive/data/raw/Animal-Disease-Act-Fees-and-Payments.pdf
+/home/darwin/PRES/Executive/data/raw/Annex-of-State-Corporations-Revenue-and-Expenditure2017-2018-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Annual Report 2017-2018_0.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Public-Debt-Report-2022-2023-Sept-2023.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-2016-2017.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-2018-2019_0.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-FCRI-2022-23.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-In-Situ-Water-Harvesting-Technologies-and-Fertilizers.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-KEPHIS-KEPHIS.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-KESP-2005-2010.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-Kenya-Electricity-Advisory-Board.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-PPRA-2019-2020.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-PPRA-2023-2024.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-PPRA-Annual-Report.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-RDM-Traffic-Signs.pdf
+/home/darwin/PRES/Executive/data/raw/Annual-Report-Revised-Edition-2016.pdf
+/home/darwin/PRES/Executive/data/raw/Auditor-General-Report-on-National-Government-for-2022-2023.pdf
+/home/darwin/PRES/Executive/data/raw/Auditor-Generals-summary-Report-on-National-Government-2023-2024.pdf
+/home/darwin/PRES/Executive/data/raw/BasicEducationAct-No.14-of-2013.pdf
+/home/darwin/PRES/Executive/data/raw/BriberyAct_47of2016.pdf
+/home/darwin/PRES/Executive/data/raw/Bulletin-2016-Fisheries.pdf
+/home/darwin/PRES/Executive/data/raw/CBA-Age-Based-Regular-Framework.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_16th Monetary Policy Committee Report, April 2016.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_17th Monetary Policy Committee Report, October 2016.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_18th Monetary Policy Committee Report, April 2017.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_19th Monetary Policy Committee Report, October 2017.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_20th Monetary Policy Committee Report, April 2018.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_21st Monetary Policy Committee Report, October 2018.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_22nd Monetary Policy Committee Report, April 2019.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_23rd Monetary Policy Committee Report, October 2019.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_24th Monetary Policy Committee Report, April 2020.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_25th Monetary Policy Committee Report, October 2020.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_28th Bi-Annual Report of the MPC April 2022.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_29th Monetary Policy Committee Report.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_30th Monetary Policy Committee Report, April 2023.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_33rd MPC Report, October 2024.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_35th MPC Report October 2025 Dec 22 2025.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_43rd Monetary Policy Statement, December 2018.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_Annual Report 2015 16 (book).pdf
+/home/darwin/PRES/Executive/data/raw/CBK_FSR 2024 Sept. Final 2025.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_Kenya Financial Sector Stability Report 2016.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_Kenya Financial Sector Stability Report 2017.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_Kenya Financial Sector Stability Report 2018.pdf
+/home/darwin/PRES/Executive/data/raw/CBK_Kenya Financial Sector Stability Report 2020.pdf
+/home/darwin/PRES/Executive/data/raw/CB_32nd Monetary Policy Committee Report, April 2024.pdf
+/home/darwin/PRES/Executive/data/raw/Catalogue-Breeds-Published-Version.pdf
+/home/darwin/PRES/Executive/data/raw/Draft 2020 Budget Review and Outlook Paper_compressed.pdf
+/home/darwin/PRES/Executive/data/raw/Draft-2022-Budget-Review-and-Outlook-Paper.pdf
+/home/darwin/PRES/Executive/data/raw/Environment-and-Social-Commitment-Plan-ESCP-for-GREEN-Phase-2-Project.pdf
+/home/darwin/PRES/Executive/data/raw/Estimates-of-Revenue-Grants-and-Loans-for-the-FY-2024-25-Budget-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Estimates-of-Revenue-Grants-and-Loans-for-the-FY-2025-26-Budget-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Estimates-of-RevenueGrants-and-Loans-for-FY2022-23-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2018-2019-Audited-Annual-Report.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2019_2020-Audited-Annual-Report.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2021-2022-Audite-KNEC-Annual-Report.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2022-2023-AAnnual-Report-KALRO.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2023-2024-Annual-Report.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2023-2024-Energy-and-Petroleum-Statistics-Report.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2024-2025-Annual-Report-KERRA.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2024-25-Report.pdf
+/home/darwin/PRES/Executive/data/raw/FY-2024-Program-Based-Budget-Book.pdf
+/home/darwin/PRES/Executive/data/raw/FY-Annual-Report-PPRA.pdf
+/home/darwin/PRES/Executive/data/raw/FY24-Annual-KURA-Report.pdf
+/home/darwin/PRES/Executive/data/raw/Field-Guide-Water-Harvesting.pdf
+/home/darwin/PRES/Executive/data/raw/Final-Estimates-of-Revenue-Grants-and-Loans-FY-2023-24-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Finance--Act-2022.pdf
+/home/darwin/PRES/Executive/data/raw/First Half NGBIRR FY 23-24 - COB final 13.3.14.pdf
+/home/darwin/PRES/Executive/data/raw/IMF -2018.pdf
+/home/darwin/PRES/Executive/data/raw/Invest-Kenya-Policy-Sector-Pack.pdf
+/home/darwin/PRES/Executive/data/raw/Jan-Mar2023-KICTANet-Spotlight-Report.pdf
+/home/darwin/PRES/Executive/data/raw/KRA-8TH-CORPORATE-PLAN-.pdf
+/home/darwin/PRES/Executive/data/raw/Kenya-Economic-Update-18-FINAL World bank.pdf
+/home/darwin/PRES/Executive/data/raw/Kenya-Leading-Economic-Indicators-December-2025.pdf
+/home/darwin/PRES/Executive/data/raw/LMP-for-Kenya-GREEN-MPA-Phase-2-P180465.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-2017.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-2018.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-2019.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-2020.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-2022.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-2023.pdf
+/home/darwin/PRES/Executive/data/raw/Medium-Term-Debt-Management-Strategy-Draft-2025.pdf
+/home/darwin/PRES/Executive/data/raw/Mobile-Payments-Bill-Report.pdf
+/home/darwin/PRES/Executive/data/raw/Mobile-Payments-Bill.pdf
+/home/darwin/PRES/Executive/data/raw/NATIONAL-GOVERNMENT-AUDIT-REPORT-2019-2020.pdf
+/home/darwin/PRES/Executive/data/raw/NATIONAL-GOVERNMENT-AUDIT-REPORT-2020-2021.pdf
+/home/darwin/PRES/Executive/data/raw/NATIONAL-GOVERNMENT-BUDGET-IMPLEMENTATION-REVIEW-REPORT-FIRST-QUARTER-FY-2020-21.pdf
+/home/darwin/PRES/Executive/data/raw/NGBIRR Final - Annual Report FY 2023-24-1.pdf
+/home/darwin/PRES/Executive/data/raw/NGBIRR for First-Six Months of FY 2024-28.2..25 draft.pdf
+/home/darwin/PRES/Executive/data/raw/NGBIRR for First-Six Months of FY 2025-26.pdf
+/home/darwin/PRES/Executive/data/raw/NGBIRR for First-Three Months of FY 2025-26 b.pdf
+/home/darwin/PRES/Executive/data/raw/National-Irrigation-Authority-Annual-Report.pdf
+/home/darwin/PRES/Executive/data/raw/Office of the Controller of Budget;.pdf
+/home/darwin/PRES/Executive/data/raw/OfficeoftheDirectorofPublicProsecutions-Report-No2-2013.pdf
+/home/darwin/PRES/Executive/data/raw/PUBLIC-KenyaEconomicUpdateFINAL World bank.pdf
+/home/darwin/PRES/Executive/data/raw/Q2_2025_Spotlight_Report.pdf
+/home/darwin/PRES/Executive/data/raw/RDM-1.2-Traffic-Surveys.pdf
+/home/darwin/PRES/Executive/data/raw/RDM-Annual-Report-Materials-Field-and-Laboratory-Testing.pdf
+/home/darwin/PRES/Executive/data/raw/REPORT ON THE CONTROLLER OF BUDGET ANNUAL COUNTY GOVERNMENTS  BUDGET IMPLEMENTATION REVIEW FOR FINANCIAL YEAR 2017-18.pdf
+/home/darwin/PRES/Executive/data/raw/REPORT-OF-THE-AUDITOR-GENERAL-FOR-THE-NATIONAL-GOVERNMENT-2018-2019.pdf
+/home/darwin/PRES/Executive/data/raw/REVENUE-GRANTS-AND-LOANS-ESTIMATES-FINAL-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/SUCCESS-STORIES-Kosap-Site.pdf
+/home/darwin/PRES/Executive/data/raw/SUMMARY-REPORT-OF-THE-AUDITOR-GENERAL-ON-NATIONAL-GOVERNMENT-2021-2022.pdf
+/home/darwin/PRES/Executive/data/raw/Statistical-Annex-to-the-Budget-Speech-2017-2018-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Statistical-Annex-to-the-Budget-Statement-for-FY-2020-21-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Statistical-Annex-to-the-Budget-Statement-for-FY-2025-26-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Statistical-Annex-to-the-Budget-Statement-for-the-FY-2022-23-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Statistical-Annex-to-the-Budget-Statement-for-the-FY-2024-25-pure tables.pdf
+/home/darwin/PRES/Executive/data/raw/Summary of the Report of the Auditor-General on the Financial Statements for National Government for the Year 2016 2017.pdf
+/home/darwin/PRES/Executive/data/raw/The-Finance-Act--2023.pdf
+/home/darwin/PRES/Executive/data/raw/VF-Implementation-of-the-Ajira-Digital-Program_Report.pdf
+/home/darwin/PRES/Executive/data/raw/financialstatements-2019-2020.pdf

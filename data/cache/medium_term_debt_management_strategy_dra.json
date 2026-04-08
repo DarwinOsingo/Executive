@@ -1,0 +1,4424 @@
+{
+  "source_file": "Medium-Term-Debt-Management-Strategy-Draft-2025.pdf",
+  "doc_slug": "medium_term_debt_management_strategy_dra",
+  "is_scanned": false,
+  "total_pages": 40,
+  "error": null,
+  "blocks": [
+    {
+      "text": "REPUBLIC OF KENYA",
+      "block_type": "heading",
+      "heading_path": [
+        "REPUBLIC OF KENYA"
+      ],
+      "page_number": 1,
+      "block_index": 0,
+      "table_ref": null
+    },
+    {
+      "text": "2025 MEDIUM TERM DEBT MANAGEMENT STRATEGY",
+      "block_type": "heading",
+      "heading_path": [
+        "2025 MEDIUM TERM DEBT MANAGEMENT STRATEGY"
+      ],
+      "page_number": 1,
+      "block_index": 1,
+      "table_ref": null
+    },
+    {
+      "text": "PREPARED BY PUBLIC DEBT MANAGEMENT OFFICE THE NATIONAL TREASURY AND ECONOMIC PLANNING",
+      "block_type": "heading",
+      "heading_path": [
+        "PREPARED BY PUBLIC DEBT MANAGEMENT OFFICE THE NATIONAL TREASURY AND ECONOMIC PLANNING"
+      ],
+      "page_number": 1,
+      "block_index": 2,
+      "table_ref": null
+    },
+    {
+      "text": "DECEMBER 2024",
+      "block_type": "heading",
+      "heading_path": [
+        "DECEMBER 2024"
+      ],
+      "page_number": 1,
+      "block_index": 3,
+      "table_ref": null
+    },
+    {
+      "text": "For comments and clarifications, please contact:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "DECEMBER 2024"
+      ],
+      "page_number": 2,
+      "block_index": 4,
+      "table_ref": null
+    },
+    {
+      "text": "Public Relations Office",
+      "block_type": "heading",
+      "heading_path": [
+        "Public Relations Office"
+      ],
+      "page_number": 2,
+      "block_index": 5,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury and Economic Planning Treasury Building P.O. Box 30007-00100 NAIROBI, KENYA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Public Relations Office"
+      ],
+      "page_number": 2,
+      "block_index": 6,
+      "table_ref": null
+    },
+    {
+      "text": "Tel: +254-20-2252-299",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Public Relations Office"
+      ],
+      "page_number": 2,
+      "block_index": 7,
+      "table_ref": null
+    },
+    {
+      "text": "Email: pstnt@treasury.go.ke",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Public Relations Office"
+      ],
+      "page_number": 2,
+      "block_index": 8,
+      "table_ref": null
+    },
+    {
+      "text": "The document is also available on the website at: www.treasury.go.ke",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Public Relations Office"
+      ],
+      "page_number": 2,
+      "block_index": 9,
+      "table_ref": null
+    },
+    {
+      "text": "Information in this publication may be reproduced without restriction provided that due acknowledgement of the source is made.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Public Relations Office"
+      ],
+      "page_number": 2,
+      "block_index": 10,
+      "table_ref": null
+    },
+    {
+      "text": "© 2025 Medium-Term Debt Management Strategy (MTDS)",
+      "block_type": "heading",
+      "heading_path": [
+        "© 2025 Medium-Term Debt Management Strategy (MTDS)"
+      ],
+      "page_number": 2,
+      "block_index": 11,
+      "table_ref": null
+    },
+    {
+      "text": "TABLE OF CONTENTS",
+      "block_type": "heading",
+      "heading_path": [
+        "TABLE OF CONTENTS"
+      ],
+      "page_number": 3,
+      "block_index": 12,
+      "table_ref": null
+    },
+    {
+      "text": "LIST OF FIGURES",
+      "block_type": "heading",
+      "heading_path": [
+        "LIST OF FIGURES"
+      ],
+      "page_number": 4,
+      "block_index": 13,
+      "table_ref": null
+    },
+    {
+      "text": "LIST OF TABLES",
+      "block_type": "heading",
+      "heading_path": [
+        "LIST OF TABLES"
+      ],
+      "page_number": 5,
+      "block_index": 14,
+      "table_ref": null
+    },
+    {
+      "text": "HON. FCPA JOHN MBADI NG'ONGO, EGH CABINET SECRETARY/THE NATIONAL TREASURY & ECONOMIC PLANNING",
+      "block_type": "heading",
+      "heading_path": [
+        "HON. FCPA JOHN MBADI NG'ONGO, EGH CABINET SECRETARY/THE NATIONAL TREASURY & ECONOMIC PLANNING"
+      ],
+      "page_number": 7,
+      "block_index": 15,
+      "table_ref": null
+    },
+    {
+      "text": "DR. CHRIS K. KIPTOO, CBS PRINCIPAL SECRETARY/ THE NATIONAL TREASURY",
+      "block_type": "heading",
+      "heading_path": [
+        "DR. CHRIS K. KIPTOO, CBS PRINCIPAL SECRETARY/ THE NATIONAL TREASURY"
+      ],
+      "page_number": 8,
+      "block_index": 16,
+      "table_ref": null
+    },
+    {
+      "text": "ABBREVIATION AND ACRONYMS",
+      "block_type": "heading",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 17,
+      "table_ref": null
+    },
+    {
+      "text": "ABP",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 18,
+      "table_ref": null
+    },
+    {
+      "text": "Annual Borrowing Plan",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 19,
+      "table_ref": null
+    },
+    {
+      "text": "APDMR",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 20,
+      "table_ref": null
+    },
+    {
+      "text": "Annual Public Debt Management Report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 21,
+      "table_ref": null
+    },
+    {
+      "text": "BETA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 22,
+      "table_ref": null
+    },
+    {
+      "text": "Bottom-Up Economic Transformation Agenda",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 23,
+      "table_ref": null
+    },
+    {
+      "text": "CBK",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 24,
+      "table_ref": null
+    },
+    {
+      "text": "Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 25,
+      "table_ref": null
+    },
+    {
+      "text": "DSA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 26,
+      "table_ref": null
+    },
+    {
+      "text": "Debt Sustainability Analysis",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 27,
+      "table_ref": null
+    },
+    {
+      "text": "EAC",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 28,
+      "table_ref": null
+    },
+    {
+      "text": "East Africa Community",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 29,
+      "table_ref": null
+    },
+    {
+      "text": "ESG",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 30,
+      "table_ref": null
+    },
+    {
+      "text": "Environmental, Social and Governance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 31,
+      "table_ref": null
+    },
+    {
+      "text": "GDP",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 32,
+      "table_ref": null
+    },
+    {
+      "text": "Gross Domestic product",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 33,
+      "table_ref": null
+    },
+    {
+      "text": "IDA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 34,
+      "table_ref": null
+    },
+    {
+      "text": "Internatinoal Development Association",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 35,
+      "table_ref": null
+    },
+    {
+      "text": "IBRD",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 36,
+      "table_ref": null
+    },
+    {
+      "text": "International Bank for Reconstruction & Development",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 37,
+      "table_ref": null
+    },
+    {
+      "text": "IMF",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 38,
+      "table_ref": null
+    },
+    {
+      "text": "International Monetary Fund",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 39,
+      "table_ref": null
+    },
+    {
+      "text": "KQ",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 40,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya Airways",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 41,
+      "table_ref": null
+    },
+    {
+      "text": "KenGen",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 42,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya Electricity Generation Company",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 43,
+      "table_ref": null
+    },
+    {
+      "text": "KPA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 44,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya Ports Authority",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 45,
+      "table_ref": null
+    },
+    {
+      "text": "LMOs",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 46,
+      "table_ref": null
+    },
+    {
+      "text": "Liability Management Operations",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 47,
+      "table_ref": null
+    },
+    {
+      "text": "MTDS",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 48,
+      "table_ref": null
+    },
+    {
+      "text": "Medium-Term Debt Management Strategy",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 49,
+      "table_ref": null
+    },
+    {
+      "text": "NSE",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 50,
+      "table_ref": null
+    },
+    {
+      "text": "Nairobi Securities Exchange",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 51,
+      "table_ref": null
+    },
+    {
+      "text": "ODA",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 52,
+      "table_ref": null
+    },
+    {
+      "text": "Official Development Assistance",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 53,
+      "table_ref": null
+    },
+    {
+      "text": "OTC",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 54,
+      "table_ref": null
+    },
+    {
+      "text": "Over the Conter",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 55,
+      "table_ref": null
+    },
+    {
+      "text": "PPG",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 56,
+      "table_ref": null
+    },
+    {
+      "text": "Public & Publicly Guaranteed",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 57,
+      "table_ref": null
+    },
+    {
+      "text": "PDMO",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 58,
+      "table_ref": null
+    },
+    {
+      "text": "Public Debt Management Office",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 59,
+      "table_ref": null
+    },
+    {
+      "text": "PFM",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 60,
+      "table_ref": null
+    },
+    {
+      "text": "Public Finance Management",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 61,
+      "table_ref": null
+    },
+    {
+      "text": "SDR",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 62,
+      "table_ref": null
+    },
+    {
+      "text": "Special Drawing Rights",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 63,
+      "table_ref": null
+    },
+    {
+      "text": "S&P",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 64,
+      "table_ref": null
+    },
+    {
+      "text": "Standard and Poor's",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 65,
+      "table_ref": null
+    },
+    {
+      "text": "PV",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 66,
+      "table_ref": null
+    },
+    {
+      "text": "The present value",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 67,
+      "table_ref": null
+    },
+    {
+      "text": "USD",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 68,
+      "table_ref": null
+    },
+    {
+      "text": "United State Dollar",
+      "block_type": "paragraph",
+      "heading_path": [
+        "ABBREVIATION AND ACRONYMS"
+      ],
+      "page_number": 9,
+      "block_index": 69,
+      "table_ref": null
+    },
+    {
+      "text": "EXECUTIVE SUMMARY",
+      "block_type": "heading",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 70,
+      "table_ref": null
+    },
+    {
+      "text": "The  2025  Medium-Term  Debt  Management  Strategy  (MTDS)  has  been  prepared  in accordance with Section 33 (2) of the Public Finance Management (PFM) Act, 2012. It serves as a roadmap for the management of the country's public debt for the period FY 2025/26-2027/28. It outlines the strategies and initiatives aimed at minimizing costs and management of risks of debt over the medium term.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 71,
+      "table_ref": null
+    },
+    {
+      "text": "Public and publicly guaranteed debt stock increased to Ksh. 10,581.98 billion as of the end of June 2024 from Ksh. 10,278.88 billion as of the end of June 2023. This comprises an external debt stock of Ksh. 5,171.70 billion and a domestic debt stock of Ksh. 5,410.28 billion.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 72,
+      "table_ref": null
+    },
+    {
+      "text": "The October 2024 Debt Sustainability Analysis (DSA) reports Kenya's public debt to be sustainable but with a high risk of debt distress. The present value (PV) of public debt was 63.0 percent of GDP against the benchmark debt threshold of 55 percent of debt to GDP. The National Treasury has until 1 st   November 2028 to bring the present value of public debt to within the threshold.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 73,
+      "table_ref": null
+    },
+    {
+      "text": "The MTDS has been prepared in an environment of vibrant economic growth but a volatile financial market globally and locally. The domestic economy grew by 5.0 percent in the first quarter and 4.6 percent in the second quarter of 2024. Kenya's economic performance is projected to remain stable over the medium term. Growth is expected to moderate to 5.2 percent in 2024 and 5.4 percent in 2025 from 5.6 percent in 2023. Growth will be largely driven by broad-based private sector activities and ongoing government interventions and strategies under the Bottom-Up Economic Transformation Agenda (BETA).",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 74,
+      "table_ref": null
+    },
+    {
+      "text": "The 2025 debt management strategy seeks to gradually reduce the stock of Treasury bills while lengthening maturity of public debt instruments and deepening the domestic debt market  through  issuance  of  medium  to  long  term  debt  securities  accompanied  by  debt market reforms. From the external sources, the strategy proposes a mix of concessional and commercial borrowing.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 75,
+      "table_ref": null
+    },
+    {
+      "text": "The strategy aims at 25 percent and 75 percent gross borrowing from external and domestic sources, respectively.Net borrowing to finance fiscal deficits is structured into 65 percent and 35 percent from domestic and external sources, respectively.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "EXECUTIVE SUMMARY"
+      ],
+      "page_number": 10,
+      "block_index": 76,
+      "table_ref": null
+    },
+    {
+      "text": "I. INTRODUCTION",
+      "block_type": "heading",
+      "heading_path": [
+        "I. INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 77,
+      "table_ref": null
+    },
+    {
+      "text": "The Medium-Term Debt Management Strategy (MTDS) is the policy framework that guides government borrowing and public debt management. The framework guides the Government in pursuing a desired structure of the public debt portfolio which reflects costs and risks trade-offs, to support the fiscal deficit path outlined in the Budget Policy Statement (BPS).",
+      "block_type": "list_item",
+      "heading_path": [
+        "I. INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 78,
+      "table_ref": null
+    },
+    {
+      "text": "The  preparation  and  submission  of  the  2025  MTDS  for  the  period  FY  2025/26  to 2027/28 is in accordance with sections 33(2) and 63(c) of Public Finance Management Act, 2012.",
+      "block_type": "list_item",
+      "heading_path": [
+        "I. INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 79,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury is mandated to manage the levels and composition of public debt, including guarantees and other financial obligations as provided for in sections 12 (1) (b) and 62(b) of the Public Finance Management (PFM) Act, 2012.",
+      "block_type": "list_item",
+      "heading_path": [
+        "I. INTRODUCTION"
+      ],
+      "page_number": 11,
+      "block_index": 80,
+      "table_ref": null
+    },
+    {
+      "text": "a) Objectives of the 2025 Debt Management Strategy",
+      "block_type": "heading",
+      "heading_path": [
+        "a) Objectives of the 2025 Debt Management Strategy"
+      ],
+      "page_number": 11,
+      "block_index": 81,
+      "table_ref": null
+    },
+    {
+      "text": "The 2025 debt management strategy aims at:",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Objectives of the 2025 Debt Management Strategy"
+      ],
+      "page_number": 11,
+      "block_index": 82,
+      "table_ref": null
+    },
+    {
+      "text": "Reducing refinancing risks by reducing short maturities debt while lengthening  the  total  portfolio  Average  Time  to  Maturity  (ATM)  by deepening the domestic bond market through issuance of more medium to long term instruments as the main source of domestic financing;",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Objectives of the 2025 Debt Management Strategy"
+      ],
+      "page_number": 11,
+      "block_index": 83,
+      "table_ref": null
+    },
+    {
+      "text": "Reducing the interest rate risk by increasing the Average Time to Refixing and reducing the amount of debt with variable interest rates;",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Objectives of the 2025 Debt Management Strategy"
+      ],
+      "page_number": 11,
+      "block_index": 84,
+      "table_ref": null
+    },
+    {
+      "text": "Reducing  the  foreign  exchange  risk  by  diversifying  debt  held  in  foreign currencies; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Objectives of the 2025 Debt Management Strategy"
+      ],
+      "page_number": 11,
+      "block_index": 85,
+      "table_ref": null
+    },
+    {
+      "text": "Promoting intergenerational equity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Objectives of the 2025 Debt Management Strategy"
+      ],
+      "page_number": 11,
+      "block_index": 86,
+      "table_ref": null
+    },
+    {
+      "text": "b) Scope of the MTDS",
+      "block_type": "heading",
+      "heading_path": [
+        "b) Scope of the MTDS"
+      ],
+      "page_number": 11,
+      "block_index": 87,
+      "table_ref": null
+    },
+    {
+      "text": "The MTDS analysis takes into account outstanding public debt and projected borrowing and debt service in the context of ongoing and projected macroeconomic environment and  the  conditions  in  the  international  and  domestic  capital  markets.  Performing guaranteed debt and other local debts and overdraft are excluded from the proposed debt management strategies.  Debts excluded amounts to Ksh. 263.74 billion which includes Ksh.100.17 billion uncalled guaranteed debts, Ksh. 61.03 billion Government overdraft at CBK, Ksh.13.54 billion Suppliers credit, Ksh. 83.54 IMF SDR Allocation and Ksh. 5.47 billion Bank advances.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Scope of the MTDS"
+      ],
+      "page_number": 11,
+      "block_index": 88,
+      "table_ref": null
+    },
+    {
+      "text": "c) Organisation of the document",
+      "block_type": "heading",
+      "heading_path": [
+        "c) Organisation of the document"
+      ],
+      "page_number": 12,
+      "block_index": 89,
+      "table_ref": null
+    },
+    {
+      "text": "The succeeding sections comprise of: Review of the Existing Public Debt Portfolio; Analysis of Costs and Risks of Existing Public Debt; Review of Performance of the 2023 MTDS;  Kenya's  Debt Sustainability; Challenges to Debt Management; Macroeconomic Assumptions and Key Risks; Potential Sources of Financing; Debt Management Strategy; Strategy Implementation, Monitoring, Evaluation; and Annexes.",
+      "block_type": "list_item",
+      "heading_path": [
+        "c) Organisation of the document"
+      ],
+      "page_number": 12,
+      "block_index": 90,
+      "table_ref": null
+    },
+    {
+      "text": "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK",
+      "block_type": "heading",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "block_index": 91,
+      "table_ref": null
+    },
+    {
+      "text": "As at end June 2024, the stock of public debt was Ksh. 10,581.98 billion (65.7 percent of GDP), equivalent to USD 81.70 billion in nominal terms, of which domestic debt was Ksh. 5,410.28 billion while external debt was Ksh. 5,171.70 billion ( Table 1 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "block_index": 92,
+      "table_ref": null
+    },
+    {
+      "text": "The 2025 MTDS analysis takes into account debt stock of Ksh. 10,318.25 billion or USD 79.66 billion excluding the performing guarantees debts, IMF SDR Allocation, Government overdraft at Central Bank of Kenya (CBK), Suppliers credit and Bank advances.",
+      "block_type": "list_item",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "block_index": 93,
+      "table_ref": null
+    },
+    {
+      "text": "Table 1: Public and Publicly Guaranteed Debt in the MTDS end June 2024",
+      "block_type": "caption",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "block_index": 94,
+      "table_ref": null
+    },
+    {
+      "text": "Source: The National Treasury and Central Bank of Kenya",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "block_index": 95,
+      "table_ref": null
+    },
+    {
+      "text": "External  public  debt  comprises  of  multilateral,  bilateral  and  commercial  creditors while the domestic debt comprise Treasury bonds and bills. As a proportion of total external debt, multilateral accounted for 53.9 percent ( Figure 1) . The high proportion of  multilateral  and  bilateral  debt  reflects  the  Government's  deliberate  strategy  of maximizing the use of concessional financing and minimizing the use of commercial debts.",
+      "block_type": "list_item",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "block_index": 96,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 1: Composition of External Debt as at end June 2024",
+      "block_type": "caption",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 97,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 98,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 99,
+      "table_ref": null
+    },
+    {
+      "text": "As at end June 2024, Treasury bonds accounted for 85.5 percent of total domestic debt, while Treasury bills accounted for 11.4 percent of total domestic debt. The other domestic debts categories accounted for 3.1 percent of the total domestic debt (Figure 2 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 100,
+      "table_ref": null
+    },
+    {
+      "text": "Government guaranteed debt as at end June 2024 amounted to Ksh.100.2 billion. The debts are held by Kenya Ports Authority (KPA), Kenya Electricity Generation Company (KenGen) and Kenya Airways (KQ) ( Table 2 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 101,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 2: Composition of Domestic Debt as at end June 2024",
+      "block_type": "caption",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 102,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 103,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 14,
+      "block_index": 104,
+      "table_ref": null
+    },
+    {
+      "text": "Table 2: Outstanding Government Guaranteed Debt (End June 2024)",
+      "block_type": "caption",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 15,
+      "block_index": 105,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 15,
+      "block_index": 106,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 15,
+      "block_index": 107,
+      "table_ref": null
+    },
+    {
+      "text": "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT",
+      "block_type": "heading",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 108,
+      "table_ref": null
+    },
+    {
+      "text": "This section highlights the costs and risks characteristics of the existing public debt portfolio as at end June 2024.",
+      "block_type": "list_item",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 109,
+      "table_ref": null
+    },
+    {
+      "text": "Nominal debt as a percentage of GDP declined to 65.7 percent in June 2024 from 72.0 percent in June 2023 due to appreciation of Kenya shilling against major currencies while  the  present  value  of  public  debt  to  GDP  declined  to  63.0  percent  from  68.2 percent in the same period ( Table 3 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 110,
+      "table_ref": null
+    },
+    {
+      "text": "The domestic debt with maturity of 4 to 10 years improved as at end June 2024. The proportion of instruments with less than one year to maturity increased to 18.6 percent as at end June 2024 from 16.7 percent as at end June 2023 and this was attributed to the National Treasury uptake of short-term instruments. As a result, the proportion of instruments with maturity of 2-3 years and greater than 11 years as at end June 2024 reduced from 15.3 percent and 26.9 percent as at end June 2023 to 13.5 percent and 22.2 percent as at end June 2024, respectively ( Table 4 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 111,
+      "table_ref": null
+    },
+    {
+      "text": "Table 3: Costs and Risks Indicators for Existing Debt",
+      "block_type": "caption",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 112,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 113,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "block_index": 114,
+      "table_ref": null
+    },
+    {
+      "text": "Table 4: Domestic Debt Securities by Maturity Profile, in USD Equivalent",
+      "block_type": "caption",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 115,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 116,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 117,
+      "table_ref": null
+    },
+    {
+      "text": "The redemption profile shows that 18.6 percent of domestic debt will mature by June 2025,  mainly  due  to  short-term  (treasury  bills)  government  securities  falling  due. Overall, the repayment schedule is bunched for the next nine years due to large share of Treasury bills and near-term maturities treasury bonds, international sovereign bonds and syndicated loans.  The full public  debt repayment schedule, as of June 2024, is shown below ( Figure 3 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 118,
+      "table_ref": null
+    },
+    {
+      "text": "Figure 3: Redemption Profile as at end June 2024 (Ksh millions)",
+      "block_type": "caption",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 119,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 120,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "block_index": 121,
+      "table_ref": null
+    },
+    {
+      "text": "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS",
+      "block_type": "heading",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 122,
+      "table_ref": null
+    },
+    {
+      "text": "The FY 2023/24 MTDS aimed at maximizing use of concessional funding and rollover of  commercial  debt  from  external  borrowing  accompanied by liability management operations whereas on the domestic borrowing front, the target was to lengthen the maturity profile and mitigate refinancing risk through issuance of medium to long term benchmark Treasury bonds.",
+      "block_type": "list_item",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 123,
+      "table_ref": null
+    },
+    {
+      "text": "Whereas the overall strategy was to minimize costs and risks through a net financing mix of 50 per cent from both external and domestic sources, the outcome was in the ratio 73:27 net domestic to external financing, as reported in Budget Outturn (2024 Budget review and outlook paper) ( Table 5 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 124,
+      "table_ref": null
+    },
+    {
+      "text": "The deviation was attributed to limited access to external financing which resulted to more  uptake  of  borrowing  from  domestic  sources.  In  FY  2023/2024,  Kenya's  net domestic financing was Ksh. 595.57 billion, or 89 per cent of the target.  From external financing, the net amount was Ksh. 222.75 billion, or 86 per cent of the target during the fiscal year.",
+      "block_type": "list_item",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 125,
+      "table_ref": null
+    },
+    {
+      "text": "In  February  2024,  The  National  Treasury  successfully  refinanced  USD 1.50 billion (75%) of the USD 2.00 billion Eurobond maturity through issuance of international Eurobond, with the remaining USD 500 million repaid from the exchequer in June 2024. The actual gross external borrowing in the period was 25.0 percent of the total public borrowing, which was below 35.0 percent target ( Table 6 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 126,
+      "table_ref": null
+    },
+    {
+      "text": "Table 5: MTDS Targets against Borrowing Outturn (Percent)",
+      "block_type": "caption",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 127,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 128,
+      "table_ref": null
+    },
+    {
+      "text": "National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 129,
+      "table_ref": null
+    },
+    {
+      "text": "Table 6: Gross Borrowing",
+      "block_type": "caption",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 130,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 131,
+      "table_ref": null
+    },
+    {
+      "text": "National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "block_index": 132,
+      "table_ref": null
+    },
+    {
+      "text": "Global  market  rates  have  tightened  and  led  to  hardening  of  borrowing  terms. Worsening market conditions were due to global and geopolitical economic shocks including monetary policy tightening in major economies and uncertainties related to Russia-Ukraine war.",
+      "block_type": "list_item",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 19,
+      "block_index": 133,
+      "table_ref": null
+    },
+    {
+      "text": "New external debts average maturity lengthened to 20.5 years as at end June 2024 from 15.7 years in June 2023. The weighted average interest rate increased to 4.6 percent from 3.2 percent in June 2023. However, the grace period reduced to 4.4 years from 4.8 years during the same period ( Table 7 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 19,
+      "block_index": 134,
+      "table_ref": null
+    },
+    {
+      "text": "Table 7: Average Terms of New External Debt",
+      "block_type": "caption",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 19,
+      "block_index": 135,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 19,
+      "block_index": 136,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 19,
+      "block_index": 137,
+      "table_ref": null
+    },
+    {
+      "text": "V. KENYA'S DEBT SUSTAINABILITY",
+      "block_type": "heading",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 138,
+      "table_ref": null
+    },
+    {
+      "text": "The public debt 1 remains sustainable but with high risk of debt distress.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 139,
+      "table_ref": null
+    },
+    {
+      "text": "External Debt Sustainability Analysis (DSA) demonstrates that the Present Value (PV) of  the  external  debt  to  GDP  ratio  is  below  the  40  percent  sustainability  threshold throughout the projection period. The PV of Public and Publicly Guaranteed (PPG) external  debt-to-exports  remains  above  the  sustainability  threshold  of  180  percent through 2029.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 140,
+      "table_ref": null
+    },
+    {
+      "text": "The debt service to revenue ratio breaches the threshold of 18 percent from 2024 to 2028 due to heavy maturities during the period. Debt service-to-exports remains above the sustainability threshold of 15 percent through to 2029 ( Table 8 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 141,
+      "table_ref": null
+    },
+    {
+      "text": "The Present Value (PV) of total public debt-to-GDP ratio is projected to remain above the 55 percent benchmark through 2029 ( Table 9 ), after which it is projected to decline to within the approved threshold.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 142,
+      "table_ref": null
+    },
+    {
+      "text": "Policy initiatives by the Government are necessary to diversify and/or expand export base and build gross international reserves to improve the external debt sustainability ratios.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 143,
+      "table_ref": null
+    },
+    {
+      "text": "The  Government  will  sustain  fiscal  consolidation  efforts  over  the  medium  term  to create fiscal space and reduce debt related risks. The Government will also continue to optimize the use of external concessional funding and lengthen the maturity profile of public debt through issuance of medium to long dated bonds.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 144,
+      "table_ref": null
+    },
+    {
+      "text": "Table 8: External Debt Sustainability Analysis",
+      "block_type": "caption",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 145,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 146,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury & IMF country report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "block_index": 147,
+      "table_ref": null
+    },
+    {
+      "text": "Table 9: Public Debt Sustainability Analysis",
+      "block_type": "caption",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 21,
+      "block_index": 148,
+      "table_ref": null
+    },
+    {
+      "text": "Source: The National Treasury & IMF Country report",
+      "block_type": "paragraph",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 21,
+      "block_index": 149,
+      "table_ref": null
+    },
+    {
+      "text": "The Government will explore possibilities of various Liability Management Operations (LMOs) options with the aim of extending the maturity of existing debt to reduce near term maturities. In addition, a steady and strong outlook for exports will play a major role in supporting external debt sustainability.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 21,
+      "block_index": 150,
+      "table_ref": null
+    },
+    {
+      "text": "For  public  debt  to  continue  on  a  sustainable  path,  there  is  need  to  reduce  annual borrowing limits (fiscal deficits) to slow the rate of debt accumulation.",
+      "block_type": "list_item",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 21,
+      "block_index": 151,
+      "table_ref": null
+    },
+    {
+      "text": "VI. CHALLENGES TO DEBT MANAGEMENT",
+      "block_type": "heading",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 152,
+      "table_ref": null
+    },
+    {
+      "text": "Kenya's recent downgrade in credit rating has a significant impact on the financial terms of various credit sources especially the commercial. Rating downgrades may lead to increased borrowing costs, limited access to credit markets, low investor confidence, currency depreciation, and debt sustainability risk.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 153,
+      "table_ref": null
+    },
+    {
+      "text": "Public debt legal framework not empowering enough as does not provide the PDMO with requisite autonomy to manage public debt.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 154,
+      "table_ref": null
+    },
+    {
+      "text": "Duplicated legal provisions-CBK Act, PFM Act 2012 providing CBK with leverage unqualified fiscal agency privileges without adequate accountability.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 155,
+      "table_ref": null
+    },
+    {
+      "text": "Tight  budget  provisions  precipitate  cash  constraints  leading  to  borrowing  proceeds being a major budget funding source.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 156,
+      "table_ref": null
+    },
+    {
+      "text": "Deteriorating sovereign credit ratings due to debt accumulation on account of fiscal deficits.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 157,
+      "table_ref": null
+    },
+    {
+      "text": "Large share of foreign currency debt leading to exchange rate risks.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 158,
+      "table_ref": null
+    },
+    {
+      "text": "Changing  Regulatory  Environment:  adapting  to  evolving  lending  patterns  and ensuring adherence to international standards is very demanding.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 159,
+      "table_ref": null
+    },
+    {
+      "text": "External Market Volatility: External factors such as global market volatility, interest rate fluctuations, and low credit ratings impact debt management strategies.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 160,
+      "table_ref": null
+    },
+    {
+      "text": "Legal reforms required to deepen domestic market are slow and difficult to come due to duplicated authority among the fiscal agent and National Treasury.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 161,
+      "table_ref": null
+    },
+    {
+      "text": "Limited understanding in public debt management amongst major stakeholders.  Public debt is both a highly technical and an emotive subject in the political arena. Need for a sustained capacity building on public debt management (it affects citizen welfare).",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 162,
+      "table_ref": null
+    },
+    {
+      "text": "High stock of maturing Treasury bills exert pressure on liquidity and hence the need to reduce Treasury bills  Stock. There is need to reduce refinancing risk by  separating borrowing  operations  of  the  PDMO  from  liquidity  management  operations  of  the Exchequer.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VI. CHALLENGES TO DEBT MANAGEMENT"
+      ],
+      "page_number": 22,
+      "block_index": 163,
+      "table_ref": null
+    },
+    {
+      "text": "VII. MACROECONOMIC ASSUMPTIONS AND KEY RISKS",
+      "block_type": "heading",
+      "heading_path": [
+        "VII. MACROECONOMIC ASSUMPTIONS AND KEY RISKS"
+      ],
+      "page_number": 23,
+      "block_index": 164,
+      "table_ref": null
+    },
+    {
+      "text": "a) Baseline Macroeconomic Assumptions",
+      "block_type": "heading",
+      "heading_path": [
+        "a) Baseline Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 165,
+      "table_ref": null
+    },
+    {
+      "text": "Over the medium-term, economic growth in Kenya is projected to remain at 5.4 percent supported by broad-based private sector activities and ongoing Government interventions and strategies under the Bottom-Up Economic Transformation Agenda (BETA).  In  addition,  implementation  of  prudent  fiscal  and  monetary  policies  will continue to support economic activity.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Baseline Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 166,
+      "table_ref": null
+    },
+    {
+      "text": "Table 10: Baseline Macroeconomic Assumptions as per the 2025 BPS",
+      "block_type": "caption",
+      "heading_path": [
+        "a) Baseline Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 167,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Baseline Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 168,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Baseline Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 169,
+      "table_ref": null
+    },
+    {
+      "text": "b) Key Risks to Macroeconomic Assumptions",
+      "block_type": "heading",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 170,
+      "table_ref": null
+    },
+    {
+      "text": "Risks to the strategy as enumerated below.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 171,
+      "table_ref": null
+    },
+    {
+      "text": "Unpredictable weather conditions may affect agricultural output and inflation assumptions.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 172,
+      "table_ref": null
+    },
+    {
+      "text": "Tight fiscal space and increase in the projected financing needs.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 173,
+      "table_ref": null
+    },
+    {
+      "text": "Uncertainties in the global economic outlook.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 174,
+      "table_ref": null
+    },
+    {
+      "text": "Likely constraint access to concessional financing.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 175,
+      "table_ref": null
+    },
+    {
+      "text": "Underperformance  of  Government  Securities  auctions  may  affect  borrowing performance.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 176,
+      "table_ref": null
+    },
+    {
+      "text": "Failure  to  absorb  external  financing  from  creditors  may  lead  to  reduced underfunding of the budget.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "block_index": 177,
+      "table_ref": null
+    },
+    {
+      "text": "Underperformance  in revenue collection leading to increased debt accumulation.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 24,
+      "block_index": 178,
+      "table_ref": null
+    },
+    {
+      "text": "The risk of depreciation of Kenya shilling against major currencies may increase fiscal pressure and pass-through inflation.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 24,
+      "block_index": 179,
+      "table_ref": null
+    },
+    {
+      "text": "Materialization of fiscal risks and contingent liabilities arising from state-owned enterprises debt defaults.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 24,
+      "block_index": 180,
+      "table_ref": null
+    },
+    {
+      "text": "Risk of further credit downgrade",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Key Risks to Macroeconomic Assumptions"
+      ],
+      "page_number": 24,
+      "block_index": 181,
+      "table_ref": null
+    },
+    {
+      "text": "VIII. POTENTIAL SOURCES OF FINANCING",
+      "block_type": "heading",
+      "heading_path": [
+        "VIII. POTENTIAL SOURCES OF FINANCING"
+      ],
+      "page_number": 25,
+      "block_index": 182,
+      "table_ref": null
+    },
+    {
+      "text": "The  domestic  and  external  markets  are  the  main  sources  of  Government  deficit financing.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VIII. POTENTIAL SOURCES OF FINANCING"
+      ],
+      "page_number": 25,
+      "block_index": 183,
+      "table_ref": null
+    },
+    {
+      "text": "The  government  will  raise  funds  from  the  domestic  market  through  issuance  of Treasury bonds and bills.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VIII. POTENTIAL SOURCES OF FINANCING"
+      ],
+      "page_number": 25,
+      "block_index": 184,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury will spearhead key reforms that deepen the market and diversify the investor base. To enhance the growth of the non-bank financial institutions such as pension, insurance and mutual funds, there is need to expand the volumes and initiate new  financial  products  such  as  post-retirement  and  contributory  pension  schemes, diversified asset classes, private equity and venture capital.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VIII. POTENTIAL SOURCES OF FINANCING"
+      ],
+      "page_number": 25,
+      "block_index": 185,
+      "table_ref": null
+    },
+    {
+      "text": "The external borrowing will be through concessional loans from multilateral, bilateral and limited commercial loans such as international bond issuances.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VIII. POTENTIAL SOURCES OF FINANCING"
+      ],
+      "page_number": 25,
+      "block_index": 186,
+      "table_ref": null
+    },
+    {
+      "text": "The Government will also explore emerging funding instruments such as debt swaps, diaspora bond, sustainability linked bonds and Environmental, Social and Governance (ESG) debt instruments to fund budget deficit and manage public debt.",
+      "block_type": "list_item",
+      "heading_path": [
+        "VIII. POTENTIAL SOURCES OF FINANCING"
+      ],
+      "page_number": 25,
+      "block_index": 187,
+      "table_ref": null
+    },
+    {
+      "text": "IX. DEBT MANAGEMENT STRATEGY",
+      "block_type": "heading",
+      "heading_path": [
+        "IX. DEBT MANAGEMENT STRATEGY"
+      ],
+      "page_number": 26,
+      "block_index": 188,
+      "table_ref": null
+    },
+    {
+      "text": "a) Analysis of Costs and  Risks Indicators Under  Alternative  Debt Management Strategies",
+      "block_type": "heading",
+      "heading_path": [
+        "a) Analysis of Costs and  Risks Indicators Under  Alternative  Debt Management Strategies"
+      ],
+      "page_number": 26,
+      "block_index": 189,
+      "table_ref": null
+    },
+    {
+      "text": "Analysis of various borrowing mixes and strategies has been undertaken to identify the mix and the strategy that minimises public debt costs and reduces risks to overall public debt.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Analysis of Costs and  Risks Indicators Under  Alternative  Debt Management Strategies"
+      ],
+      "page_number": 26,
+      "block_index": 190,
+      "table_ref": null
+    },
+    {
+      "text": "Table  11  shows  the  costs  and  risks  indicators  of  the  four  alternative  strategies  and Annexes 1 to 4 shows more details of the alternative debt management strategies. From array of strategies below analysed in Table 11 below Strategy 2 (S2) provides more prospective benefits in terms of costs and risks of public debt than any other alternative strategy.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Analysis of Costs and  Risks Indicators Under  Alternative  Debt Management Strategies"
+      ],
+      "page_number": 26,
+      "block_index": 191,
+      "table_ref": null
+    },
+    {
+      "text": "Table 11: Expected Costs and Risks Indicators Under Alternative Strategies",
+      "block_type": "caption",
+      "heading_path": [
+        "a) Analysis of Costs and  Risks Indicators Under  Alternative  Debt Management Strategies"
+      ],
+      "page_number": 26,
+      "block_index": 192,
+      "table_ref": null
+    },
+    {
+      "text": "b) 2025 Overall Debt Management Strategy",
+      "block_type": "heading",
+      "heading_path": [
+        "b) 2025 Overall Debt Management Strategy"
+      ],
+      "page_number": 27,
+      "block_index": 193,
+      "table_ref": null
+    },
+    {
+      "text": "The gross borrowing is 25 percent external and 75 percent domestic. From the domestic sources, the target is to gradually reduce the stock of Treasury bills while lengthening debt maturity and issuance of medium to long term debt securities. On the external end, the target is to have a mix of concessional and commercial borrowing. Gross external financing would be composed of 11 percent concessional, 1 percent semi-concessional and 13 percent commercial borrowing. The expected composition of public debt at the end of  the  Strategy  period  will  be  46  percent  external  and  54  percent  domestic,  as shown in Annex 2.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) 2025 Overall Debt Management Strategy"
+      ],
+      "page_number": 27,
+      "block_index": 194,
+      "table_ref": null
+    },
+    {
+      "text": "c) Deficit Financing Strategy (FY 2025/26-2027/28)",
+      "block_type": "heading",
+      "heading_path": [
+        "c) Deficit Financing Strategy (FY 2025/26-2027/28)"
+      ],
+      "page_number": 27,
+      "block_index": 195,
+      "table_ref": null
+    },
+    {
+      "text": "The MTDS analytical tool has guided that a net borrowing mix of 65 percent and 35 percent from domestic and external sources respectively will help optimize costs and risks of financing the fiscal deficits for the MTDS period 2025-2028.",
+      "block_type": "list_item",
+      "heading_path": [
+        "c) Deficit Financing Strategy (FY 2025/26-2027/28)"
+      ],
+      "page_number": 27,
+      "block_index": 196,
+      "table_ref": null
+    },
+    {
+      "text": "d) Expected Costs and Risks Indicators in 2028",
+      "block_type": "heading",
+      "heading_path": [
+        "d) Expected Costs and Risks Indicators in 2028"
+      ],
+      "page_number": 27,
+      "block_index": 197,
+      "table_ref": null
+    },
+    {
+      "text": "Implementation  of  the  strategy  will  improve  the  debt  sustainability  indicators  by reducing nominal debt to GDP to 52.8 percent from the current 65.7 percent and the present value of debt to GDP from 63.0 percent to 48.6 percent over the implementation period by FY2027/28 ( Table 12 ).",
+      "block_type": "list_item",
+      "heading_path": [
+        "d) Expected Costs and Risks Indicators in 2028"
+      ],
+      "page_number": 27,
+      "block_index": 198,
+      "table_ref": null
+    },
+    {
+      "text": "The debt burden will significantly reduce as shown in the reduced interest payment as a  percentage  of  GDP  to  4.4  per  cent  from  the  current  5.4  per  cent.  Lower  interest payments imply reduced pressure on the budget, which can free up resources for other priorities.",
+      "block_type": "list_item",
+      "heading_path": [
+        "d) Expected Costs and Risks Indicators in 2028"
+      ],
+      "page_number": 27,
+      "block_index": 199,
+      "table_ref": null
+    },
+    {
+      "text": "In terms of refinancing risks, the optimal strategy reduces the risk by lowering the debt maturing in 1 year as a percentage of GDP and lengthening the debt maturity both in the domestic and external portfolio.",
+      "block_type": "list_item",
+      "heading_path": [
+        "d) Expected Costs and Risks Indicators in 2028"
+      ],
+      "page_number": 27,
+      "block_index": 200,
+      "table_ref": null
+    },
+    {
+      "text": "The Strategy reduces the interest rate risk greatly by increasing the Average Time to Refixing to 8.2 years from 7.3 years, increasing the debt with fixed rates from 85.2 per cent to 92.1 per cent, and reducing the amount of Treasury bills in the portfolio to 3.9 per cent from the current 5.1 per cent.",
+      "block_type": "list_item",
+      "heading_path": [
+        "d) Expected Costs and Risks Indicators in 2028"
+      ],
+      "page_number": 27,
+      "block_index": 201,
+      "table_ref": null
+    },
+    {
+      "text": "In terms of exchange rate risk, it reduces the foreign exchange risk from 49.3 per cent to 45.5 per cent by focusing on borrowing more from the domestic debt market.",
+      "block_type": "list_item",
+      "heading_path": [
+        "d) Expected Costs and Risks Indicators in 2028"
+      ],
+      "page_number": 27,
+      "block_index": 202,
+      "table_ref": null
+    },
+    {
+      "text": "e) Risks to the Strategy",
+      "block_type": "heading",
+      "heading_path": [
+        "e) Risks to the Strategy"
+      ],
+      "page_number": 28,
+      "block_index": 203,
+      "table_ref": null
+    },
+    {
+      "text": "Factors that could lead to the optimal strategy not being fully implemented may include emergency conditions like auction failure, widening of the deficit, limited access to external funding which could disrupt financing plan, and default on guarantees.",
+      "block_type": "list_item",
+      "heading_path": [
+        "e) Risks to the Strategy"
+      ],
+      "page_number": 28,
+      "block_index": 204,
+      "table_ref": null
+    },
+    {
+      "text": "Table 12: Expected Costs and Risks Indicators of the Debt Management Strategy (2028)",
+      "block_type": "caption",
+      "heading_path": [
+        "e) Risks to the Strategy"
+      ],
+      "page_number": 28,
+      "block_index": 205,
+      "table_ref": null
+    },
+    {
+      "text": "Source:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "e) Risks to the Strategy"
+      ],
+      "page_number": 28,
+      "block_index": 206,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury",
+      "block_type": "paragraph",
+      "heading_path": [
+        "e) Risks to the Strategy"
+      ],
+      "page_number": 28,
+      "block_index": 207,
+      "table_ref": null
+    },
+    {
+      "text": "(f) Approaches to Deal with Debt Management Challenges",
+      "block_type": "heading",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 28,
+      "block_index": 208,
+      "table_ref": null
+    },
+    {
+      "text": "Fully implement the Hybrid Model of trading government securities where trading can be done at the Nairobi Securities Exchange (NSE) or Over the Conter (OTC).",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 28,
+      "block_index": 209,
+      "table_ref": null
+    },
+    {
+      "text": "Centralize the reporting of trades to a single Trade Repository platform to improve post-trade transparency which would facilitate better price discovery.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 28,
+      "block_index": 210,
+      "table_ref": null
+    },
+    {
+      "text": "To promote the development of the domestic market by introducing market marking arrangements  for  per  EAC  Designated  Market  Makers  for  Government  Securities (DMMGS's) framework being spearheaded by Central Banks.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 28,
+      "block_index": 211,
+      "table_ref": null
+    },
+    {
+      "text": "Develop a system which guarantee settlement of all government securities transactions both in Primary and Secondary by having a mechanism where funds are confirmed",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 28,
+      "block_index": 212,
+      "table_ref": null
+    },
+    {
+      "text": "before concluding a transaction by obtaining a prior debit authorization from investors commercial bank before execution thus avoiding non-settlement of transactions.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 213,
+      "table_ref": null
+    },
+    {
+      "text": "Operationalize the sinking fund to reduce investor anxiety-efforts ongoing",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 214,
+      "table_ref": null
+    },
+    {
+      "text": "Accelerate deepening of domestic market and institutional infrastructure -slow phase witnessed",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 215,
+      "table_ref": null
+    },
+    {
+      "text": "Enforce revised Fiscal Agency Agreement with CBK Eliminate commissions paid to third parties on primary auction transactions and on foreign payments.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 216,
+      "table_ref": null
+    },
+    {
+      "text": "Continuously undertake LMOs to lower costs and risks of public debt- requires sinking fund.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 217,
+      "table_ref": null
+    },
+    {
+      "text": "Improve on cash management to reduce use of the costly overdraft",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 218,
+      "table_ref": null
+    },
+    {
+      "text": "Sustain fiscal consolidation to reduce fiscal deficits and slow accumulation of public debt to comply with 55% percent public debt to GDP in present value terms by 31st October 2028",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 219,
+      "table_ref": null
+    },
+    {
+      "text": "Provide electronic link to the Government Securities Depository for the OTC Exchange to launch trading of government securities in the OTC exchange",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 220,
+      "table_ref": null
+    },
+    {
+      "text": "Develop  government  securities  issuance  policy  to  guide  issuance  and  trading  of government securities to reflect market evolution over time",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 221,
+      "table_ref": null
+    },
+    {
+      "text": "Initiate local private placements for government securities targeting specific segment of the market",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 222,
+      "table_ref": null
+    },
+    {
+      "text": "The National Treasury will review the variety and frequency of short-term securities so as to avoid having tenors with similar near-term bond maturities (1 year and below)",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 223,
+      "table_ref": null
+    },
+    {
+      "text": "Introduction of offshore issuance of local currency denominated debt instrument to diversify investor base without elevating foreign currency risk. This will be through the proposed diaspora bond",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 224,
+      "table_ref": null
+    },
+    {
+      "text": "Development of policies to streamline use of CBK overdraft facility",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 225,
+      "table_ref": null
+    },
+    {
+      "text": "Increase digitization/automation of the auction processes to reduce the auction cycle from the current 6 calendar days to hours or at least one day",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 226,
+      "table_ref": null
+    },
+    {
+      "text": "Support for legal amendments to:",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 227,
+      "table_ref": null
+    },
+    {
+      "text": "Empower PDMO perform its functions as Principal in issuance of Government securities;",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 29,
+      "block_index": 228,
+      "table_ref": null
+    },
+    {
+      "text": "Consolidate auction functions  under PDMO as the Principal in domestic debt borrowing and not under a committee -to make PDMO more accountable in public debt issuance;",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 30,
+      "block_index": 229,
+      "table_ref": null
+    },
+    {
+      "text": "Eliminate duplication in the PFM Act 2012 and CBK Act -fiscal agency; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 30,
+      "block_index": 230,
+      "table_ref": null
+    },
+    {
+      "text": "PDMO status -elevate to a state Department -Empower PDMO to account for its budget (CFS) - running into half of the total Government budget.",
+      "block_type": "list_item",
+      "heading_path": [
+        "(f) Approaches to Deal with Debt Management Challenges"
+      ],
+      "page_number": 30,
+      "block_index": 231,
+      "table_ref": null
+    },
+    {
+      "text": "X. STRATEGY IMPLEMENTATION, MONITORING AND EVALUATION",
+      "block_type": "heading",
+      "heading_path": [
+        "X. STRATEGY IMPLEMENTATION, MONITORING AND EVALUATION"
+      ],
+      "page_number": 31,
+      "block_index": 232,
+      "table_ref": null
+    },
+    {
+      "text": "a) Domestic and External Borrowing Plan",
+      "block_type": "heading",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 31,
+      "block_index": 233,
+      "table_ref": null
+    },
+    {
+      "text": "76. The Government will implement the debt management strategy through the Annual Borrowing Plan (ABP). The implementation work plan is shown in Table 13 below.",
+      "block_type": "paragraph",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 31,
+      "block_index": 234,
+      "table_ref": null
+    },
+    {
+      "text": "Table 13: MTDS Implementation Work Plan",
+      "block_type": "caption",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 31,
+      "block_index": 235,
+      "table_ref": null
+    },
+    {
+      "text": "PDMO will prepare domestic and external borrowing plan comprising of projected borrowing and settlement of maturities within the 2025/26 fiscal year.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 32,
+      "block_index": 236,
+      "table_ref": null
+    },
+    {
+      "text": "The external borrowing plan will comprise of expected disbursements by each creditor, the disbursement period and currency of disbursement within the fiscal year as per the 2025 MTDS.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 32,
+      "block_index": 237,
+      "table_ref": null
+    },
+    {
+      "text": "The ABP may be revised to include liability management operations to manage debt stock risks when market conditions allow.",
+      "block_type": "list_item",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 32,
+      "block_index": 238,
+      "table_ref": null
+    },
+    {
+      "text": "b) Review of the Borrowing Plan",
+      "block_type": "heading",
+      "heading_path": [
+        "b) Review of the Borrowing Plan"
+      ],
+      "page_number": 32,
+      "block_index": 239,
+      "table_ref": null
+    },
+    {
+      "text": "Review  of  the  outcome  of  implementation  of  the  Borrowing  Plan  will  be  done  on weekly, monthly and on annual basis to provide data for strategy evaluation and for public information.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Review of the Borrowing Plan"
+      ],
+      "page_number": 32,
+      "block_index": 240,
+      "table_ref": null
+    },
+    {
+      "text": "The progress of implementation of the 2025 MTDS will be monitored and reported through monthly reports and the Annual Public Debt Management Report (APDMR) which is prepared and published after the end of the fiscal year.",
+      "block_type": "list_item",
+      "heading_path": [
+        "b) Review of the Borrowing Plan"
+      ],
+      "page_number": 32,
+      "block_index": 241,
+      "table_ref": null
+    },
+    {
+      "text": "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy",
+      "block_type": "heading",
+      "heading_path": [
+        "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy"
+      ],
+      "page_number": 32,
+      "block_index": 242,
+      "table_ref": null
+    },
+    {
+      "text": "The costs and risks outcome characteristics in the 2025 MTDS will be evaluated semiannually and annually against sustainability threshold indicators to determine deviations  and  suggest  mitigation  measures.  Table  13  outlines  the  costs  and  risks parameters to be evaluated.",
+      "block_type": "list_item",
+      "heading_path": [
+        "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy"
+      ],
+      "page_number": 32,
+      "block_index": 243,
+      "table_ref": null
+    },
+    {
+      "text": "The evolving public debt structure and fiscal deficit will inform review of strategy for management of costs and risks of public debt going forward. In addition, any deviations will be used to inform strategy review and formulation of the MTDS in the next cycle.",
+      "block_type": "list_item",
+      "heading_path": [
+        "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy"
+      ],
+      "page_number": 32,
+      "block_index": 244,
+      "table_ref": null
+    },
+    {
+      "text": "Similarly, guaranteed State-Owned  Enterprises' debt, fiscal  commitments  and contingent  liabilities will  be tracked  and  assessed  against  overall  public  debt sustainability levels.",
+      "block_type": "list_item",
+      "heading_path": [
+        "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy"
+      ],
+      "page_number": 32,
+      "block_index": 245,
+      "table_ref": null
+    },
+    {
+      "text": "Table 14: Template for Evaluation and Updating of Costs and Risks Indicators Under Alternative Strategies",
+      "block_type": "caption",
+      "heading_path": [
+        "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy"
+      ],
+      "page_number": 33,
+      "block_index": 246,
+      "table_ref": null
+    },
+    {
+      "text": "ANNEXES",
+      "block_type": "heading",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 34,
+      "block_index": 247,
+      "table_ref": null
+    },
+    {
+      "text": "Annex 1: Average New Borrowing by Instrument under Alternative Strategies (in percent of gross borrowing by end of FY 2027/28)",
+      "block_type": "caption",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 34,
+      "block_index": 248,
+      "table_ref": null
+    },
+    {
+      "text": "Annex  2:  Composition  of  Debt  Portfolio  by  Instrument  under  Alternative Strategies, (in Percent of Outstanding Portfolio as at End of -FY 2027/28)",
+      "block_type": "caption",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 35,
+      "block_index": 249,
+      "table_ref": null
+    },
+    {
+      "text": "Annex 3: Redemption Profiles under Alternative Strategies Ksh. Million (EndFY2027/28)",
+      "block_type": "caption",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 36,
+      "block_index": 250,
+      "table_ref": null
+    },
+    {
+      "text": "3; Year 3 Strategy",
+      "block_type": "caption",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 36,
+      "block_index": 251,
+      "table_ref": null
+    },
+    {
+      "text": "Annex 4: Cost and Risk Characteristics under Alternative Strategies",
+      "block_type": "caption",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 37,
+      "block_index": 252,
+      "table_ref": null
+    },
+    {
+      "text": "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios",
+      "block_type": "heading",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 253,
+      "table_ref": null
+    },
+    {
+      "text": "The pricing assumptions under the baseline scenario for interest rates and the exchange rates are as follows:",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 254,
+      "table_ref": null
+    },
+    {
+      "text": "ADF loans are priced at an average fixed rate of 0.75 percent, with a 40-year tenor and upto 10-year grace period.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 255,
+      "table_ref": null
+    },
+    {
+      "text": "IDA/IFAD loans are priced at an average fixed rate of 2.0 percent, with a 30-year tenor and up-to 10-year grace period.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 256,
+      "table_ref": null
+    },
+    {
+      "text": "Other concessional loans are priced at an average fixed rate of 2.0 percent, with a 28-year tenor and up-to 7-year grace period.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 257,
+      "table_ref": null
+    },
+    {
+      "text": "Semi-concessional  loans  are  assumed  to  be  contracted  at  a  fixed  interest  rate  of approximately 3.0 percent and a maturity of 23 years including a grace period of up to 5 years.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 258,
+      "table_ref": null
+    },
+    {
+      "text": "Commercial  borrowings  and  Export  Credit  Agencies  financing  with  floating  rates  are contracted at a reference rate plus a margin.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 259,
+      "table_ref": null
+    },
+    {
+      "text": "The pricing of Kenya's International Sovereign debt is based on US forward rates and credit spread.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 260,
+      "table_ref": null
+    },
+    {
+      "text": "Pricing on the domestic debt instruments is based on US forward rates, credit spread and inflation differential.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 261,
+      "table_ref": null
+    },
+    {
+      "text": "The  outlook  on  the  baseline  interest  rates  and  exchange  rates  is  based  on  the  following considerations;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 262,
+      "table_ref": null
+    },
+    {
+      "text": "The  exchange  rate  (Ksh/USD)  is  assumed  to  depreciate  annually  at  an  average  of 2.8 percent.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 263,
+      "table_ref": null
+    },
+    {
+      "text": "The fixed interest rates  of market-based instruments in the international capital markets were based on US forward rates and credit spread. The domestic market yields were based on US forward rates, credit spread and inflation differential.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 264,
+      "table_ref": null
+    },
+    {
+      "text": "The  interest  rates  for  fixed  rate  loans  are  assumed  to  remain  priced  as  per  the  existing portfolio.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 265,
+      "table_ref": null
+    },
+    {
+      "text": "Three risk scenarios are evaluated as follows:",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 266,
+      "table_ref": null
+    },
+    {
+      "text": "The risk scenario for interest rates assumes moderate interest rate shock of 0.75 percent and 1.5 percent in 2026 and 2027 respectively and a stand-alone extreme shock of 1.5 percent and 3.0 percent over the same period.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 267,
+      "table_ref": null
+    },
+    {
+      "text": "The risk scenario for exchange rate assumes a stand-alone extreme shock of 25 percent in 2026 which was applied on the baseline exchange rate projections.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 268,
+      "table_ref": null
+    },
+    {
+      "text": "The combined exchange rate and interest rate risk shock scenario assumes an increase in interest rate by a moderate shock of 0.75 percent combined with a 12.5 percent exchange rate depreciation in 2026.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 5: Baseline Pricing Assumptions and Description of Shock Scenarios"
+      ],
+      "page_number": 39,
+      "block_index": 269,
+      "table_ref": null
+    },
+    {
+      "text": "Annex 6: Publication of the Debt Management Strategy",
+      "block_type": "heading",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 270,
+      "table_ref": null
+    },
+    {
+      "text": "Section 33 of the Public Finance Management Act, 2012 provides:",
+      "block_type": "paragraph",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 271,
+      "table_ref": null
+    },
+    {
+      "text": "On or before 15th February in each year, the Cabinet Secretary shall submit to Parliament a statement setting out the debt management strategy of the national government over the medium term with respect to its actual liability in respect of loans and guarantees and its plans for dealing with those liabilities.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 272,
+      "table_ref": null
+    },
+    {
+      "text": "The  Cabinet  Secretary  shall  ensure  that  the  medium-term  debt  management strategy is aligned to the broad strategic priorities and policy goals set out in the Budget Policy Statement.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 273,
+      "table_ref": null
+    },
+    {
+      "text": "The Cabinet Secretary shall include in the statement the following information: -",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 274,
+      "table_ref": null
+    },
+    {
+      "text": "The total stock of debt as at the date of the statement;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 275,
+      "table_ref": null
+    },
+    {
+      "text": "The sources of loans made to the national government and the nature of guarantees given by the national government;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 276,
+      "table_ref": null
+    },
+    {
+      "text": "The principal risks associated with those loans and guarantees;",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 277,
+      "table_ref": null
+    },
+    {
+      "text": "The assumptions underlying the debt management strategy; and",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 278,
+      "table_ref": null
+    },
+    {
+      "text": "An analysis of the sustainability of the amount of debt, both actual and potential.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 279,
+      "table_ref": null
+    },
+    {
+      "text": "Within fourteen days  after  the  debt  strategy  paper  is  submitted  to  Parliament under  this  section,  the  Cabinet  Secretary  shall  submit  the  statement  to  the Commission  on  Revenue  Allocation  and  the  Intergovernmental  Budget  and Economic Council, publish, and publicize the statement.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 280,
+      "table_ref": null
+    },
+    {
+      "text": "PFM Act 2012, 'General responsibilities of the National Treasury' Section 12. Provides that: (1) Subject to the Constitution and this Act, the National Treasury shall- (b) manage the level and composition of national public debt, national guarantees  and  other  financial  obligations  of  national  government  within  the framework of this Act and develop a framework for sustainable debt control.",
+      "block_type": "list_item",
+      "heading_path": [
+        "Annex 6: Publication of the Debt Management Strategy"
+      ],
+      "page_number": 40,
+      "block_index": 281,
+      "table_ref": null
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_000",
+      "caption": "",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 13,
+      "table_index": 0,
+      "markdown": "| Description                         | Ksh. (billions)   | USD (billions)*   |\n|:------------------------------------|:------------------|:------------------|\n| A. Domestic Debt (included in MTDS) |                   |                   |\n| Treasury Bills                      | 615.89            | 4.75              |\n| Treasury Bonds                      | 4,627.12          | 35.72             |\n| Pre-1997 Government Debt            | 17.23             | 0.13              |\n| Sub Total                           | 5,260.25          | 40.61             |\n| B. External debt (included in MTDS) |                   |                   |\n| IDA/IBRD                            | 1,786.03          | 13.79             |\n| ADF/AfDB                            | 508.50            | 3.93              |\n| Bilateral                           | 1,092.69          | 8.44              |\n| Multilateral                        | 492.42            | 3.80              |\n| Commercial Banks                    | 323.49            | 2.50              |\n| International Sovereign Bond        | 854.88            | 6.60              |\n| Sub Total                           | 5,058.00          | 39.05             |\n| C. Excluded from MTDS               |                   |                   |\n| Suppliers Credit(external)          | 13.54             | 0.10              |\n| CBK Overdraft(domestic)             | 61.03             | 0.47              |\n| IMF SDR Allocation(domestic)        | 83.54             | 0.64              |\n| Performing Guarantees(external)     | 100.17            | 0.77              |\n| Bank advances(domestic)             | 5.47              | 0.04              |\n| Sub Total                           | 263.74            | 2.04              |\n| TOTAL DEBT Included in MTDS (A+B)   | 10,318.25         | 79.66             |\n| TOTAL DEBT (A+B+C)                  | 10,581.98         | 81.70             |\n| Domestic                            | 5,410.28          | 41.77             |\n| External                            | 5,171.70          | 39.93             |",
+      "records": [
+        {
+          "Description": "A. Domestic Debt (included in MTDS)",
+          "Ksh. (billions)": "",
+          "USD (billions)*": ""
+        },
+        {
+          "Description": "Treasury Bills",
+          "Ksh. (billions)": "615.89",
+          "USD (billions)*": "4.75"
+        },
+        {
+          "Description": "Treasury Bonds",
+          "Ksh. (billions)": "4,627.12",
+          "USD (billions)*": "35.72"
+        },
+        {
+          "Description": "Pre-1997 Government Debt",
+          "Ksh. (billions)": "17.23",
+          "USD (billions)*": "0.13"
+        },
+        {
+          "Description": "Sub Total",
+          "Ksh. (billions)": "5,260.25",
+          "USD (billions)*": "40.61"
+        },
+        {
+          "Description": "B. External debt (included in MTDS)",
+          "Ksh. (billions)": "",
+          "USD (billions)*": ""
+        },
+        {
+          "Description": "IDA/IBRD",
+          "Ksh. (billions)": "1,786.03",
+          "USD (billions)*": "13.79"
+        },
+        {
+          "Description": "ADF/AfDB",
+          "Ksh. (billions)": "508.50",
+          "USD (billions)*": "3.93"
+        },
+        {
+          "Description": "Bilateral",
+          "Ksh. (billions)": "1,092.69",
+          "USD (billions)*": "8.44"
+        },
+        {
+          "Description": "Multilateral",
+          "Ksh. (billions)": "492.42",
+          "USD (billions)*": "3.80"
+        },
+        {
+          "Description": "Commercial Banks",
+          "Ksh. (billions)": "323.49",
+          "USD (billions)*": "2.50"
+        },
+        {
+          "Description": "International Sovereign Bond",
+          "Ksh. (billions)": "854.88",
+          "USD (billions)*": "6.60"
+        },
+        {
+          "Description": "Sub Total",
+          "Ksh. (billions)": "5,058.00",
+          "USD (billions)*": "39.05"
+        },
+        {
+          "Description": "C. Excluded from MTDS",
+          "Ksh. (billions)": "",
+          "USD (billions)*": ""
+        },
+        {
+          "Description": "Suppliers Credit(external)",
+          "Ksh. (billions)": "13.54",
+          "USD (billions)*": "0.10"
+        },
+        {
+          "Description": "CBK Overdraft(domestic)",
+          "Ksh. (billions)": "61.03",
+          "USD (billions)*": "0.47"
+        },
+        {
+          "Description": "IMF SDR Allocation(domestic)",
+          "Ksh. (billions)": "83.54",
+          "USD (billions)*": "0.64"
+        },
+        {
+          "Description": "Performing Guarantees(external)",
+          "Ksh. (billions)": "100.17",
+          "USD (billions)*": "0.77"
+        },
+        {
+          "Description": "Bank advances(domestic)",
+          "Ksh. (billions)": "5.47",
+          "USD (billions)*": "0.04"
+        },
+        {
+          "Description": "Sub Total",
+          "Ksh. (billions)": "263.74",
+          "USD (billions)*": "2.04"
+        },
+        {
+          "Description": "TOTAL DEBT Included in MTDS (A+B)",
+          "Ksh. (billions)": "10,318.25",
+          "USD (billions)*": "79.66"
+        },
+        {
+          "Description": "TOTAL DEBT (A+B+C)",
+          "Ksh. (billions)": "10,581.98",
+          "USD (billions)*": "81.70"
+        },
+        {
+          "Description": "Domestic",
+          "Ksh. (billions)": "5,410.28",
+          "USD (billions)*": "41.77"
+        },
+        {
+          "Description": "External",
+          "Ksh. (billions)": "5,171.70",
+          "USD (billions)*": "39.93"
+        }
+      ],
+      "columns": [
+        "Description",
+        "Ksh. (billions)",
+        "USD (billions)*"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_001",
+      "caption": "The National Treasury",
+      "heading_path": [
+        "II. REVIEW OF THE EXISTING PUBLIC DEBT STOCK"
+      ],
+      "page_number": 15,
+      "table_index": 1,
+      "markdown": "| Agency                               | Project                                                    | Amount Ksh. (Millions)   |\n|:-------------------------------------|:-----------------------------------------------------------|:-------------------------|\n| Kenya Electricity Generating Company | Mombasa Diesel Generating Power Plant                      | 343                      |\n| Kenya Electricity Generating Company | Sondu Miriu Hydropower Project                             | 819                      |\n| Kenya Electricity Generating Company | Sondu Miriu Hydro Power II                                 | 5,589                    |\n| Kenya Electricity Generating Company | Sondu - Miriu Hydropower Project Sangoro Power Plant       | 2,630                    |\n| Kenya Electricity Generating Company | Olkaria 1 Unit 4 and 5 Geothermal Power Project            | 15,528                   |\n| Kenya Electricity Generating Company | Rehabilitation and Upgrade of the Geothermal Plant Olkaria | 1,449                    |\n| Kenya Electricity Generating Company | DSSI Japan For KenGen Loans Phase I                        | 709                      |\n| Kenya Electricity Generating Company | DSSI Japan For KenGen Loans Phase II                       | 824                      |\n| Kenya Ports Authority                | Mombasa Port Development Programme (Mombasa Port A)        | 15,422                   |\n| Kenya Ports Authority                | Mombasa Port Development Programme (Mombasa Port)          | 1,393                    |\n| Kenya Ports Authority                | Kenya Port Development Project - Phase II (Principal I)    | 23,271                   |\n| Kenya Ports Authority                | Kenya Port Development Project - Phase II (Principal IIA)  | 2,574                    |\n| Kenya Ports Authority                | DSSI Japan-Kenya Ports Authority (KE-P25) - Phase I        | 219                      |\n| Kenya Ports Authority                | DSSI Japan-Kenya Ports Authority (KE-P25) - Phase II       | 256                      |\n| Kenya Airways                        | Kenya Airways Guarantee (for Local Banks)                  | 29,139                   |\n| Total                                |                                                            | 100,165                  |",
+      "records": [
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "Mombasa Diesel Generating Power Plant",
+          "Amount Ksh. (Millions)": "343"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "Sondu Miriu Hydropower Project",
+          "Amount Ksh. (Millions)": "819"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "Sondu Miriu Hydro Power II",
+          "Amount Ksh. (Millions)": "5,589"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "Sondu - Miriu Hydropower Project Sangoro Power Plant",
+          "Amount Ksh. (Millions)": "2,630"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "Olkaria 1 Unit 4 and 5 Geothermal Power Project",
+          "Amount Ksh. (Millions)": "15,528"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "Rehabilitation and Upgrade of the Geothermal Plant Olkaria",
+          "Amount Ksh. (Millions)": "1,449"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "DSSI Japan For KenGen Loans Phase I",
+          "Amount Ksh. (Millions)": "709"
+        },
+        {
+          "Agency": "Kenya Electricity Generating Company",
+          "Project": "DSSI Japan For KenGen Loans Phase II",
+          "Amount Ksh. (Millions)": "824"
+        },
+        {
+          "Agency": "Kenya Ports Authority",
+          "Project": "Mombasa Port Development Programme (Mombasa Port A)",
+          "Amount Ksh. (Millions)": "15,422"
+        },
+        {
+          "Agency": "Kenya Ports Authority",
+          "Project": "Mombasa Port Development Programme (Mombasa Port)",
+          "Amount Ksh. (Millions)": "1,393"
+        },
+        {
+          "Agency": "Kenya Ports Authority",
+          "Project": "Kenya Port Development Project - Phase II (Principal I)",
+          "Amount Ksh. (Millions)": "23,271"
+        },
+        {
+          "Agency": "Kenya Ports Authority",
+          "Project": "Kenya Port Development Project - Phase II (Principal IIA)",
+          "Amount Ksh. (Millions)": "2,574"
+        },
+        {
+          "Agency": "Kenya Ports Authority",
+          "Project": "DSSI Japan-Kenya Ports Authority (KE-P25) - Phase I",
+          "Amount Ksh. (Millions)": "219"
+        },
+        {
+          "Agency": "Kenya Ports Authority",
+          "Project": "DSSI Japan-Kenya Ports Authority (KE-P25) - Phase II",
+          "Amount Ksh. (Millions)": "256"
+        },
+        {
+          "Agency": "Kenya Airways",
+          "Project": "Kenya Airways Guarantee (for Local Banks)",
+          "Amount Ksh. (Millions)": "29,139"
+        },
+        {
+          "Agency": "Total",
+          "Project": "",
+          "Amount Ksh. (Millions)": "100,165"
+        }
+      ],
+      "columns": [
+        "Agency",
+        "Project",
+        "Amount Ksh. (Millions)"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_002",
+      "caption": "",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 16,
+      "table_index": 2,
+      "markdown": "|                                   |                                                    | External Debt   | External Debt   | Domestic Debt   | Domestic Debt   |   Total Debt |   Total Debt | Remarks                                          | Remarks                  |\n|:----------------------------------|:---------------------------------------------------|:----------------|:----------------|:----------------|:----------------|-------------:|-------------:|:-------------------------------------------------|:-------------------------|\n| Risk Indicators                   | Risk Indicators                                    | 2023            | 2024            | 2023            | 2024            |       2023   |       2024   |                                                  |                          |\n| Nominal debt as percentage of GDP | Nominal debt as percentage of GDP                  | 38.2            | 31.4            | 33.9            | 32.3            |         72   |         65.7 | High burden.                                     | debt                     |\n| PV as percentage of GDP           | PV as percentage of GDP                            | 31.7            | 25.8            | 36.5            | 32.3            |         68.2 |         63   |                                                  |                          |\n| Cost of debt                      | Interest payment as percentage of GDP              | 1.4             | 1.2             | 3.8             | 4.3             |          5.2 |          5.4 | Rising of debt to domestic                       | cost                     |\n| Cost of debt                      | Weighted Av. IR (percentage)                       | 3.7             | 3.8             | 11.4            | 13.2            |          7.3 |          8.5 | interest rate                                    | due high                 |\n| Refinancing risk                  | ATM(years)                                         | 9.3             | 9.5             | 7.5             | 6.6             |          8.5 |          8.1 | High refinancing risk due to increased uptake of |                          |\n| Refinancing risk                  | Debt maturing in 1yr (percentage of total)         | 9.7             | 5.2             | 16.8            | 17.6            |         13   |         11.2 | short-term                                       | short-term               |\n| Refinancing risk                  | Debt maturing in 1yr (percentage of GDP)           | 3.6             | 1.9             | 5.6             | 5.7             |          9.2 |          7.5 | domestic debt                                    | domestic debt            |\n| Interest rate risk                | ATR (years)                                        | 7.7             | 7.9             | 7.5             | 6.6             |          7.6 |          7.3 | Overall, interest risk reduced                   | the rate has             |\n| Interest rate risk                | Debt re-fixing in 1yr (percentage of total)        | 33.9            | 31              | 16.8            | 17.6            |         25.9 |         24.6 |                                                  |                          |\n| Interest rate risk                | Fixed rate debt incl T-bills (percentage of total) | 73.2            | 71.8            | 100             | 100             |         85.7 |         85.2 |                                                  |                          |\n| Interest rate risk                | T-bills (percentage of total)                      |                 |                 | 13              | 10.7            |          6.1 |          5.1 |                                                  |                          |\n| FX risk                           | FX debt (percentage of total debt)                 |                 |                 |                 |                 |         51.5 |         49.3 | Reduced foreign exchange                         | Reduced foreign exchange |\n| FX risk                           | ST FX debt (percentage of reserves)                |                 |                 |                 |                 |         49.9 |         27.5 | rate risk                                        | rate risk                |",
+      "records": [
+        {
+          "": "Risk Indicators",
+          "External Debt": "2024",
+          "Domestic Debt": "2024",
+          "Total Debt": "2024",
+          "Remarks": ""
+        },
+        {
+          "": "Nominal debt as percentage of GDP",
+          "External Debt": "31.4",
+          "Domestic Debt": "32.3",
+          "Total Debt": "65.7",
+          "Remarks": "debt"
+        },
+        {
+          "": "PV as percentage of GDP",
+          "External Debt": "25.8",
+          "Domestic Debt": "32.3",
+          "Total Debt": "63",
+          "Remarks": ""
+        },
+        {
+          "": "Interest payment as percentage of GDP",
+          "External Debt": "1.2",
+          "Domestic Debt": "4.3",
+          "Total Debt": "5.4",
+          "Remarks": "cost"
+        },
+        {
+          "": "Weighted Av. IR (percentage)",
+          "External Debt": "3.8",
+          "Domestic Debt": "13.2",
+          "Total Debt": "8.5",
+          "Remarks": "due high"
+        },
+        {
+          "": "ATM(years)",
+          "External Debt": "9.5",
+          "Domestic Debt": "6.6",
+          "Total Debt": "8.1",
+          "Remarks": ""
+        },
+        {
+          "": "Debt maturing in 1yr (percentage of total)",
+          "External Debt": "5.2",
+          "Domestic Debt": "17.6",
+          "Total Debt": "11.2",
+          "Remarks": "short-term"
+        },
+        {
+          "": "Debt maturing in 1yr (percentage of GDP)",
+          "External Debt": "1.9",
+          "Domestic Debt": "5.7",
+          "Total Debt": "7.5",
+          "Remarks": "domestic debt"
+        },
+        {
+          "": "ATR (years)",
+          "External Debt": "7.9",
+          "Domestic Debt": "6.6",
+          "Total Debt": "7.3",
+          "Remarks": "the rate has"
+        },
+        {
+          "": "Debt re-fixing in 1yr (percentage of total)",
+          "External Debt": "31",
+          "Domestic Debt": "17.6",
+          "Total Debt": "24.6",
+          "Remarks": ""
+        },
+        {
+          "": "Fixed rate debt incl T-bills (percentage of total)",
+          "External Debt": "71.8",
+          "Domestic Debt": "100",
+          "Total Debt": "85.2",
+          "Remarks": ""
+        },
+        {
+          "": "T-bills (percentage of total)",
+          "External Debt": "",
+          "Domestic Debt": "10.7",
+          "Total Debt": "5.1",
+          "Remarks": ""
+        },
+        {
+          "": "FX debt (percentage of total debt)",
+          "External Debt": "",
+          "Domestic Debt": "",
+          "Total Debt": "49.3",
+          "Remarks": "Reduced foreign exchange"
+        },
+        {
+          "": "ST FX debt (percentage of reserves)",
+          "External Debt": "",
+          "Domestic Debt": "",
+          "Total Debt": "27.5",
+          "Remarks": "rate risk"
+        }
+      ],
+      "columns": [
+        "",
+        "",
+        "External Debt",
+        "External Debt",
+        "Domestic Debt",
+        "Domestic Debt",
+        "Total Debt",
+        "Total Debt",
+        "Remarks",
+        "Remarks"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_003",
+      "caption": "The National Treasury",
+      "heading_path": [
+        "III. ANALYSIS OF COSTS AND RISKS OF EXISTING PUBLIC DEBT"
+      ],
+      "page_number": 17,
+      "table_index": 3,
+      "markdown": "| Remaining Maturity in Years   | End June 2023 In million USD   |   As Percent of Total | End June 2024 In million USD   |   As Percent of Total |\n|:------------------------------|:-------------------------------|----------------------:|:-------------------------------|----------------------:|\n| Less than one year            | 5,645                          |                  16.7 | 7,525                          |                  18.6 |\n| 2 to 3 years                  | 5,143                          |                  15.3 | 5,482                          |                  13.5 |\n| 4 to 5 years                  | 5,407                          |                  16   | 7,113                          |                  17.6 |\n| 6 to 10 years                 | 8,465                          |                  25.1 | 11,377                         |                  28.1 |\n| Above 11 years                | 9,085                          |                  26.9 | 8,982                          |                  22.2 |\n| Total                         | 33,745                         |                 100   | 40,479                         |                 100   |",
+      "records": [
+        {
+          "Remaining Maturity in Years": "Less than one year",
+          "End June 2023 In million USD": "5,645",
+          "As Percent of Total": "18.6",
+          "End June 2024 In million USD": "7,525"
+        },
+        {
+          "Remaining Maturity in Years": "2 to 3 years",
+          "End June 2023 In million USD": "5,143",
+          "As Percent of Total": "13.5",
+          "End June 2024 In million USD": "5,482"
+        },
+        {
+          "Remaining Maturity in Years": "4 to 5 years",
+          "End June 2023 In million USD": "5,407",
+          "As Percent of Total": "17.6",
+          "End June 2024 In million USD": "7,113"
+        },
+        {
+          "Remaining Maturity in Years": "6 to 10 years",
+          "End June 2023 In million USD": "8,465",
+          "As Percent of Total": "28.1",
+          "End June 2024 In million USD": "11,377"
+        },
+        {
+          "Remaining Maturity in Years": "Above 11 years",
+          "End June 2023 In million USD": "9,085",
+          "As Percent of Total": "22.2",
+          "End June 2024 In million USD": "8,982"
+        },
+        {
+          "Remaining Maturity in Years": "Total",
+          "End June 2023 In million USD": "33,745",
+          "As Percent of Total": "100.0",
+          "End June 2024 In million USD": "40,479"
+        }
+      ],
+      "columns": [
+        "Remaining Maturity in Years",
+        "End June 2023 In million USD",
+        "As Percent of Total",
+        "End June 2024 In million USD",
+        "As Percent of Total"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_004",
+      "caption": "",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "table_index": 4,
+      "markdown": "| Borrowing source   |           |   FY2019/20 |   FY2020/21 |   FY2021/22 |   FY2022/23 |   FY2023/24 |\n|:-------------------|:----------|------------:|------------:|------------:|------------:|------------:|\n| External           | MTDS      |          38 |          28 |          27 |          25 |          50 |\n|                    | Actual    |          28 |          19 |          15 |          22 |          27 |\n|                    | Deviation |          10 |           9 |          12 |           3 |          23 |\n| Domestic           | MTDS      |          62 |          72 |          73 |          75 |          50 |\n| Domestic           | Actual    |          72 |          81 |          85 |          78 |          73 |\n| Domestic           | Deviation |         -10 |          -9 |         -12 |          -3 |         -23 |",
+      "records": [
+        {
+          "Borrowing source": "External",
+          "": "MTDS",
+          "FY2019/20": "38",
+          "FY2020/21": "28",
+          "FY2021/22": "27",
+          "FY2022/23": "25",
+          "FY2023/24": "50"
+        },
+        {
+          "Borrowing source": "",
+          "": "Actual",
+          "FY2019/20": "28",
+          "FY2020/21": "19",
+          "FY2021/22": "15",
+          "FY2022/23": "22",
+          "FY2023/24": "27"
+        },
+        {
+          "Borrowing source": "",
+          "": "Deviation",
+          "FY2019/20": "10",
+          "FY2020/21": "9",
+          "FY2021/22": "12",
+          "FY2022/23": "3",
+          "FY2023/24": "23"
+        },
+        {
+          "Borrowing source": "Domestic",
+          "": "MTDS",
+          "FY2019/20": "62",
+          "FY2020/21": "72",
+          "FY2021/22": "73",
+          "FY2022/23": "75",
+          "FY2023/24": "50"
+        },
+        {
+          "Borrowing source": "Domestic",
+          "": "Actual",
+          "FY2019/20": "72",
+          "FY2020/21": "81",
+          "FY2021/22": "85",
+          "FY2022/23": "78",
+          "FY2023/24": "73"
+        },
+        {
+          "Borrowing source": "Domestic",
+          "": "Deviation",
+          "FY2019/20": "-10",
+          "FY2020/21": "-9",
+          "FY2021/22": "-12",
+          "FY2022/23": "-3",
+          "FY2023/24": "-23"
+        }
+      ],
+      "columns": [
+        "Borrowing source",
+        "",
+        "FY2019/20",
+        "FY2020/21",
+        "FY2021/22",
+        "FY2022/23",
+        "FY2023/24"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_005",
+      "caption": "National Treasury",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 18,
+      "table_index": 5,
+      "markdown": "|                                         |   2023 MTDS (FY2023-2024) Targets (%) |   FY2023-2024 Actual (%) | FY2023-2024 (Ksh. millions)   |\n|:----------------------------------------|--------------------------------------:|-------------------------:|:------------------------------|\n| Gross domestic borrowing                |                                    65 |                     75   | 2,341,234                     |\n| Gross external borrowing                |                                    35 |                     25   | 760,500                       |\n| o/w Concessional and Semi- concessional |                                    22 |                     15.6 | 473,625                       |\n| Commercial borrowing                    |                                    13 |                      9.4 | 286,875                       |",
+      "records": [
+        {
+          "": "Gross domestic borrowing",
+          "2023 MTDS (FY2023-2024) Targets (%)": "65.0",
+          "FY2023-2024 Actual (%)": "75.0",
+          "FY2023-2024 (Ksh. millions)": "2,341,234"
+        },
+        {
+          "": "Gross external borrowing",
+          "2023 MTDS (FY2023-2024) Targets (%)": "35.0",
+          "FY2023-2024 Actual (%)": "25.0",
+          "FY2023-2024 (Ksh. millions)": "760,500"
+        },
+        {
+          "": "o/w Concessional and Semi- concessional",
+          "2023 MTDS (FY2023-2024) Targets (%)": "22.0",
+          "FY2023-2024 Actual (%)": "15.6",
+          "FY2023-2024 (Ksh. millions)": "473,625"
+        },
+        {
+          "": "Commercial borrowing",
+          "2023 MTDS (FY2023-2024) Targets (%)": "13.0",
+          "FY2023-2024 Actual (%)": "9.4",
+          "FY2023-2024 (Ksh. millions)": "286,875"
+        }
+      ],
+      "columns": [
+        "",
+        "2023 MTDS (FY2023-2024) Targets (%)",
+        "FY2023-2024 Actual (%)",
+        "FY2023-2024 (Ksh. millions)"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_006",
+      "caption": "",
+      "heading_path": [
+        "IV. REVIEW OF PERFOMANCE OF THE 2023 MTDS"
+      ],
+      "page_number": 19,
+      "table_index": 6,
+      "markdown": "| Terms                     |   2017 |   2018 |   2019 |   2020 |   2021 |   2022 |   2023 |   2024 |\n|:--------------------------|-------:|-------:|-------:|-------:|-------:|-------:|-------:|-------:|\n| Average Maturity (years)  |   17.6 |   20.8 |   15.3 |   26.1 |   23.3 |   25.9 |   15.7 |   20.5 |\n| Grace Period (years)      |    4.5 |   10.3 |    5.6 |    7.4 |    7.4 |    4.2 |    4.8 |    4.4 |\n| Average Interest Rate (%) |    2.6 |    3.9 |    3.9 |    0.5 |    2.1 |    0.8 |    3.2 |    4.6 |",
+      "records": [
+        {
+          "Terms": "Average Maturity (years)",
+          "2017": "17.6",
+          "2018": "20.8",
+          "2019": "15.3",
+          "2020": "26.1",
+          "2021": "23.3",
+          "2022": "25.9",
+          "2023": "15.7",
+          "2024": "20.5"
+        },
+        {
+          "Terms": "Grace Period (years)",
+          "2017": "4.5",
+          "2018": "10.3",
+          "2019": "5.6",
+          "2020": "7.4",
+          "2021": "7.4",
+          "2022": "4.2",
+          "2023": "4.8",
+          "2024": "4.4"
+        },
+        {
+          "Terms": "Average Interest Rate (%)",
+          "2017": "2.6",
+          "2018": "3.9",
+          "2019": "3.9",
+          "2020": "0.5",
+          "2021": "2.1",
+          "2022": "0.8",
+          "2023": "3.2",
+          "2024": "4.6"
+        }
+      ],
+      "columns": [
+        "Terms",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_007",
+      "caption": "",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 20,
+      "table_index": 7,
+      "markdown": "| Indicators.                              |   Thresholds.Actual |   2022.Actual |   2023.Actual |   2024.Projection |   2025.Projection |   2026.Projection |   2027.Projection |   2028.Projection |   2029.Projection |   2034.Projection |   2044.Projection |\n|:-----------------------------------------|--------------------:|--------------:|--------------:|------------------:|------------------:|------------------:|------------------:|------------------:|------------------:|------------------:|------------------:|\n| PV of PPG external debt-to-GDP ratio     |                  40 |          29   |          32.1 |              29.8 |              30.4 |              31   |              29.5 |              28.1 |              26.8 |              22.5 |              16.2 |\n| PV of PPG external debt-to-exports ratio |                 180 |         238.2 |         274.8 |             274.2 |             260.2 |             241.9 |             222.3 |             208.1 |             195   |             152.5 |              98.1 |\n| PPG debt service-to- exports ratio       |                  15 |          21.4 |          26.9 |              40.5 |              31.9 |              29.8 |              27.3 |              27   |              22   |              16.7 |              11.6 |\n| PPG debt service-to- revenue ratio       |                  18 |          15.4 |          18.8 |              25.2 |              20.6 |              20.4 |              18.9 |              18.6 |              15.5 |              12.6 |               9.8 |",
+      "records": [
+        {
+          "Indicators.": "PV of PPG external debt-to-GDP ratio",
+          "Thresholds.Actual": "40",
+          "2022.Actual": "29.0",
+          "2023.Actual": "32.1",
+          "2024.Projection": "29.8",
+          "2025.Projection": "30.4",
+          "2026.Projection": "31.0",
+          "2027.Projection": "29.5",
+          "2028.Projection": "28.1",
+          "2029.Projection": "26.8",
+          "2034.Projection": "22.5",
+          "2044.Projection": "16.2"
+        },
+        {
+          "Indicators.": "PV of PPG external debt-to-exports ratio",
+          "Thresholds.Actual": "180",
+          "2022.Actual": "238.2",
+          "2023.Actual": "274.8",
+          "2024.Projection": "274.2",
+          "2025.Projection": "260.2",
+          "2026.Projection": "241.9",
+          "2027.Projection": "222.3",
+          "2028.Projection": "208.1",
+          "2029.Projection": "195.0",
+          "2034.Projection": "152.5",
+          "2044.Projection": "98.1"
+        },
+        {
+          "Indicators.": "PPG debt service-to- exports ratio",
+          "Thresholds.Actual": "15",
+          "2022.Actual": "21.4",
+          "2023.Actual": "26.9",
+          "2024.Projection": "40.5",
+          "2025.Projection": "31.9",
+          "2026.Projection": "29.8",
+          "2027.Projection": "27.3",
+          "2028.Projection": "27.0",
+          "2029.Projection": "22.0",
+          "2034.Projection": "16.7",
+          "2044.Projection": "11.6"
+        },
+        {
+          "Indicators.": "PPG debt service-to- revenue ratio",
+          "Thresholds.Actual": "18",
+          "2022.Actual": "15.4",
+          "2023.Actual": "18.8",
+          "2024.Projection": "25.2",
+          "2025.Projection": "20.6",
+          "2026.Projection": "20.4",
+          "2027.Projection": "18.9",
+          "2028.Projection": "18.6",
+          "2029.Projection": "15.5",
+          "2034.Projection": "12.6",
+          "2044.Projection": "9.8"
+        }
+      ],
+      "columns": [
+        "Indicators.",
+        "Thresholds.Actual",
+        "2022.Actual",
+        "2023.Actual",
+        "2024.Projection",
+        "2025.Projection",
+        "2026.Projection",
+        "2027.Projection",
+        "2028.Projection",
+        "2029.Projection",
+        "2034.Projection",
+        "2044.Projection"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_008",
+      "caption": "The National Treasury & IMF country report",
+      "heading_path": [
+        "V. KENYA'S DEBT SUSTAINABILITY"
+      ],
+      "page_number": 21,
+      "table_index": 8,
+      "markdown": "| Indicators..PV of debt-to-GDP             | Benchmark.Actual.   |   2022.Actual. | 2023.Actual.68.7   | 2024.Projection.63.0   | 2025.Projection.64.0   | 2026.Projection.63.7   | 2027.Projection.61.2   | 2028.Projection.58.6   | 2029.Projection.56.2   | 2034.Projection.49.7   | 2044.Projection.35.5   |\n|:------------------------------------------|:--------------------|---------------:|:-------------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|:-----------------------|\n| ratio PV of public                        | 55                  |           63.9 |                    |                        |                        |                        |                        |                        |                        |                        |                        |\n| debt-to- revenue and grants ratio         | n/a                 |          370.3 | 406.2              | 356.2                  | 348.4                  | 334.3                  | 313.8                  | 296.0                  | 282.9                  | 249.9                  | 179.4                  |\n| Debt service-to- revenue and grants ratio | n/a                 |           56   | 60.6               | 63.7                   | 62.5                   | 61.4                   | 58.1                   | 55.7                   | 49.0                   | 47.1                   | 29.4                   |",
+      "records": [
+        {
+          "Indicators..PV of debt-to-GDP": "ratio PV of public",
+          "Benchmark.Actual.": "55",
+          "2022.Actual.": "63.9",
+          "2023.Actual.68.7": "",
+          "2024.Projection.63.0": "",
+          "2025.Projection.64.0": "",
+          "2026.Projection.63.7": "",
+          "2027.Projection.61.2": "",
+          "2028.Projection.58.6": "",
+          "2029.Projection.56.2": "",
+          "2034.Projection.49.7": "",
+          "2044.Projection.35.5": ""
+        },
+        {
+          "Indicators..PV of debt-to-GDP": "debt-to- revenue and grants ratio",
+          "Benchmark.Actual.": "n/a",
+          "2022.Actual.": "370.3",
+          "2023.Actual.68.7": "406.2",
+          "2024.Projection.63.0": "356.2",
+          "2025.Projection.64.0": "348.4",
+          "2026.Projection.63.7": "334.3",
+          "2027.Projection.61.2": "313.8",
+          "2028.Projection.58.6": "296.0",
+          "2029.Projection.56.2": "282.9",
+          "2034.Projection.49.7": "249.9",
+          "2044.Projection.35.5": "179.4"
+        },
+        {
+          "Indicators..PV of debt-to-GDP": "Debt service-to- revenue and grants ratio",
+          "Benchmark.Actual.": "n/a",
+          "2022.Actual.": "56.0",
+          "2023.Actual.68.7": "60.6",
+          "2024.Projection.63.0": "63.7",
+          "2025.Projection.64.0": "62.5",
+          "2026.Projection.63.7": "61.4",
+          "2027.Projection.61.2": "58.1",
+          "2028.Projection.58.6": "55.7",
+          "2029.Projection.56.2": "49.0",
+          "2034.Projection.49.7": "47.1",
+          "2044.Projection.35.5": "29.4"
+        }
+      ],
+      "columns": [
+        "Indicators..PV of debt-to-GDP",
+        "Benchmark.Actual.",
+        "2022.Actual.",
+        "2023.Actual.68.7",
+        "2024.Projection.63.0",
+        "2025.Projection.64.0",
+        "2026.Projection.63.7",
+        "2027.Projection.61.2",
+        "2028.Projection.58.6",
+        "2029.Projection.56.2",
+        "2034.Projection.49.7",
+        "2044.Projection.35.5"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_009",
+      "caption": "",
+      "heading_path": [
+        "a) Baseline Macroeconomic Assumptions"
+      ],
+      "page_number": 23,
+      "table_index": 9,
+      "markdown": "|                        | Unit.          | 2022/23.Pre-Act.   | 2023/24.Projection   | 2024/25.Projection   | 2025/26.Projection   | 2026/27.Projection   | 2027/28.Projection   |\n|:-----------------------|:---------------|:-------------------|:---------------------|:---------------------|:---------------------|:---------------------|:---------------------|\n| Real GDP Growth        | Percent        | 5.2                | 5.1                  | 5.3                  | 5.4                  | 5.4                  | 5.4                  |\n| GDP Deflator           | Percent        | 6.5                | 5.4                  | 5.7                  | 5.4                  | 5.4                  | 6.3                  |\n| Inflation              | Percent        | 6.9                | 5.4                  | 5.0                  | 5.0                  | 5.0                  | 5.0                  |\n| Revenue                | Percent of GDP | 16.5               | 17.1                 | 16.9                 | 18.2                 | 18.6                 | 19.0                 |\n| Expenditure            | Percent of GDP | 22.5               | 22.8                 | 21.5                 | 22.5                 | 22.5                 | 22.6                 |\n| Overall Fiscal Balance | Percent of GDP | (5.4)              | (5.3)                | (4.3)                | (3.9)                | (3.5)                | (3.3)                |\n| Primary Budget Balance | Percent of GDP | (0.8)              | (0.3)                | 1.3                  | 1.6                  | 2.0                  | 2.3                  |\n| Revenue                | Ksh. Billion   | 2,355.1            | 2,702.7              | 3,060.0              | 3,516.6              | 3,968.1              | 4,470.4              |\n| Expenditure            | Ksh. Billion   | 3,221.0            | 3,605.2              | 3,880.8              | 4,329.3              | 4,782.0              | 5,309.1              |\n| Overall Fiscal Balance | Ksh. Billion   | (805.8)            | (835.1)              | (768.6)              | (759.4)              | (750.3)              | (771.9)              |\n| Primary Budget Balance | Ksh. Billion   | (114.4)            | (22.41)              | 234.7                | 319.5                | 441.0                | 561.2                |\n| GDP (Current Prices)   | Ksh. Billion   | 14,299.2           | 15,826               | 18,053.7             | 21,286               | 23,529               | 26,019               |",
+      "records": [
+        {
+          "": "Real GDP Growth",
+          "Unit.": "Percent",
+          "2022/23.Pre-Act.": "5.2",
+          "2023/24.Projection": "5.1",
+          "2024/25.Projection": "5.3",
+          "2025/26.Projection": "5.4",
+          "2026/27.Projection": "5.4",
+          "2027/28.Projection": "5.4"
+        },
+        {
+          "": "GDP Deflator",
+          "Unit.": "Percent",
+          "2022/23.Pre-Act.": "6.5",
+          "2023/24.Projection": "5.4",
+          "2024/25.Projection": "5.7",
+          "2025/26.Projection": "5.4",
+          "2026/27.Projection": "5.4",
+          "2027/28.Projection": "6.3"
+        },
+        {
+          "": "Inflation",
+          "Unit.": "Percent",
+          "2022/23.Pre-Act.": "6.9",
+          "2023/24.Projection": "5.4",
+          "2024/25.Projection": "5.0",
+          "2025/26.Projection": "5.0",
+          "2026/27.Projection": "5.0",
+          "2027/28.Projection": "5.0"
+        },
+        {
+          "": "Revenue",
+          "Unit.": "Percent of GDP",
+          "2022/23.Pre-Act.": "16.5",
+          "2023/24.Projection": "17.1",
+          "2024/25.Projection": "16.9",
+          "2025/26.Projection": "18.2",
+          "2026/27.Projection": "18.6",
+          "2027/28.Projection": "19.0"
+        },
+        {
+          "": "Expenditure",
+          "Unit.": "Percent of GDP",
+          "2022/23.Pre-Act.": "22.5",
+          "2023/24.Projection": "22.8",
+          "2024/25.Projection": "21.5",
+          "2025/26.Projection": "22.5",
+          "2026/27.Projection": "22.5",
+          "2027/28.Projection": "22.6"
+        },
+        {
+          "": "Overall Fiscal Balance",
+          "Unit.": "Percent of GDP",
+          "2022/23.Pre-Act.": "(5.4)",
+          "2023/24.Projection": "(5.3)",
+          "2024/25.Projection": "(4.3)",
+          "2025/26.Projection": "(3.9)",
+          "2026/27.Projection": "(3.5)",
+          "2027/28.Projection": "(3.3)"
+        },
+        {
+          "": "Primary Budget Balance",
+          "Unit.": "Percent of GDP",
+          "2022/23.Pre-Act.": "(0.8)",
+          "2023/24.Projection": "(0.3)",
+          "2024/25.Projection": "1.3",
+          "2025/26.Projection": "1.6",
+          "2026/27.Projection": "2.0",
+          "2027/28.Projection": "2.3"
+        },
+        {
+          "": "Revenue",
+          "Unit.": "Ksh. Billion",
+          "2022/23.Pre-Act.": "2,355.1",
+          "2023/24.Projection": "2,702.7",
+          "2024/25.Projection": "3,060.0",
+          "2025/26.Projection": "3,516.6",
+          "2026/27.Projection": "3,968.1",
+          "2027/28.Projection": "4,470.4"
+        },
+        {
+          "": "Expenditure",
+          "Unit.": "Ksh. Billion",
+          "2022/23.Pre-Act.": "3,221.0",
+          "2023/24.Projection": "3,605.2",
+          "2024/25.Projection": "3,880.8",
+          "2025/26.Projection": "4,329.3",
+          "2026/27.Projection": "4,782.0",
+          "2027/28.Projection": "5,309.1"
+        },
+        {
+          "": "Overall Fiscal Balance",
+          "Unit.": "Ksh. Billion",
+          "2022/23.Pre-Act.": "(805.8)",
+          "2023/24.Projection": "(835.1)",
+          "2024/25.Projection": "(768.6)",
+          "2025/26.Projection": "(759.4)",
+          "2026/27.Projection": "(750.3)",
+          "2027/28.Projection": "(771.9)"
+        },
+        {
+          "": "Primary Budget Balance",
+          "Unit.": "Ksh. Billion",
+          "2022/23.Pre-Act.": "(114.4)",
+          "2023/24.Projection": "(22.41)",
+          "2024/25.Projection": "234.7",
+          "2025/26.Projection": "319.5",
+          "2026/27.Projection": "441.0",
+          "2027/28.Projection": "561.2"
+        },
+        {
+          "": "GDP (Current Prices)",
+          "Unit.": "Ksh. Billion",
+          "2022/23.Pre-Act.": "14,299.2",
+          "2023/24.Projection": "15,826",
+          "2024/25.Projection": "18,053.7",
+          "2025/26.Projection": "21,286",
+          "2026/27.Projection": "23,529",
+          "2027/28.Projection": "26,019"
+        }
+      ],
+      "columns": [
+        "",
+        "Unit.",
+        "2022/23.Pre-Act.",
+        "2023/24.Projection",
+        "2024/25.Projection",
+        "2025/26.Projection",
+        "2026/27.Projection",
+        "2027/28.Projection"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_010",
+      "caption": "",
+      "heading_path": [
+        "a) Analysis of Costs and  Risks Indicators Under  Alternative  Debt Management Strategies"
+      ],
+      "page_number": 26,
+      "table_index": 10,
+      "markdown": "| Risk Indicators.                     |                                                 |   2024 As at.Curr ent |   end 2028.S1 |   end 2028.S2 |   S3 |   S4 |\n|:-------------------------------------|:------------------------------------------------|----------------------:|--------------:|--------------:|-----:|-----:|\n| Nominal debt as percent of GDP       |                                                 |                  63.7 |          52.7 |          52.8 | 52.7 | 52.5 |\n| Present value debt as percent of GDP |                                                 |                  58.1 |          48.7 |          48.6 | 48.7 | 48.3 |\n| Interest payment as percent of GDP   |                                                 |                   5.4 |           4.3 |           4.4 |  4.3 |  4.1 |\n| Implied interest rate (percent)      |                                                 |                   8.5 |           8.7 |           8.7 |  8.6 |  8.3 |\n| Refinancing risk                     | Debt maturing in 1yr (percent of total)         |                  11.2 |          13.3 |          12.2 | 13.4 | 16.1 |\n| Refinancing risk                     | Debt maturing in 1yr (% of GDP)                 |                   7.5 |           7   |           6.5 |  7.1 |  8.5 |\n| Refinancing risk                     | ATM External Portfolio (years)                  |                   9.5 |           8.8 |           9.1 |  8.5 |  8.6 |\n| Refinancing risk                     | ATM Domestic Portfolio (years)                  |                   6.6 |           8   |           8.2 |  7.7 |  6.3 |\n|                                      | ATM Total Portfolio (years)                     |                   8.1 |           8.4 |           8.6 |  8.1 |  7.5 |\n| Interest rate risk                   | ATR (years)                                     |                   7.3 |           8   |           8.2 |  7.7 |  7.1 |\n|                                      | Debt refixing in 1yr (percent of total)         |                  24.6 |          20   |          18.9 | 21.3 | 24.4 |\n|                                      | Fixed rate debt incl T-bills (percent of total) |                  85.2 |          91.9 |          92.1 | 90.6 | 90   |\n|                                      | T-bills (percent of total)                      |                   5.1 |           4.8 |           3.9 |  4.8 |  6.2 |\n| FX risk                              | FX debt as %of total                            |                  49.3 |          46   |          45.5 | 47.9 | 51.7 |\n|                                      | ST FX debt as %of reserves                      |                  27.5 |          32.6 |          31.2 | 34.2 | 36   |",
+      "records": [
+        {
+          "Risk Indicators.": "Nominal debt as percent of GDP",
+          "": "",
+          "2024 As at.Curr ent": "63.7",
+          "end 2028.S1": "52.7",
+          "end 2028.S2": "52.8",
+          "S3": "52.7",
+          "S4": "52.5"
+        },
+        {
+          "Risk Indicators.": "Present value debt as percent of GDP",
+          "": "",
+          "2024 As at.Curr ent": "58.1",
+          "end 2028.S1": "48.7",
+          "end 2028.S2": "48.6",
+          "S3": "48.7",
+          "S4": "48.3"
+        },
+        {
+          "Risk Indicators.": "Interest payment as percent of GDP",
+          "": "",
+          "2024 As at.Curr ent": "5.4",
+          "end 2028.S1": "4.3",
+          "end 2028.S2": "4.4",
+          "S3": "4.3",
+          "S4": "4.1"
+        },
+        {
+          "Risk Indicators.": "Implied interest rate (percent)",
+          "": "",
+          "2024 As at.Curr ent": "8.5",
+          "end 2028.S1": "8.7",
+          "end 2028.S2": "8.7",
+          "S3": "8.6",
+          "S4": "8.3"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "Debt maturing in 1yr (percent of total)",
+          "2024 As at.Curr ent": "11.2",
+          "end 2028.S1": "13.3",
+          "end 2028.S2": "12.2",
+          "S3": "13.4",
+          "S4": "16.1"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "Debt maturing in 1yr (% of GDP)",
+          "2024 As at.Curr ent": "7.5",
+          "end 2028.S1": "7.0",
+          "end 2028.S2": "6.5",
+          "S3": "7.1",
+          "S4": "8.5"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "ATM External Portfolio (years)",
+          "2024 As at.Curr ent": "9.5",
+          "end 2028.S1": "8.8",
+          "end 2028.S2": "9.1",
+          "S3": "8.5",
+          "S4": "8.6"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "ATM Domestic Portfolio (years)",
+          "2024 As at.Curr ent": "6.6",
+          "end 2028.S1": "8.0",
+          "end 2028.S2": "8.2",
+          "S3": "7.7",
+          "S4": "6.3"
+        },
+        {
+          "Risk Indicators.": "",
+          "": "ATM Total Portfolio (years)",
+          "2024 As at.Curr ent": "8.1",
+          "end 2028.S1": "8.4",
+          "end 2028.S2": "8.6",
+          "S3": "8.1",
+          "S4": "7.5"
+        },
+        {
+          "Risk Indicators.": "Interest rate risk",
+          "": "ATR (years)",
+          "2024 As at.Curr ent": "7.3",
+          "end 2028.S1": "8.0",
+          "end 2028.S2": "8.2",
+          "S3": "7.7",
+          "S4": "7.1"
+        },
+        {
+          "Risk Indicators.": "",
+          "": "Debt refixing in 1yr (percent of total)",
+          "2024 As at.Curr ent": "24.6",
+          "end 2028.S1": "20.0",
+          "end 2028.S2": "18.9",
+          "S3": "21.3",
+          "S4": "24.4"
+        },
+        {
+          "Risk Indicators.": "",
+          "": "Fixed rate debt incl T-bills (percent of total)",
+          "2024 As at.Curr ent": "85.2",
+          "end 2028.S1": "91.9",
+          "end 2028.S2": "92.1",
+          "S3": "90.6",
+          "S4": "90.0"
+        },
+        {
+          "Risk Indicators.": "",
+          "": "T-bills (percent of total)",
+          "2024 As at.Curr ent": "5.1",
+          "end 2028.S1": "4.8",
+          "end 2028.S2": "3.9",
+          "S3": "4.8",
+          "S4": "6.2"
+        },
+        {
+          "Risk Indicators.": "FX risk",
+          "": "FX debt as %of total",
+          "2024 As at.Curr ent": "49.3",
+          "end 2028.S1": "46.0",
+          "end 2028.S2": "45.5",
+          "S3": "47.9",
+          "S4": "51.7"
+        },
+        {
+          "Risk Indicators.": "",
+          "": "ST FX debt as %of reserves",
+          "2024 As at.Curr ent": "27.5",
+          "end 2028.S1": "32.6",
+          "end 2028.S2": "31.2",
+          "S3": "34.2",
+          "S4": "36.0"
+        }
+      ],
+      "columns": [
+        "Risk Indicators.",
+        "",
+        "2024 As at.Curr ent",
+        "end 2028.S1",
+        "end 2028.S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_011",
+      "caption": "",
+      "heading_path": [
+        "e) Risks to the Strategy"
+      ],
+      "page_number": 28,
+      "table_index": 11,
+      "markdown": "| Risk Indicators.                     |                                                 |   June 2024.Current |   As at end 2028.Optimal Strategy |\n|:-------------------------------------|:------------------------------------------------|--------------------:|----------------------------------:|\n| Nominal debt as percent of GDP       |                                                 |                65.7 |                              52.8 |\n| Present value debt as percent of GDP |                                                 |                63   |                              48.6 |\n| Interest payment as percent of GDP   |                                                 |                 5.4 |                               4.4 |\n| Implied interest rate (percent)      |                                                 |                 8.5 |                               8.7 |\n| Refinancing risk                     | Debt maturing in 1yr (percent of total)         |                11.2 |                              12.2 |\n| Refinancing risk                     | Debt maturing in 1yr (% of GDP)                 |                 7.5 |                               6.5 |\n| Refinancing risk                     | ATM External Portfolio (years)                  |                 9.5 |                               9.1 |\n| Refinancing risk                     | ATM Domestic Portfolio (years)                  |                 6.6 |                               8.2 |\n| Refinancing risk                     | ATM Total Portfolio (years)                     |                 8.1 |                               8.6 |\n| Interest rate risk                   | ATR (years)                                     |                 7.3 |                               8.2 |\n| Interest rate risk                   | Debt refixing in 1yr (percent of total)         |                24.6 |                              18.9 |\n| Interest rate risk                   | Fixed rate debt incl T-bills (percent of total) |                85.2 |                              92.1 |\n| Interest rate risk                   | T-bills (percent of total)                      |                 5.1 |                               3.9 |\n| FX risk                              | FX debt as %of total                            |                49.3 |                              45.5 |\n|                                      | ST FX debt as %of reserves                      |                27.5 |                              31.2 |",
+      "records": [
+        {
+          "Risk Indicators.": "Nominal debt as percent of GDP",
+          "": "",
+          "June 2024.Current": "65.7",
+          "As at end 2028.Optimal Strategy": "52.8"
+        },
+        {
+          "Risk Indicators.": "Present value debt as percent of GDP",
+          "": "",
+          "June 2024.Current": "63.0",
+          "As at end 2028.Optimal Strategy": "48.6"
+        },
+        {
+          "Risk Indicators.": "Interest payment as percent of GDP",
+          "": "",
+          "June 2024.Current": "5.4",
+          "As at end 2028.Optimal Strategy": "4.4"
+        },
+        {
+          "Risk Indicators.": "Implied interest rate (percent)",
+          "": "",
+          "June 2024.Current": "8.5",
+          "As at end 2028.Optimal Strategy": "8.7"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "Debt maturing in 1yr (percent of total)",
+          "June 2024.Current": "11.2",
+          "As at end 2028.Optimal Strategy": "12.2"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "Debt maturing in 1yr (% of GDP)",
+          "June 2024.Current": "7.5",
+          "As at end 2028.Optimal Strategy": "6.5"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "ATM External Portfolio (years)",
+          "June 2024.Current": "9.5",
+          "As at end 2028.Optimal Strategy": "9.1"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "ATM Domestic Portfolio (years)",
+          "June 2024.Current": "6.6",
+          "As at end 2028.Optimal Strategy": "8.2"
+        },
+        {
+          "Risk Indicators.": "Refinancing risk",
+          "": "ATM Total Portfolio (years)",
+          "June 2024.Current": "8.1",
+          "As at end 2028.Optimal Strategy": "8.6"
+        },
+        {
+          "Risk Indicators.": "Interest rate risk",
+          "": "ATR (years)",
+          "June 2024.Current": "7.3",
+          "As at end 2028.Optimal Strategy": "8.2"
+        },
+        {
+          "Risk Indicators.": "Interest rate risk",
+          "": "Debt refixing in 1yr (percent of total)",
+          "June 2024.Current": "24.6",
+          "As at end 2028.Optimal Strategy": "18.9"
+        },
+        {
+          "Risk Indicators.": "Interest rate risk",
+          "": "Fixed rate debt incl T-bills (percent of total)",
+          "June 2024.Current": "85.2",
+          "As at end 2028.Optimal Strategy": "92.1"
+        },
+        {
+          "Risk Indicators.": "Interest rate risk",
+          "": "T-bills (percent of total)",
+          "June 2024.Current": "5.1",
+          "As at end 2028.Optimal Strategy": "3.9"
+        },
+        {
+          "Risk Indicators.": "FX risk",
+          "": "FX debt as %of total",
+          "June 2024.Current": "49.3",
+          "As at end 2028.Optimal Strategy": "45.5"
+        },
+        {
+          "Risk Indicators.": "",
+          "": "ST FX debt as %of reserves",
+          "June 2024.Current": "27.5",
+          "As at end 2028.Optimal Strategy": "31.2"
+        }
+      ],
+      "columns": [
+        "Risk Indicators.",
+        "",
+        "June 2024.Current",
+        "As at end 2028.Optimal Strategy"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_012",
+      "caption": "76. The Government will implement the debt management strategy through the Annual Borrowing Plan (ABP). The implementation work plan is shown in Table 13 below.",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 31,
+      "table_index": 12,
+      "markdown": "|   NO. | OUTPUT                                                              | ACTIVITY                                                                                                                | TIME FRAME                                           | ACTION BY                                              | DATA/INFORMATION SOURCE                          |\n|------:|:--------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|:-------------------------------------------------------|:-------------------------------------------------|\n|     1 | 2025 MTDS                                                           | Review of 2023 MTDS, preparation and submission of 2025 MTDS to Parliament                                              | 2024 November to 2025 February                       | PDMO PS/NT CS/NT&P Cabinet Parliament                  | 2025 BPS, 2024 BROP CS DRMS CBK 2023 &2024 MTDS  |\n|     2 | Dissemination of the 2025 MTDS to the National Treasury Departments | Circulation of printed copies, clear dissemination of the information to implementing departments and training counties | 2025 February                                        | PDMO                                                   | 2025 MTDS                                        |\n|     3 | CFS (Debt) Budget estimates                                         | Prepare the debt service projections and CFS budget estimates                                                           | Annually as per Budget Calendar and during revisions | PDMO /BD MFAD /CBK PS/NT, CS/NT&EP Cabinet /Parliament | PDMO                                             |\n|     4 | Quarterly MTDS monitoring and evaluation report                     | Technical Fora and peer review of implementation of the MTDS                                                            | Quarterly                                            | PDMO; MFAD CBK; CoG                                    | 2025 BPS, 2024 BROP CS DRMS; CBK 2024 &2025 MTDS |\n|     5 | Monthly debt management reports                                     | Access of domestic and external borrowing and repayment data                                                            | Monthly                                              | PDMO CBK                                               | RMD CBK FMA/NT                                   |\n|     6 | 2025 MTDS half year performance review                              | Undertake half year review of performance of the 2025 MTDS                                                              | Every six months after effective date of the MTDS    | PDMO CBK MFAD                                          | RMD DRS CBK MFAD                                 |\n|     7 | FCCL Report                                                         | Undertake analysis of FCCL and FCCL assessment                                                                          | Annually                                             | PDMO; PPP Unit MFAD; CBK                               | PPP Unit                                         |",
+      "records": [
+        {
+          "NO.": "1.",
+          "OUTPUT": "2025 MTDS",
+          "ACTIVITY": "Review of 2023 MTDS, preparation and submission of 2025 MTDS to Parliament",
+          "TIME FRAME": "2024 November to 2025 February",
+          "ACTION BY": "PDMO PS/NT CS/NT&P Cabinet Parliament",
+          "DATA/INFORMATION SOURCE": "2025 BPS, 2024 BROP CS DRMS CBK 2023 &2024 MTDS"
+        },
+        {
+          "NO.": "2.",
+          "OUTPUT": "Dissemination of the 2025 MTDS to the National Treasury Departments",
+          "ACTIVITY": "Circulation of printed copies, clear dissemination of the information to implementing departments and training counties",
+          "TIME FRAME": "2025 February",
+          "ACTION BY": "PDMO",
+          "DATA/INFORMATION SOURCE": "2025 MTDS"
+        },
+        {
+          "NO.": "3.",
+          "OUTPUT": "CFS (Debt) Budget estimates",
+          "ACTIVITY": "Prepare the debt service projections and CFS budget estimates",
+          "TIME FRAME": "Annually as per Budget Calendar and during revisions",
+          "ACTION BY": "PDMO /BD MFAD /CBK PS/NT, CS/NT&EP Cabinet /Parliament",
+          "DATA/INFORMATION SOURCE": "PDMO"
+        },
+        {
+          "NO.": "4.",
+          "OUTPUT": "Quarterly MTDS monitoring and evaluation report",
+          "ACTIVITY": "Technical Fora and peer review of implementation of the MTDS",
+          "TIME FRAME": "Quarterly",
+          "ACTION BY": "PDMO; MFAD CBK; CoG",
+          "DATA/INFORMATION SOURCE": "2025 BPS, 2024 BROP CS DRMS; CBK 2024 &2025 MTDS"
+        },
+        {
+          "NO.": "5.",
+          "OUTPUT": "Monthly debt management reports",
+          "ACTIVITY": "Access of domestic and external borrowing and repayment data",
+          "TIME FRAME": "Monthly",
+          "ACTION BY": "PDMO CBK",
+          "DATA/INFORMATION SOURCE": "RMD CBK FMA/NT"
+        },
+        {
+          "NO.": "6.",
+          "OUTPUT": "2025 MTDS half year performance review",
+          "ACTIVITY": "Undertake half year review of performance of the 2025 MTDS",
+          "TIME FRAME": "Every six months after effective date of the MTDS",
+          "ACTION BY": "PDMO CBK MFAD",
+          "DATA/INFORMATION SOURCE": "RMD DRS CBK MFAD"
+        },
+        {
+          "NO.": "7.",
+          "OUTPUT": "FCCL Report",
+          "ACTIVITY": "Undertake analysis of FCCL and FCCL assessment",
+          "TIME FRAME": "Annually",
+          "ACTION BY": "PDMO; PPP Unit MFAD; CBK",
+          "DATA/INFORMATION SOURCE": "PPP Unit"
+        }
+      ],
+      "columns": [
+        "NO.",
+        "OUTPUT",
+        "ACTIVITY",
+        "TIME FRAME",
+        "ACTION BY",
+        "DATA/INFORMATION SOURCE"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_013",
+      "caption": "Table 13: MTDS Implementation Work Plan",
+      "heading_path": [
+        "a) Domestic and External Borrowing Plan"
+      ],
+      "page_number": 32,
+      "table_index": 13,
+      "markdown": "|   0 | 1                           | 2                                               | 3         | 4                                                    | 5                                |\n|----:|:----------------------------|:------------------------------------------------|:----------|:-----------------------------------------------------|:---------------------------------|\n|   8 | Review of issuance calendar | Stakeholders Forums to review issuance calendar | Quarterly | PDMO AGD CBK MFAD Market Participants PS/NT CS/NT&EP | PDMO CBK AGD Market Participants |",
+      "records": [
+        {
+          "0": "8.",
+          "1": "Review of issuance calendar",
+          "2": "Stakeholders Forums to review issuance calendar",
+          "3": "Quarterly",
+          "4": "PDMO AGD CBK MFAD Market Participants PS/NT CS/NT&EP",
+          "5": "PDMO CBK AGD Market Participants"
+        }
+      ],
+      "columns": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_014",
+      "caption": "Similarly, guaranteed State-Owned  Enterprises' debt, fiscal  commitments  and contingent  liabilities will  be tracked  and  assessed  against  overall  public  debt sustainability levels.",
+      "heading_path": [
+        "c) Monitoring and Review of Cost and Risk Indicator Outturn of the Strategy"
+      ],
+      "page_number": 33,
+      "table_index": 14,
+      "markdown": "| Risk Indicators               | Risk Indicators                   |   Baseline June 2024 |   2025 MTDS (2028 Expected outcome) | Actual by month*   | Deviation   | Remarks   |\n|:------------------------------|:----------------------------------|---------------------:|------------------------------------:|:-------------------|:------------|:----------|\n| Nominal debt as %of GDP       | Nominal debt as %of GDP           |                 63.7 |                                52.8 |                    |             |           |\n| Present value debt as %of GDP | Present value debt as %of GDP     |                 58.1 |                                48.6 |                    |             |           |\n| Interest payment as %of GDP   | Interest payment as %of GDP       |                  5.4 |                                 4.4 |                    |             |           |\n| Implied interest rate (%)     | Implied interest rate (%)         |                  8.5 |                                 8.7 |                    |             |           |\n| Refinancing risk              | Debt maturing in 1yr (% of total) |                 11.2 |                                12.2 |                    |             |           |\n| Refinancing risk              | Debt maturing in 1yr (% of GDP)   |                  7.5 |                                 6.5 |                    |             |           |\n| Refinancing risk              | ATMExternal Portfolio (years)     |                  9.5 |                                 9.1 |                    |             |           |\n| Refinancing risk              | ATM Domestic Portfolio (years)    |                  6.6 |                                 8.2 |                    |             |           |\n| Refinancing risk              | ATM Total Portfolio (years)       |                  8.1 |                                 8.6 |                    |             |           |\n| Interest rate risk            | ATR (years)                       |                  7.3 |                                 8.2 |                    |             |           |\n| Interest rate risk            | Debt refixing in 1yr (% of total) |                 24.6 |                                18.9 |                    |             |           |\n| Interest rate risk            | Fixed rate debt (% of total)      |                 85.2 |                                92.1 |                    |             |           |\n| FX risk                       | FX debt as %of total              |                 49.3 |                                45.5 |                    |             |           |",
+      "records": [
+        {
+          "Risk Indicators": "Nominal debt as %of GDP",
+          "Baseline June 2024": "63.7",
+          "2025 MTDS (2028 Expected outcome)": "52.8",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Present value debt as %of GDP",
+          "Baseline June 2024": "58.1",
+          "2025 MTDS (2028 Expected outcome)": "48.6",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Interest payment as %of GDP",
+          "Baseline June 2024": "5.4",
+          "2025 MTDS (2028 Expected outcome)": "4.4",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Implied interest rate (%)",
+          "Baseline June 2024": "8.5",
+          "2025 MTDS (2028 Expected outcome)": "8.7",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Debt maturing in 1yr (% of total)",
+          "Baseline June 2024": "11.2",
+          "2025 MTDS (2028 Expected outcome)": "12.2",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Debt maturing in 1yr (% of GDP)",
+          "Baseline June 2024": "7.5",
+          "2025 MTDS (2028 Expected outcome)": "6.5",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "ATMExternal Portfolio (years)",
+          "Baseline June 2024": "9.5",
+          "2025 MTDS (2028 Expected outcome)": "9.1",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "ATM Domestic Portfolio (years)",
+          "Baseline June 2024": "6.6",
+          "2025 MTDS (2028 Expected outcome)": "8.2",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "ATM Total Portfolio (years)",
+          "Baseline June 2024": "8.1",
+          "2025 MTDS (2028 Expected outcome)": "8.6",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "ATR (years)",
+          "Baseline June 2024": "7.3",
+          "2025 MTDS (2028 Expected outcome)": "8.2",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Debt refixing in 1yr (% of total)",
+          "Baseline June 2024": "24.6",
+          "2025 MTDS (2028 Expected outcome)": "18.9",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "Fixed rate debt (% of total)",
+          "Baseline June 2024": "85.2",
+          "2025 MTDS (2028 Expected outcome)": "92.1",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        },
+        {
+          "Risk Indicators": "FX debt as %of total",
+          "Baseline June 2024": "49.3",
+          "2025 MTDS (2028 Expected outcome)": "45.5",
+          "Actual by month*": "",
+          "Deviation": "",
+          "Remarks": ""
+        }
+      ],
+      "columns": [
+        "Risk Indicators",
+        "Risk Indicators",
+        "Baseline June 2024",
+        "2025 MTDS (2028 Expected outcome)",
+        "Actual by month*",
+        "Deviation",
+        "Remarks"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_015",
+      "caption": "ANNEXES",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 34,
+      "table_index": 15,
+      "markdown": "| New debt in %of Total Gross Borrowing   |   S1 |   S2 |   S3 |   S4 |\n|:----------------------------------------|-----:|-----:|-----:|-----:|\n| ADF                                     |    1 |    1 |    1 |    1 |\n| IDA/IFAD                                |    4 |    5 |    3 |    4 |\n| Concessional                            |    5 |    6 |    4 |    5 |\n| Semi-Concessional                       |    1 |    1 |    2 |    2 |\n| Commercial/International Sovereign Bond |   15 |   13 |   18 |   21 |\n| Treasury bills                          |   32 |   28 |   32 |   40 |\n| Treasury bonds 2-3 Years                |    3 |    5 |    4 |    7 |\n| Treasury bonds 4-7 Years                |    6 |    7 |    6 |    3 |\n| Treasury bonds 8-12 Years               |   12 |   12 |   10 |    6 |\n| Treasury bonds 13-17 Years              |   12 |   13 |   11 |    7 |\n| Treasury bonds 18-22 Years              |    6 |    6 |    6 |    3 |\n| Treasury bonds 23-30 Years              |    4 |    5 |    3 |    1 |\n| External                                |   25 |   25 |   28 |   32 |\n| Domestic                                |   75 |   75 |   72 |   68 |\n| Total                                   |  100 |  100 |  100 |  100 |",
+      "records": [
+        {
+          "New debt in %of Total Gross Borrowing": "ADF",
+          "S1": "1",
+          "S2": "1",
+          "S3": "1",
+          "S4": "1"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "IDA/IFAD",
+          "S1": "4",
+          "S2": "5",
+          "S3": "3",
+          "S4": "4"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Concessional",
+          "S1": "5",
+          "S2": "6",
+          "S3": "4",
+          "S4": "5"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Semi-Concessional",
+          "S1": "1",
+          "S2": "1",
+          "S3": "2",
+          "S4": "2"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Commercial/International Sovereign Bond",
+          "S1": "15",
+          "S2": "13",
+          "S3": "18",
+          "S4": "21"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bills",
+          "S1": "32",
+          "S2": "28",
+          "S3": "32",
+          "S4": "40"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bonds 2-3 Years",
+          "S1": "3",
+          "S2": "5",
+          "S3": "4",
+          "S4": "7"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bonds 4-7 Years",
+          "S1": "6",
+          "S2": "7",
+          "S3": "6",
+          "S4": "3"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bonds 8-12 Years",
+          "S1": "12",
+          "S2": "12",
+          "S3": "10",
+          "S4": "6"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bonds 13-17 Years",
+          "S1": "12",
+          "S2": "13",
+          "S3": "11",
+          "S4": "7"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bonds 18-22 Years",
+          "S1": "6",
+          "S2": "6",
+          "S3": "6",
+          "S4": "3"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Treasury bonds 23-30 Years",
+          "S1": "4",
+          "S2": "5",
+          "S3": "3",
+          "S4": "1"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "External",
+          "S1": "25",
+          "S2": "25",
+          "S3": "28",
+          "S4": "32"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Domestic",
+          "S1": "75",
+          "S2": "75",
+          "S3": "72",
+          "S4": "68"
+        },
+        {
+          "New debt in %of Total Gross Borrowing": "Total",
+          "S1": "100",
+          "S2": "100",
+          "S3": "100",
+          "S4": "100"
+        }
+      ],
+      "columns": [
+        "New debt in %of Total Gross Borrowing",
+        "S1",
+        "S2",
+        "S3",
+        "S4"
+      ]
+    },
+    {
+      "table_id": "medium_term_debt_management_strategy_dra_table_016",
+      "caption": "Annex 1: Average New Borrowing by Instrument under Alternative Strategies (in percent of gross borrowing by end of FY 2027/28)",
+      "heading_path": [
+        "ANNEXES"
+      ],
+      "page_number": 35,
+      "table_index": 16,
+      "markdown": "| In Percent of Total                     | FY 2023/24   | As at end FY2027/28   | As at end FY2027/28   | As at end FY2027/28   | As at end FY2027/28   |\n|:----------------------------------------|:-------------|:----------------------|:----------------------|:----------------------|:----------------------|\n| Outstanding by Instrument               | Current      | S1                    | S2                    | S3                    | S4                    |\n| ADF                                     | 3            | 3                     | 3                     | 3                     | 3                     |\n| IDA/IFAD                                | 15           | 14                    | 15                    | 14                    | 15                    |\n| Concessional                            | 3            | 5                     | 5                     | 4                     | 5                     |\n| Semi-Concessional                       | 6            | 3                     | 3                     | 4                     | 4                     |\n| Commercial/International Sovereign Bond | 23           | 21                    | 20                    | 23                    | 26                    |\n| Treasury bills                          | 5            | 5                     | 4                     | 5                     | 6                     |\n| Treasury bonds 2-3 Years                | 3            | 1                     | 2                     | 2                     | 4                     |\n| Treasury bonds 4-7 Years                | 8            | 6                     | 6                     | 6                     | 5                     |\n| Treasury bonds 8-12 Years               | 11           | 13                    | 13                    | 12                    | 10                    |\n| Treasury bonds 13-17 Years              | 12           | 14                    | 14                    | 13                    | 11                    |\n| Treasury bonds 18-22 Years              | 9            | 10                    | 10                    | 10                    | 9                     |\n| Treasury bonds 23-30 Years              | 3            | 4                     | 5                     | 4                     | 3                     |\n| External                                | 49           | 46                    | 46                    | 48                    | 52                    |\n| Domestic                                | 51           | 54                    | 54                    | 52                    | 48                    |\n| Total                                   | 100          | 100                   | 100                   | 100                   | 100                   |",
+      "records": [
+        {
+          "In Percent of Total": "Outstanding by Instrument",
+          "FY 2023/24": "Current",
+          "As at end FY2027/28": "S4"
+        },
+        {
+          "In Percent of Total": "ADF",
+          "FY 2023/24": "3",
+          "As at end FY2027/28": "3"
+        },
+        {
+          "In Percent of Total": "IDA/IFAD",
+          "FY 2023/24": "15",
+          "As at end FY2027/28": "15"
+        },
+        {
+          "In Percent of Total": "Concessional",
+          "FY 2023/24": "3",
+          "As at end FY2027/28": "5"
+        },
+        {
+          "In Percent of Total": "Semi-Concessional",
+          "FY 2023/24": "6",
+          "As at end FY2027/28": "4"
+        },
+        {
+          "In Percent of Total": "Commercial/International Sovereign Bond",
+          "FY 2023/24": "23",
+          "As at end FY2027/28": "26"
+        },
+        {
+          "In Percent of Total": "Treasury bills",
+          "FY 2023/24": "5",
+          "As at end FY2027/28": "6"
+        },
+        {
+          "In Percent of Total": "Treasury bonds 2-3 Years",
+          "FY 2023/24": "3",
+          "As at end FY2027/28": "4"
+        },
+        {
+          "In Percent of Total": "Treasury bonds 4-7 Years",
+          "FY 2023/24": "8",
+          "As at end FY2027/28": "5"
+        },
+        {
+          "In Percent of Total": "Treasury bonds 8-12 Years",
+          "FY 2023/24": "11",
+          "As at end FY2027/28": "10"
+        },
+        {
+          "In Percent of Total": "Treasury bonds 13-17 Years",
+          "FY 2023/24": "12",
+          "As at end FY2027/28": "11"
+        },
+        {
+          "In Percent of Total": "Treasury bonds 18-22 Years",
+          "FY 2023/24": "9",
+          "As at end FY2027/28": "9"
+        },
+        {
+          "In Percent of Total": "Treasury bonds 23-30 Years",
+          "FY 2023/24": "3",
+          "As at end FY2027/28": "3"
+        },
+        {
+          "In Percent of Total": "External",
+          "FY 2023/24": "49",
+          "As at end FY2027/28": "52"
+        },
+        {
+          "In Percent of Total": "Domestic",
+          "FY 2023/24": "51",
+          "As at end FY2027/28": "48"
+        },
+        {
+          "In Percent of Total": "Total",
+          "FY 2023/24": "100",
+          "As at end FY2027/28": "100"
+        }
+      ],
+      "columns": [
+        "In Percent of Total",
+        "FY 2023/24",
+        "As at end FY2027/28",
+        "As at end FY2027/28",
+        "As at end FY2027/28",
+        "As at end FY2027/28"
+      ]
+    }
+  ]
+}
