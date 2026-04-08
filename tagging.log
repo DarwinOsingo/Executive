@@ -158,3 +158,151 @@
 2026-04-07 23:53:02,642 | INFO |    Skipped : 0
 2026-04-07 23:53:02,643 | INFO |    Output → /home/darwin/PRES/Executive/central_inventory.csv
 2026-04-07 23:53:02,643 | INFO |    Next: Proceed to chunk_documents.py
+2026-04-08 07:27:11,500 | INFO | Found 438 PDFs in central /home/darwin/PRES/Executive/data/raw
+2026-04-08 07:27:11,561 | WARNING | Ollama classify failed for '2007.10.years.report.kictanet': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,576 | WARNING | Ollama classify failed for '2017.final.v': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,601 | WARNING | Ollama classify failed for '2020.energy.statistics.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,607 | INFO | Processed 50 documents...
+2026-04-08 07:27:11,618 | WARNING | Ollama classify failed for '2021.2022.treasury.memorandum.public.accounts.committee.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,649 | WARNING | Ollama classify failed for '2021.final.mag.post': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,659 | WARNING | Ollama classify failed for '2021.masterplan.ketraco.national.ict.plan': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,672 | WARNING | Ollama classify failed for '2021.sr.knec.youth.in.agribusiness.strategy': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,673 | INFO | Processed 100 documents...
+2026-04-08 07:27:11,694 | WARNING | Ollama classify failed for '2022.anual.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,707 | WARNING | Ollama classify failed for '2022.masterplan.ministry.of.ict.kenya.digital': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,722 | INFO | Processed 150 documents...
+2026-04-08 07:27:11,762 | WARNING | Ollama classify failed for '2023.final.srp.monthly.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,767 | WARNING | Ollama classify failed for '2023.final.srp.october.2023': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,773 | WARNING | Ollama classify failed for '2023.final.srp.vmgf': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,801 | WARNING | Ollama classify failed for '2023.statistics.epra': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,805 | INFO | Processed 200 documents...
+2026-04-08 07:27:11,829 | WARNING | Ollama classify failed for '2024.report.ministryofeducation.educationsector': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,836 | WARNING | Ollama classify failed for '2025.annual.review.ncsc': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,845 | WARNING | Ollama classify failed for '2025.qualitative.gdp.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,850 | WARNING | Ollama classify failed for '2025.report.donor.roundtable.funding.globally': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,854 | WARNING | Ollama classify failed for '2025.report.ministryofeducation.educationsector': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,860 | WARNING | Ollama classify failed for '2025.statistics.report.june.epra': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,864 | INFO | Processed 250 documents...
+2026-04-08 07:27:11,872 | WARNING | Ollama classify failed for 'annual.national.government.budget.oct.2017': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,894 | WARNING | Ollama classify failed for 'anuall.coprate.report.2022.23.1': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,898 | INFO | Processed 300 documents...
+2026-04-08 07:27:11,915 | WARNING | Ollama classify failed for 'environment.and.social.commitment.plan.escp.for.green.phase.2.project': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,918 | INFO | Processed 350 documents...
+2026-04-08 07:27:11,924 | WARNING | Ollama classify failed for 'fy.2024.25.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,928 | WARNING | Ollama classify failed for 'fy.2024.program.based.budget.book': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,947 | WARNING | Ollama classify failed for 'national.government.oct.website.1': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,950 | WARNING | Ollama classify failed for 'national.government.oct.website': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,952 | INFO | Processed 400 documents...
+2026-04-08 07:27:11,959 | WARNING | Ollama classify failed for 'officeofthedirectorofpublicprosecutions.report.no2.2013': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,967 | WARNING | Ollama classify failed for 'summary.report.2019.2020': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:11,972 | WARNING | Ollama classify failed for 'september.book.2022': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:27:12,010 | INFO | ✅ Tagging completed!
+2026-04-08 07:27:12,011 | INFO |    Documents processed : 438
+2026-04-08 07:27:12,011 | INFO |    Skipped : 0
+2026-04-08 07:27:12,011 | INFO |    Output → /home/darwin/PRES/Executive/central_inventory.csv
+2026-04-08 07:27:12,011 | INFO |    Next: Proceed to chunk_documents.py
+2026-04-08 07:31:42,267 | INFO | Found 438 PDFs in central /home/darwin/PRES/Executive/data/raw
+2026-04-08 07:31:42,313 | WARNING | Ollama classify failed for '2007.10.years.report.kictanet': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,329 | WARNING | Ollama classify failed for '2017.final.v': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,350 | WARNING | Ollama classify failed for '2020.energy.statistics.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,353 | INFO | Processed 50 documents...
+2026-04-08 07:31:42,361 | WARNING | Ollama classify failed for '2021.2022.treasury.memorandum.public.accounts.committee.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,379 | WARNING | Ollama classify failed for '2021.final.mag.post': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,384 | WARNING | Ollama classify failed for '2021.masterplan.ketraco.national.ict.plan': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,395 | WARNING | Ollama classify failed for '2021.sr.knec.youth.in.agribusiness.strategy': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,396 | INFO | Processed 100 documents...
+2026-04-08 07:31:42,408 | WARNING | Ollama classify failed for '2022.anual.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,416 | WARNING | Ollama classify failed for '2022.masterplan.ministry.of.ict.kenya.digital': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,424 | INFO | Processed 150 documents...
+2026-04-08 07:31:42,442 | WARNING | Ollama classify failed for '2023.final.srp.monthly.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,447 | WARNING | Ollama classify failed for '2023.final.srp.october.2023': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,451 | WARNING | Ollama classify failed for '2023.final.srp.vmgf': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,464 | WARNING | Ollama classify failed for '2023.statistics.epra': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,465 | INFO | Processed 200 documents...
+2026-04-08 07:31:42,484 | WARNING | Ollama classify failed for '2024.report.ministryofeducation.educationsector': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,493 | WARNING | Ollama classify failed for '2025.annual.review.ncsc': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,503 | WARNING | Ollama classify failed for '2025.qualitative.gdp.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,508 | WARNING | Ollama classify failed for '2025.report.donor.roundtable.funding.globally': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,513 | WARNING | Ollama classify failed for '2025.report.ministryofeducation.educationsector': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,521 | WARNING | Ollama classify failed for '2025.statistics.report.june.epra': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,525 | INFO | Processed 250 documents...
+2026-04-08 07:31:42,534 | WARNING | Ollama classify failed for 'annual.national.government.budget.oct.2017': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,561 | WARNING | Ollama classify failed for 'anuall.coprate.report.2022.23.1': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,566 | INFO | Processed 300 documents...
+2026-04-08 07:31:42,589 | WARNING | Ollama classify failed for 'environment.and.social.commitment.plan.escp.for.green.phase.2.project': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,593 | INFO | Processed 350 documents...
+2026-04-08 07:31:42,604 | WARNING | Ollama classify failed for 'fy.2024.25.report': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,609 | WARNING | Ollama classify failed for 'fy.2024.program.based.budget.book': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,632 | WARNING | Ollama classify failed for 'national.government.oct.website.1': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,637 | WARNING | Ollama classify failed for 'national.government.oct.website': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,639 | INFO | Processed 400 documents...
+2026-04-08 07:31:42,647 | WARNING | Ollama classify failed for 'officeofthedirectorofpublicprosecutions.report.no2.2013': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,660 | WARNING | Ollama classify failed for 'summary.report.2019.2020': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,665 | WARNING | Ollama classify failed for 'september.book.2022': 404 Client Error: Not Found for url: http://localhost:11434/api/generate
+2026-04-08 07:31:42,693 | INFO | ✅ Tagging completed!
+2026-04-08 07:31:42,693 | INFO |    Documents processed : 438
+2026-04-08 07:31:42,693 | INFO |    Skipped : 0
+2026-04-08 07:31:42,694 | INFO |    Output → /home/darwin/PRES/Executive/central_inventory.csv
+2026-04-08 07:31:42,694 | INFO |    Next: Proceed to chunk_documents.py
+2026-04-08 07:38:10,494 | INFO | Found 438 PDFs in central /home/darwin/PRES/Executive/data/raw
+2026-04-08 07:38:26,927 | WARNING | Ollama unrecognised response for '2007.10.years.report.kictanet': 'unknown'
+2026-04-08 07:38:28,305 | WARNING | Ollama unrecognised response for '2017.final.v': 'unknown'
+2026-04-08 07:38:29,942 | INFO | Processed 50 documents...
+2026-04-08 07:38:36,841 | INFO | Processed 100 documents...
+2026-04-08 07:38:40,133 | INFO | Processed 150 documents...
+2026-04-08 07:38:46,570 | INFO | Processed 200 documents...
+2026-04-08 07:38:54,811 | WARNING | Ollama unrecognised response for '2025.report.donor.roundtable.funding.globally': 'unknown'
+2026-04-08 07:38:58,096 | INFO | Processed 250 documents...
+2026-04-08 07:39:02,029 | INFO | Processed 300 documents...
+2026-04-08 07:39:04,168 | INFO | Processed 350 documents...
+2026-04-08 07:39:08,879 | WARNING | Ollama unrecognised response for 'national.government.oct.website.1': 'unknown'
+2026-04-08 07:39:09,846 | WARNING | Ollama unrecognised response for 'national.government.oct.website': 'unknown'
+2026-04-08 07:39:09,850 | INFO | Processed 400 documents...
+2026-04-08 07:39:15,291 | INFO | ✅ Tagging completed!
+2026-04-08 07:39:15,292 | INFO |    Documents processed : 438
+2026-04-08 07:39:15,292 | INFO |    Skipped : 0
+2026-04-08 07:39:15,293 | INFO |    Output → /home/darwin/PRES/Executive/central_inventory.csv
+2026-04-08 07:39:15,293 | INFO |    Next: Proceed to chunk_documents.py
+2026-04-08 12:17:08,433 | INFO | Found 438 PDFs in central /home/darwin/PRES/Executive/data/raw
+2026-04-08 12:17:56,025 | WARNING | Ollama classify failed for '2007.10.years.report.kictanet': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 12:18:42,398 | WARNING | Ollama classify failed for '2017.final.v': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 12:19:19,898 | INFO | Found 438 PDFs in central /home/darwin/PRES/Executive/data/raw
+2026-04-08 12:20:06,520 | WARNING | Ollama classify failed for '2007.10.years.report.kictanet': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 12:20:53,108 | WARNING | Ollama classify failed for '2017.final.v': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 12:21:40,457 | WARNING | Ollama classify failed for '2020.energy.statistics.report': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 12:21:40,463 | INFO | Processed 50 documents...
+2026-04-08 12:22:07,285 | INFO | Processed 100 documents...
+2026-04-08 12:22:10,729 | INFO | Processed 150 documents...
+2026-04-08 12:22:17,589 | INFO | Processed 200 documents...
+2026-04-08 12:22:23,576 | WARNING | Ollama unrecognised response for '2025.report.donor.roundtable.funding.globally': 'unknown'
+2026-04-08 12:22:26,728 | INFO | Processed 250 documents...
+2026-04-08 12:22:30,254 | INFO | Processed 300 documents...
+2026-04-08 12:22:33,352 | INFO | Processed 350 documents...
+2026-04-08 12:22:39,372 | WARNING | Ollama unrecognised response for 'national.government.oct.website.1': 'unknown'
+2026-04-08 12:22:40,436 | WARNING | Ollama unrecognised response for 'national.government.oct.website': 'unknown'
+2026-04-08 12:22:40,443 | INFO | Processed 400 documents...
+2026-04-08 12:22:46,044 | INFO | ✅ Tagging completed!
+2026-04-08 12:22:46,044 | INFO |    Documents processed : 438
+2026-04-08 12:22:46,045 | INFO |    Skipped             : 0
+2026-04-08 12:22:46,051 | INFO |    Output → /home/darwin/PRES/Executive/central_inventory.csv
+2026-04-08 12:22:46,051 | INFO |    Next: Proceed to chunk_documents.py
+2026-04-08 13:32:14,499 | INFO | Found 438 PDFs in central /home/darwin/PRES/Executive/data/raw
+2026-04-08 13:33:00,051 | WARNING | Ollama classify failed for '2007.10.years.report.kictanet': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 13:33:47,167 | WARNING | Ollama classify failed for '2017.final.v': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 13:33:47,212 | INFO | Processed 50 documents...
+2026-04-08 13:34:33,278 | WARNING | Ollama classify failed for '2021.2022.treasury.memorandum.public.accounts.committee.report': HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=45)
+2026-04-08 13:35:24,792 | INFO | Processed 100 documents...
+2026-04-08 13:35:27,951 | INFO | Processed 150 documents...
+2026-04-08 13:35:33,991 | INFO | Processed 200 documents...
+2026-04-08 13:35:39,917 | WARNING | Ollama unrecognised response for '2025.report.donor.roundtable.funding.globally': 'unknown'
+2026-04-08 13:35:43,078 | INFO | Processed 250 documents...
+2026-04-08 13:35:46,735 | INFO | Processed 300 documents...
+2026-04-08 13:35:48,958 | INFO | Processed 350 documents...
+2026-04-08 13:35:53,682 | WARNING | Ollama unrecognised response for 'national.government.oct.website.1': 'unknown'
+2026-04-08 13:35:54,706 | WARNING | Ollama unrecognised response for 'national.government.oct.website': 'unknown'
+2026-04-08 13:35:54,711 | INFO | Processed 400 documents...
+2026-04-08 13:36:00,332 | INFO | ✅ Tagging completed!
+2026-04-08 13:36:00,333 | INFO |    Documents processed : 438
+2026-04-08 13:36:00,333 | INFO |    Skipped             : 0
+2026-04-08 13:36:00,339 | INFO |    Output → /home/darwin/PRES/Executive/central_inventory.csv
+2026-04-08 13:36:00,340 | INFO |    Next: Proceed to chunk_documents.py
