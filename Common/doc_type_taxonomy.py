@@ -64,7 +64,7 @@ logger = logging.getLogger(__name__)
 
 OLLAMA_HOST    = "http://localhost:11434"
 OLLAMA_MODEL   = "gemma4:e4b"
-OLLAMA_TIMEOUT = 45
+OLLAMA_TIMEOUT = 600
 
 VALID_DOC_TYPES = {
     "budget_policy_statement", "budget_review_outlook", "budget_summary",
@@ -135,7 +135,7 @@ DOCUMENT_TYPE_RULES = [
     (r"annual.?birr|ng.?annual.?birr",                             "controller_of_budget"),
     (r"national.?government.?budget.?impl",                        "controller_of_budget"),
     (r"controller.?of.?budget",                                    "controller_of_budget"),
-    (r"national.?government.?(oct|september|may).?(book|report)",  "controller_of_budget"),
+    (r"national.?government.?(oct|september|may)",                 "controller_of_budget"),
     (r"national.?book|national.?government.?book",                 "controller_of_budget"),
     (r"national.?budget.?may|national.?report.?book",              "controller_of_budget"),
 
@@ -247,6 +247,7 @@ DOCUMENT_TYPE_RULES = [
 
     # ── ICT ───────────────────────────────────────────────────────────────────
     # FIX 03: spotlight/quarterly → bulletin BEFORE the kictanet annual rule
+    (r"kictanet.*10.*years|10.*years.*kictanet",                    "annual_report"),  # added
     (r"kictanet.*(spotlight|quarterly)",                            "bulletin"),
     (r"kictanet.*(10.years|annual)",                                "annual_report"),
     (r"igf|kigf|eaigf|iggf",                                       "igf_report"),
@@ -332,7 +333,7 @@ DOCUMENT_TYPE_RULES = [
     (r"upgrading.*nanyuki|strengthening.*kandwia",                  "research_report"),
 
     # ── President / cross-cutting ─────────────────────────────────────────────
-    (r"roundtable",                                                "conference_report")
+    (r"roundtable",                                                "conference_report"),
     (r"national.*values.*principles.*governance",                   "guidelines"),
     (r"unodc.*odpp",                                                "guidelines"),
     (r"election.?observer",                                         "research_report"),
@@ -1302,6 +1303,56 @@ MANUAL_OVERRIDES = {
         "issuing_agent": "external", "topics": ["food_security", "irrigation"],
         "primary_agents": ["agriculture", "president"], "agent_access": ["agriculture", "president", "finance"],
     },
+    "2007-10-years-report-KICTANet.pdf": {
+    "document_type": "annual_report",
+    "primary_agents": ["ict"],
+    "issuing_agent": "ict",
+    "agent_access": ["ict"],
+    "topics": ["ict_policy", "internet_governance"],
+    "priority": "low",
+},
+"2022-Annual-Report-BRI.pdf": {
+    "primary_agents": ["agriculture"],
+    "issuing_agent":  "agriculture",
+    "agent_access":   ["agriculture"],
+    "topics":         ["crop_research", "food_security"],
+},
+"2022-Annual-Report-GeRRI.pdf": {
+    "primary_agents": ["agriculture"],
+    "issuing_agent":  "agriculture",
+    "agent_access":   ["agriculture"],
+    "topics":         ["crop_research", "food_security"],
+},
+"2022-Annual-Report-HRI-Final.pdf": {
+    "primary_agents": ["agriculture"],
+    "issuing_agent":  "agriculture",
+    "agent_access":   ["agriculture"],
+    "topics":         ["crop_research", "food_security"],
+},
+"2022-Annual-Report-KARRO-2023.pdf": {
+    "primary_agents": ["agriculture"],
+    "issuing_agent":  "agriculture",
+    "agent_access":   ["agriculture"],
+    "topics":         ["crop_research", "food_security"],
+},
+"Annual-Report-FCRI-2022-23.pdf": {
+    "primary_agents": ["agriculture"],
+    "issuing_agent":  "agriculture",
+    "agent_access":   ["agriculture"],
+    "topics":         ["crop_research", "food_security"],
+},
+"2025-Annual-Review-NCSC.pdf": {
+    "primary_agents": ["ict"],
+    "issuing_agent":  "ict",
+    "agent_access":   ["ict"],
+    "topics":         ["cybersecurity", "ict_policy"],
+},
+"2022-Annual-Report-CA.pdf": {
+    "primary_agents": ["ict"],
+    "issuing_agent":  "ict",
+    "agent_access":   ["ict"],
+    "topics":         ["ict_policy", "digital_economy"],
+},
 }
 
 

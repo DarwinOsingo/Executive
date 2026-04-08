@@ -48,11 +48,118 @@ COLUMNS = [
 
 def infer_agent_from_filename(slug: str) -> str:
     from doc_type_taxonomy import AGENT_PATTERNS
-    best_agent, max_matches = "president", 0
+
+    # Supplementary slug-level hints not covered by AGENT_PATTERNS
+    # Keyed by agent, list of regex patterns specific to filename inference
+    SLUG_HINTS = {
+        "agriculture": [
+            # KALRO sub-institutes
+            r"(?:^|[._])bri(?:[._]|$)",       # Biotechnology Research Institute
+            r"(?:^|[._])dri(?:[._]|$)",       # Dryland Research Institute  
+            r"(?:^|[._])hri(?:[._]|$)",       # Horticulture Research Institute
+            r"(?:^|[._])gri(?:[._]|$)",
+            r"(?:^|[._])gerri(?:[._]|$)",     # Genetic Resources Research Institute
+            r"(?:^|[._])fcri(?:[._]|$)",      # Food Crops Research Institute
+            r"(?:^|[._])sri(?:[._]|$)",       # Semi-Arid Research Institute
+            r"(?:^|[._])icri(?:[._]|$)",      # Industrial Crops Research Institute
+            r"(?:^|[._])karro(?:[._]|$)",     # could be KALRO variant
+            r"kalro",
+            r"kephis",
+            r"(?:^|[._])afa(?:[._]|$)",
+            r"national.*irrigation",
+            r"irrigation.*authority",
+            r"livestock.*agenda",
+            r"agriculture.*production",
+            r"national.*agriculture",
+        ],
+        "ict": [
+            r"kictanet",
+            r"(?:^|[._])ca(?:[._]|$)",        # Communications Authority
+            r"communications.*authority",
+            r"konza",
+            r"ncsc",
+            r"(?:^|[._])igf(?:[._]|$)",
+            r"(?:^|[._])iggf(?:[._]|$)",
+            r"(?:^|[._])eaigf(?:[._]|$)",
+            r"(?:^|[._])kigf(?:[._]|$)",
+        ],
+        "infrastructure": [
+            r"(?:^|[._])kenha(?:[._]|$)",
+            r"(?:^|[._])kura(?:[._]|$)",
+            r"(?:^|[._])kerra(?:[._]|$)",
+            r"(?:^|[._])ketraco(?:[._]|$)",
+            r"(?:^|[._])kengen(?:[._]|$)",
+            r"(?:^|[._])kplc(?:[._]|$)",
+            r"kenya.*power",
+            r"(?:^|[._])kpa(?:[._]|$)",
+            r"kenya.*ports",
+            r"(?:^|[._])krc(?:[._]|$)",
+            r"(?:^|[._])knha(?:[._]|$)",      # common typo/variant for KeNHA
+            r"epra",
+            r"energy.*petroleum",
+            r"ntsa",
+            r"national.*transport.*safety",
+        ],
+        "finance": [
+            r"(?:^|[._])cbk(?:[._]|$)",
+            r"(?:^|[._])cnk(?:[._]|$)",
+            r"(?:^|[._])kra(?:[._]|$)",
+            r"budget.*policy",
+            r"economic.*survey",
+            r"public.*debt",
+            r"revenue.*performance",
+            r"tax.*expenditure",
+            r"medium.*term.*debt",
+            r"controller.*budget",
+            r"ngbirr",
+        ],
+        "education": [
+            r"(?:^|[._])knec(?:[._]|$)",
+            r"(?:^|[._])kicd(?:[._]|$)",
+            r"(?:^|[._])tsc(?:[._]|$)",
+            r"(?:^|[._])ngcdf(?:[._]|$)",
+            r"ministry.*education",
+            r"education.*sector",
+        ],
+        "anticorruption": [
+            r"(?:^|[._])eacc(?:[._]|$)",
+            r"(?:^|[._])ppra(?:[._]|$)",
+            r"(?:^|[._])ppoa(?:[._]|$)",
+            r"(?:^|[._])odpp(?:[._]|$)",
+            r"auditor.*general",
+            r"mutual.*evaluation",
+            r"(?:^|[._])mer(?:[._]|$)",
+        ],
+        "president": [
+            r"national.*values.*principles",
+            r"vision.*2030",
+            r"beta.*agenda",
+        ],
+    }
+
+    best_agent   = None
+    max_matches  = 0
+
     for agent, patterns in AGENT_PATTERNS.items():
-        matches = sum(1 for p in patterns if re.search(p, slug))
-        if matches > max_matches:
-            max_matches, best_agent = matches, agent
+        score = sum(1 for p in patterns if re.search(p, slug))
+        # Add slug-level hint scores
+        score += sum(1 for p in SLUG_HINTS.get(agent, []) if re.search(p, slug))
+        if score > max_matches:
+            max_matches = score
+            best_agent  = agent
+
+    # If nothing matched at all, use doc_type-agnostic ordering as final tiebreak:
+    # prefer specific agents over president so unknown files don't always land there.
+    if best_agent is None or max_matches == 0:
+        # Try a lightweight single-pass hint check as last resort
+        hint_priority = ["finance", "education", "agriculture", "ict",
+                         "infrastructure", "anticorruption", "president"]
+        for agent in hint_priority:
+            for p in SLUG_HINTS.get(agent, []):
+                if re.search(p, slug):
+                    return agent
+        return "president"  # genuine fallback
+
     return best_agent
 
 
