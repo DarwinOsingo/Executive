@@ -16,6 +16,7 @@ Usage:
 """
 
 import argparse
+import gc
 import json
 import logging
 import os
@@ -23,6 +24,7 @@ import sys
 import time
 from pathlib import Path
 
+import psutil
 import yaml
 
 # ── Path setup ─────────────────────────────────────────────────────────────────
@@ -31,6 +33,13 @@ sys.path.insert(0, str(ROOT))
 
 from pipeline.extractor import Extractor
 from pipeline.table_processor import TableProcessor
+
+# ── Torch availability ─────────────────────────────────────────────────────────
+try:
+    import torch
+    TORCH_AVAILABLE = True
+except ImportError:
+    TORCH_AVAILABLE = False
 
 # ── Logging ────────────────────────────────────────────────────────────────────
 logging.basicConfig(
@@ -43,6 +52,42 @@ logging.basicConfig(
     ],
 )
 log = logging.getLogger(__name__)
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# MEMORY MANAGEMENT
+# ══════════════════════════════════════════════════════════════════════════════
+
+def release_memory(extractor=None):
+    """Aggressively free memory between documents."""
+    gc.collect()
+    if extractor is not None:
+        if hasattr(extractor, "_converter_standard"):
+            try:
+                extractor._converter_standard._pipeline_cache = {}
+            except Exception:
+                pass
+    if TORCH_AVAILABLE:
+        try:
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+                torch.cuda.synchronize()
+        except Exception:
+            pass
+
+
+def log_memory(label: str = ""):
+    mem = psutil.virtual_memory()
+    msg = f"  🧠 RAM: {mem.used/1e9:.1f}/{mem.total/1e9:.1f} GB ({mem.percent}%)"
+    if TORCH_AVAILABLE:
+        try:
+            if torch.cuda.is_available():
+                used  = torch.cuda.memory_allocated() / 1e9
+                total = torch.cuda.get_device_properties(0).total_memory / 1e9
+                msg  += f"  |  VRAM: {used:.1f}/{total:.1f} GB"
+        except Exception:
+            pass
+    log.info(f"{msg}  {label}")
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -150,14 +195,17 @@ class ProgressTracker:
 def build_extractor(device: str) -> Extractor:
     if device == "cuda":
         try:
-            import torch
-            if torch.cuda.is_available():
-                log.info(f"GPU: {torch.cuda.get_device_name(0)}")
+            if TORCH_AVAILABLE:
+                if torch.cuda.is_available():
+                    log.info(f"GPU: {torch.cuda.get_device_name(0)}")
+                else:
+                    log.warning("CUDA not available — falling back to CPU")
+                    device = "cpu"
             else:
-                log.warning("CUDA not available — falling back to CPU")
+                log.warning("torch not importable — falling back to CPU")
                 device = "cpu"
-        except ImportError:
-            log.warning("torch not importable — falling back to CPU")
+        except Exception:
+            log.warning("torch check failed — falling back to CPU")
             device = "cpu"
 
     if device == "cuda":
@@ -275,6 +323,7 @@ def main():
     session_t0  = time.time()
 
     log.info(f"\nStarting — {total} documents\n")
+    log_memory("startup")
 
     for i, doc_config in enumerate(documents, 1):
         fname    = doc_config["filename"]
@@ -295,7 +344,9 @@ def main():
             skip_count += 1
             continue
 
-        t0 = time.time()
+        t0        = time.time()
+        raw_doc   = None
+        processed = None
         try:
             raw_doc = extractor.extract(pdf_path, doc_config, cache_dir=cache_dir)
 
@@ -318,6 +369,13 @@ def main():
             log.error(f"  → FAILED [{elapsed:.0f}s]: {e}")
             tracker.mark_failed(fname, str(e))
             fail_count += 1
+
+        finally:
+            del raw_doc
+            del processed
+            release_memory(extractor)
+            if i % 10 == 0:
+                log_memory(f"after doc {i}/{total}")
 
     session_elapsed = time.time() - session_t0
     log.info(f"\n{'='*60}")
