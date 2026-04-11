@@ -91,6 +91,15 @@ def log_memory(label: str = ""):
 
 
 # ══════════════════════════════════════════════════════════════════════════════
+# HELPERS
+# ══════════════════════════════════════════════════════════════════════════════
+
+def cache_stem(fname: str) -> str:
+    """Return the truncated stem that docling uses when writing cache files."""
+    return Path(fname).stem.lower().replace(" ", "_").replace("-", "_").replace(".", "_")[:40]
+
+
+# ══════════════════════════════════════════════════════════════════════════════
 # ENVIRONMENT DETECTION
 # ══════════════════════════════════════════════════════════════════════════════
 
@@ -266,7 +275,7 @@ def sort_documents(documents: list[dict]) -> list[dict]:
     rank = {cat: i for i, cat in enumerate(CATEGORY_ORDER)}
     return sorted(
         documents,
-        key=lambda d: (rank.get(d.get("category", 0), 99), d["filename"]),
+        key=lambda d: (rank.get(d.get("category", 0), 99), d["source_file"]),  # ← fix
     )
 
 
@@ -305,8 +314,8 @@ def main():
     if args.dry_run:
         log.info("\n── DRY RUN ──────────────────────────────────────────")
         for i, doc in enumerate(documents, 1):
-            fname  = doc["filename"]
-            cached = (cache_dir / f"{Path(fname).stem.lower().replace(' ', '_').replace('-', '_')}.json").exists()
+            fname  = doc["source_file"]                                          # ← fix
+            cached = (cache_dir / f"{cache_stem(fname)}.json").exists()
             done   = tracker.is_done(fname)
             status = "DONE  " if done else ("CACHED" if cached else "PENDING")
             log.info(f"  {i:3}. [{status}] {fname[:65]}")
@@ -326,21 +335,29 @@ def main():
     log_memory("startup")
 
     for i, doc_config in enumerate(documents, 1):
-        fname    = doc_config["filename"]
+        fname    = doc_config["source_file"]                                     # ← fix
         pdf_path = raw_dir / fname
 
         log.info(f"[{i:3}/{total}] {fname[:70]}")
 
-        # Already done
+        # Already in tracker
         if not args.force and tracker.is_done(fname):
             log.info("  → already cached, skipping")
             skip_count += 1
             continue
 
-        # PDF missing
+        # Cache file exists on disk but tracker lost state — self-heal
+        cache_file = cache_dir / f"{cache_stem(fname)}.json"
+        if not args.force and cache_file.exists():
+            log.info("  → cache file found on disk, recovering into tracker")
+            tracker.mark_complete(fname, 0.0)
+            skip_count += 1
+            continue
+
+        # PDF missing from this batch — will be in a later batch
         if not pdf_path.exists():
-            log.warning(f"  → PDF not found at {pdf_path}")
-            tracker.mark_skipped(fname, "pdf_not_found")
+            log.info(f"  → PDF not in this batch, skipping")
+            tracker.mark_skipped(fname, "pdf_not_in_batch")
             skip_count += 1
             continue
 
