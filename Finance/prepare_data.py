@@ -58,15 +58,9 @@ log = logging.getLogger(__name__)
 # MEMORY MANAGEMENT
 # ══════════════════════════════════════════════════════════════════════════════
 
-def release_memory(extractor=None):
-    """Aggressively free memory between documents."""
+def release_memory():
+    """Free per-document memory without touching model weights."""
     gc.collect()
-    if extractor is not None:
-        if hasattr(extractor, "_converter_standard"):
-            try:
-                extractor._converter_standard._pipeline_cache = {}
-            except Exception:
-                pass
     if TORCH_AVAILABLE:
         try:
             if torch.cuda.is_available():
@@ -275,7 +269,7 @@ def sort_documents(documents: list[dict]) -> list[dict]:
     rank = {cat: i for i, cat in enumerate(CATEGORY_ORDER)}
     return sorted(
         documents,
-        key=lambda d: (rank.get(d.get("category", 0), 99), d["source_file"]),  # ← fix
+        key=lambda d: (rank.get(d.get("category", 0), 99), d["source_file"]),
     )
 
 
@@ -314,7 +308,7 @@ def main():
     if args.dry_run:
         log.info("\n── DRY RUN ──────────────────────────────────────────")
         for i, doc in enumerate(documents, 1):
-            fname  = doc["source_file"]                                          # ← fix
+            fname  = doc["source_file"]
             cached = (cache_dir / f"{cache_stem(fname)}.json").exists()
             done   = tracker.is_done(fname)
             status = "DONE  " if done else ("CACHED" if cached else "PENDING")
@@ -335,7 +329,7 @@ def main():
     log_memory("startup")
 
     for i, doc_config in enumerate(documents, 1):
-        fname    = doc_config["source_file"]                                     # ← fix
+        fname    = doc_config["source_file"]
         pdf_path = raw_dir / fname
 
         log.info(f"[{i:3}/{total}] {fname[:70]}")
@@ -390,7 +384,7 @@ def main():
         finally:
             del raw_doc
             del processed
-            release_memory(extractor)
+            release_memory()
             if i % 10 == 0:
                 log_memory(f"after doc {i}/{total}")
 
