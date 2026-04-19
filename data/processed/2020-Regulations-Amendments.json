@@ -1,0 +1,2226 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2020-Regulations-Amendments",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4447972652899913278,
+    "filename": "2020-Regulations-Amendments.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 443.3333333333333,
+            "t": 697.3333333333334,
+            "r": 466.6666666666667,
+            "b": 686.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2491",
+      "text": "2491"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.66666666666667,
+            "t": 701.6666666666666,
+            "r": 209.0,
+            "b": 687.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "SPECIALISSUE",
+      "text": "SPECIALISSUE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.33333333333333,
+            "t": 683.3333333333334,
+            "r": 273.3333333333333,
+            "b": 667.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Kenya Gazette Supplement No. 234",
+      "text": "Kenya Gazette Supplement No. 234"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.0,
+            "t": 659.0,
+            "r": 366.3333333333333,
+            "b": 644.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "(Legislative Supplement No. 124)",
+      "text": "(Legislative Supplement No. 124)"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.0,
+            "t": 636.3333333333334,
+            "r": 214.0,
+            "b": 625.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "LEGAL NOTICE NO. 217",
+      "text": "LEGAL NOTICE NO. 217"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.0,
+            "t": 620.6666666666666,
+            "r": 303.3333333333333,
+            "b": 610.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "THE INSURANCE ACT",
+      "text": "THE INSURANCE ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.0,
+            "t": 607.6666666666666,
+            "r": 276.3333333333333,
+            "b": 595.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "(Cap: 487)",
+      "text": "(Cap: 487)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.0,
+            "t": 593.6666666666666,
+            "r": 399.0,
+            "b": 559.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section 180 of the Insurance National  Treasury   and Planning makes the following Regulations Act,",
+      "text": "IN EXERCISE of the powers conferred by section 180 of the Insurance National  Treasury   and Planning makes the following Regulations Act,"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 135.0,
+            "t": 559.0,
+            "r": 378.3333333333333,
+            "b": 546.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "THE INSURANCE (AMENDMENT) REGULATIONS, 2020",
+      "text": "THE INSURANCE (AMENDMENT) REGULATIONS, 2020"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 127.0,
+            "t": 545.0,
+            "r": 409.6666666666667,
+            "b": 521.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "1 These Regulations may be cited as the Insurance (Amendment) Regulations, 2020.",
+      "text": "1 These Regulations may be cited as the Insurance (Amendment) Regulations, 2020.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.66666666666667,
+            "t": 516.6666666666667,
+            "r": 409.3333333333333,
+            "b": 496.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "2 The Fifteenth Schedule to the Insurance Regulations is amended",
+      "text": "2 The Fifteenth Schedule to the Insurance Regulations is amended",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 150.3303302696685,
+            "t": 491.0,
+            "r": 410.6666666666667,
+            "b": 456.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "in Part A by deleting the expression \"3Ist December, 2020\" appearing in the proviso to paragraph  11 and substituting therefor the expression \"3Ist December, 2025\". (a)",
+      "text": "in Part A by deleting the expression \"3Ist December, 2020\" appearing in the proviso to paragraph  11 and substituting therefor the expression \"3Ist December, 2025\". (a)",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 150.0,
+            "t": 453.6666666666667,
+            "r": 410.6666666666667,
+            "b": 418.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "(b) in Part B by deleting the expression \"3Ist December, 2020\" appearing in the proviso to paragraph 5 (i) and substituting therefor the expression \"3Ist December, 2025\"",
+      "text": "(b) in Part B by deleting the expression \"3Ist December, 2020\" appearing in the proviso to paragraph 5 (i) and substituting therefor the expression \"3Ist December, 2025\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 121.0,
+            "t": 414.3333333333333,
+            "r": 245.66666666666666,
+            "b": 400.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Made on the 24th August; 2020.",
+      "text": "Made on the 24th August; 2020."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 354.0,
+            "r": 214.0,
+            "b": 344.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "LEGAL NOTICE No. 218",
+      "text": "LEGAL NOTICE No. 218"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 153.66666666666666,
+            "t": 337.6666666666667,
+            "r": 349.0,
+            "b": 325.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "THE PUBLIC FINANCE MANAGEMENT ACT",
+      "text": "THE PUBLIC FINANCE MANAGEMENT ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 218.66666666666666,
+            "t": 320.0,
+            "r": 283.6666666666667,
+            "b": 309.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "(No. 18 of 2012)",
+      "text": "(No. 18 of 2012)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.33333333333333,
+            "t": 304.33333333333337,
+            "r": 399.6666666666667,
+            "b": 268.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section 24(4) of the Public Finance Management Act, 2012, the Cabinet Secretary for the National Treasury and Planning makes the following Regulations",
+      "text": "IN EXERCISE of the powers conferred by section 24(4) of the Public Finance Management Act, 2012, the Cabinet Secretary for the National Treasury and Planning makes the following Regulations"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 130.66666666666666,
+            "t": 265.0,
+            "r": 389.6666666666667,
+            "b": 231.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "THE PUBLIC FINANCE MANAGEMENT (KENYA ENERGY SECTOR ENVIRONMENT AND SOCIAL RESPONSIBILITY PROGRAMME FUND)(AMENDMENT) REGULATIONS, 2020",
+      "text": "THE PUBLIC FINANCE MANAGEMENT (KENYA ENERGY SECTOR ENVIRONMENT AND SOCIAL RESPONSIBILITY PROGRAMME FUND)(AMENDMENT) REGULATIONS, 2020"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 120.66666666666667,
+            "t": 227.0,
+            "r": 399.3333333333333,
+            "b": 192.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "1 These Regulations may be cited as the Public Finance Management (Kenya Energy-Sector Environment and Social Responsibility Programme Fund) (Amendment) Regulations; 2020.",
+      "text": "1 These Regulations may be cited as the Public Finance Management (Kenya Energy-Sector Environment and Social Responsibility Programme Fund) (Amendment) Regulations; 2020.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 119.66666666666667,
+            "t": 189.33333333333337,
+            "r": 399.6666666666667,
+            "b": 143.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "2. Paragraph 2 of  the Public Finance Management   (Kenya Energy-Sector Environment and Social   Responsibility   Programme Fund)   Regulations;  2007 herein   after   referred to as   the 'principal Regulations' is amended in the definition of \"officer administering the",
+      "text": "Paragraph 2 of  the Public Finance Management   (Kenya Energy-Sector Environment and Social   Responsibility   Programme Fund)   Regulations;  2007 herein   after   referred to as   the 'principal Regulations' is amended in the definition of \"officer administering the",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.3333333333333,
+            "t": 402.6666666666667,
+            "r": 387.0,
+            "b": 390.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "UKUR YATANI,",
+      "text": "UKUR YATANI,"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 374.6666666666667,
+            "t": 680.0,
+            "r": 468.0,
+            "b": 669.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "18th December , 2020",
+      "text": "18th December , 2020"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 278.0,
+            "t": 391.6666666666667,
+            "r": 398.6666666666667,
+            "b": 368.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Cabinet Secretary for National Treasury and Planning.",
+      "text": "Cabinet Secretary for National Treasury and Planning."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 418.0,
+            "t": 543.3333333333333,
+            "r": 442.6666666666667,
+            "b": 534.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Citation",
+      "text": "Citation"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 418.6666666666667,
+            "t": 516.0,
+            "r": 447.0,
+            "b": 506.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Sub Leg",
+      "text": "Sub Leg"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 408.0,
+            "t": 164.0,
+            "r": 446.6666666666667,
+            "b": 156.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "LN 188/2007",
+      "text": "LN 188/2007"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.33333333333333,
+            "t": 722.0,
+            "r": 145.33333333333334,
+            "b": 712.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2492",
+      "text": "2492"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 226.33333333333334,
+            "t": 722.3333333333334,
+            "r": 367.0,
+            "b": 710.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Kenya Subsidiary Legislation, 2020",
+      "text": "Kenya Subsidiary Legislation, 2020"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.0,
+            "t": 701.6666666666666,
+            "r": 401.6666666666667,
+            "b": 677.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Fund\" by deleting the words \"Permanent Secretary and substituting therefor the words \"Principal Secretary",
+      "text": "Fund\" by deleting the words \"Permanent Secretary and substituting therefor the words \"Principal Secretary"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.0,
+            "t": 673.0,
+            "r": 401.0,
+            "b": 639.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "3 Regulation 3 is amended in paragraph (2)(b) deleting subparagraph (vi) and substituting therefor the following new paragraphs -",
+      "text": "3 Regulation 3 is amended in paragraph (2)(b) deleting subparagraph (vi) and substituting therefor the following new paragraphs -"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.66666666666666,
+            "t": 637.6666666666666,
+            "r": 338.0,
+            "b": 622.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "(vi) Energy and Petroleum Regulatory Authority;",
+      "text": "(vi) Energy and Petroleum Regulatory Authority;"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.0,
+            "t": 620.3333333333334,
+            "r": 387.6666666666667,
+            "b": 607.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "(vii) Rural Electrification and Renewable Energy Corporation;",
+      "text": "(vii) Rural Electrification and Renewable Energy Corporation;"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.66666666666666,
+            "t": 604.3333333333334,
+            "r": 333.6666666666667,
+            "b": 590.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "(viii) Kenya Electricity Transmission Company;",
+      "text": "(viii) Kenya Electricity Transmission Company;",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 145.66666666666666,
+            "t": 588.3333333333334,
+            "r": 322.0,
+            "b": 574.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "(ix) Geothermal Development Company; and",
+      "text": "(ix) Geothermal Development Company; and"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.66666666666666,
+            "t": 570.6666666666667,
+            "r": 299.3333333333333,
+            "b": 559.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "(x) Nuclear Power and Energy Agency.",
+      "text": "(x) Nuclear Power and Energy Agency."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.0,
+            "t": 556.3333333333333,
+            "r": 401.0,
+            "b": 532.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "4 Regulation 4 of the principal   Regulations   is amended by adding the following new paragraphs -",
+      "text": "4 Regulation 4 of the principal   Regulations   is amended by adding the following new paragraphs -"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.66666666666667,
+            "t": 529.6666666666667,
+            "r": 401.0,
+            "b": 508.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "(c) promoting alternative energy technologies for environmental conservation; and",
+      "text": "(c) promoting alternative energy technologies for environmental conservation; and"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.0,
+            "t": 502.6666666666667,
+            "r": 401.0,
+            "b": 481.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "(d) improving livelihoods through sustainable use of energy and environmental resources.",
+      "text": "(d) improving livelihoods through sustainable use of energy and environmental resources."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.0,
+            "t": 476.0,
+            "r": 401.0,
+            "b": 442.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "5. Regulation of the principal   Regulations   is amended by deleting   the word \"Minister\"   and  substituting   therefor the words \"Cabinet Secretary",
+      "text": "5. Regulation of the principal   Regulations   is amended by deleting   the word \"Minister\"   and  substituting   therefor the words \"Cabinet Secretary"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.66666666666666,
+            "t": 436.6666666666667,
+            "r": 276.6666666666667,
+            "b": 426.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Made on the Ist December, 2020.",
+      "text": "Made on the Ist December, 2020."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.3333333333333,
+            "t": 412.3333333333333,
+            "r": 389.0,
+            "b": 401.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "UKUR YATANI,",
+      "text": "UKUR YATANI,"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 266.6666666666667,
+            "t": 401.0,
+            "r": 401.3333333333333,
+            "b": 377.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Cabinet Secretary for the National Treasury and Planning.",
+      "text": "Cabinet Secretary for the National Treasury and Planning."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.33333333333333,
+            "t": 347.6666666666667,
+            "r": 218.0,
+            "b": 334.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "LEGAL NOTICE No. 219",
+      "text": "LEGAL NOTICE No. 219"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 210.0,
+            "t": 332.3333333333333,
+            "r": 315.3333333333333,
+            "b": 321.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "THE STAMP DUTY ACT",
+      "text": "THE STAMP DUTY ACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 239.66666666666666,
+            "t": 318.33333333333337,
+            "r": 285.6666666666667,
+            "b": 305.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "(Cap. 480)",
+      "text": "(Cap. 480)"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 239.0,
+            "t": 303.0,
+            "r": 286.0,
+            "b": 293.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "EXEMPTION",
+      "text": "EXEMPTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 123.0,
+            "t": 289.66666666666663,
+            "r": 402.3333333333333,
+            "b": 202.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            504
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section 106 (1) of the Duty Act, the Cabinet Secretary for the National Treasury and Planning, on the recommendation of the Cabinet Secretary for Lands and Physical Planning, directs that the instruments executed in respect of transactions relating to the   Project Agreement for the Nairobi Expressway Project between the Kenya National  Highways Authority and the China Road and Bridge Corporation, shall be exempt from the provisions of the Stamp Duty Act. Stamp",
+      "text": "IN EXERCISE of the powers conferred by section 106 (1) of the Duty Act, the Cabinet Secretary for the National Treasury and Planning, on the recommendation of the Cabinet Secretary for Lands and Physical Planning, directs that the instruments executed in respect of transactions relating to the   Project Agreement for the Nairobi Expressway Project between the Kenya National  Highways Authority and the China Road and Bridge Corporation, shall be exempt from the provisions of the Stamp Duty Act. Stamp"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 147.33333333333334,
+            "t": 201.33333333333337,
+            "r": 273.3333333333333,
+            "b": 190.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Dated the 25th November , 2020.",
+      "text": "Dated the 25th November , 2020."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 319.3333333333333,
+            "t": 184.0,
+            "r": 389.0,
+            "b": 174.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "UKUR YATANI,",
+      "text": "UKUR YATANI,"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 267.0,
+            "t": 174.0,
+            "r": 402.3333333333333,
+            "b": 150.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Cabinet Secretary for the National Treasury and Planning .",
+      "text": "Cabinet Secretary for the National Treasury and Planning ."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 223.66666666666666,
+            "t": 725.3333333333334,
+            "r": 364.3333333333333,
+            "b": 711.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Kenya Subsidiary Legislation, 2020",
+      "text": "Kenya Subsidiary Legislation, 2020"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 445.3333333333333,
+            "t": 723.0,
+            "r": 467.3333333333333,
+            "b": 713.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2493",
+      "text": "2493"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 120.0,
+            "t": 702.0,
+            "r": 214.0,
+            "b": 691.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "LEGAL NOTICE No. 220",
+      "text": "LEGAL NOTICE No. 220"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 131.33333333333334,
+            "t": 687.0,
+            "r": 387.3333333333333,
+            "b": 660.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "THE PUBLIC PROCUREMENT AND ASSET DISPOSAL ACT (No. 33 0f 2015)",
+      "text": "THE PUBLIC PROCUREMENT AND ASSET DISPOSAL ACT (No. 33 0f 2015)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 120.0,
+            "t": 659.3333333333334,
+            "r": 400.3333333333333,
+            "b": 616.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "IN EXERCISE of the powers conferred by section 180 of the Public Procurement and Asset Disposal Act,   2015 , the Cabinet Secretary for the National Treasury and Planning makes the following Regulations",
+      "text": "IN EXERCISE of the powers conferred by section 180 of the Public Procurement and Asset Disposal Act,   2015 , the Cabinet Secretary for the National Treasury and Planning makes the following Regulations"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 142.0,
+            "t": 613.0,
+            "r": 376.6666666666667,
+            "b": 591.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "THE PUBLIC PROCUREMENT AND ASSET DISPOSAL (AMENDMENT) REGULATIONS , 2020",
+      "text": "THE PUBLIC PROCUREMENT AND ASSET DISPOSAL (AMENDMENT) REGULATIONS , 2020",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 120.33333333333333,
+            "t": 588.3333333333333,
+            "r": 398.6666666666667,
+            "b": 565.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "These Regulations may be cited as the Public Procurement and Asset Disposal (Amendment) Regulations, 2020 .",
+      "text": "These Regulations may be cited as the Public Procurement and Asset Disposal (Amendment) Regulations, 2020 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 120.0,
+            "t": 564.3333333333333,
+            "r": 399.3333333333333,
+            "b": 519.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "2 and Asset   Disposal   Regulations , 2020 (in these Regulations referred to as the \"principal Regulations' are amended in regulation 91(2)(b) by deleting the expression \"39\" and substituting therefor the expression \"29\"",
+      "text": "2 and Asset   Disposal   Regulations , 2020 (in these Regulations referred to as the \"principal Regulations' are amended in regulation 91(2)(b) by deleting the expression \"39\" and substituting therefor the expression \"29\"",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 121.0,
+            "t": 516.0,
+            "r": 400.0,
+            "b": 480.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "3 Regulation 141 of the principal Regulations is amended by deleting paragraph (5) and substituting therefor the   following paragraph-",
+      "text": "3 Regulation 141 of the principal Regulations is amended by deleting paragraph (5) and substituting therefor the   following paragraph-",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 160.33333333333334,
+            "t": 478.95936550157126,
+            "r": 399.3333333333333,
+            "b": 422.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "(5) procuring shall seek legal advice or clearance from the Attorney General in case of the national government   entities , or head  of   legal services in case of Parliament , Judiciary and county government before terminating a contract under the Act or these Regulations' entity",
+      "text": "procuring shall seek legal advice or clearance from the Attorney General in case of the national government   entities , or head  of   legal services in case of Parliament , Judiciary and county government before terminating a contract under the Act or these Regulations' entity",
+      "enumerated": true,
+      "marker": "(5)"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 121.0,
+            "t": 419.6666666666667,
+            "r": 400.6666666666667,
+            "b": 385.3333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Regulation 183 of the principal  Regulations is amended by deleting paragraph (2) and substituting therefor the   following paragraph",
+      "text": "Regulation 183 of the principal  Regulations is amended by deleting paragraph (2) and substituting therefor the   following paragraph",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 160.66666666666666,
+            "t": 382.0,
+            "r": 400.0,
+            "b": 338.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "(2) ~Sale by   public tender shall be conducted in accordance with the rules and procedures   of open tender envisaged under sections 74, 75,76,77,78,79,80,81,82,83,84,85,86 and 87 of the Act\"",
+      "text": "~Sale by   public tender shall be conducted in accordance with the rules and procedures   of open tender envisaged under sections 74, 75,76,77,78,79,80,81,82,83,84,85,86 and 87 of the Act\"",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 121.66666666666667,
+            "t": 332.66666666666663,
+            "r": 401.0,
+            "b": 299.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "5 Regulation 223 of the principal Regulations is amended by deleting paragraph (2) and substituting therefor the following paragraph",
+      "text": "5 Regulation 223 of the principal Regulations is amended by deleting paragraph (2) and substituting therefor the following paragraph",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 161.33333333333334,
+            "t": 295.66666666666663,
+            "r": 400.6666666666667,
+            "b": 251.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "(2) A person who contravenes any   provisions under paragraph (1) or the code of ethics prepared by the Authority under section 181 of the Act commits an offence under the Act and these Regulations'",
+      "text": "A person who contravenes any   provisions under paragraph (1) or the code of ethics prepared by the Authority under section 181 of the Act commits an offence under the Act and these Regulations'",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 144.66666666666666,
+            "t": 247.33333333333337,
+            "r": 275.3333333333333,
+            "b": 236.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Made on the Ist December , 2020.",
+      "text": "Made on the Ist December , 2020."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 241.0,
+            "t": 236.66666666666663,
+            "r": 400.3333333333333,
+            "b": 201.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "UKUR YATANI , Cabinet Secretary for the National Treasury and Planning",
+      "text": "UKUR YATANI , Cabinet Secretary for the National Treasury and Planning"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 408.0,
+            "t": 561.6666666666667,
+            "r": 462.6666666666667,
+            "b": 553.6666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "LN. No. 69/2020",
+      "text": "LN. No. 69/2020"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 194.0,
+            "t": 172.33333333333337,
+            "r": 400.6666666666667,
+            "b": 164.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER. NAIROBI",
+      "text": "PRINTED AND PUBLISHED BY THE GOVERNMENT PRINTER. NAIROBI"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 593.0,
+        "height": 844.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 591.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 593.0,
+        "height": 845.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 591.0,
+        "height": 843.0
+      },
+      "page_no": 4
+    }
+  }
+}

@@ -1,0 +1,1251 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2019-EAIGF-Audit-Report",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15856762306995238110,
+    "filename": "2019-EAIGF-Audit-Report.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 804.1805755007961,
+            "r": 429.34978711952556,
+            "b": 794.8885909397346,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Report by Barrack Otieno, Kenya ICT Action Network (KICTANET) - October 2019",
+      "text": "Report by Barrack Otieno, Kenya ICT Action Network (KICTANET) - October 2019"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 188.40805971999998,
+            "t": 767.3835997822596,
+            "r": 409.69267132702555,
+            "b": 758.1131078059135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "EAST AFRICAN INTERNET GOVERNANCE FORUM",
+      "text": "EAST AFRICAN INTERNET GOVERNANCE FORUM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 718.0653068004626,
+            "r": 523.7727959432856,
+            "b": 647.0199092459135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "The 7 th East African Internet Governance Forum took place from 17 th to 18 th October 2019. The theme of the forum was Achieving Digital Inclusion in East Africa. The Forum was hosted by the East African Community Secretariat under the Directorate of Information and Communication Technology. This was also the first time the forum was hosted by the United Republic of Tanzania since inception in the year 2008.",
+      "text": "The 7 th East African Internet Governance Forum took place from 17 th to 18 th October 2019. The theme of the forum was Achieving Digital Inclusion in East Africa. The Forum was hosted by the East African Community Secretariat under the Directorate of Information and Communication Technology. This was also the first time the forum was hosted by the United Republic of Tanzania since inception in the year 2008."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 630.7689907422596,
+            "r": 523.7442970105209,
+            "b": 561.4481211659136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "More than 100 participants from the six East Africa Partner States Burundi, Kenya, Rwanda, Tanzania, Uganda, and South Sudan participated in the Forum. The meeting was also streamed on the Internet Courtesy of the Internet Society. The theme for the forum and discussion topics were crowdsourced from the six partner states using the National Focal points and various social media tools for purposes of inclusivity.",
+      "text": "More than 100 participants from the six East Africa Partner States Burundi, Kenya, Rwanda, Tanzania, Uganda, and South Sudan participated in the Forum. The meeting was also streamed on the Internet Courtesy of the Internet Society. The theme for the forum and discussion topics were crowdsourced from the six partner states using the National Focal points and various social media tools for purposes of inclusivity."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 545.1972026622595,
+            "r": 523.8786438876682,
+            "b": 385.8007666859136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1016
+          ]
+        }
+      ],
+      "orig": "A mixture of presentations and panel sessions were used to discuss various issues affecting Internet Access, penetration, and usage in East African countries. The forum commenced with an introductory session facilitated by the East African Internet Governance Forum coordinator Lillian Nalwoga and the Senior Internet Governance Expert at the Policy and Regulatory Initiative for a Digital Africa (PRIDA Project) Dr. Margaret Nyambura. The Policy and Regulatory Initiative for a Digital Africa Focal Point for the East African Region Engineer Daniel Murenzi also addressed participants. The panel highlighted the fact that the East African Internet Governance Forum had not been held since 2015 due to a myriad of challenges ranging from lack of local hosts to legitimacy issues. It was noted that under the framework for the Policy and Regulatory Initiative for a Digital Africa which sought to strengthen National and Regional Fora, it had been possible to organize the 7 th East African Internet Governance Forum.",
+      "text": "A mixture of presentations and panel sessions were used to discuss various issues affecting Internet Access, penetration, and usage in East African countries. The forum commenced with an introductory session facilitated by the East African Internet Governance Forum coordinator Lillian Nalwoga and the Senior Internet Governance Expert at the Policy and Regulatory Initiative for a Digital Africa (PRIDA Project) Dr. Margaret Nyambura. The Policy and Regulatory Initiative for a Digital Africa Focal Point for the East African Region Engineer Daniel Murenzi also addressed participants. The panel highlighted the fact that the East African Internet Governance Forum had not been held since 2015 due to a myriad of challenges ranging from lack of local hosts to legitimacy issues. It was noted that under the framework for the Policy and Regulatory Initiative for a Digital Africa which sought to strengthen National and Regional Fora, it had been possible to organize the 7 th East African Internet Governance Forum."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 369.54984818225955,
+            "r": 523.8052135104333,
+            "b": 300.22897860591354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            376
+          ]
+        }
+      ],
+      "orig": "Other important sessions included Presentation of the 2019 National Internet Governance Fora reports. Kenya, South Sudan and Tanzania gave a highlight of key issues discussed during their National Internet Governance Fora. Burundi, Rwanda, and Uganda gave an update of ongoing processes meant to revitalize their National Internet Governance Fora and make them more inclusive.",
+      "text": "Other important sessions included Presentation of the 2019 National Internet Governance Fora reports. Kenya, South Sudan and Tanzania gave a highlight of key issues discussed during their National Internet Governance Fora. Burundi, Rwanda, and Uganda gave an update of ongoing processes meant to revitalize their National Internet Governance Fora and make them more inclusive."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 283.9780601022595,
+            "r": 523.67784328171,
+            "b": 199.6445961259136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            521
+          ]
+        }
+      ],
+      "orig": "A special session was held with members of the East African Legislative Assembly (EALA). The objective of the session was to brief the members of the legislative assembly on key issues affecting Internet Governance in the Region as well as urge them to take up their rightful role as Internet Governance champions. Two members of the East African Legislative Assembly were able to attend the session. A parallel session that discussed multistakeholderism in Internet Governance in the East African Region also took place.",
+      "text": "A special session was held with members of the East African Legislative Assembly (EALA). The objective of the session was to brief the members of the legislative assembly on key issues affecting Internet Governance in the Region as well as urge them to take up their rightful role as Internet Governance champions. Two members of the East African Legislative Assembly were able to attend the session. A parallel session that discussed multistakeholderism in Internet Governance in the East African Region also took place."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 183.3936776222596,
+            "r": 523.7849343589897,
+            "b": 114.07280804591358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "Access to the Internet beyond connectivity was also discussed. Two Infrastructure service providers Facebook and Basic Internet showcased some of the initiatives they were piloting in the East African Region to ensure meaningful usage of the Internet. They also highlighted some of the challenges they were facing as they rolled out connectivity to Communities in East Africa ranging from policy to digital literacy issues.",
+      "text": "Access to the Internet beyond connectivity was also discussed. Two Infrastructure service providers Facebook and Basic Internet showcased some of the initiatives they were piloting in the East African Region to ensure meaningful usage of the Internet. They also highlighted some of the challenges they were facing as they rolled out connectivity to Communities in East Africa ranging from policy to digital literacy issues."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 804.1805499407961,
+            "r": 429.34978711952556,
+            "b": 794.8885653797347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Report by Barrack Otieno, Kenya ICT Action Network (KICTANET) - October 2019",
+      "text": "Report by Barrack Otieno, Kenya ICT Action Network (KICTANET) - October 2019"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 767.3835742222597,
+            "r": 523.8874435914202,
+            "b": 728.0878934459136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            229
+          ]
+        }
+      ],
+      "orig": "The Youth had a well-attended session that sought to strengthen their collaboration in the Region. They created a Communication platform through which they would share capacity building and mentorship opportunities in the Region.",
+      "text": "The Youth had a well-attended session that sought to strengthen their collaboration in the Region. They created a Communication platform through which they would share capacity building and mentorship opportunities in the Region."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 711.8369749422596,
+            "r": 523.8305193512558,
+            "b": 657.5286997659136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "Smart ICT Regulatory Frameworks were also discussed in light of increased reliance on Internet products and services to provide government services and business services in the Region. This was followed by a session that sought to interrogate how the East African Region was preparing itself for the 4 th Industrial Revolution.",
+      "text": "Smart ICT Regulatory Frameworks were also discussed in light of increased reliance on Internet products and services to provide government services and business services in the Region. This was followed by a session that sought to interrogate how the East African Region was preparing itself for the 4 th Industrial Revolution."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 641.2777812622596,
+            "r": 523.5914675939806,
+            "b": 571.9569116859136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "Data Protection and Privacy in the East African region was also discussed. It was observed that only one country had legal and legislative frameworks while the rest were still in the process of developing their frameworks. Panelists and discussants observed that there was a need for Data Protection and Privacy frameworks to protect the nascent Electronic Commerce industry in the East African Region.",
+      "text": "Data Protection and Privacy in the East African region was also discussed. It was observed that only one country had legal and legislative frameworks while the rest were still in the process of developing their frameworks. Panelists and discussants observed that there was a need for Data Protection and Privacy frameworks to protect the nascent Electronic Commerce industry in the East African Region."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 555.7059931822596,
+            "r": 523.7650619761764,
+            "b": 471.3725292059137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            497
+          ]
+        }
+      ],
+      "orig": "Digital Taxation in East Africa was also discussed. Panelists and discussants reviewed the state of play in the East African Region and observed that the approach used to implement digital taxation had affected Internet uptake and electronic commerce in the East African Region negatively. Panelists and participants agreed that there was a need for engagement and capacity building for policymakers to be able to understand how emerging technologies such as over the top services (OTT's) operate.",
+      "text": "Digital Taxation in East Africa was also discussed. Panelists and discussants reviewed the state of play in the East African Region and observed that the approach used to implement digital taxation had affected Internet uptake and electronic commerce in the East African Region negatively. Panelists and participants agreed that there was a need for engagement and capacity building for policymakers to be able to understand how emerging technologies such as over the top services (OTT's) operate."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 455.12161070225966,
+            "r": 523.6703846658223,
+            "b": 385.80074112591365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            462
+          ]
+        }
+      ],
+      "orig": "For the first time, twenty deaf and blind participants joined the forum and highlighted the fact that Internet Governance deliberations needed to consider stakeholders living with various disabilities. Participants were encouraged to ensure that technological developments took cognizance of the important stakeholder group and that organizers needed to be deliberate and intentional about involving stakeholders living with disabilities in policy conversations.",
+      "text": "For the first time, twenty deaf and blind participants joined the forum and highlighted the fact that Internet Governance deliberations needed to consider stakeholders living with various disabilities. Participants were encouraged to ensure that technological developments took cognizance of the important stakeholder group and that organizers needed to be deliberate and intentional about involving stakeholders living with disabilities in policy conversations."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 369.5498226222596,
+            "r": 330.817904027002,
+            "b": 360.27933064591366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "The Forum ended with the presentation of a draft report.",
+      "text": "The Forum ended with the presentation of a draft report."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 344.02841214225964,
+            "r": 523.8495770316517,
+            "b": 274.7075425659136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            437
+          ]
+        }
+      ],
+      "orig": "The East African Internet Governance Forum would not have been possible without the support of the Africa Union Commission through the Policy and Regulatory Initiative for a Digital Africa, The East African Community Secretariat Directorate of Information and Communications Technology, GIZ, Facebook, the Africa Network Information Centre, the Internet Society (ISOC) and the Internet Corporation for Assigned Names and Numbers. (ICANN)",
+      "text": "The East African Internet Governance Forum would not have been possible without the support of the Africa Union Commission through the Policy and Regulatory Initiative for a Digital Africa, The East African Community Secretariat Directorate of Information and Communications Technology, GIZ, Facebook, the Africa Network Information Centre, the Internet Society (ISOC) and the Internet Corporation for Assigned Names and Numbers. (ICANN)"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 232.93521358225962,
+            "r": 140.908584867002,
+            "b": 223.66472160591366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "About the IGF.",
+      "text": "About the IGF.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 207.41380310225964,
+            "r": 523.9169551278769,
+            "b": 138.0929335259134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            480
+          ]
+        }
+      ],
+      "orig": "Building on the United Nations (UN) Sustainable Development Goals, and the mandate given at the Second Phase of the World Summit on the Information Society in Tunis (WSIS), the Internet Governance Forum (IGF) is a United Nations led-activity initiated in 2006 as a global platform for multi-stakeholder policy dialogue on prevailing and emerging issues on Internet governance in order to foster the sustainability, robustness, security, stability, and development of the Internet.",
+      "text": "Building on the United Nations (UN) Sustainable Development Goals, and the mandate given at the Second Phase of the World Summit on the Information Society in Tunis (WSIS), the Internet Governance Forum (IGF) is a United Nations led-activity initiated in 2006 as a global platform for multi-stakeholder policy dialogue on prevailing and emerging issues on Internet governance in order to foster the sustainability, robustness, security, stability, and development of the Internet."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 121.8420150222596,
+            "r": 319.863401550752,
+            "b": 112.57152304591341,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "IGF mandate as per Paragraph 72 of the Tunis Agenda",
+      "text": "IGF mandate as per Paragraph 72 of the Tunis Agenda",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 804.1805243807962,
+            "r": 429.34978711952556,
+            "b": 794.8885398197347,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Report by Barrack Otieno, Kenya ICT Action Network (KICTANET) - October 2019",
+      "text": "Report by Barrack Otieno, Kenya ICT Action Network (KICTANET) - October 2019"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 767.3835486622597,
+            "r": 523.5431714812071,
+            "b": 728.0878678859135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "72. We ask the UN Secretary-General, in an open and inclusive process, to convene, by the second quarter of 2006, a meeting of the new forum for multi-stakeholder policy dialogue-called the Internet Governance Forum (IGF). The mandate of the Forum is to:",
+      "text": "72. We ask the UN Secretary-General, in an open and inclusive process, to convene, by the second quarter of 2006, a meeting of the new forum for multi-stakeholder policy dialogue-called the Internet Governance Forum (IGF). The mandate of the Forum is to:"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 712.7611328359067,
+            "r": 523.847363495906,
+            "b": 687.5538630059134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "● Discuss public policy issues related to key elements of Internet governance in order to foster the sustainability, robustness, security, stability, and development of the Internet;",
+      "text": "Discuss public policy issues related to key elements of Internet governance in order to foster the sustainability, robustness, security, stability, and development of the Internet;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 682.7359440359066,
+            "r": 523.7148904564383,
+            "b": 642.5160798059135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "● Facilitate discourse between bodies dealing with different cross-cutting international public policy issues regarding the Internet and discuss issues that do not fall within the scope of any existing body;",
+      "text": "Facilitate discourse between bodies dealing with different cross-cutting international public policy issues regarding the Internet and discuss issues that do not fall within the scope of any existing body;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 637.6981608359067,
+            "r": 523.3896394804154,
+            "b": 612.4908910059135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "● Interface with appropriate inter-governmental organizations and other institutions on matters under their purview;",
+      "text": "Interface with appropriate inter-governmental organizations and other institutions on matters under their purview;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 607.6729720359067,
+            "r": 523.4032336421428,
+            "b": 582.4657022059134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "● Facilitate the exchange of information and best practices, and in this regard make full use of the expertise of the academic, scientific, business, civil society  and technical communities;",
+      "text": "Facilitate the exchange of information and best practices, and in this regard make full use of the expertise of the academic, scientific, business, civil society  and technical communities;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 577.6477832359067,
+            "r": 523.7844708632614,
+            "b": 552.4405134059134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "● Advise all stakeholders in proposing ways and means to accelerate the availability and affordability of the Internet in the developing world;",
+      "text": "Advise all stakeholders in proposing ways and means to accelerate the availability and affordability of the Internet in the developing world;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 547.6225944359066,
+            "r": 523.5277676462263,
+            "b": 522.4153246059134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "● Strengthen and enhance the engagement of stakeholders in existing and/or future Internet governance mechanisms, particularly those from developing countries;",
+      "text": "Strengthen and enhance the engagement of stakeholders in existing and/or future Internet governance mechanisms, particularly those from developing countries;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 517.5974056359066,
+            "r": 523.1873355597328,
+            "b": 492.39013580591336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "● Identify emerging issues, bring them to the attention of the relevant bodies and the general public, and, where appropriate, make recommendations;",
+      "text": "Identify emerging issues, bring them to the attention of the relevant bodies and the general public, and, where appropriate, make recommendations;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 487.5722168359066,
+            "r": 523.2149762472397,
+            "b": 462.36494700591356,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "● Contribute to capacity building for Internet Governance in developing countries, drawing fully on local sources of knowledge and expertise;",
+      "text": "Contribute to capacity building for Internet Governance in developing countries, drawing fully on local sources of knowledge and expertise;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 457.5470280359068,
+            "r": 523.4930366846486,
+            "b": 432.3397582059133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "● Promote and assess, on an ongoing basis, the embodiment of WSIS principles in Internet governance processes;",
+      "text": "Promote and assess, on an ongoing basis, the embodiment of WSIS principles in Internet governance processes;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 427.52183923590655,
+            "r": 388.48738173702554,
+            "b": 417.32716380591364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "● Discuss, inter alia, issues relating to critical Internet resources;",
+      "text": "Discuss, inter alia, issues relating to critical Internet resources;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 412.5092448359069,
+            "r": 523.7647143964033,
+            "b": 387.3019750059134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "● Help to find solutions to the issues arising from the use and misuse of the Internet, of particular concern to everyday users;",
+      "text": "Help to find solutions to the issues arising from the use and misuse of the Internet, of particular concern to everyday users;",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.0755664,
+            "t": 382.48405603590663,
+            "r": 215.79563177952556,
+            "b": 372.28938060591327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "● Publish its proceedings.",
+      "text": "Publish its proceedings.",
+      "enumerated": false,
+      "marker": "●"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 330.5170516222597,
+            "r": 523.8696462431603,
+            "b": 276.2087764459134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "The mandate of Internet Governance Forum was put in place initially for a five-year duration; 2006 in Greece, 2007 in Brazil, 2008 in India, 2009 in Egypt, and 2010 in Lithuania. Following the first five years of the successful mandate of IGF, the international community requested an extension to another five years, which started in Kenya in 2011.",
+      "text": "The mandate of Internet Governance Forum was put in place initially for a five-year duration; 2006 in Greece, 2007 in Brazil, 2008 in India, 2009 in Egypt, and 2010 in Lithuania. Following the first five years of the successful mandate of IGF, the international community requested an extension to another five years, which started in Kenya in 2011."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 183.39362650225985,
+            "r": 178.73328935452557,
+            "b": 174.12313452591343,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Website: kictanet.or.ke",
+      "text": "Website: kictanet.or.ke"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 168.38103210225972,
+            "r": 101.97119154501875,
+            "b": 159.1105401259133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Email:",
+      "text": "Email:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 101.97055537132958,
+            "t": 168.38103210225972,
+            "r": 193.48785478827557,
+            "b": 159.1105401259133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "info@kictanet.or.ke",
+      "text": "info@kictanet.or.ke"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.06045311999999,
+            "t": 142.8596216222595,
+            "r": 158.31381149950198,
+            "b": 133.58912964591354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Twitter: @kictanet",
+      "text": "Twitter: @kictanet"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 596.0,
+        "height": 843.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 596.0,
+        "height": 843.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 596.0,
+        "height": 843.0
+      },
+      "page_no": 3
+    }
+  }
+}

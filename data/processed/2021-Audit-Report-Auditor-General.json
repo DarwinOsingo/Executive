@@ -1,0 +1,4918 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2021-Audit-Report-Auditor-General",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11510511895296153781,
+    "filename": "2021-Audit-Report-Auditor-General.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 285.59999999999997,
+            "t": 806.5779926757814,
+            "r": 403.8438399999999,
+            "b": 796.4029926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "REPUBLIC OF KENYA",
+      "text": "REPUBLIC OF KENYA"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 397.67999999999995,
+            "t": 758.3405926757814,
+            "r": 403.17689399999995,
+            "b": 747.5180926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\\",
+      "text": "\\"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 463.42999999999995,
+            "t": 758.0811926757814,
+            "r": 468.932,
+            "b": 750.3111926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "y",
+      "text": "y"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 400.55999999999995,
+            "t": 750.1805926757813,
+            "r": 409.42976999999996,
+            "b": 739.3580926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "R",
+      "text": "R"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 461.51,
+            "t": 738.7947926757813,
+            "r": 467.031068,
+            "b": 735.4647926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "^",
+      "text": "^"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 246.0,
+            "t": 705.8137926757813,
+            "r": 470.568162,
+            "b": 692.7712926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "OFFICE OF THE AUDITOR-GENERAL",
+      "text": "OFFICE OF THE AUDITOR-GENERAL"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 268.08,
+            "t": 680.0437926757813,
+            "r": 427.18045200000006,
+            "b": 667.0012926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Enhancing Accountability",
+      "text": "Enhancing Accountability"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 264.48,
+            "t": 640.1185926757813,
+            "r": 354.462198,
+            "b": 623.7460926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "REPORT",
+      "text": "REPORT"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 289.91,
+            "t": 576.1485926757814,
+            "r": 328.50892100000004,
+            "b": 559.7760926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "OF",
+      "text": "OF"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.84000000000003,
+            "t": 510.6885926757813,
+            "r": 425.54736,
+            "b": 494.3160926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "THE AUDITOR-GENERAL",
+      "text": "THE AUDITOR-GENERAL"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 290.64000000000004,
+            "t": 442.3823926757813,
+            "r": 325.9200000000001,
+            "b": 426.8423926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ON",
+      "text": "ON"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.47000000000008,
+            "t": 374.9185926757813,
+            "r": 503.6301110000002,
+            "b": 358.5460926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "AGRICULTURAL FINANCE CORPORATION",
+      "text": "AGRICULTURAL FINANCE CORPORATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.23000000000008,
+            "t": 287.8111926757813,
+            "r": 422.05067199999996,
+            "b": 249.02119267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "FOR THE YEAR ENDED 30 JUNE, 2024",
+      "text": "FOR THE YEAR ENDED 30 JUNE, 2024"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 490.08,
+            "t": 580.8509926757813,
+            "r": 498.3991499999999,
+            "b": 576.6884926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "?¥£!",
+      "text": "?¥£!"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 504.47,
+            "t": 597.2331926757813,
+            "r": 514.242884,
+            "b": 590.3881926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "SB",
+      "text": "SB"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 526.08,
+            "t": 817.7907926757814,
+            "r": 564.206274,
+            "b": 798.7357926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "^x",
+      "text": "^x"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 568.32,
+            "t": 656.9499926757813,
+            "r": 571.88845,
+            "b": 652.3249926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.16,
+            "t": 322.4611926757814,
+            "r": 584.845696,
+            "b": 305.4411926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 573.35,
+            "t": 304.67319267578137,
+            "r": 582.4284680000002,
+            "b": 297.82819267578134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "%",
+      "text": "%"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 573.3500000000001,
+            "t": 286.43319267578147,
+            "r": 582.1653240000002,
+            "b": 279.58819267578144,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "%",
+      "text": "%"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 571.9100000000001,
+            "t": 299.55179267578137,
+            "r": 584.6293340000001,
+            "b": 285.5842926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.8700000000001,
+            "t": 280.23119267578136,
+            "r": 583.1600000000001,
+            "b": 272.4611926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.8700000000001,
+            "t": 272.07639267578134,
+            "r": 583.1409880000001,
+            "b": 263.0113926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 571.9100000000001,
+            "t": 233.99299267578135,
+            "r": 584.5868,
+            "b": 207.6304926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 574.3100000000001,
+            "t": 209.10999267578143,
+            "r": 582.3884000000002,
+            "b": 204.48499267578143,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "g:'",
+      "text": "g:'"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 553.7900000000001,
+            "t": 544.7405926757814,
+            "r": 566.4523250000001,
+            "b": 533.9180926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "r",
+      "text": "r"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 554.2700000000001,
+            "t": 315.3337926757812,
+            "r": 579.4600730000002,
+            "b": 302.2912926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1..^",
+      "text": "1..^"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 18.230000000000018,
+            "t": 762.3963926757813,
+            "r": 147.34597600000006,
+            "b": 727.4113926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "Telephone: +254-(2o) 3214000 Email: info@oagkenya.go.ke Website:www.oagkenya.go.ke",
+      "text": "Telephone: +254-(2o) 3214000 Email: info@oagkenya.go.ke Website:www.oagkenya.go.ke"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 210.23999999999995,
+            "t": 810.4663926757813,
+            "r": 389.2181760000002,
+            "b": 796.7763926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "REPUBLIC OF KENYA",
+      "text": "REPUBLIC OF KENYA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 261.12,
+            "t": 771.7899926757814,
+            "r": 331.058,
+            "b": 734.7899926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "AG",
+      "text": "AG"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 224.63,
+            "t": 721.0899926757813,
+            "r": 392.64919999999984,
+            "b": 711.8399926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "OFFICE OF THE AUDITOR-GENERAL",
+      "text": "OFFICE OF THE AUDITOR-GENERAL"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 239.51,
+            "t": 702.8979926757813,
+            "r": 361.17308,
+            "b": 692.7229926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Enhancing Accountability",
+      "text": "Enhancing Accountability"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.90999999999997,
+            "t": 686.5831926757813,
+            "r": 544.6655840000001,
+            "b": 675.1131926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "REPORT OF THE AUDITOR-GENERAL ON AGRICULTURAL FINANCE",
+      "text": "REPORT OF THE AUDITOR-GENERAL ON AGRICULTURAL FINANCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.42999999999995,
+            "t": 672.6631926757814,
+            "r": 391.9921999999998,
+            "b": 661.1931926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "CORPORATION FOR THE YEAR ENDED 30 JUNE, 2024",
+      "text": "CORPORATION FOR THE YEAR ENDED 30 JUNE, 2024",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.90999999999997,
+            "t": 642.4205926757812,
+            "r": 146.548748,
+            "b": 631.5980926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "PREAMBLE",
+      "text": "PREAMBLE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 74.63,
+            "t": 613.6559926757814,
+            "r": 459.28243999999995,
+            "b": 602.5559926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "I draw your attention to the contents of my report which is in three parts:",
+      "text": "I draw your attention to the contents of my report which is in three parts:"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.18999999999994,
+            "t": 585.9759926757813,
+            "r": 544.5547999999995,
+            "b": 534.3229926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "A. Report on Financial Statements that considers whether the financial statements are fairly presented in accordance with the applicable financial reporting framework, accounting standards and the relevant laws and regulations that have a direct effect on the financial statements;",
+      "text": "Report on Financial Statements that considers whether the financial statements are fairly presented in accordance with the applicable financial reporting framework, accounting standards and the relevant laws and regulations that have a direct effect on the financial statements;",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.66999999999996,
+            "t": 516.6959926757813,
+            "r": 545.8484000000001,
+            "b": 436.7959926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            419
+          ]
+        }
+      ],
+      "orig": "B. Report on Lawfulness and Effectiveness in the Use of Public Resources which considers compliance with applicable laws, regulations, policies, gazette notices, circulars, guidelines and manuals and whether public resources are applied in a prudent, efficient, economic, transparent and accountable manner to ensure the Government achieves value for money and that such funds are applied for the intended purpose; and,",
+      "text": "Report on Lawfulness and Effectiveness in the Use of Public Resources which considers compliance with applicable laws, regulations, policies, gazette notices, circulars, guidelines and manuals and whether public resources are applied in a prudent, efficient, economic, transparent and accountable manner to ensure the Government achieves value for money and that such funds are applied for the intended purpose; and,",
+      "enumerated": true,
+      "marker": "B."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 72.23000000000002,
+            "t": 420.22599267578136,
+            "r": 544.1064000000003,
+            "b": 353.9159926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "C. Report on Effectiveness of Internal Controls, Risk Management and Governance which considers how the entity has instituted checks and balances to guide internal operations. This responds to the effectiveness of the governance structure, risk management environment and internal controls, developed and implemented by those charged with governance for orderly, efficient and effective operations of the entity.",
+      "text": "Report on Effectiveness of Internal Controls, Risk Management and Governance which considers how the entity has instituted checks and balances to guide internal operations. This responds to the effectiveness of the governance structure, risk management environment and internal controls, developed and implemented by those charged with governance for orderly, efficient and effective operations of the entity.",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.79999999999995,
+            "t": 337.3359926757813,
+            "r": 545.2920000000007,
+            "b": 257.1159926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            447
+          ]
+        }
+      ],
+      "orig": "A Qualified Opinion is issued when the Auditor-General concludes that, except for material misstatements noted, the financial statements are fairly presented in accordance with the applicable financial reporting framework. The Report on Financial Statements should be read together with the Report on Lawfulness and Effectiveness in the Use of Public Resources, and the Report on Effectiveness of Internal Controls, Risk Management and Governance.",
+      "text": "A Qualified Opinion is issued when the Auditor-General concludes that, except for material misstatements noted, the financial statements are fairly presented in accordance with the applicable financial reporting framework. The Report on Financial Statements should be read together with the Report on Lawfulness and Effectiveness in the Use of Public Resources, and the Report on Effectiveness of Internal Controls, Risk Management and Governance."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.80000000000007,
+            "t": 240.69599267578133,
+            "r": 545.4575999999996,
+            "b": 187.99599267578117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "The three parts of the report are aimed at addressing the statutory roles and responsibilities of the Auditor-General as provided by Article 229 of the Constitution, the Public Finance Management Act, 2012, and the Public Audit Act, 2015. The three parts of the report when read together constitute the report of the Auditor-General.",
+      "text": "The three parts of the report are aimed at addressing the statutory roles and responsibilities of the Auditor-General as provided by Article 229 of the Constitution, the Public Finance Management Act, 2012, and the Public Audit Act, 2015. The three parts of the report when read together constitute the report of the Auditor-General."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 484.30999999999995,
+            "t": 769.2999926757814,
+            "r": 574.3172000000001,
+            "b": 760.0499926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "HEADQUARTERS",
+      "text": "HEADQUARTERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 470.87,
+            "t": 755.2499926757814,
+            "r": 573.939568,
+            "b": 708.4978926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Ann ive rsa ry Towe rs Monrovia Street P.O Box 30084-00100 NAIROBI",
+      "text": "Ann ive rsa ry Towe rs Monrovia Street P.O Box 30084-00100 NAIROBI"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.56000000000017,
+            "t": 107.19899267578137,
+            "r": 515.4206400000007,
+            "b": 97.48649267578128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.59,
+            "t": 754.5359926757812,
+            "r": 326.264,
+            "b": 743.4359926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "REPORT ON THE FINANCIAL STATEMENTS",
+      "text": "REPORT ON THE FINANCIAL STATEMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.35,
+            "t": 725.7359926757813,
+            "r": 177.27559999999994,
+            "b": 714.6359926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Qualified Opinion",
+      "text": "Qualified Opinion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.35000000000001,
+            "t": 697.7359926757813,
+            "r": 546.6581600000004,
+            "b": 576.0759926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            741
+          ]
+        }
+      ],
+      "orig": "I have audited the accompanying financial statements of Agricultural Finance Corporation set out on pages 1 to 67, which comprise the statement of financial position as at 30 June, 2024 and the statement of profit or loss and other comprehensive income, statement of changes in equity, statement of cash flows and statement of comparison of budget and actual amounts for the year then ended and a summary of significant accounting policies and other explanatory information in accordance with the provisions of Article 229 of the Constitution of Kenya and Section 35 of the Public Audit Act, 2015. t have obtained all the information and explanations which to the best of my knowledge and belief, were necessary for the purpose of the audit.",
+      "text": "I have audited the accompanying financial statements of Agricultural Finance Corporation set out on pages 1 to 67, which comprise the statement of financial position as at 30 June, 2024 and the statement of profit or loss and other comprehensive income, statement of changes in equity, statement of cash flows and statement of comparison of budget and actual amounts for the year then ended and a summary of significant accounting policies and other explanatory information in accordance with the provisions of Article 229 of the Constitution of Kenya and Section 35 of the Public Audit Act, 2015. t have obtained all the information and explanations which to the best of my knowledge and belief, were necessary for the purpose of the audit."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.11000000000003,
+            "t": 559.4959926757813,
+            "r": 547.1306000000001,
+            "b": 465.52599267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            548
+          ]
+        }
+      ],
+      "orig": "In my opinion, except for the effect of the matters described in the Basis for Qualified Opinion section of my report, the financial statements present fairly, in all material respects, the financial position of Agricultural Finance Corporationas at 30 June, 2024 and of its financial performance and its cash flows for the year then ended, in accordance with International Financial Reporting Standards ( Accrual Basis) and comply with the Agricultural Finance Corporation Act, Cap 323 of the laws of Kenya and Public Finance Management Act, 2012.",
+      "text": "In my opinion, except for the effect of the matters described in the Basis for Qualified Opinion section of my report, the financial statements present fairly, in all material respects, the financial position of Agricultural Finance Corporationas at 30 June, 2024 and of its financial performance and its cash flows for the year then ended, in accordance with International Financial Reporting Standards ( Accrual Basis) and comply with the Agricultural Finance Corporation Act, Cap 323 of the laws of Kenya and Public Finance Management Act, 2012."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.07000000000002,
+            "t": 448.9359926757812,
+            "r": 232.17272000000014,
+            "b": 437.83599267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Basis for Qualified Opinion",
+      "text": "Basis for Qualified Opinion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.07000000000002,
+            "t": 421.41599267578124,
+            "r": 344.2576399999999,
+            "b": 410.3159926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "1. Unsupported Property, Plant and Equipment",
+      "text": "1. Unsupported Property, Plant and Equipment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.11000000000003,
+            "t": 393.4159926757813,
+            "r": 546.3610399999994,
+            "b": 313.80949267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            472
+          ]
+        }
+      ],
+      "orig": "The statement of financial position reflects a balance of Kshs.1,138,804,000 in respect of property, plant and equipment and as disclosed in Note 8(a) to the financial statements. As previously reported, the balance includes thirty one (31) developed plots measuring a total of 5.3324 hectares valued at Kshs.191,627,798 and two (2) undeveloped plots that is Kimilili and Kisumu plots measuring a total of 0.8191 hectares, with Kimilili plot having no ownership documents.",
+      "text": "The statement of financial position reflects a balance of Kshs.1,138,804,000 in respect of property, plant and equipment and as disclosed in Note 8(a) to the financial statements. As previously reported, the balance includes thirty one (31) developed plots measuring a total of 5.3324 hectares valued at Kshs.191,627,798 and two (2) undeveloped plots that is Kimilili and Kisumu plots measuring a total of 0.8191 hectares, with Kimilili plot having no ownership documents."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.35000000000004,
+            "t": 297.1085926757812,
+            "r": 546.2506040000004,
+            "b": 174.8110926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            752
+          ]
+        }
+      ],
+      "orig": "Further, the value of land excludes unvalued parcels of land located in Nanyuki and Kerugoya and includes the value of a parcel in Chogoria, which Management has explained was repossessed by the respective County Governments due to failure by the Corporation to develop the property within the stipulated time. Management has also explained that the Kerugoya plot has since been developed by the Judiciary and similarly, the Chogoria plot has been developed by Meru South Co-operative Union, with a building named Mwalimu Sacco Plaza. The balance also excludes land located in Kimilili and Busia whose ownership document was not provided. Although the Management has explained that it continues to pursue the ownership documents through the Ministry of",
+      "text": "Further, the value of land excludes unvalued parcels of land located in Nanyuki and Kerugoya and includes the value of a parcel in Chogoria, which Management has explained was repossessed by the respective County Governments due to failure by the Corporation to develop the property within the stipulated time. Management has also explained that the Kerugoya plot has since been developed by the Judiciary and similarly, the Chogoria plot has been developed by Meru South Co-operative Union, with a building named Mwalimu Sacco Plaza. The balance also excludes land located in Kimilili and Busia whose ownership document was not provided. Although the Management has explained that it continues to pursue the ownership documents through the Ministry of"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 524.75,
+            "t": 746.7289926757812,
+            "r": 532.13606,
+            "b": 741.6414926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "w",
+      "text": "w"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 74.28000000000004,
+            "t": 114.13739267578126,
+            "r": 472.40379299999955,
+            "b": 105.53489267578118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 305.1600000000001,
+            "t": 92.91739267578123,
+            "r": 316.8460080000001,
+            "b": 84.31489267578115,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 15.110000000000014,
+            "t": 545.3311926757813,
+            "r": 39.315920000000006,
+            "b": 528.3111926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "( /",
+      "text": "( /"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.08000000000004,
+            "t": 766.3059926757813,
+            "r": 540.5051999999994,
+            "b": 742.1243926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Lands and the National Land Commission, the documents had not been obtained as at the time of audit.",
+      "text": "Lands and the National Land Commission, the documents had not been obtained as at the time of audit."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 69.11000000000001,
+            "t": 738.4469926757814,
+            "r": 542.8730399999998,
+            "b": 616.3931926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            752
+          ]
+        }
+      ],
+      "orig": "In addition, excluded in the net book value of Kshs.34,523, for land is an amount of Kshs.523,382 that was utilized in the acquisition of five (5) parcels of land in Kimilili, Molo, Bungoma, Chogoria and Kisumu Municipality at a cost of Kshs.18,000, Kshs.4,010 Kshs.54,262, Kshs.438,820 and Kshs.8,290 respectively. The five (5) parcels of land have not been revalued contrary to the International Accounting Standard No. 16 which requires sufficient regularity in revaluation of property, plant and equipment to ensure that the carrying amount does not differ materially from that which would be determined using fair values at the end of reporting period. In addition, the ownership documents for two (2) of the parcels of land have not been secured.",
+      "text": "In addition, excluded in the net book value of Kshs.34,523, for land is an amount of Kshs.523,382 that was utilized in the acquisition of five (5) parcels of land in Kimilili, Molo, Bungoma, Chogoria and Kisumu Municipality at a cost of Kshs.18,000, Kshs.4,010 Kshs.54,262, Kshs.438,820 and Kshs.8,290 respectively. The five (5) parcels of land have not been revalued contrary to the International Accounting Standard No. 16 which requires sufficient regularity in revaluation of property, plant and equipment to ensure that the carrying amount does not differ materially from that which would be determined using fair values at the end of reporting period. In addition, the ownership documents for two (2) of the parcels of land have not been secured."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.87,
+            "t": 599.7031926757813,
+            "r": 535.881352,
+            "b": 574.6431926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "In the circumstances, the accuracy, completeness and ownership of property plant and equipment net book value of Kshs. 1,138,804,000 could not be confirmed.",
+      "text": "In the circumstances, the accuracy, completeness and ownership of property plant and equipment net book value of Kshs. 1,138,804,000 could not be confirmed."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.87,
+            "t": 558.4231926757814,
+            "r": 326.7552800000001,
+            "b": 546.9531926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "2. Overdrawing of Cash Book through Fraud",
+      "text": "2. Overdrawing of Cash Book through Fraud",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.90999999999997,
+            "t": 530.9131926757814,
+            "r": 542.1487999999994,
+            "b": 409.1259926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            791
+          ]
+        }
+      ],
+      "orig": "The statement of financial position reflects Current liabilities balance of 927,044,000 as at 30 June 2024. Included in this balance is current account balance of Kshs.11,835,000 as disclosed in note 13(b) to the financial statements. Review of the cash book balance revealed an overdrawn amount of Kshs.11,835,000 for Eldoret Branch Office Account. Review of bank reconciliation statements of Eldoret branch provided for audit, revealed that the negative balance was attributed to a fraud. The management explained that the fraud was reported in a criminal case at Eldoret in 2018,whose final judgement was done on 31 May, 2024 in favour of the corporation and the culprits given fourteen(14) days right of appeal. The Management failed to provide details of the current status of the case.",
+      "text": "The statement of financial position reflects Current liabilities balance of 927,044,000 as at 30 June 2024. Included in this balance is current account balance of Kshs.11,835,000 as disclosed in note 13(b) to the financial statements. Review of the cash book balance revealed an overdrawn amount of Kshs.11,835,000 for Eldoret Branch Office Account. Review of bank reconciliation statements of Eldoret branch provided for audit, revealed that the negative balance was attributed to a fraud. The management explained that the fraud was reported in a criminal case at Eldoret in 2018,whose final judgement was done on 31 May, 2024 in favour of the corporation and the culprits given fourteen(14) days right of appeal. The Management failed to provide details of the current status of the case."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.38999999999999,
+            "t": 392.53599267578136,
+            "r": 541.5411200000003,
+            "b": 354.80299267578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "In the circumstances, the accuracy and completeness of the cash and bank balance of Kshs.254,252,000 could not be confirmed. In addition the recoverability of Kshs.11,835.000 could not be ascertained.",
+      "text": "In the circumstances, the accuracy and completeness of the cash and bank balance of Kshs.254,252,000 could not be confirmed. In addition the recoverability of Kshs.11,835.000 could not be ascertained."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.90999999999997,
+            "t": 337.11899267578127,
+            "r": 311.93892500000027,
+            "b": 327.40649267578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "3.0 Net Medium Term Loans to Customers",
+      "text": "3.0 Net Medium Term Loans to Customers",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.90999999999997,
+            "t": 309.7589926757812,
+            "r": 388.0470200000004,
+            "b": 300.0464926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "3.1 Medium Term Loans Issued on Doubtful Title Deeds",
+      "text": "3.1 Medium Term Loans Issued on Doubtful Title Deeds",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.96000000000015,
+            "t": 281.9859926757814,
+            "r": 543.26388,
+            "b": 187.91319267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            592
+          ]
+        }
+      ],
+      "orig": "The statement of financial position reflects a balance of Kshs.9,090,041,000 in respect of net medium-term loans to customers as disclosed in Note 9(a) which, as previously reported, the balance includes an amount of Kshs.22,661,000 being principal loan advanced plus interest and other loan fees to thirteen (13) farmers in Kapsabet. Information available indicates that the Corporation advanced the amount against various collaterals in form of title deeds that were fraudulent. The Corporation filed seven (7) cases in Court against the fraudsters and judgement was entered in favor of the",
+      "text": "The statement of financial position reflects a balance of Kshs.9,090,041,000 in respect of net medium-term loans to customers as disclosed in Note 9(a) which, as previously reported, the balance includes an amount of Kshs.22,661,000 being principal loan advanced plus interest and other loan fees to thirteen (13) farmers in Kapsabet. Information available indicates that the Corporation advanced the amount against various collaterals in form of title deeds that were fraudulent. The Corporation filed seven (7) cases in Court against the fraudsters and judgement was entered in favor of the"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.67000000000007,
+            "t": 113.45279267578132,
+            "r": 470.16296000000017,
+            "b": 104.57279267578122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 299.5100000000001,
+            "t": 91.78839267578132,
+            "r": 311.1548640000001,
+            "b": 83.64839267578122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.12,
+            "t": 766.7859926757812,
+            "r": 545.1993600000001,
+            "b": 741.7559926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Corporation. However, the Corporation had not executed the warrants issued as at 30 June, 2024 and details on the other cases have not been provided for audit.",
+      "text": "Corporation. However, the Corporation had not executed the warrants issued as at 30 June, 2024 and details on the other cases have not been provided for audit."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.64000000000001,
+            "t": 729.4959926757813,
+            "r": 545.2049599999997,
+            "b": 706.1264926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "In the circumstances, the recoverability of loans amounting to Kshs.22,661 ,000 issued on fraudulent titles could not be confirmed.",
+      "text": "In the circumstances, the recoverability of loans amounting to Kshs.22,661 ,000 issued on fraudulent titles could not be confirmed."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.12000000000002,
+            "t": 691.4259926757812,
+            "r": 296.41548000000006,
+            "b": 680.3259926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "3.2Non-Performing Loans to Directors",
+      "text": "3.2Non-Performing Loans to Directors",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.88000000000002,
+            "t": 668.3669926757813,
+            "r": 543.3032000000003,
+            "b": 574.1631926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            573
+          ]
+        }
+      ],
+      "orig": "Note 9 (a) to the financial statements reflects a balance of Kshs.48,873,000 under Directors' loans. As previously reported these comprises of seven (7) loan accounts out of which five (5) of the loan accounts are in arrears amounting to Kshs.35,660,367 and which have been referred to the debt recovery unit. Review of records revealed that the six (6) accounts have been graded as non-collectable even upon disposal of attached securities as per the existing credit policy. Although a provision of Kshs.4,832,000 has been made on directors' loans, this may be inadequate.",
+      "text": "Note 9 (a) to the financial statements reflects a balance of Kshs.48,873,000 under Directors' loans. As previously reported these comprises of seven (7) loan accounts out of which five (5) of the loan accounts are in arrears amounting to Kshs.35,660,367 and which have been referred to the debt recovery unit. Review of records revealed that the six (6) accounts have been graded as non-collectable even upon disposal of attached securities as per the existing credit policy. Although a provision of Kshs.4,832,000 has been made on directors' loans, this may be inadequate."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.84000000000002,
+            "t": 571.8631926757813,
+            "r": 540.8870519999998,
+            "b": 547.3294926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "In the circumstances, the accuracy and recoverability of the Directors loans balance of Kshs.48,873,000 could not be confirmed.",
+      "text": "In the circumstances, the accuracy and recoverability of the Directors loans balance of Kshs.48,873,000 could not be confirmed."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.88000000000002,
+            "t": 533.5059926757812,
+            "r": 384.8707200000002,
+            "b": 522.4059926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "4 Long Outstanding Short-Term Loans to Customers",
+      "text": "4 Long Outstanding Short-Term Loans to Customers",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.88000000000002,
+            "t": 509.4959926757813,
+            "r": 545.4240000000007,
+            "b": 401.44599267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            671
+          ]
+        }
+      ],
+      "orig": "The statement of financial position reflects net short term loans to customers of Kshs.889,764,000 and as disclosed in Note 9(b) to the financial statements. Included in the balance is gross short-term loans to customers balance of Kshs.889,781,000. Review of the short-term loan portfolio schedule provided reflects arrears of loans amounting to Kshs.225,135,805 that have been outstanding for more than one year as their maturity period was 30 June, 2024 and earlier periods with some being outstanding for more than ten (10) years. Although, Management has engaged an external agency to assist in recovering these loans, the measures have not yielded positive results.",
+      "text": "The statement of financial position reflects net short term loans to customers of Kshs.889,764,000 and as disclosed in Note 9(b) to the financial statements. Included in the balance is gross short-term loans to customers balance of Kshs.889,781,000. Review of the short-term loan portfolio schedule provided reflects arrears of loans amounting to Kshs.225,135,805 that have been outstanding for more than one year as their maturity period was 30 June, 2024 and earlier periods with some being outstanding for more than ten (10) years. Although, Management has engaged an external agency to assist in recovering these loans, the measures have not yielded positive results."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 71.88000000000004,
+            "t": 388.5459926757813,
+            "r": 542.9049599999994,
+            "b": 364.40299267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "In the circumstances, the accuracy and completeness of short-term loans to customers of Kshs.225,135,805 could not be confirmed.",
+      "text": "In the circumstances, the accuracy and completeness of short-term loans to customers of Kshs.225,135,805 could not be confirmed."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.36000000000003,
+            "t": 351.5859926757813,
+            "r": 545.7260399999999,
+            "b": 257.67809267578116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "The audit was conducted in accordance with International Standards for Supreme Audit Institutions (ISSAIs). I am independent of the Agricultural Finance Corporation Management in accordance with ISSAI 130 on the Code of Ethics. I have fulfilled other ethical responsibilities in accordance with the ISSAI and in accordance with other ethical requirements applicable to performing audits of financial statements in Kenya. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my qualified opinion.",
+      "text": "The audit was conducted in accordance with International Standards for Supreme Audit Institutions (ISSAIs). I am independent of the Agricultural Finance Corporation Management in accordance with ISSAI 130 on the Code of Ethics. I have fulfilled other ethical responsibilities in accordance with the ISSAI and in accordance with other ethical requirements applicable to performing audits of financial statements in Kenya. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my qualified opinion."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 73.31000000000004,
+            "t": 243.40059267578135,
+            "r": 189.21136999999996,
+            "b": 232.57809267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Emphasis of Matter",
+      "text": "Emphasis of Matter",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 73.31000000000004,
+            "t": 217.65599267578125,
+            "r": 282.0876800000001,
+            "b": 206.55599267578123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Budgetary control and performance",
+      "text": "Budgetary control and performance",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 72.84000000000005,
+            "t": 192.7059926757812,
+            "r": 545.99304,
+            "b": 167.67599267578123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "The statement of comparison of Budget and Actual amounts reflects final receipts budget and actual on comparable basis of Kshs.1,534,500,000 and Kshs.1,300,807,000",
+      "text": "The statement of comparison of Budget and Actual amounts reflects final receipts budget and actual on comparable basis of Kshs.1,534,500,000 and Kshs.1,300,807,000"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 74.03000000000004,
+            "t": 113.44379267578131,
+            "r": 475.64029999999985,
+            "b": 105.02629267578129,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 305.39000000000004,
+            "t": 91.59119267578126,
+            "r": 316.17862400000007,
+            "b": 83.82119267578128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 765.3031926757814,
+            "r": 540.002544,
+            "b": 698.4731926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            370
+          ]
+        }
+      ],
+      "orig": "respectively, resulting in under collection amount of Kshs.233,695,000 or 15% of the budget. Similarly, the Corporation spent Kshs. 1,264,054,000 against the budgeted amount of Kshs. 1,423,300,000 resulting in under expenditure of Kshs. 159,246,000 representing 11% of the estimated expenditure. Management has attributed the low absorption to low commercial activities.",
+      "text": "respectively, resulting in under collection amount of Kshs.233,695,000 or 15% of the budget. Similarly, the Corporation spent Kshs. 1,264,054,000 against the budgeted amount of Kshs. 1,423,300,000 resulting in under expenditure of Kshs. 159,246,000 representing 11% of the estimated expenditure. Management has attributed the low absorption to low commercial activities."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 682.1031926757814,
+            "r": 541.9890240000005,
+            "b": 642.8780926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "The under collection and under expenditure are an indication that the corporation's objectives may not have been achieved and may impact negatively on service delivery to members of public.",
+      "text": "The under collection and under expenditure are an indication that the corporation's objectives may not have been achieved and may impact negatively on service delivery to members of public."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 626.5831926757813,
+            "r": 344.5693680000001,
+            "b": 615.1131926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "My opinion is not modified in respect of this matter.",
+      "text": "My opinion is not modified in respect of this matter."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.79999999999995,
+            "t": 598.5005926757813,
+            "r": 178.83358800000002,
+            "b": 587.6780926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Key Audit Matters",
+      "text": "Key Audit Matters",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.32000000000005,
+            "t": 571.3831926757814,
+            "r": 540.4416959999998,
+            "b": 532.3931926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Key audit matters are those matters that, in my professional judgement, are of most significance in the audit of the financial statements. There were no key audit matters to report in the year under review.",
+      "text": "Key audit matters are those matters that, in my professional judgement, are of most significance in the audit of the financial statements. There were no key audit matters to report in the year under review."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.32000000000005,
+            "t": 515.4843926757812,
+            "r": 148.52031600000004,
+            "b": 505.4943926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Other Matter",
+      "text": "Other Matter",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 70.32000000000005,
+            "t": 488.0543926757813,
+            "r": 247.5108479999999,
+            "b": 478.0643926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Unresolved Prior Year Matters",
+      "text": "Unresolved Prior Year Matters",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 69.35000000000002,
+            "t": 462.46599267578137,
+            "r": 546.3872399999997,
+            "b": 368.47599267578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            595
+          ]
+        }
+      ],
+      "orig": "In the report of the Auditor-General for the year ended 30 June, 2023, various audit issues were raised under Report on the Financial Statements, Report on Lawfulness and Effectiveness in Use of Public Resources and Report on Effectiveness of Internal Controls, Risk Management and Governance sections. However, as indicated in the Progress on Follow Up on Prior Year Auditor's Recommendations section of the financial statements, all these issues had not been resolved as at 30 June, 2024. Management has not provided satisfactory reasons for the delay in resolving the prior year audit issues.",
+      "text": "In the report of the Auditor-General for the year ended 30 June, 2023, various audit issues were raised under Report on the Financial Statements, Report on Lawfulness and Effectiveness in Use of Public Resources and Report on Effectiveness of Internal Controls, Risk Management and Governance sections. However, as indicated in the Progress on Follow Up on Prior Year Auditor's Recommendations section of the financial statements, all these issues had not been resolved as at 30 June, 2024. Management has not provided satisfactory reasons for the delay in resolving the prior year audit issues."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 69.35000000000002,
+            "t": 351.7853926757813,
+            "r": 176.743362,
+            "b": 342.25789267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Other Information",
+      "text": "Other Information",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 15.110000000000014,
+            "t": 324.6631926757814,
+            "r": 541.4756640000004,
+            "b": 244.39319267578128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            492
+          ]
+        }
+      ],
+      "orig": "The Directors are responsible for the other information set out on page i to xci which C' comprise of Key Entity Information, The Board of Directors, Management Team, Chairman's Statement, Report of the Managing Director, Corporate Governance Statement, Management Discussion and Analysis, Environmental and Sustainability Reporting, Report of the Directors, Statement of Directors Responsibilities. The Other Information does not include the financial statements and my audit report thereon.",
+      "text": "The Directors are responsible for the other information set out on page i to xci which C' comprise of Key Entity Information, The Board of Directors, Management Team, Chairman's Statement, Report of the Managing Director, Corporate Governance Statement, Management Discussion and Analysis, Environmental and Sustainability Reporting, Report of the Directors, Statement of Directors Responsibilities. The Other Information does not include the financial statements and my audit report thereon."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 67.91000000000008,
+            "t": 225.78319267578138,
+            "r": 539.5015840000003,
+            "b": 173.03319267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            361
+          ]
+        }
+      ],
+      "orig": "In connection with my audit on the Agricultural Finance Corporation financial statements, my responsibility is to read the other information and in doing so, consider whether the other information is materially inconsistent with the financial statements or my knowledge obtained in the audit or otherwise appears to be materially misstated. If based on the work",
+      "text": "In connection with my audit on the Agricultural Finance Corporation financial statements, my responsibility is to read the other information and in doing so, consider whether the other information is materially inconsistent with the financial statements or my knowledge obtained in the audit or otherwise appears to be materially misstated. If based on the work"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 69.11000000000013,
+            "t": 112.49279267578129,
+            "r": 471.60296000000017,
+            "b": 103.61279267578118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 300.9500000000001,
+            "t": 90.82839267578129,
+            "r": 312.5948640000001,
+            "b": 82.68839267578142,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.12,
+            "t": 766.0231926757813,
+            "r": 542.3821880000005,
+            "b": 740.2261926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "I have performed, I conclude that there is a material misstatement of this Other Information, I am required to report that fact. I have nothing to report in this regard.",
+      "text": "I have performed, I conclude that there is a material misstatement of this Other Information, I am required to report that fact. I have nothing to report in this regard."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.16,
+            "t": 725.7121926757812,
+            "r": 545.2814399999999,
+            "b": 700.5396926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "REPORT ON LAWFULNESS AND EFFECTIVENESS IN THE USE OF PUBLIC RESOURCES",
+      "text": "REPORT ON LAWFULNESS AND EFFECTIVENESS IN THE USE OF PUBLIC RESOURCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.64,
+            "t": 696.8789926757812,
+            "r": 142.26888,
+            "b": 687.1664926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.16000000000001,
+            "t": 669.0631926757812,
+            "r": 543.6043319999997,
+            "b": 601.9131926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            405
+          ]
+        }
+      ],
+      "orig": "As required by Article 229(6) of the Constitution, based on the audit procedures performed, except for the effect of the matters described in the Basis for Conclusion on Lawfulness and Effectiveness in the Use of Public Resources section of my report, I confirm that nothing else has come to my attention to cause me to believe that public resources have not been applied lawfully and in an effective way.",
+      "text": "As required by Article 229(6) of the Constitution, based on the audit procedures performed, except for the effect of the matters described in the Basis for Conclusion on Lawfulness and Effectiveness in the Use of Public Resources section of my report, I confirm that nothing else has come to my attention to cause me to believe that public resources have not been applied lawfully and in an effective way."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.88000000000001,
+            "t": 585.9989926757812,
+            "r": 196.28610000000012,
+            "b": 576.2864926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Basis for Conclusion",
+      "text": "Basis for Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.88000000000001,
+            "t": 559.1669926757812,
+            "r": 160.88563,
+            "b": 548.5294926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1.0 Staff Costs",
+      "text": "1.0 Staff Costs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.88000000000001,
+            "t": 530.8321926757814,
+            "r": 544.0249020000005,
+            "b": 477.7996926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "The statement of profit or loss and other comprehensive income reflects operating expenses amount of Kshs. 1,229,750,000 which includes staff costs amounting to Kshs.756, 520,000, as disclosed in Note 7(a) to the financial statements. Review of records revealed the following anomalies:",
+      "text": "The statement of profit or loss and other comprehensive income reflects operating expenses amount of Kshs. 1,229,750,000 which includes staff costs amounting to Kshs.756, 520,000, as disclosed in Note 7(a) to the financial statements. Review of records revealed the following anomalies:"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.83000000000004,
+            "t": 461.89219267578125,
+            "r": 380.12580200000025,
+            "b": 449.95969267578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "1.1 Non-Compliance with Two Third Basic Salary Rule",
+      "text": "1.1 Non-Compliance with Two Third Basic Salary Rule",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.64000000000001,
+            "t": 434.2221926757813,
+            "r": 544.8857789999994,
+            "b": 353.32969267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "Review of the payroll records provided revealed that 248 employees had deductions over and above the 1/3 basic rule that were more than two thirds of their basic pay on various months of the period under review 2023/2024. This was contrary to the provisions of Section 19 (3) of the Employment Act, 2007 which states that the total amount of all deductions that may be made by an employer from the wages of his employee at any one time shall not exceed two thirds of such wages.",
+      "text": "Review of the payroll records provided revealed that 248 employees had deductions over and above the 1/3 basic rule that were more than two thirds of their basic pay on various months of the period under review 2023/2024. This was contrary to the provisions of Section 19 (3) of the Employment Act, 2007 which states that the total amount of all deductions that may be made by an employer from the wages of his employee at any one time shall not exceed two thirds of such wages."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 72.59000000000003,
+            "t": 337.57219267578125,
+            "r": 398.1124700000001,
+            "b": 325.63969267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "In the circumstances, Management was in breach of the law.",
+      "text": "In the circumstances, Management was in breach of the law."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 73.07000000000002,
+            "t": 309.7321926757812,
+            "r": 353.88803600000017,
+            "b": 297.7996926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "1.2 Irregularities in Acting Capacity Appointment",
+      "text": "1.2 Irregularities in Acting Capacity Appointment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 71.88000000000004,
+            "t": 285.9021926757813,
+            "r": 542.9910199999999,
+            "b": 164.44649267578131,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            626
+          ]
+        }
+      ],
+      "orig": "Review of the human resource records provided revealed that two (2) members of staff had been appointed in acting capacity. The two (2) members of staff had acted for more than six (6) months, earning Kshs. 1,971,385.35 in allowances contrary to Paragraph 8.4 of Agricultural Finance Corporation, Staff Policy and Regulations Manual (2020) states that no acting appointment on a substantive vacant position shall be made in excess of six (6) months. The Corporation is required to advertise and fill the position competitively within these six months. A person appointed into an acting position is entitle to acting allowance.",
+      "text": "Review of the human resource records provided revealed that two (2) members of staff had been appointed in acting capacity. The two (2) members of staff had acted for more than six (6) months, earning Kshs. 1,971,385.35 in allowances contrary to Paragraph 8.4 of Agricultural Finance Corporation, Staff Policy and Regulations Manual (2020) states that no acting appointment on a substantive vacant position shall be made in excess of six (6) months. The Corporation is required to advertise and fill the position competitively within these six months. A person appointed into an acting position is entitle to acting allowance."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 73.55000000000005,
+            "t": 113.52899267578118,
+            "r": 472.07099000000056,
+            "b": 103.8164926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 304.44000000000005,
+            "t": 91.0683926757813,
+            "r": 316.08486400000004,
+            "b": 82.92839267578131,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 765.5595926757813,
+            "r": 395.2739100000002,
+            "b": 754.2745926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "In the circumstances, Management was in breach of the law.",
+      "text": "In the circumstances, Management was in breach of the law."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 66.72000000000003,
+            "t": 741.2295926757813,
+            "r": 431.8032920000004,
+            "b": 729.9445926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "1.3 Non-Compliance with SRC Collective Bargaining Guidelines",
+      "text": "1.3 Non-Compliance with SRC Collective Bargaining Guidelines",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 15.600000000000023,
+            "t": 719.4795926757813,
+            "r": 542.1170579999996,
+            "b": 529.0479926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            949
+          ]
+        }
+      ],
+      "orig": "Review of human resource records provided for review established that Agricultural Finance Corporation signed a Collective Bargaining Agreement on 15 December, 2021 for a period of 48 months up to 30 June 2021, which period had already lapsed by the time the agreement was signed. The retrospective signing of the agreement is an indication that the parties were ratifying rates in use before the signing of the Collective Bargaining Agreements (CBA). Salary Remuneration Commission SRC provided basic salary structure for AFC and advised that the Basic salary structure should form the basis for negotiation with the trade union for four-year bargaining agreement cycle, However, AFC continued to use the same old rates contrary to the SRC circular of September 2020. In the circumstance, Management contravened the terms of the process of collective bargaining outlined in SRC Revised Guidelines on Collective Bargaining in the Public ( } Service.",
+      "text": "Review of human resource records provided for review established that Agricultural Finance Corporation signed a Collective Bargaining Agreement on 15 December, 2021 for a period of 48 months up to 30 June 2021, which period had already lapsed by the time the agreement was signed. The retrospective signing of the agreement is an indication that the parties were ratifying rates in use before the signing of the Collective Bargaining Agreements (CBA). Salary Remuneration Commission SRC provided basic salary structure for AFC and advised that the Basic salary structure should form the basis for negotiation with the trade union for four-year bargaining agreement cycle, However, AFC continued to use the same old rates contrary to the SRC circular of September 2020. In the circumstance, Management contravened the terms of the process of collective bargaining outlined in SRC Revised Guidelines on Collective Bargaining in the Public ( } Service."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.38999999999999,
+            "t": 518.3543926757814,
+            "r": 542.0058329999999,
+            "b": 437.7810926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            479
+          ]
+        }
+      ],
+      "orig": "The audit was conducted in accordance with ISSAI 3000 and ISSAI 4000. The standards require that I comply with ethical requirements and plan and perform the audit to obtain assurance about whether the activities, financial transactions and information reflected in the financial statements comply in all material respects, with the authorities that govern them. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my conclusion.",
+      "text": "The audit was conducted in accordance with ISSAI 3000 and ISSAI 4000. The standards require that I comply with ethical requirements and plan and perform the audit to obtain assurance about whether the activities, financial transactions and information reflected in the financial statements comply in all material respects, with the authorities that govern them. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my conclusion."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 67.20000000000005,
+            "t": 422.7185926757814,
+            "r": 539.7129379999998,
+            "b": 396.9710926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "REPORT ON EFFECTIVENESS OF INTERNAL CONTROLS, RISK MANAGEMENT AND GOVERNANCE",
+      "text": "REPORT ON EFFECTIVENESS OF INTERNAL CONTROLS, RISK MANAGEMENT AND GOVERNANCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 68.63,
+            "t": 380.3189926757813,
+            "r": 138.73955000000007,
+            "b": 370.6064926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 13.909999999999968,
+            "t": 353.2685926757814,
+            "r": 542.0843419999998,
+            "b": 286.3210926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "As required by Section 7(1) (a) of the Public Audit Act, 2015, based on the audit procedures performed, except for the effect of the matters described in the Basis for Conclusion on Effectiveness of Internal Controls, Risk Management and Governance (^J section of my report, I confirm that nothing else has come to my attention to cause me to believe that internal controls, risk management and governance were not effective.",
+      "text": "As required by Section 7(1) (a) of the Public Audit Act, 2015, based on the audit procedures performed, except for the effect of the matters described in the Basis for Conclusion on Effectiveness of Internal Controls, Risk Management and Governance (^J section of my report, I confirm that nothing else has come to my attention to cause me to believe that internal controls, risk management and governance were not effective."
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 67.67000000000007,
+            "t": 269.43899267578126,
+            "r": 193.03307000000012,
+            "b": 259.7264926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Basis for Conclusion",
+      "text": "Basis for Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 67.67000000000007,
+            "t": 242.14599267578137,
+            "r": 258.5708,
+            "b": 231.04599267578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "1.0 Management of Loan System",
+      "text": "1.0 Management of Loan System",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 67.91000000000008,
+            "t": 214.3759926757814,
+            "r": 408.86636,
+            "b": 203.27599267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "1.1 Inconsistent Reports from the Loan Processing System",
+      "text": "1.1 Inconsistent Reports from the Loan Processing System",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 67.44000000000005,
+            "t": 187.01599267578138,
+            "r": 540.1176799999998,
+            "b": 161.99599267578117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "Review of sets of data maintained by the loan processing systems revealed inconsistencies that affects its reliability as demonstrated below;",
+      "text": "Review of sets of data maintained by the loan processing systems revealed inconsistencies that affects its reliability as demonstrated below;"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 67.91000000000008,
+            "t": 113.19639267578134,
+            "r": 470.13816200000014,
+            "b": 104.13139267578129,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 300.2400000000001,
+            "t": 91.3083926757813,
+            "r": 311.8848640000001,
+            "b": 83.1683926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 87.0,
+            "t": 766.2389926757813,
+            "r": 544.7918719999996,
+            "b": 643.9131926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            695
+          ]
+        }
+      ],
+      "orig": "Review of loan disbursement records revealed there was a Loan account that received disbursement of Kshs.9,999,000. The repayment report showed a total principal of Kshs.5,200,000 was paid during the financial year 2023/2024, thus, resulting to an outstanding principal amount of KShs.4,799,000. However, this loan account was not in the loan portfolio as at 30 June 2024. Management explained that, the loan, was fully settled within two months of the loan disbursement and provided loan account indicating the same. However, repayment records from the same system provided for audit showed that only Kshs.5,200,000 was paid. This inconsistency indicate weakness in configured output control. 1",
+      "text": "Review of loan disbursement records revealed there was a Loan account that received disbursement of Kshs.9,999,000. The repayment report showed a total principal of Kshs.5,200,000 was paid during the financial year 2023/2024, thus, resulting to an outstanding principal amount of KShs.4,799,000. However, this loan account was not in the loan portfolio as at 30 June 2024. Management explained that, the loan, was fully settled within two months of the loan disbursement and provided loan account indicating the same. However, repayment records from the same system provided for audit showed that only Kshs.5,200,000 was paid. This inconsistency indicate weakness in configured output control. 1",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 82.20000000000002,
+            "t": 641.7931926757813,
+            "r": 543.9884000000002,
+            "b": 616.3931926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "ii. Forty (40) loans had an recalculated principal balance of Kshs.35,694,738, yet the same were not in the AFC loan portfolio as at 30 June 2024.",
+      "text": "Forty (40) loans had an recalculated principal balance of Kshs.35,694,738, yet the same were not in the AFC loan portfolio as at 30 June 2024.",
+      "enumerated": true,
+      "marker": "ii."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 79.55000000000003,
+            "t": 614.1031926757813,
+            "r": 544.7973920000002,
+            "b": 561.4815926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "iii. Review of new two thousand one hundred and seventy one (2,171) loans accounts for the year 2023/2024 and comparison with client list report from the loan origination system, revealed two (2) cases of loans disbursed before formal loan approval.",
+      "text": "Review of new two thousand one hundred and seventy one (2,171) loans accounts for the year 2023/2024 and comparison with client list report from the loan origination system, revealed two (2) cases of loans disbursed before formal loan approval.",
+      "enumerated": true,
+      "marker": "iii."
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 78.59000000000002,
+            "t": 558.4559926757813,
+            "r": 546.5792000000006,
+            "b": 464.23319267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            559
+          ]
+        }
+      ],
+      "orig": "iv. Review of disbursements amount and outstanding principal for nine thousand and nine hundred eighteen (9,918) Loans Portfolio valued at Kshs.9,505,752,157 as at 30 June 2024 revealed that five(5) loan accounts had outstanding principal of Kshs.33,530,323 while the disbursed loan amount was Kshs.27,115,254 an indication that the outstanding principal amount was higher than disbursed amount Further, analysis of Loans Portfolio at the beginning of the financial year 2023/24 also revealed three (3) cases of outstanding principal greater than loan amount.",
+      "text": "Review of disbursements amount and outstanding principal for nine thousand and nine hundred eighteen (9,918) Loans Portfolio valued at Kshs.9,505,752,157 as at 30 June 2024 revealed that five(5) loan accounts had outstanding principal of Kshs.33,530,323 while the disbursed loan amount was Kshs.27,115,254 an indication that the outstanding principal amount was higher than disbursed amount Further, analysis of Loans Portfolio at the beginning of the financial year 2023/24 also revealed three (3) cases of outstanding principal greater than loan amount.",
+      "enumerated": true,
+      "marker": "iv."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.36000000000003,
+            "t": 448.02319267578133,
+            "r": 544.3243319999997,
+            "b": 368.07809267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "In view of the above weaknesses in system configuration raises concerns regarding risk management, the effectiveness of internal controls, and overall adherence to established procedures contrary to Regulation 23(1) (c) of the Public Finance Management (National Government) Regulations which provides that the accounting officer is accountable for maintaining effective systems of internal control and the measures taken to ensure that they are effective.",
+      "text": "In view of the above weaknesses in system configuration raises concerns regarding risk management, the effectiveness of internal controls, and overall adherence to established procedures contrary to Regulation 23(1) (c) of the Public Finance Management (National Government) Regulations which provides that the accounting officer is accountable for maintaining effective systems of internal control and the measures taken to ensure that they are effective."
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 73.31000000000003,
+            "t": 351.10599267578124,
+            "r": 318.27224,
+            "b": 340.0059926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "1.2 Loans Incorrectly Classified as Normal",
+      "text": "1.2 Loans Incorrectly Classified as Normal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 72.84000000000003,
+            "t": 323.41599267578124,
+            "r": 548.0328800000003,
+            "b": 174.47299267578126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            907
+          ]
+        }
+      ],
+      "orig": "Loan portfolio as at 30 June 2024 contained 5572 records with the Normal (NOR) health code ID. However, it was established that 27 accounts with total outstanding amount of 18,861,914.59 were incorrectly classified in normal category instead of watch, substandard or doubtful categories based on the principal arrears, interest arrears and collateral registered. Out of the 27, there were 7 accounts without registered collateral. This implies that the system setting is inconsistent with grading characteristics in section, 7.1.1 under which loans need to be performing in accordance with contractual terms; the outstanding amounts should be adequately secured by readily marketable security and the servicing is either up to date or less than six months instalments. The grading characteristics tabulated in 7.1.2 indicate when a loan should be classified as Normal, Watch, Substandard, Doubtful and Loss.",
+      "text": "Loan portfolio as at 30 June 2024 contained 5572 records with the Normal (NOR) health code ID. However, it was established that 27 accounts with total outstanding amount of 18,861,914.59 were incorrectly classified in normal category instead of watch, substandard or doubtful categories based on the principal arrears, interest arrears and collateral registered. Out of the 27, there were 7 accounts without registered collateral. This implies that the system setting is inconsistent with grading characteristics in section, 7.1.1 under which loans need to be performing in accordance with contractual terms; the outstanding amounts should be adequately secured by readily marketable security and the servicing is either up to date or less than six months instalments. The grading characteristics tabulated in 7.1.2 indicate when a loan should be classified as Normal, Watch, Substandard, Doubtful and Loss."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 74.51000000000005,
+            "t": 112.96379267578129,
+            "r": 476.1202999999999,
+            "b": 104.54629267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 305.87000000000006,
+            "t": 91.5483926757812,
+            "r": 317.02558400000004,
+            "b": 83.40839267578122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 15.110000000000014,
+            "t": 547.3323926757813,
+            "r": 41.169719999999984,
+            "b": 527.1673926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 13.200000000000045,
+            "t": 317.8681926757812,
+            "r": 30.69488600000011,
+            "b": 299.4606926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "c.",
+      "text": "c."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 72.0,
+            "t": 766.7431926757813,
+            "r": 538.2043280000007,
+            "b": 743.0864926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Incorrect classification may result in inadequate provisioning, and ultimately to overstatement of accounts receivable and net income",
+      "text": "Incorrect classification may result in inadequate provisioning, and ultimately to overstatement of accounts receivable and net income"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 724.9589926757814,
+            "r": 541.27068,
+            "b": 658.3131926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "The audit was conducted in accordance with ISSAI 2315 and ISSAI 2330. The standards require that I plan and perform the audit to obtain assurance about whether effective processes and systems of internal controls, risk Management and overall governance were operating effectively in all material respects. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my conclusion.",
+      "text": "The audit was conducted in accordance with ISSAI 2315 and ISSAI 2330. The standards require that I plan and perform the audit to obtain assurance about whether effective processes and systems of internal controls, risk Management and overall governance were operating effectively in all material respects. I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my conclusion."
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 71.03999999999996,
+            "t": 641.9431926757813,
+            "r": 411.14844000000033,
+            "b": 630.4731926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Responsibilities of the Management and Board of Directors",
+      "text": "Responsibilities of the Management and Board of Directors",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 70.32000000000005,
+            "t": 618.4231926757814,
+            "r": 540.4048000000006,
+            "b": 537.9029926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            466
+          ]
+        }
+      ],
+      "orig": "Management is responsible for the preparation and fair presentation of these financial statements in accordance with International Financial Reporting Standards and for maintaining effective internal controls as Management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error and for its assessment of the effectiveness of internal controls, risk management and governance.",
+      "text": "Management is responsible for the preparation and fair presentation of these financial statements in accordance with International Financial Reporting Standards and for maintaining effective internal controls as Management determines is necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error and for its assessment of the effectiveness of internal controls, risk management and governance."
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 70.32000000000005,
+            "t": 525.3031926757815,
+            "r": 541.0520240000001,
+            "b": 472.55319267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            353
+          ]
+        }
+      ],
+      "orig": "In preparing the financial statements, Management is responsible for assessing the corporation's ability to continue to sustain its services, disclosing, as applicable, matters related to sustainability of services and using the applicable basis of accounting unless Management is aware of the intention to terminate the corporation or cease operations.",
+      "text": "In preparing the financial statements, Management is responsible for assessing the corporation's ability to continue to sustain its services, disclosing, as applicable, matters related to sustainability of services and using the applicable basis of accounting unless Management is aware of the intention to terminate the corporation or cease operations."
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.87,
+            "t": 456.5131926757814,
+            "r": 538.7927440000003,
+            "b": 418.23319267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "Management is also responsible for the submission of the financial statements to the Auditor-General in accordance with the provisions of Section 47 of the Public Audit Act, 2015.",
+      "text": "Management is also responsible for the submission of the financial statements to the Auditor-General in accordance with the provisions of Section 47 of the Public Audit Act, 2015."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 69.35000000000002,
+            "t": 401.3031926757814,
+            "r": 538.6482880000005,
+            "b": 334.71809267578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "In addition to the responsibility for the preparation and presentation of the financial statements described above, Management is also responsible for ensuring that the activities, financial transactions and information reflected in the financial statements comply with the authorities which govern them and that public resources are applied in an effective way.",
+      "text": "In addition to the responsibility for the preparation and presentation of the financial statements described above, Management is also responsible for ensuring that the activities, financial transactions and information reflected in the financial statements comply with the authorities which govern them and that public resources are applied in an effective way."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.3900000000001,
+            "t": 317.9859926757814,
+            "r": 541.1020800000006,
+            "b": 239.0578926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            440
+          ]
+        }
+      ],
+      "orig": "The Board of Directors is responsible for overseeing the corporation's financial reporting process, reviewing the effectiveness of how Management monitors compliance with relevant legislative and regulatory requirements, ensuring that effective processes and systems are in place to address key roles and responsibilities in relation to governance and risk management, and ensuring the adequacy and effectiveness of the control environment.",
+      "text": "The Board of Directors is responsible for overseeing the corporation's financial reporting process, reviewing the effectiveness of how Management monitors compliance with relevant legislative and regulatory requirements, ensuring that effective processes and systems are in place to address key roles and responsibilities in relation to governance and risk management, and ensuring the adequacy and effectiveness of the control environment."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 68.63000000000011,
+            "t": 107.5353926757814,
+            "r": 514.1085019999997,
+            "b": 98.00789267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.68,
+            "t": 767.2469926757813,
+            "r": 348.84866999999997,
+            "b": 756.6094926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Auditor-General's Responsibilities for the Audit",
+      "text": "Auditor-General's Responsibilities for the Audit",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.19000000000001,
+            "t": 739.8631926757813,
+            "r": 545.2030800000003,
+            "b": 577.6513926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            976
+          ]
+        }
+      ],
+      "orig": "My responsibility is to conduct an audit of the financial statements in accordance with Article 229(4) of the Constitution, Section 35 of the Public Audit Act, 2015 and the International Standards for Supreme Audit Institutions (ISSAIs). The standards require that, in conducting the audit, I obtain reasonable assurance about whether the financial statements as a whole are free from material misstatements, whether due to fraud or error and to issue an auditor's report that includes my opinion in accordance with Section 48 of the Public Audit Act, 2015. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with IFPP will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements.",
+      "text": "My responsibility is to conduct an audit of the financial statements in accordance with Article 229(4) of the Constitution, Section 35 of the Public Audit Act, 2015 and the International Standards for Supreme Audit Institutions (ISSAIs). The standards require that, in conducting the audit, I obtain reasonable assurance about whether the financial statements as a whole are free from material misstatements, whether due to fraud or error and to issue an auditor's report that includes my opinion in accordance with Section 48 of the Public Audit Act, 2015. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance with IFPP will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these financial statements."
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.92000000000002,
+            "t": 559.8631926757813,
+            "r": 542.2371800000005,
+            "b": 465.67319267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            606
+          ]
+        }
+      ],
+      "orig": "In conducting the audit, Article 229(6) of the Constitution also requires that I express a conclusion on whether or not in all material respects, the activities, financial transactions and information reflected in the financial statements follow the authorities that govern them and that public resources are applied in an effective way. In addition, I consider the entity's control environment in order to give an assurance on the effectiveness of internal controls, risk management and governance processes and systems in accordance with the provisions of Section 7 (1) (a) of the Public Audit Act, 2015.",
+      "text": "In conducting the audit, Article 229(6) of the Constitution also requires that I express a conclusion on whether or not in all material respects, the activities, financial transactions and information reflected in the financial statements follow the authorities that govern them and that public resources are applied in an effective way. In addition, I consider the entity's control environment in order to give an assurance on the effectiveness of internal controls, risk management and governance processes and systems in accordance with the provisions of Section 7 (1) (a) of the Public Audit Act, 2015."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 71.40000000000003,
+            "t": 449.31319267578135,
+            "r": 540.606944,
+            "b": 426.0178926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Further, I am required to submit the audit report in accordance with Article 229(7) of the Constitution.",
+      "text": "Further, I am required to submit the audit report in accordance with Article 229(7) of the Constitution."
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 71.40000000000003,
+            "t": 393.8159926757813,
+            "r": 545.0340000000008,
+            "b": 350.63319267578123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "Detailed description of my responsibilities for the audit is located at the Office of the Auditor-General's website at:  QS\\//\\Nw\\N.oaQ\\<enya.QO.\\(e/aud>\\ior-Qenw^^ responsibilities-for-audit/. This description forms part of my auditor's report.",
+      "text": "Detailed description of my responsibilities for the audit is located at the Office of the Auditor-General's website at:  QS\\//\\Nw\\N.oaQ\\<enya.QO.\\(e/aud>\\ior-Qenw^^ responsibilities-for-audit/. This description forms part of my auditor's report."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.92000000000003,
+            "t": 295.8605926757813,
+            "r": 240.2307,
+            "b": 271.1180926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "FCPA~N<*H<^/ Bakhi/n^bi, CBS AUDITOR-GENERAL",
+      "text": "FCPA~N<*H<^/ Bakhi/n^bi, CBS AUDITOR-GENERAL"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.92000000000003,
+            "t": 295.8605926757813,
+            "r": 240.2307,
+            "b": 271.1180926757812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "FCPA~N<*H<^/ Bakhi/n^bi, CBS AUDITOR-GENERAL",
+      "text": "FCPA~N<*H<^/ Bakhi/n^bi, CBS AUDITOR-GENERAL"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 70.92000000000004,
+            "t": 254.5995926757812,
+            "r": 119.60312400000002,
+            "b": 243.31459267578123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Nairobi",
+      "text": "Nairobi"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 71.88000000000005,
+            "t": 225.31439267578128,
+            "r": 186.643176,
+            "b": 215.32439267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "31 December, 2024",
+      "text": "31 December, 2024"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 73.07000000000005,
+            "t": 114.40379267578135,
+            "r": 474.68029999999993,
+            "b": 105.98629267578133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024",
+      "text": "Report of the Auditor-General on Agricultural Finance Corporation for the year ended 30 June, 2024"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 303.95000000000005,
+            "t": 92.98839267578126,
+            "r": 315.59486400000003,
+            "b": 84.84839267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 225.70980834960938,
+            "t": 782.1735000610352,
+            "r": 470.3481750488281,
+            "b": 691.9967651367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 529.2750854492188,
+            "t": 818.2839756011963,
+            "r": 561.1289672851562,
+            "b": 796.9252433776855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 207.84725952148438,
+            "t": 781.6389427185059,
+            "r": 392.4430847167969,
+            "b": 710.5891571044922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/146"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 73.58856201171875,
+            "t": 323.68475341796875,
+            "r": 237.6969451904297,
+            "b": 268.43487548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 595.0800170898438,
+        "height": 841.6799926757812
+      },
+      "page_no": 12
+    }
+  }
+}

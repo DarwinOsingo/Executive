@@ -1,0 +1,4451 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2021-Audit-Report-Wamasae-and-Others",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11609251641671752466,
+    "filename": "2021-Audit-Report-Wamasae-and-Others.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/groups/17"
+      },
+      {
+        "$ref": "#/groups/18"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/groups/19"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/groups/20"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/113"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/114"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 241.028,
+            "t": 682.6610146484376,
+            "r": 354.25099999999986,
+            "b": 672.6026999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "REPUBLIC OF KENYA",
+      "text": "REPUBLIC OF KENYA",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 92.33,
+            "t": 655.7440146484375,
+            "r": 502.94899999999996,
+            "b": 618.769699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "IN THE ENVIRONMENT AND LAND COURT OF KENYA AT MOMBASA COUNTY COURT NAME: MOMBASA LAW COURT",
+      "text": "IN THE ENVIRONMENT AND LAND COURT OF KENYA AT MOMBASA COUNTY COURT NAME: MOMBASA LAW COURT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.182,
+            "t": 601.9110146484376,
+            "r": 371.09799999999996,
+            "b": 591.8526999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CASE NUMBER: ELC/8/2008",
+      "text": "CASE NUMBER: ELC/8/2008"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 142.534,
+            "t": 574.9950146484375,
+            "r": 452.74499999999995,
+            "b": 564.936699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "CITATION: EACC AND JULIUS MWAMSAE AND OTHERS VS",
+      "text": "CITATION: EACC AND JULIUS MWAMSAE AND OTHERS VS"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 267.263,
+            "t": 535.7580146484376,
+            "r": 328.0159999999999,
+            "b": 525.6996999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "JUDGMENT",
+      "text": "JUDGMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.52,
+            "t": 508.8410146484375,
+            "r": 551.7429999999999,
+            "b": 279.8346999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1563
+          ]
+        }
+      ],
+      "orig": "1. The plaintiff commenced this suit against the 1st to 4th defendants through the plaint dated 18th January 2008, averring inter alia that the while the 4th defendant was the Registrar of Lands, he had on or about 20th December 2002 issued or caused to be issued to the 1st defendant, a lease over land measuring 0.0536 hectares known as Mombasa Island/Block XI /983, suit property, for a term of 99 years from 1st June 1996. That the suit property was part of the road reserve for Tom Mboya Avenue, formerly Tudor Road. That the suit property was never available for alienation by the 4th defendant to the 1st defendant, and the transaction was therefore fraudulent, illegal, null and void ab initio. The plaintiff set out the particulars of fraud and illegality attributed to the 1st, 2nd and 4th defendants at paragraph 7 of the plaint. It also gave particulars of misfeasance, loss and damages and breach of fiduciary duty attributed to the 4th defendant at paragraphs 9 and 11, and particulars of knowledge attributed to all defendants at paragraph 13 of the plaint. Among the particulars is that the 1st defendant accepted the lease with notice that it was over a road reserve, and incapable of alienation by the 4th defendant. That the 2nd defendant accepted the transfer of the lease of the suit property from 1st defendant that was excised on a road reserve. It also averred that the 3rd defendant was issued with a letter of allotment that was not accepted. The plaintiff therefore sought for the following against the defendants jointly and severally:",
+      "text": "The plaintiff commenced this suit against the 1st to 4th defendants through the plaint dated 18th January 2008, averring inter alia that the while the 4th defendant was the Registrar of Lands, he had on or about 20th December 2002 issued or caused to be issued to the 1st defendant, a lease over land measuring 0.0536 hectares known as Mombasa Island/Block XI /983, suit property, for a term of 99 years from 1st June 1996. That the suit property was part of the road reserve for Tom Mboya Avenue, formerly Tudor Road. That the suit property was never available for alienation by the 4th defendant to the 1st defendant, and the transaction was therefore fraudulent, illegal, null and void ab initio. The plaintiff set out the particulars of fraud and illegality attributed to the 1st, 2nd and 4th defendants at paragraph 7 of the plaint. It also gave particulars of misfeasance, loss and damages and breach of fiduciary duty attributed to the 4th defendant at paragraphs 9 and 11, and particulars of knowledge attributed to all defendants at paragraph 13 of the plaint. Among the particulars is that the 1st defendant accepted the lease with notice that it was over a road reserve, and incapable of alienation by the 4th defendant. That the 2nd defendant accepted the transfer of the lease of the suit property from 1st defendant that was excised on a road reserve. It also averred that the 3rd defendant was issued with a letter of allotment that was not accepted. The plaintiff therefore sought for the following against the defendants jointly and severally:",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.52,
+            "t": 275.29601464843745,
+            "r": 549.9719999999998,
+            "b": 236.0446999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "A. 'A declaration that the Certificate of Lease dated 20th December 2002 given to the 1st Defendant over the parcel of land described as Mombasa Island/Block XI/983 was issued ultra vires the 4th Defendant's statutory powers and is thus illegal, null and void ab initio;",
+      "text": "'A declaration that the Certificate of Lease dated 20th December 2002 given to the 1st Defendant over the parcel of land described as Mombasa Island/Block XI/983 was issued ultra vires the 4th Defendant's statutory powers and is thus illegal, null and void ab initio;",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.52,
+            "t": 231.50701464843746,
+            "r": 541.381,
+            "b": 177.65869999326515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            340
+          ]
+        }
+      ],
+      "orig": "B. An order directed to the Land Registrar, Mombasa District Registry, to rectify the register by cancellation of the entries relating to the issuance of the Certificate of Lease dated 20th December 2002 in favour of the 1st defendant over the parcel of land described as Mombasa Island/Block XI/983 and all subsequent entries made therein;",
+      "text": "An order directed to the Land Registrar, Mombasa District Registry, to rectify the register by cancellation of the entries relating to the issuance of the Certificate of Lease dated 20th December 2002 in favour of the 1st defendant over the parcel of land described as Mombasa Island/Block XI/983 and all subsequent entries made therein;",
+      "enumerated": true,
+      "marker": "B."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.52,
+            "t": 173.1210146484375,
+            "r": 519.6010000000002,
+            "b": 148.46569999326516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "C. As against the Defendants, an order for vacant possession of the parcel of land described as Mombasa Island/Block XI/983;",
+      "text": "As against the Defendants, an order for vacant possession of the parcel of land described as Mombasa Island/Block XI/983;",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.52,
+            "t": 143.92701464843753,
+            "r": 530.3480000000003,
+            "b": 90.07969999326508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            360
+          ]
+        }
+      ],
+      "orig": "D. As against the defendants, an order for a permanent injunction to restrain it, their agents, servants, employees and/or assigns from trespassing upon, transferring, leasing, wasting, and/or dealing in any manner whatsoever described with the parcel of land described as Mombasa Island/Block XI/983, other than by way of surrender to the Government of Kenya;",
+      "text": "As against the defendants, an order for a permanent injunction to restrain it, their agents, servants, employees and/or assigns from trespassing upon, transferring, leasing, wasting, and/or dealing in any manner whatsoever described with the parcel of land described as Mombasa Island/Block XI/983, other than by way of surrender to the Government of Kenya;",
+      "enumerated": true,
+      "marker": "D."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1/10",
+      "text": "1/10"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 296.829,
+            "b": 820.2426999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "E. As against the 4th defendant, general damages;",
+      "text": "As against the 4th defendant, general damages;",
+      "enumerated": true,
+      "marker": "E."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 815.7040146484375,
+            "r": 230.74099999999999,
+            "b": 805.645699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "F. Costs of and incidental to this suit;",
+      "text": "Costs of and incidental to this suit;",
+      "enumerated": true,
+      "marker": "F."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 801.1080146484376,
+            "r": 281.9239999999999,
+            "b": 791.0496999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "G. Interest at court rates on (E) and (F) above.'",
+      "text": "Interest at court rates on (E) and (F) above.'",
+      "enumerated": true,
+      "marker": "G."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 786.5110146484375,
+            "r": 544.3070000000001,
+            "b": 688.8736999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            604
+          ]
+        }
+      ],
+      "orig": "2. The 4th defendant opposed the plaintiff's claim through his statement of defence dated 29th February 2008, in which he among others denied any involvement in fraud and illegality, averring that he has never been involved in land alienation in his tenure as a Mombasa Land Registrar from 1993 to 2004; that he only registered the lease herein while exercising the powers vested upon him then by the Registered Land Act Cap 300 (repealed), but denied that issuing the said lease; that he also denied the particulars of misfeasance, loss and damages and breach of fiduciary duty pleaded by the plaintiff.",
+      "text": "The 4th defendant opposed the plaintiff's claim through his statement of defence dated 29th February 2008, in which he among others denied any involvement in fraud and illegality, averring that he has never been involved in land alienation in his tenure as a Mombasa Land Registrar from 1993 to 2004; that he only registered the lease herein while exercising the powers vested upon him then by the Registered Land Act Cap 300 (repealed), but denied that issuing the said lease; that he also denied the particulars of misfeasance, loss and damages and breach of fiduciary duty pleaded by the plaintiff.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 684.3350146484376,
+            "r": 546.837,
+            "b": 572.100699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            684
+          ]
+        }
+      ],
+      "orig": "3. In his statement of amended statement of defence and counterclaim dated the 25th March 2008, but filed on 30th September 2020, the 2nd defendant denied the plaintiff's claim and inter alia stated that he is an innocent purchaser for value without notice under section 143 of the Registered Land Act and section 26 of the Land Registration Act 2012. In the counterclaim, the 2nd defendant he stated that the issuance of title to the suit property followed due procedure and requisite practise. That the Land Registrar did not have powers to revoke titles as seen in gazette notice 11533 published on 1st October 2010. He therefore seeks for the following orders in the counterclaim:",
+      "text": "In his statement of amended statement of defence and counterclaim dated the 25th March 2008, but filed on 30th September 2020, the 2nd defendant denied the plaintiff's claim and inter alia stated that he is an innocent purchaser for value without notice under section 143 of the Registered Land Act and section 26 of the Land Registration Act 2012. In the counterclaim, the 2nd defendant he stated that the issuance of title to the suit property followed due procedure and requisite practise. That the Land Registrar did not have powers to revoke titles as seen in gazette notice 11533 published on 1st October 2010. He therefore seeks for the following orders in the counterclaim:",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 567.5630146484375,
+            "r": 541.1170000000002,
+            "b": 528.311699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "1. 'A declaration that the Certificate of Lease dated 25/2/2003 issued to the second defendant is valid and is conclusive evidence of ownership and that the Plaintiff is the absolute and indefeasible owner of MSA/XI/983.",
+      "text": "'A declaration that the Certificate of Lease dated 25/2/2003 issued to the second defendant is valid and is conclusive evidence of ownership and that the Plaintiff is the absolute and indefeasible owner of MSA/XI/983.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 523.7730146484375,
+            "r": 530.8210000000003,
+            "b": 499.1176999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "2. The Chief Land Registrar and/or the Registrar of Lands Mombasa, to revive the green card for MSA/XI/983 if necessary.",
+      "text": "The Chief Land Registrar and/or the Registrar of Lands Mombasa, to revive the green card for MSA/XI/983 if necessary.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 494.5800146484375,
+            "r": 458.00099999999986,
+            "b": 484.5216999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "3. That the orders issued by this Honourable Court on the 22/01/2008, be vacated.",
+      "text": "That the orders issued by this Honourable Court on the 22/01/2008, be vacated.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 479.9830146484375,
+            "r": 542.8440000000002,
+            "b": 440.7316999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "4. The gazette notice No. 11533 published on the 1st October 2010, be declared null, void and unconstitutional and the Chief Land Registrar to issue a new notice stating that Gazette Notice No. 11533 has no application to MSA/XI/983.",
+      "text": "The gazette notice No. 11533 published on the 1st October 2010, be declared null, void and unconstitutional and the Chief Land Registrar to issue a new notice stating that Gazette Notice No. 11533 has no application to MSA/XI/983.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 436.19401464843753,
+            "r": 541.788,
+            "b": 396.94269999326514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            269
+          ]
+        }
+      ],
+      "orig": "5. That in the alternative, the Second Defendant be duly compensated by the Government of Kenya or anybody duly authorised by it, to the full current market value of the property at the time of judgment, in return for the Surrender of Lease to the Government of Kenya.'",
+      "text": "That in the alternative, the Second Defendant be duly compensated by the Government of Kenya or anybody duly authorised by it, to the full current market value of the property at the time of judgment, in return for the Surrender of Lease to the Government of Kenya.'",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 392.4040146484375,
+            "r": 541.2050000000003,
+            "b": 367.7486999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "The 2nd defendant prayed for the plaintiff's suit to be dismissed with costs and his counterclaim to be allowed with costs.",
+      "text": "The 2nd defendant prayed for the plaintiff's suit to be dismissed with costs and his counterclaim to be allowed with costs.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 363.2110146484375,
+            "r": 551.9740000000002,
+            "b": 236.37969999326515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            803
+          ]
+        }
+      ],
+      "orig": "4. The 5th defendant in the 2nd defendant's counterclaim filed a defence to the counterclaim dated 17th March 2023, inter alia averring that the procedure that led to the allocation of public land to private persons was irregular and illegal ab initio, as it sought to excise public land, being a road reserve. That the 2nd defendant cannot rely on the indefeasibility of the title if the same was acquired through illegal allocation of public land. That the revocation of the gazette notice would not confer ownership of the suit property to the plaintiff in the counterclaim, as the court has jurisdiction to revoke the title thereof, if proved it was acquired illegally. That the 2nd defendant cannot benefit from an illegality and lacks capacity to be an innocent purchaser for value without notice.",
+      "text": "The 5th defendant in the 2nd defendant's counterclaim filed a defence to the counterclaim dated 17th March 2023, inter alia averring that the procedure that led to the allocation of public land to private persons was irregular and illegal ab initio, as it sought to excise public land, being a road reserve. That the 2nd defendant cannot rely on the indefeasibility of the title if the same was acquired through illegal allocation of public land. That the revocation of the gazette notice would not confer ownership of the suit property to the plaintiff in the counterclaim, as the court has jurisdiction to revoke the title thereof, if proved it was acquired illegally. That the 2nd defendant cannot benefit from an illegality and lacks capacity to be an innocent purchaser for value without notice.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 231.8420146484375,
+            "r": 546.3750000000001,
+            "b": 119.6076999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            716
+          ]
+        }
+      ],
+      "orig": "5. During the hearing, the plaintiff called Edward Marenye Kiguru, a licensed surveyor, Chrisantus Mwadime Mwaligho, planning assistant with Mombasa Municipal Council, Wilson Kibichi, principal cartographer, Ridhwan Mohammed Mumin, retired officer from County Government of Mombasa, Pius Nyange Maithya, registered valuer with EACC, Phillip Osiemo Manua, engineer County Government of Mombasa, Hashim Got Sat, a Land Registrar formerly at Mombasa Land Registry, and currently at Machakos, Arthur Kanyanjua Mbatia; the Assistant Director of Physical Planning at Ministry of Lands, Public Works, Housing and Urban Development, and Dedan Ochieng Okwama, investigator with EACC, who testified as PW1 to PW9 respectively.",
+      "text": "During the hearing, the plaintiff called Edward Marenye Kiguru, a licensed surveyor, Chrisantus Mwadime Mwaligho, planning assistant with Mombasa Municipal Council, Wilson Kibichi, principal cartographer, Ridhwan Mohammed Mumin, retired officer from County Government of Mombasa, Pius Nyange Maithya, registered valuer with EACC, Phillip Osiemo Manua, engineer County Government of Mombasa, Hashim Got Sat, a Land Registrar formerly at Mombasa Land Registry, and currently at Machakos, Arthur Kanyanjua Mbatia; the Assistant Director of Physical Planning at Ministry of Lands, Public Works, Housing and Urban Development, and Dedan Ochieng Okwama, investigator with EACC, who testified as PW1 to PW9 respectively.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.52,
+            "t": 115.06901464843747,
+            "r": 550.3130000000001,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "6. PW1 relied on his statement dated 24th February 2007 and the affidavit which he swore on 25th April 2007, and testified that he had been instructed to carry out a survey by one Isaac Munyi Njeru,",
+      "text": "6. PW1 relied on his statement dated 24th February 2007 and the affidavit which he swore on 25th April 2007, and testified that he had been instructed to carry out a survey by one Isaac Munyi Njeru,"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2/10",
+      "text": "2/10"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 548.0360000000003,
+            "b": 645.0836999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1180
+          ]
+        }
+      ],
+      "orig": "3rd defendant, on the strength of a letter of allotment and approved PDP dated 24th January 1996. He carried out the survey and the survey plan was approved by the Director of Survey under file reference F/R 386/39. He then presented all the documents to enable amendment of the RIM, which was amended on 22nd December 2000. He elaborated that the suit property was a Business cum Residential plot. He accepted that according to the RIM sheet D91 the suit property is on a road reserve, and he recalled that the neighbouring plots owners had objected to the survey exercise, as they feared their access to their properties would be hindered. He acknowledged knowing that the Roads Authority had revoked the titles of plots on the road reserve, including the suit property, through gazette notice No. 11533. He added that he was also instructed by one Mohamed Ali Athuman on 10th December 2001 to carry out survey on the same suit property, a practise which he admitted was irregular. He further added that he prepared the survey documents and forwarded it to the Director of Surveys, but never received any response, which to him it meant either it had failed or was not approved.",
+      "text": "3rd defendant, on the strength of a letter of allotment and approved PDP dated 24th January 1996. He carried out the survey and the survey plan was approved by the Director of Survey under file reference F/R 386/39. He then presented all the documents to enable amendment of the RIM, which was amended on 22nd December 2000. He elaborated that the suit property was a Business cum Residential plot. He accepted that according to the RIM sheet D91 the suit property is on a road reserve, and he recalled that the neighbouring plots owners had objected to the survey exercise, as they feared their access to their properties would be hindered. He acknowledged knowing that the Roads Authority had revoked the titles of plots on the road reserve, including the suit property, through gazette notice No. 11533. He added that he was also instructed by one Mohamed Ali Athuman on 10th December 2001 to carry out survey on the same suit property, a practise which he admitted was irregular. He further added that he prepared the survey documents and forwarded it to the Director of Surveys, but never received any response, which to him it meant either it had failed or was not approved."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.52,
+            "t": 640.5460146484376,
+            "r": 551.7320000000001,
+            "b": 396.94269999326514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1631
+          ]
+        }
+      ],
+      "orig": "7. PW2 relied on his statement dated 23rd February 2007 as his evidence in chief. He told the court that he worked with the defunct Mombasa Municipal Council Planning department. He took the court through the procedure of preparing a PDP at that time, that started upon receipt of a memo from the valuation department, with a sketch plan attached that was without measurements, indicating the concerned area. The Chief Planning Officer would then ask him to prepare a PDP, which he would prepare and return to that office. That in the preparation of a PDP there were certain public officers who needed to approve it, and thereafter the Chief Planning Officer would take it to the relevant Committee of Planning for deliberations, and a minute number/reference would be issued for the PDP during the said meeting. He confirmed that the PDP for the suit property was approved under minute No. 335/93 of 7th September 1993. However, he could not confirm whether the letter of allotment herein had a relation with the PDP he prepared, stating that the said letter of allotment is strange to him. He explained that a letter of allotment is prepared after a PDP is prepared. He produced the minutes in the plaintiffs list of documents dated 13th July 2018 as exhibit 3. On cross-examination, he explained that the plots in the approved PDP that he prepared and was approved under minute 335/93, were allocated to the then councillors and civil servants. He confirmed that he was aware when preparing the PDP that the said plots had been excised on a road reserve. He indicated that the PDP number was given by the Chief Planning Officer.",
+      "text": "7. PW2 relied on his statement dated 23rd February 2007 as his evidence in chief. He told the court that he worked with the defunct Mombasa Municipal Council Planning department. He took the court through the procedure of preparing a PDP at that time, that started upon receipt of a memo from the valuation department, with a sketch plan attached that was without measurements, indicating the concerned area. The Chief Planning Officer would then ask him to prepare a PDP, which he would prepare and return to that office. That in the preparation of a PDP there were certain public officers who needed to approve it, and thereafter the Chief Planning Officer would take it to the relevant Committee of Planning for deliberations, and a minute number/reference would be issued for the PDP during the said meeting. He confirmed that the PDP for the suit property was approved under minute No. 335/93 of 7th September 1993. However, he could not confirm whether the letter of allotment herein had a relation with the PDP he prepared, stating that the said letter of allotment is strange to him. He explained that a letter of allotment is prepared after a PDP is prepared. He produced the minutes in the plaintiffs list of documents dated 13th July 2018 as exhibit 3. On cross-examination, he explained that the plots in the approved PDP that he prepared and was approved under minute 335/93, were allocated to the then councillors and civil servants. He confirmed that he was aware when preparing the PDP that the said plots had been excised on a road reserve. He indicated that the PDP number was given by the Chief Planning Officer."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.52,
+            "t": 392.4040146484375,
+            "r": 547.101,
+            "b": 236.37969999326515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1045
+          ]
+        }
+      ],
+      "orig": "8. PW3 relied on his statement dated 2nd February 2022 as his evidence in chief. He confirmed that the survey for the suit property was carried out by PW1, and was approved on 24th November 2000 under No. 45731 as F/R 386/39, and the RIM was amended to reflect the parcel. However, when they received a letter from the Director of Survey indicating that they did not have the PDP, they established that the suit property was situate on Tudor Road, currently Tom Mboya Road. He admited that it was wrong for a survey to be conducted on a road reserve, and had the Director of Surveys known about the position, he would not have approved the PDP. He explained that after revocation of titles, the Director of Surveys would cancel the survey documents upon receipt of a letter from the Land Registrar to that effect. He produced the survey plan and RIM as PEX5 and PEX6. His opinion is that the said survey plan and RIM are valid and regular. He also informed the court that the Director of Surveys does not visit plots when approving survey plans.",
+      "text": "8. PW3 relied on his statement dated 2nd February 2022 as his evidence in chief. He confirmed that the survey for the suit property was carried out by PW1, and was approved on 24th November 2000 under No. 45731 as F/R 386/39, and the RIM was amended to reflect the parcel. However, when they received a letter from the Director of Survey indicating that they did not have the PDP, they established that the suit property was situate on Tudor Road, currently Tom Mboya Road. He admited that it was wrong for a survey to be conducted on a road reserve, and had the Director of Surveys known about the position, he would not have approved the PDP. He explained that after revocation of titles, the Director of Surveys would cancel the survey documents upon receipt of a letter from the Land Registrar to that effect. He produced the survey plan and RIM as PEX5 and PEX6. His opinion is that the said survey plan and RIM are valid and regular. He also informed the court that the Director of Surveys does not visit plots when approving survey plans."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.52,
+            "t": 231.8420146484375,
+            "r": 548.9819999999999,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            991
+          ]
+        }
+      ],
+      "orig": "9. PW4 testified adopted the contents of his statement dated the 23rd February 2007, as his evidence in chief. He testified that he retired in 2018 from the County Government of Mombasa. He stated that the closure of Tudor Road had not been gazetted and there were no notices to that effect on the road. He distanced his office from the alleged gazette notice No. 1099 dated 25th February 1994, by Mutuma Angaine, the former Town Clerk, indicating it had not emanated from their office. He explained that closing a road would first have required a resolution from the defunct Municipal Council. He added that according to the RIM the suit property, it was adjacent to plot No. 3 and not plot No. 160 as mentioned in the said notice. He further stated that plot No. 160 is adjacent to plot Nos. 936 & 937 and that plot No. 572 is adjacent to plot No. 946, while plot No. 573 has no adjacent plot. He explained that the council would close a road in a situation such as collecting garbage, but",
+      "text": "9. PW4 testified adopted the contents of his statement dated the 23rd February 2007, as his evidence in chief. He testified that he retired in 2018 from the County Government of Mombasa. He stated that the closure of Tudor Road had not been gazetted and there were no notices to that effect on the road. He distanced his office from the alleged gazette notice No. 1099 dated 25th February 1994, by Mutuma Angaine, the former Town Clerk, indicating it had not emanated from their office. He explained that closing a road would first have required a resolution from the defunct Municipal Council. He added that according to the RIM the suit property, it was adjacent to plot No. 3 and not plot No. 160 as mentioned in the said notice. He further stated that plot No. 160 is adjacent to plot Nos. 936 & 937 and that plot No. 572 is adjacent to plot No. 946, while plot No. 573 has no adjacent plot. He explained that the council would close a road in a situation such as collecting garbage, but"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3/10",
+      "text": "3/10"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 552.1390000000001,
+            "b": 718.066699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            746
+          ]
+        }
+      ],
+      "orig": "could not close a road for allocation. He informed the court that he worked in the legal section in 1994 but that gazette notice No. 1099 dated 25th February 1994, exhibit 7, did not originate from the legal section as was required. He however told the court he could not confirm that position, as he had never checked the Town clerk's archives. On cross-examination, PW4 stated that after the plots were excised, the Council issued leases over them, but could not transfer the plots of land to an individual. He stated that he got to know about the 1994 gazette notice, exhibit 7, in 2007 when he was asked by EACC to record a statement. He added that he did not seek for clarification from the Town clerk on the authenticity of the said notice.",
+      "text": "could not close a road for allocation. He informed the court that he worked in the legal section in 1994 but that gazette notice No. 1099 dated 25th February 1994, exhibit 7, did not originate from the legal section as was required. He however told the court he could not confirm that position, as he had never checked the Town clerk's archives. On cross-examination, PW4 stated that after the plots were excised, the Council issued leases over them, but could not transfer the plots of land to an individual. He stated that he got to know about the 1994 gazette notice, exhibit 7, in 2007 when he was asked by EACC to record a statement. He added that he did not seek for clarification from the Town clerk on the authenticity of the said notice."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.52,
+            "t": 713.5280146484375,
+            "r": 549.422,
+            "b": 630.4876999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            525
+          ]
+        }
+      ],
+      "orig": "10. PW5 told the court that he has worked with EACC since 2006, and when he was instructed to value the suit property, he relied on the RIM for Block XI, and used the open market value approach to get its value. He found that the acreage was 0.132 acres and at the time of his inspection, the suit property had a perimeter wall made of stones, but no development therein. He further stated that the suit property was on a road reserve, specifically, Tom Mboya Road and he produced his report dated 16th May 2012 as exhibit 8.",
+      "text": "10. PW5 told the court that he has worked with EACC since 2006, and when he was instructed to value the suit property, he relied on the RIM for Block XI, and used the open market value approach to get its value. He found that the acreage was 0.132 acres and at the time of his inspection, the suit property had a perimeter wall made of stones, but no development therein. He further stated that the suit property was on a road reserve, specifically, Tom Mboya Road and he produced his report dated 16th May 2012 as exhibit 8."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.52,
+            "t": 625.9490146484375,
+            "r": 552.5900000000001,
+            "b": 294.7666999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2162
+          ]
+        }
+      ],
+      "orig": "11. PW6 is an engineer with the County Government of Mombasa, and previously with the Municipal Council, relied on his statement dated 26th November 2018. He stated that Tom Mboya Road is a classified as a class C road of 100 feet standard width. That it was previously under the Municipal Council of Mombasa before KURA took over in 2013. He testified that according to the RIM, the 100 feet width of the road is maintained, except where plot Nos. 1125, 983, 939, 947, 949, 948, 950, 934, 935, 936, 937, 972 and 946 are situated. He believes that plot No. 3 is the same as the suit property. He informed the court the Ministry of Roads had asked his office to clear the road, but they could not do so because of the developments on the road reserve. He stated that sometime in 2010, they had received funding for flood/drainage infrastructure, but could not plan for the same on the said road due to the trespass by the developers. He maintained that the defunct Council had no powers to allocate plots on the road reserve, and that the suit property was irregularly allocated. He further added that any alteration or development affecting a surveyed road must first get consent from his department and none was sought before plots were excised on the road reserve in this case. On cross-examination, he stated that a carriage way where vehicle are driven is about 7 metres in width, with the drainage of around 0.6 meteres, walkways/footpaths for pedestrians which ranging from 1.5 metres and then space for road furniture/signages, which is between 1-3 metres, all totalling 12 metres. He argued that although the current width is 15 metres, it is not enough as there is need to allocate space for power lines, drainage and other infrastructural resources. In his opinion the amendments to the RIM in Block XI were irregular, and argued that had documents with regard to the suit property been issued regularly, then his office would have been consulted and involved in the approval of the PDP. He alleged that even though he had not come with the office base maps and the RIM to court, they should indicate the road in question is 100 metres from end to end.",
+      "text": "11. PW6 is an engineer with the County Government of Mombasa, and previously with the Municipal Council, relied on his statement dated 26th November 2018. He stated that Tom Mboya Road is a classified as a class C road of 100 feet standard width. That it was previously under the Municipal Council of Mombasa before KURA took over in 2013. He testified that according to the RIM, the 100 feet width of the road is maintained, except where plot Nos. 1125, 983, 939, 947, 949, 948, 950, 934, 935, 936, 937, 972 and 946 are situated. He believes that plot No. 3 is the same as the suit property. He informed the court the Ministry of Roads had asked his office to clear the road, but they could not do so because of the developments on the road reserve. He stated that sometime in 2010, they had received funding for flood/drainage infrastructure, but could not plan for the same on the said road due to the trespass by the developers. He maintained that the defunct Council had no powers to allocate plots on the road reserve, and that the suit property was irregularly allocated. He further added that any alteration or development affecting a surveyed road must first get consent from his department and none was sought before plots were excised on the road reserve in this case. On cross-examination, he stated that a carriage way where vehicle are driven is about 7 metres in width, with the drainage of around 0.6 meteres, walkways/footpaths for pedestrians which ranging from 1.5 metres and then space for road furniture/signages, which is between 1-3 metres, all totalling 12 metres. He argued that although the current width is 15 metres, it is not enough as there is need to allocate space for power lines, drainage and other infrastructural resources. In his opinion the amendments to the RIM in Block XI were irregular, and argued that had documents with regard to the suit property been issued regularly, then his office would have been consulted and involved in the approval of the PDP. He alleged that even though he had not come with the office base maps and the RIM to court, they should indicate the road in question is 100 metres from end to end."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.52,
+            "t": 290.22801464843747,
+            "r": 552.436,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1368
+          ]
+        }
+      ],
+      "orig": "12. PW7 told the court that he worked at the Mombasa Land registry for 21 years from 1985 to 1997, 2006 to 2011, and 2014 to 2017. He testified that the suit property is a leasehold interest from 1st June 1996 and has an acreage of 0.0536 hectares, and has a certificate of lease issued on 20th December 2002, that was signed by his former boss, the 4th defendant. He narrated that there was a transfer of lease in favour of the 2nd defendant dated 17th February 2003 that was registered on 5th February 2003. He further narrated other details of the above transfer such as booking of the transfer documents, payment of stamp duty, consents from the County Government, rates clearance certificates, and so forth. He also recognized the gazette notice No. 11533 dated 1st October 2010 that revoked the suit property. PW7 took the court through the documentation in allocation of land to the 3rd defendant, starting with the payment of Kshs.46,575 on 5th March 2001 as evidenced by receipt No. E766878. He then informed the court of a letter by PW1 to the Director of Surveys dated 13th July 2000 requesting for amendment of the RIM, which was responded to by the confirming that the RIM had been amended. He referred to the letter dated 24th November 2011 requesting for the amendment and sealing of the RIM by the Director of Surveys, and forwarding of the same to the",
+      "text": "12. PW7 told the court that he worked at the Mombasa Land registry for 21 years from 1985 to 1997, 2006 to 2011, and 2014 to 2017. He testified that the suit property is a leasehold interest from 1st June 1996 and has an acreage of 0.0536 hectares, and has a certificate of lease issued on 20th December 2002, that was signed by his former boss, the 4th defendant. He narrated that there was a transfer of lease in favour of the 2nd defendant dated 17th February 2003 that was registered on 5th February 2003. He further narrated other details of the above transfer such as booking of the transfer documents, payment of stamp duty, consents from the County Government, rates clearance certificates, and so forth. He also recognized the gazette notice No. 11533 dated 1st October 2010 that revoked the suit property. PW7 took the court through the documentation in allocation of land to the 3rd defendant, starting with the payment of Kshs.46,575 on 5th March 2001 as evidenced by receipt No. E766878. He then informed the court of a letter by PW1 to the Director of Surveys dated 13th July 2000 requesting for amendment of the RIM, which was responded to by the confirming that the RIM had been amended. He referred to the letter dated 24th November 2011 requesting for the amendment and sealing of the RIM by the Director of Surveys, and forwarding of the same to the"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4/10",
+      "text": "4/10"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 546.3420000000003,
+            "b": 747.259699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            580
+          ]
+        }
+      ],
+      "orig": "Commissioner of Lands, indicating the acreage as 0.0443 hectares. He explained that the Commissioner of Lands issues a lease duly signed and sends it to the Land Registrar for processing. That the Land Registrar would not know if there was irregularity in the surveying, preparing and allocation of the lease unless if notified by the concerned offices. He was emphatic that if the Land Registrar had known that the suit property was on a road reserve, he would not have registered it. 13. PW8 relied on his statement dated 28th January 2022 and gave evidence on PDP 12.1.CT.88.96",
+      "text": "Commissioner of Lands, indicating the acreage as 0.0443 hectares. He explained that the Commissioner of Lands issues a lease duly signed and sends it to the Land Registrar for processing. That the Land Registrar would not know if there was irregularity in the surveying, preparing and allocation of the lease unless if notified by the concerned offices. He was emphatic that if the Land Registrar had known that the suit property was on a road reserve, he would not have registered it. 13. PW8 relied on his statement dated 28th January 2022 and gave evidence on PDP 12.1.CT.88.96"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 742.7210146484375,
+            "r": 487.50300000000016,
+            "b": 732.662699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "among others. He testified that EACC had requested through for them to verify PDP No.",
+      "text": "among others. He testified that EACC had requested through for them to verify PDP No.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 728.1250146484375,
+            "r": 549.7299999999998,
+            "b": 615.890699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            717
+          ]
+        }
+      ],
+      "orig": "12.1.CT.88.96 and 12.2.CT.3.99 under their letter dated 30th November 2011, to which was attached the letter of allotment reference 31500/XXI/132, which is in the name of the 3rd defendant. Though PW8's testimony covered several plots, the court will limit itself to the evidence relating to the suit property. He told the court how his office responded to the EACC letter vide their letter dated 7th December 2021 indicating that there were no records of approval of PDP 12.1.CT.88.96 and 12.2.CT. 3.99. He testified that before Physical Planning Act, 1996 the Commissioner of Lands could allocate public land with the guidance of the Director of Physical Planning. That the allocation procedure then was as follows:",
+      "text": "12.1.CT.88.96 and 12.2.CT.3.99 under their letter dated 30th November 2011, to which was attached the letter of allotment reference 31500/XXI/132, which is in the name of the 3rd defendant. Though PW8's testimony covered several plots, the court will limit itself to the evidence relating to the suit property. He told the court how his office responded to the EACC letter vide their letter dated 7th December 2021 indicating that there were no records of approval of PDP 12.1.CT.88.96 and 12.2.CT. 3.99. He testified that before Physical Planning Act, 1996 the Commissioner of Lands could allocate public land with the guidance of the Director of Physical Planning. That the allocation procedure then was as follows:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 611.3520146484375,
+            "r": 549.73,
+            "b": 499.1176999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            677
+          ]
+        }
+      ],
+      "orig": "a. The Commissioner of Lands would give authority to the Director of Physical Planning to prepare a PDP, which would be circulated to the various public office departments within the region, such as the Survey office, Land Registrar, District Commissioner, Town Clerk and others to get comments, and any information on whether the concerned land had been committed to private or public use. b. If the comments on the PDP were positive, then the PDP would be forwarded to the Director of Physical Planning Nairobi where it would be approved and forwarded to the Commissioner of Lands. Director of Physical Planning who would then approve and issue it with an approved PDP number",
+      "text": "The Commissioner of Lands would give authority to the Director of Physical Planning to prepare a PDP, which would be circulated to the various public office departments within the region, such as the Survey office, Land Registrar, District Commissioner, Town Clerk and others to get comments, and any information on whether the concerned land had been committed to private or public use. b. If the comments on the PDP were positive, then the PDP would be forwarded to the Director of Physical Planning Nairobi where it would be approved and forwarded to the Commissioner of Lands. Director of Physical Planning who would then approve and issue it with an approved PDP number",
+      "enumerated": true,
+      "marker": "a."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 523.7730146484375,
+            "r": 528.3900000000001,
+            "b": 484.5216999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "c. The Commissioner of Lands would then approve and return copies of the approved PDP to the before entering it into the register of approved PDP.",
+      "text": "The Commissioner of Lands would then approve and return copies of the approved PDP to the before entering it into the register of approved PDP.",
+      "enumerated": true,
+      "marker": "c."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 479.9830146484375,
+            "r": 545.462,
+            "b": 455.3286999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        }
+      ],
+      "orig": "d. The Director of Physical Planning would thereafter return copies of the PDP to the Commissioner of Lands who would then issue a letter of allotment on the plot.",
+      "text": "The Director of Physical Planning would thereafter return copies of the PDP to the Commissioner of Lands who would then issue a letter of allotment on the plot.",
+      "enumerated": true,
+      "marker": "d."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 450.79001464843753,
+            "r": 550.9620000000001,
+            "b": 177.99369999326507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1774
+          ]
+        }
+      ],
+      "orig": "PW8 added that after the 1996 Act, the powers of the Commissioner of Lands to allocate public land were taken over by the Minister of Lands. It was also required before allocation of plots, that a notice was required to be placed in the Kenya gazette in English and Kiswahili newspaper for 60 days on the PDP. After 60 days, the Director of Physical Planning would approve the PDP and forward to the Minister who would approve and return it back to the Director to assign the approval reference. The Director would send it back to the Minister once more for approval, and thereafter it would be returned to the Director who then place it in the register. It is then sent to the Commissioner of Lands who would then issue a letter of allotment. PW8 was categorical that his office does not prepare PDP for road reserves or committed public land. He further added that allocation of land on the basis of a PDP, that was never approved would be illegal. On crossexamination, he stated that he has seen the documents involved including the survey plan with reference approval number 31500/XXI/132. He however did not agree that the survey plan is based on an approved PDP for reasons that the approved PDP was not traced from their records. He further pointed out that the 1996 PDP cited in the letter of allotment herein was not made from their office, and therefore, the allocation of the suit property was based on a forgery, even though he had no specific evidence to show that the PDP was a forgery. He also informed the court that although section 185 of the Local Government Act allowed the Council to close a road, it did not talk about allocating plots on a road reserve. He added that the suit property is among many other plots on the road reserve for Tom Mboya Road.",
+      "text": "PW8 added that after the 1996 Act, the powers of the Commissioner of Lands to allocate public land were taken over by the Minister of Lands. It was also required before allocation of plots, that a notice was required to be placed in the Kenya gazette in English and Kiswahili newspaper for 60 days on the PDP. After 60 days, the Director of Physical Planning would approve the PDP and forward to the Minister who would approve and return it back to the Director to assign the approval reference. The Director would send it back to the Minister once more for approval, and thereafter it would be returned to the Director who then place it in the register. It is then sent to the Commissioner of Lands who would then issue a letter of allotment. PW8 was categorical that his office does not prepare PDP for road reserves or committed public land. He further added that allocation of land on the basis of a PDP, that was never approved would be illegal. On crossexamination, he stated that he has seen the documents involved including the survey plan with reference approval number 31500/XXI/132. He however did not agree that the survey plan is based on an approved PDP for reasons that the approved PDP was not traced from their records. He further pointed out that the 1996 PDP cited in the letter of allotment herein was not made from their office, and therefore, the allocation of the suit property was based on a forgery, even though he had no specific evidence to show that the PDP was a forgery. He also informed the court that although section 185 of the Local Government Act allowed the Council to close a road, it did not talk about allocating plots on a road reserve. He added that the suit property is among many other plots on the road reserve for Tom Mboya Road."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.52,
+            "t": 173.45601464843753,
+            "r": 551.9849999999999,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            586
+          ]
+        }
+      ],
+      "orig": "14. PW9 relied on his statements dated 13th August 2018 and 19th October 2017 as well as the documents in the list documents dated 13th July 2018 and 9th February 2022. On cross-examination, he referred to the minutes of 7th September 1993 and stated that it was not a resolution to allocate the suit property. He agreed that the Local Government Act allowed the Municipal Council to close the road, subject to certain conditions. He added that there were no Council minutes to confirm approval of creation of plots on a road reserve. He established that there was a PDP approved by the",
+      "text": "PW9 relied on his statements dated 13th August 2018 and 19th October 2017 as well as the documents in the list documents dated 13th July 2018 and 9th February 2022. On cross-examination, he referred to the minutes of 7th September 1993 and stated that it was not a resolution to allocate the suit property. He agreed that the Local Government Act allowed the Municipal Council to close the road, subject to certain conditions. He added that there were no Council minutes to confirm approval of creation of plots on a road reserve. He established that there was a PDP approved by the",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "5/10",
+      "text": "5/10"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 548.9820000000001,
+            "b": 732.662699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            613
+          ]
+        }
+      ],
+      "orig": "defunct Council of November 1996, but he could not trace it as he learnt that it had been misplaced. He stated that there is no correspondence showing payment of stand premium in respect of the suit property. He denied having obtained documents that were in the 4th defendant's list of documents dated 28th January 2019. He could not tell the relationship between the 2nd defendant and the defunct Mombasa Municipal Council, but was certain that he was not an employee. He testified that the suit property was allotted to 3rd defendant but the latter was transferred to the 1st defendant without any transactions.",
+      "text": "defunct Council of November 1996, but he could not trace it as he learnt that it had been misplaced. He stated that there is no correspondence showing payment of stand premium in respect of the suit property. He denied having obtained documents that were in the 4th defendant's list of documents dated 28th January 2019. He could not tell the relationship between the 2nd defendant and the defunct Mombasa Municipal Council, but was certain that he was not an employee. He testified that the suit property was allotted to 3rd defendant but the latter was transferred to the 1st defendant without any transactions."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 728.1250146484375,
+            "r": 551.4240000000001,
+            "b": 557.504699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1111
+          ]
+        }
+      ],
+      "orig": "15. Salim Mohamed Mahfudh, testified as DW1, on behalf of his father the 2nd defendant, under power of attorney No. 22466. He testified that they had bought the suit property from the 1st defendant, who had approached them while they were at their shop, with an offer. They visited the suit property and found it was vacant. The 1st defendant gave the clearance certificates from the defunct Municipal Council of Mombasa and consent from the then District Land Officer, which DW1 produced as exhibits. That upon being satisfied that the 1st defendant owned the plot, they purchased it. DW1 told the court that they conducted a search and he produced a search certificate and a copy of the green card of the suit property as exhibits. He added that they have been paying rates, and was aware about the gazette notice revoking their title. He was categorical that they were not involved in any forgery or in the 1st defendant obtaining title to the suit property. He also stated that he was aware of the restrictions entered against their title, but was not aware that the property had not been properly acquired.",
+      "text": "Salim Mohamed Mahfudh, testified as DW1, on behalf of his father the 2nd defendant, under power of attorney No. 22466. He testified that they had bought the suit property from the 1st defendant, who had approached them while they were at their shop, with an offer. They visited the suit property and found it was vacant. The 1st defendant gave the clearance certificates from the defunct Municipal Council of Mombasa and consent from the then District Land Officer, which DW1 produced as exhibits. That upon being satisfied that the 1st defendant owned the plot, they purchased it. DW1 told the court that they conducted a search and he produced a search certificate and a copy of the green card of the suit property as exhibits. He added that they have been paying rates, and was aware about the gazette notice revoking their title. He was categorical that they were not involved in any forgery or in the 1st defendant obtaining title to the suit property. He also stated that he was aware of the restrictions entered against their title, but was not aware that the property had not been properly acquired.",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 552.9660146484375,
+            "r": 552.2490000000001,
+            "b": 280.1696999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1867
+          ]
+        }
+      ],
+      "orig": "16. The 4th defendant, a retired Land Registrar, testified as DW2, and relied on his statement dated 28th January 2019. It was his testimony that he was the Land Registrar in Mombasa between 1993 to 2004, and that his duties did not include alienation or allocation of land. He denied allocating any land to the 1st defendant, pointing out that the local authority was the allocating body together with the Commissioner of Lands who would forward leases and amended RIMS to him through the Chief Land Registrar for registration. He testified that the Land Registrar is always at the tail end of the allocation process as their duty is to register what is presented by the Commissioner of Lands, through the Chief Land Registrar. During cross-examination, DW2 accepted that the 3rd defendant had been issued with a letter of allotment dated 24th July 1996 is over un-surveyed plot, indicating among others that acceptance and payment of the fees required was to be made in 30 days. The witness confirmed that there is a letter dated 24th November 2000 accepting the offer, and a receipt dated 5th March 2001, for the payment, but could not tell whether the offer was still valid by then. He added that during registration of the lease, he did not see the survey plan. He also stated that he did not see any allotment letter or lease for Julius Mwamsae, 1st defendant, or transfer from the 3rd defendant to the 1st defendant, but he did produce a lease registered in favour of the 1st defendant. He also presumed that the documents given to him were valid under the law and was quick to point out that there are several other plots near the suit property, which have no cases. He was also aware that the suit property had been revoked through a gazette notice, but added that the Commissioner of Lands had no authority to revoke titles without the court's intervention.",
+      "text": "The 4th defendant, a retired Land Registrar, testified as DW2, and relied on his statement dated 28th January 2019. It was his testimony that he was the Land Registrar in Mombasa between 1993 to 2004, and that his duties did not include alienation or allocation of land. He denied allocating any land to the 1st defendant, pointing out that the local authority was the allocating body together with the Commissioner of Lands who would forward leases and amended RIMS to him through the Chief Land Registrar for registration. He testified that the Land Registrar is always at the tail end of the allocation process as their duty is to register what is presented by the Commissioner of Lands, through the Chief Land Registrar. During cross-examination, DW2 accepted that the 3rd defendant had been issued with a letter of allotment dated 24th July 1996 is over un-surveyed plot, indicating among others that acceptance and payment of the fees required was to be made in 30 days. The witness confirmed that there is a letter dated 24th November 2000 accepting the offer, and a receipt dated 5th March 2001, for the payment, but could not tell whether the offer was still valid by then. He added that during registration of the lease, he did not see the survey plan. He also stated that he did not see any allotment letter or lease for Julius Mwamsae, 1st defendant, or transfer from the 3rd defendant to the 1st defendant, but he did produce a lease registered in favour of the 1st defendant. He also presumed that the documents given to him were valid under the law and was quick to point out that there are several other plots near the suit property, which have no cases. He was also aware that the suit property had been revoked through a gazette notice, but added that the Commissioner of Lands had no authority to revoke titles without the court's intervention.",
+      "enumerated": true,
+      "marker": "16."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 275.63201464843746,
+            "r": 541.667,
+            "b": 221.78369999326515,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            381
+          ]
+        }
+      ],
+      "orig": "17. The learned counsel for the plaintiff filed their submissions dated 14th November 2025, while that for 2nd defendant filed two sets of submissions dated 6th November 2025 and 15th November 2025. The learned counsel for 5th defendant in the counterclaim filed their submissions dated 3rd November 2025. The court has considered the filed submissions particularized herein above.",
+      "text": "The learned counsel for the plaintiff filed their submissions dated 14th November 2025, while that for 2nd defendant filed two sets of submissions dated 6th November 2025 and 15th November 2025. The learned counsel for 5th defendant in the counterclaim filed their submissions dated 3rd November 2025. The court has considered the filed submissions particularized herein above.",
+      "enumerated": true,
+      "marker": "17."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 217.24501464843752,
+            "r": 520.7230000000002,
+            "b": 192.59069999326516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "18. From the pleadings, oral and documentary evidence presented, submissions by the learned counsel, the following issues arises for the court's determinations:",
+      "text": "From the pleadings, oral and documentary evidence presented, submissions by the learned counsel, the following issues arises for the court's determinations:",
+      "enumerated": true,
+      "marker": "18."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 188.05201464843753,
+            "r": 540.8640000000003,
+            "b": 163.39769999326518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "A. Whether the suit property was lawfully and legally alienated, and allocated to the 1st and or 3rd defendants.",
+      "text": "Whether the suit property was lawfully and legally alienated, and allocated to the 1st and or 3rd defendants.",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 158.85901464843755,
+            "r": 485.2700000000004,
+            "b": 148.80069999326508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "B. Who between the plaintiff and 2nd defendant is entitled to any of the prayers sought.",
+      "text": "Who between the plaintiff and 2nd defendant is entitled to any of the prayers sought.",
+      "enumerated": true,
+      "marker": "B."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 144.26201464843757,
+            "r": 163.344,
+            "b": 134.2036999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "C. Who bears the costs?",
+      "text": "Who bears the costs?",
+      "enumerated": true,
+      "marker": "C."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 42.52,
+            "t": 129.66601464843757,
+            "r": 541.524,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "19. After careful consideration of the pleadings, oral and documentary evidence by PW1 to PW9, DW1 & DW2, submissions by the learned counsel, superior court decisions cited thereon, the court has come to the following determinations:",
+      "text": "After careful consideration of the pleadings, oral and documentary evidence by PW1 to PW9, DW1 & DW2, submissions by the learned counsel, superior court decisions cited thereon, the court has come to the following determinations:",
+      "enumerated": true,
+      "marker": "19."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking Number: OOX42Y2025",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6/10",
+      "text": "6/10"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 550.423,
+            "b": 542.907699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1910
+          ]
+        }
+      ],
+      "orig": "A. In both the repealed Registered Land Act chapter 300 of Laws of Kenya and the current Land Registration Act chapter 300 of Laws of Kenya, the certificate of title is prima facie evidence of ownership/proprietorship of the land described thereon. The 2nd defendant herein is undoubtedly the one registered as proprietor/owner of the suit property, but plaintiff has challenged the process leading to alienation of the suit property and issuance of the said certificate of lease, by suing the 1st and 3rd defendants, who were the original allottees, the 2nd defendant as the current holder of the certificate of lease and the 4th defendant for reportedly allocating the suit property. From the onset, it is important to note that the 4th defendant has in his statement of defence and testimony as DW2 denied any role in the alienation or allocation of the suit property. His contention and evidence that as a Land Registrar, his duty was to register the lease over the suit property upon receiving it from the Commissioner of Lands through the Chief Land Registrar was not challenged by any other evidence adduced by the plaintiff, or any of the other defendants. Indeed, the Land Registrar comes into the allocation process at the tail end, to register the alienation instruments that have been issued by the allocating authority. To sue the Land Registrar for registering the lease, without tendering any other evidence to show any other role of a fraudulent, illegal, unlawful or unprocedural role the officer prayed in the allocation process/chain, would be equated to blaming a purchaser for value without notice thereafter, without enjoining the real perpetrators of the transactions leading to the alienation of the suit property. The plaintiff's claim appear to be that the suit property was allocated first to the 3rd defendant and later to the 1st defendant who in turn sold it to the 2nd defendant.",
+      "text": "A. In both the repealed Registered Land Act chapter 300 of Laws of Kenya and the current Land Registration Act chapter 300 of Laws of Kenya, the certificate of title is prima facie evidence of ownership/proprietorship of the land described thereon. The 2nd defendant herein is undoubtedly the one registered as proprietor/owner of the suit property, but plaintiff has challenged the process leading to alienation of the suit property and issuance of the said certificate of lease, by suing the 1st and 3rd defendants, who were the original allottees, the 2nd defendant as the current holder of the certificate of lease and the 4th defendant for reportedly allocating the suit property. From the onset, it is important to note that the 4th defendant has in his statement of defence and testimony as DW2 denied any role in the alienation or allocation of the suit property. His contention and evidence that as a Land Registrar, his duty was to register the lease over the suit property upon receiving it from the Commissioner of Lands through the Chief Land Registrar was not challenged by any other evidence adduced by the plaintiff, or any of the other defendants. Indeed, the Land Registrar comes into the allocation process at the tail end, to register the alienation instruments that have been issued by the allocating authority. To sue the Land Registrar for registering the lease, without tendering any other evidence to show any other role of a fraudulent, illegal, unlawful or unprocedural role the officer prayed in the allocation process/chain, would be equated to blaming a purchaser for value without notice thereafter, without enjoining the real perpetrators of the transactions leading to the alienation of the suit property. The plaintiff's claim appear to be that the suit property was allocated first to the 3rd defendant and later to the 1st defendant who in turn sold it to the 2nd defendant."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.52,
+            "t": 538.3700146484375,
+            "r": 552.7439999999998,
+            "b": 294.7666999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1576
+          ]
+        }
+      ],
+      "orig": "B. The learned counsel for the 2nd defendant has extensively submitted on the doctrine and principle of indefeasibility of title under the Torrens system of registration, that the title of a registered proprietor remains indefeasible unless it is shown it was obtained through fraud or misrepresentation, to which the title holder was a party to. The learned counsel relied on among others the case of Shimoni Resort versus Registrar of Titles & 5 Others [2016] eKLR, which she argued the court to follow. The learned counsel for the plaintiff cited among others, the case of Munyu Maina versus Hiram Gathiha Maina [2013] eKLR, where the Court of Appeal held that when the instrument of title is under challenge, 'the registered proprietor must go beyond the instrument and prove the legality of how he acquired the title and show that the acquisition was legal, formal and free from encumbrances…'. The counsel argued the court to adopt the principal in the case of Waterfront Holdings Limited versus Kandie & 2 Others KECA 1233 (KLR), where the Court of Appeal inter alia held that 'It is now law that the mere fact of issuance of title deeds does not confer the status of indefeasibility of title. Courts of this country have therefore held that they would not hesitate to nullify titles held by those who stare at the court and wave a title of a grabbed land by merely and pleading loudly the principle of indefeasibility of title deed. In cases where the very process of acquisition of land in question is under challenge, it is not enough to simply rely on the title….'.",
+      "text": "B. The learned counsel for the 2nd defendant has extensively submitted on the doctrine and principle of indefeasibility of title under the Torrens system of registration, that the title of a registered proprietor remains indefeasible unless it is shown it was obtained through fraud or misrepresentation, to which the title holder was a party to. The learned counsel relied on among others the case of Shimoni Resort versus Registrar of Titles & 5 Others [2016] eKLR, which she argued the court to follow. The learned counsel for the plaintiff cited among others, the case of Munyu Maina versus Hiram Gathiha Maina [2013] eKLR, where the Court of Appeal held that when the instrument of title is under challenge, 'the registered proprietor must go beyond the instrument and prove the legality of how he acquired the title and show that the acquisition was legal, formal and free from encumbrances…'. The counsel argued the court to adopt the principal in the case of Waterfront Holdings Limited versus Kandie & 2 Others KECA 1233 (KLR), where the Court of Appeal inter alia held that 'It is now law that the mere fact of issuance of title deeds does not confer the status of indefeasibility of title. Courts of this country have therefore held that they would not hesitate to nullify titles held by those who stare at the court and wave a title of a grabbed land by merely and pleading loudly the principle of indefeasibility of title deed. In cases where the very process of acquisition of land in question is under challenge, it is not enough to simply rely on the title….'."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.52,
+            "t": 290.22801464843747,
+            "r": 549.807,
+            "b": 207.18669999326517,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "C. Other than relying on the indefeasibility of his certificate of lease and being an innocent purchaser for value, the 2nd defendant has contended that he acquired title to the suit property was lawfully and his certificate of lease was processed and issued by the Land Registrar legally. This brings in the question of regularity in the process. The presumption of regularity was discussed in the case of Kibos Distillers Limited & 4 others versus Benson Ambuti Adega & 3 others [2020] KECA 875 (KLR) where the Court of Appeal held as follows:",
+      "text": "C. Other than relying on the indefeasibility of his certificate of lease and being an innocent purchaser for value, the 2nd defendant has contended that he acquired title to the suit property was lawfully and his certificate of lease was processed and issued by the Land Registrar legally. This brings in the question of regularity in the process. The presumption of regularity was discussed in the case of Kibos Distillers Limited & 4 others versus Benson Ambuti Adega & 3 others [2020] KECA 875 (KLR) where the Court of Appeal held as follows:"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.52,
+            "t": 202.64901464843751,
+            "r": 548.2120000000002,
+            "b": 134.2036999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "'In law, there is a presumption of regularity. Under this presumption, a court presumes that official duties have been properly discharged and all procedures duly followed until the challenger presents clear evidence to the contrary. (See Archbold Criminal Pleading, Evidence and Practice, 1999, p. 1130, see heading \"B\" to paras. 10-4 and 10-5; see also Patrick Ayisi Ingoi - v- Republic [2018] eKLR)'",
+      "text": "'In law, there is a presumption of regularity. Under this presumption, a court presumes that official duties have been properly discharged and all procedures duly followed until the challenger presents clear evidence to the contrary. (See Archbold Criminal Pleading, Evidence and Practice, 1999, p. 1130, see heading \"B\" to paras. 10-4 and 10-5; see also Patrick Ayisi Ingoi - v- Republic [2018] eKLR)'"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.52,
+            "t": 129.66601464843757,
+            "r": 543.1960000000001,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "Further, in the case of Chief Land Registrar & 4 others versus Nathan Tirop Koech & 4 others [2018] eKLR it was stated that there is a presumption that all acts done by a public official have lawfully been done, and that all procedures have been duly followed. The presumption of regularity",
+      "text": "Further, in the case of Chief Land Registrar & 4 others versus Nathan Tirop Koech & 4 others [2018] eKLR it was stated that there is a presumption that all acts done by a public official have lawfully been done, and that all procedures have been duly followed. The presumption of regularity"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "7/10",
+      "text": "7/10"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 550.7200000000003,
+            "b": 732.662699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            591
+          ]
+        }
+      ],
+      "orig": "is a presumption that executive officials have properly discharged their official duties. The presumption is aptly captured in the ancient latin maxim 'Omnia praesumuntur rite esse acta,' which roughly translated means 'All things are presumed to have been done rightly.' In the case of Henry versus District Adjudication & Settlement Officer Tigania East/West & 5 others; Mborothi & 4 others (Interested Parties) [2022] KEELC 13840 (KLR) the court held that any party claiming otherwise has the burden of disproving the presumption of regularity, which in this suit fell upon the plaintiff.",
+      "text": "is a presumption that executive officials have properly discharged their official duties. The presumption is aptly captured in the ancient latin maxim 'Omnia praesumuntur rite esse acta,' which roughly translated means 'All things are presumed to have been done rightly.' In the case of Henry versus District Adjudication & Settlement Officer Tigania East/West & 5 others; Mborothi & 4 others (Interested Parties) [2022] KEELC 13840 (KLR) the court held that any party claiming otherwise has the burden of disproving the presumption of regularity, which in this suit fell upon the plaintiff."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 728.1250146484375,
+            "r": 524.6720000000001,
+            "b": 703.4696999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "D. The plaintiff has alleged a number of irregularities in the alienation and allocation of the suit properties including the following:",
+      "text": "The plaintiff has alleged a number of irregularities in the alienation and allocation of the suit properties including the following:",
+      "enumerated": true,
+      "marker": "D."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 698.9320146484375,
+            "r": 266.359,
+            "b": 688.8736999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "i. There was no closure of Tom Mboya Road;",
+      "text": "There was no closure of Tom Mboya Road;",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 684.3350146484376,
+            "r": 512.7260000000001,
+            "b": 659.6806999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "ii. The PDP used in allocation of the letter of allotment to the 3rd defendant was missing; and iii. There was no consent from the Ministry of Roads before alienation of the road reserve.",
+      "text": "The PDP used in allocation of the letter of allotment to the 3rd defendant was missing; and iii. There was no consent from the Ministry of Roads before alienation of the road reserve.",
+      "enumerated": true,
+      "marker": "ii."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 655.1420146484376,
+            "r": 550.3570000000001,
+            "b": 440.7316999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1453
+          ]
+        }
+      ],
+      "orig": "During the hearing and through submissions, it was stated that the Municipal Council of Mombasa had authority to close the road in question and issue plots on it. However, PW9 was of the view that section 185 of the Local Government Act chapter 265 of Laws of Kenya did not empower the defunct Municpal Council to allocate land committed as a road reserve. PW4 testified that gazette notice No. 1099 dated 25th February 1994 did not originate from the Town Clerk's Legal office where he was then working. This contention by PW4 has not been challenged by any of the defendants, which leads the court to find that it is highly probable the said gazette notice was not processed procedurally, though seemingly signed by Mutuma Andaine, Town Clerk. The said gazette notice indicated the proposed areas of closure of the road was un-surveyed plot adjacent to plots No. 160, 572 and 573 Section X1 Tom Mboya Avenue, Tudor. From the evidence tendered in court including the Registry Index Map [RIM], the plots adjacent to plot No. 160 is 937, and the one adjacent to plot No. 572 is 946, while the plot adjacent to plot No. 983 is No. 3, but the one adjacent to plot No. 573 remains intact. These facts clearly show that the gazette notice was never about closure of the road around the suit property, but as counsel for the plaintiff submitted, the gazette notice was the 'vehicle used as a joyride to transgress the illegal allocation of the suit property.'",
+      "text": "During the hearing and through submissions, it was stated that the Municipal Council of Mombasa had authority to close the road in question and issue plots on it. However, PW9 was of the view that section 185 of the Local Government Act chapter 265 of Laws of Kenya did not empower the defunct Municpal Council to allocate land committed as a road reserve. PW4 testified that gazette notice No. 1099 dated 25th February 1994 did not originate from the Town Clerk's Legal office where he was then working. This contention by PW4 has not been challenged by any of the defendants, which leads the court to find that it is highly probable the said gazette notice was not processed procedurally, though seemingly signed by Mutuma Andaine, Town Clerk. The said gazette notice indicated the proposed areas of closure of the road was un-surveyed plot adjacent to plots No. 160, 572 and 573 Section X1 Tom Mboya Avenue, Tudor. From the evidence tendered in court including the Registry Index Map [RIM], the plots adjacent to plot No. 160 is 937, and the one adjacent to plot No. 572 is 946, while the plot adjacent to plot No. 983 is No. 3, but the one adjacent to plot No. 573 remains intact. These facts clearly show that the gazette notice was never about closure of the road around the suit property, but as counsel for the plaintiff submitted, the gazette notice was the 'vehicle used as a joyride to transgress the illegal allocation of the suit property.'",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 436.19401464843753,
+            "r": 551.3250000000003,
+            "b": 338.55569999326514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            609
+          ]
+        }
+      ],
+      "orig": "E. Among the documentary evidence relied on by the parties is the then Municipal Council of Mombasa minutes 335/93 of 7th September 1993 that resolved that applications for plots on road reserves be dealt with on a case by case basis and on its own merit. The court takes the said minutes as mere proposals that were subject to further deliberations and resolutions on applications and approvals of the same. There was no minutes produced before the court that can amount to a resolution of the council to create and allocate the suit property herein to any particular person, or any of the defendants herein.",
+      "text": "Among the documentary evidence relied on by the parties is the then Municipal Council of Mombasa minutes 335/93 of 7th September 1993 that resolved that applications for plots on road reserves be dealt with on a case by case basis and on its own merit. The court takes the said minutes as mere proposals that were subject to further deliberations and resolutions on applications and approvals of the same. There was no minutes produced before the court that can amount to a resolution of the council to create and allocate the suit property herein to any particular person, or any of the defendants herein.",
+      "enumerated": true,
+      "marker": "E."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 334.01801464843754,
+            "r": 550.9290000000004,
+            "b": 119.6076999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1424
+          ]
+        }
+      ],
+      "orig": "F. The evidence adduced herein on where the suit property is situated leaves no doubt that it is on a road reserve. The gazette notice and Municipal Council minutes referred to above all points to a plot on the road reserve. The testimony of PW6, an engineer with the County Government of Mombasa, and previously with the Municipal Council of Mombasa, was clear that the suit property was on what is known as Tom Mboya Road, which is a class C road of 100 feet standard width, that was previously under the Municipal Council of Mombasa before KURA took over in 2013. He informed the court the Ministry of Roads had asked his office to clear the road, but they could not do so because of the developments on the road reserve. His office, which had received funding sometimes in 2010, for flood/drainage infrastructure, could carry it out on the said road due to the trespass by the developers. It was his testimony that the defunct Municipal Council of Mombasa had no powers to allocate plots on the road reserve, and therefore, the suit property was irregularly allocated. He insisted that any alteration or development affecting said road, being a surveyed road, should have sought and obtained consent from his department, but none had been sought before plots were excised on the road reserve in this case. From the foregoing, the court has no difficult in confirming that the suit property is situated on a road reserve.",
+      "text": "The evidence adduced herein on where the suit property is situated leaves no doubt that it is on a road reserve. The gazette notice and Municipal Council minutes referred to above all points to a plot on the road reserve. The testimony of PW6, an engineer with the County Government of Mombasa, and previously with the Municipal Council of Mombasa, was clear that the suit property was on what is known as Tom Mboya Road, which is a class C road of 100 feet standard width, that was previously under the Municipal Council of Mombasa before KURA took over in 2013. He informed the court the Ministry of Roads had asked his office to clear the road, but they could not do so because of the developments on the road reserve. His office, which had received funding sometimes in 2010, for flood/drainage infrastructure, could carry it out on the said road due to the trespass by the developers. It was his testimony that the defunct Municipal Council of Mombasa had no powers to allocate plots on the road reserve, and therefore, the suit property was irregularly allocated. He insisted that any alteration or development affecting said road, being a surveyed road, should have sought and obtained consent from his department, but none had been sought before plots were excised on the road reserve in this case. From the foregoing, the court has no difficult in confirming that the suit property is situated on a road reserve.",
+      "enumerated": true,
+      "marker": "F."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 42.52,
+            "t": 115.06901464843747,
+            "r": 547.4860000000001,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "e. The Assistant Director of Physical Planning at the Ministry of Lands, Public Works, Housing, and Urban Development testified as PW8. He told the court inter alia that the plaintiff had requested his",
+      "text": "e. The Assistant Director of Physical Planning at the Ministry of Lands, Public Works, Housing, and Urban Development testified as PW8. He told the court inter alia that the plaintiff had requested his"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "8/10",
+      "text": "8/10"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 552.6230000000002,
+            "b": 396.94269999326514,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2841
+          ]
+        }
+      ],
+      "orig": "office to verify PDP No. 12.1.CT.88.96 and 12.2.CT.3.99 under their letter dated 30th November 2011, to which was attached the letter of allotment reference 31500/XXI/132, which is in the name of the 3rd defendant. In their response vide their letter dated 7th December 2021 they indicated that there were no records of approval of PDP 12.1.CT.88.96 and 12.2.CT.3.99. The witness took the court through the elaborate process of alienation of a public plot, starting from application, Commissioner of Lands giving authority to the Director of Physical Planning to prepare a PDP, which would be circulated to the various public office departments within the region, such as the Survey office, Land Registrar, District Commissioner, Town Clerk and others to get comments, and any information on whether the concerned land had been committed to private or public use, forwarding of PDP to the Director of Physical Planning, who would in turn forward it to the Commissioner of Lands. The Commissioner of Lands would then approve and return copies of the approved PDP to the Director of Physical Planning who would then approve and issue it with an approved PDP number before entering it into the register of approved PDP. The Director of Physical Planning would thereafter return copies of the PDP to the Commissioner of Lands who would then issue a letter of allotment on the plot. That his office does not prepare PDPs for road reserves or committed public lands, and that allocation of land on the basis of a PDP, that was never approved would be illegal. He further pointed out that the 1996 PDP cited in the letter of allotment herein was not made from their office, and therefore, the allocation of the suit property was based on a forgery. He also informed the court that although section 185 of the Local Government Act allowed the Council to close a road, it did not talk about allocating plots on a road reserve. He added that the suit property is among many other plots on the road reserve for Tom Mboya Road. The totality of the testimony presented by the plaintiff, especially that by PW6, PW8 and PW9 leads the court to find that alienation and allocation of the suit property to the 1st defendant was unlawful and irregular, and the 1st defendant did not acquire a good title that he could have passed on to the 2nd defendant. The 2nd defendant claim that he acquired his certificate of lease regularly and that his title was indefeasible as he is an innocent purchaser for value without notice fails. Had he investigated the 1st defendant's root of title to the suit property, and made enquiries from the related public offices like that in charge of roads and the neighbours to the suit property, he mostly likely would not have proceeded to invest his money on a property whose history and title was based on a shady foundation.",
+      "text": "office to verify PDP No. 12.1.CT.88.96 and 12.2.CT.3.99 under their letter dated 30th November 2011, to which was attached the letter of allotment reference 31500/XXI/132, which is in the name of the 3rd defendant. In their response vide their letter dated 7th December 2021 they indicated that there were no records of approval of PDP 12.1.CT.88.96 and 12.2.CT.3.99. The witness took the court through the elaborate process of alienation of a public plot, starting from application, Commissioner of Lands giving authority to the Director of Physical Planning to prepare a PDP, which would be circulated to the various public office departments within the region, such as the Survey office, Land Registrar, District Commissioner, Town Clerk and others to get comments, and any information on whether the concerned land had been committed to private or public use, forwarding of PDP to the Director of Physical Planning, who would in turn forward it to the Commissioner of Lands. The Commissioner of Lands would then approve and return copies of the approved PDP to the Director of Physical Planning who would then approve and issue it with an approved PDP number before entering it into the register of approved PDP. The Director of Physical Planning would thereafter return copies of the PDP to the Commissioner of Lands who would then issue a letter of allotment on the plot. That his office does not prepare PDPs for road reserves or committed public lands, and that allocation of land on the basis of a PDP, that was never approved would be illegal. He further pointed out that the 1996 PDP cited in the letter of allotment herein was not made from their office, and therefore, the allocation of the suit property was based on a forgery. He also informed the court that although section 185 of the Local Government Act allowed the Council to close a road, it did not talk about allocating plots on a road reserve. He added that the suit property is among many other plots on the road reserve for Tom Mboya Road. The totality of the testimony presented by the plaintiff, especially that by PW6, PW8 and PW9 leads the court to find that alienation and allocation of the suit property to the 1st defendant was unlawful and irregular, and the 1st defendant did not acquire a good title that he could have passed on to the 2nd defendant. The 2nd defendant claim that he acquired his certificate of lease regularly and that his title was indefeasible as he is an innocent purchaser for value without notice fails. Had he investigated the 1st defendant's root of title to the suit property, and made enquiries from the related public offices like that in charge of roads and the neighbours to the suit property, he mostly likely would not have proceeded to invest his money on a property whose history and title was based on a shady foundation."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.52,
+            "t": 392.4040146484375,
+            "r": 551.4680000000001,
+            "b": 134.2036999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1687
+          ]
+        }
+      ],
+      "orig": "f. The court therefore finds that the plaintiff has discharged its burden of proving its claim against the 1st to 3rd defendants under sections 107, 109 and 112 of the Evidence Act Chapter 80 of Laws of Kenya. It follows that from the elaborate explanation by PW8 on the alienation and allocation process of public plots, and the testimony given by the 4th defendant who testified as DW2, the Land Registrar's role in the process is registration of the leases at the tail end. There is no evidence adduced by the plaintiff to show any act or omission committed by the 4th defendant that can be construed to be an act of alienation or allocation of the suit property other than registration of the lease received from the Commissioner of Lands through the Chief Land Registrar. The plaintiff's claim against the 4th defendant therefore fails, but each party will bear their own costs. g. In respect of the 2nd defendant's counterclaim, I wish to mention that it is strange he listed himself as the plaintiff and also the 3rd defendant in the counterclaim. I believe this was in error that does not in any way affect his claim against the other defendants to the counterclaim. Having come to the above conclusions, in favour of the plaintiff, and in view of the decision in the case of Dina Management Ltd versus County Government of Mombasa & 5 Others [2023] KESC 30 (KLR), where the Supreme Court held that '….the title or lease is an end product of a process. If the process that was followed prior to issuance of the title did not comply with the law, then such title cannot be held as indefeasible', the inevitable conclusion is that the counterclaim has no merit and therefore fails.",
+      "text": "f. The court therefore finds that the plaintiff has discharged its burden of proving its claim against the 1st to 3rd defendants under sections 107, 109 and 112 of the Evidence Act Chapter 80 of Laws of Kenya. It follows that from the elaborate explanation by PW8 on the alienation and allocation process of public plots, and the testimony given by the 4th defendant who testified as DW2, the Land Registrar's role in the process is registration of the leases at the tail end. There is no evidence adduced by the plaintiff to show any act or omission committed by the 4th defendant that can be construed to be an act of alienation or allocation of the suit property other than registration of the lease received from the Commissioner of Lands through the Chief Land Registrar. The plaintiff's claim against the 4th defendant therefore fails, but each party will bear their own costs. g. In respect of the 2nd defendant's counterclaim, I wish to mention that it is strange he listed himself as the plaintiff and also the 3rd defendant in the counterclaim. I believe this was in error that does not in any way affect his claim against the other defendants to the counterclaim. Having come to the above conclusions, in favour of the plaintiff, and in view of the decision in the case of Dina Management Ltd versus County Government of Mombasa & 5 Others [2023] KESC 30 (KLR), where the Supreme Court held that '….the title or lease is an end product of a process. If the process that was followed prior to issuance of the title did not comply with the law, then such title cannot be held as indefeasible', the inevitable conclusion is that the counterclaim has no merit and therefore fails."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 42.52,
+            "t": 129.66601464843757,
+            "r": 547.5740000000002,
+            "b": 90.41469999326512,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "G. Under section 27 (1) of the Civil Procedure Act chapter 21 of Laws of Kenya, costs follow the event unless where the court for good reason orders differently. Though the plaintiff is successful in its suit and should be entitled to costs, I have considered the fact that the irregularities in the",
+      "text": "G. Under section 27 (1) of the Civil Procedure Act chapter 21 of Laws of Kenya, costs follow the event unless where the court for good reason orders differently. Though the plaintiff is successful in its suit and should be entitled to costs, I have considered the fact that the irregularities in the"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 515.469,
+            "t": 63.95041464843757,
+            "r": 537.6780000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "9/10",
+      "text": "9/10"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 830.3010146484376,
+            "r": 552.4140000000001,
+            "b": 732.662699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            642
+          ]
+        }
+      ],
+      "orig": "alienation and allocation of the suit property from a road reserve was perpetrated by the office of the Commissioner of Lands, among other public offices, resulting in the 1st defendant being issued with the title that he later transferred to the 2nd defendant. As the Commissioner of Lands and those other offices that actively prayed a role in illegally and irregularly alienating and allocation the suit property were not made parties in the suit, the plaintiff will bear its own costs, though successful. That as the 2nd defendant's counterclaim has failed, he will pay the costs of the defendants who filed statements of defence thereof.",
+      "text": "alienation and allocation of the suit property from a road reserve was perpetrated by the office of the Commissioner of Lands, among other public offices, resulting in the 1st defendant being issued with the title that he later transferred to the 2nd defendant. As the Commissioner of Lands and those other offices that actively prayed a role in illegally and irregularly alienating and allocation the suit property were not made parties in the suit, the plaintiff will bear its own costs, though successful. That as the 2nd defendant's counterclaim has failed, he will pay the costs of the defendants who filed statements of defence thereof."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 728.1250146484375,
+            "r": 541.3150000000004,
+            "b": 688.8736999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "20. From the foregoing determinations, the court finds and the plaintiff has proved its case against the 1st to 3rd defendants on a balance of probabilities, but has failed to discharge its duty against the 4th defendant.",
+      "text": "From the foregoing determinations, the court finds and the plaintiff has proved its case against the 1st to 3rd defendants on a balance of probabilities, but has failed to discharge its duty against the 4th defendant.",
+      "enumerated": true,
+      "marker": "20."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 684.3350146484376,
+            "r": 548.4540000000003,
+            "b": 659.6806999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "A. The court therefore enter judgement for the plaintiff against the 1st to 3rd defendants and orders as follows:",
+      "text": "The court therefore enter judgement for the plaintiff against the 1st to 3rd defendants and orders as follows:",
+      "enumerated": true,
+      "marker": "A."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 655.1420146484376,
+            "r": 539.2690000000002,
+            "b": 630.4876999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "i. A declaration is hereby issued that the alienation and allocation of Mombasa Island/Block XI/983 being part of the road reserve was unlawful, illegal, null and void ab initio.",
+      "text": "A declaration is hereby issued that the alienation and allocation of Mombasa Island/Block XI/983 being part of the road reserve was unlawful, illegal, null and void ab initio.",
+      "enumerated": true,
+      "marker": "i."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 625.9490146484375,
+            "r": 542.855,
+            "b": 572.100699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "ii. An order is hereby issued directing the Land Registrar, Mombasa, to rectify the register of Mombasa Island/Block XI/983 by cancelling the entries relating to the issuance of the Certificate of Lease dated 20th December 2002 in favour of the 1st defendant and all other subsequent entries made therein, and reinstate it as part of the road reserve.",
+      "text": "An order is hereby issued directing the Land Registrar, Mombasa, to rectify the register of Mombasa Island/Block XI/983 by cancelling the entries relating to the issuance of the Certificate of Lease dated 20th December 2002 in favour of the 1st defendant and all other subsequent entries made therein, and reinstate it as part of the road reserve.",
+      "enumerated": true,
+      "marker": "ii."
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 567.5630146484375,
+            "r": 532.6250000000001,
+            "b": 528.311699993265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "iii. The 2nd defendant is directed to vacate from the Mombasa Island/Block XI/983, suit property, within the next ninety (90) days, and in default eviction order to issue. Mombasa Island/Block XI/983.",
+      "text": "The 2nd defendant is directed to vacate from the Mombasa Island/Block XI/983, suit property, within the next ninety (90) days, and in default eviction order to issue. Mombasa Island/Block XI/983.",
+      "enumerated": true,
+      "marker": "iii."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 523.7730146484375,
+            "r": 543.6800000000001,
+            "b": 469.9246999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            347
+          ]
+        }
+      ],
+      "orig": "iv. An order for a permanent injunction is hereby issued restraining the 1st to 3rd defendants, their agents, servants, employees and/or assigns from trespassing upon, transferring, leasing, wasting, and/or dealing in any manner whatsoever with Mombasa Island/Block XI/983, suit property, other than by way of surrender to the Government of Kenya.",
+      "text": "An order for a permanent injunction is hereby issued restraining the 1st to 3rd defendants, their agents, servants, employees and/or assigns from trespassing upon, transferring, leasing, wasting, and/or dealing in any manner whatsoever with Mombasa Island/Block XI/983, suit property, other than by way of surrender to the Government of Kenya.",
+      "enumerated": true,
+      "marker": "iv."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 465.3870146484375,
+            "r": 231.26899999999992,
+            "b": 455.3286999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "v. Each party to bear their own costs.",
+      "text": "Each party to bear their own costs.",
+      "enumerated": true,
+      "marker": "v."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 450.79001464843753,
+            "r": 375.4570000000003,
+            "b": 440.7316999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "B. The counterclaim by the 2nd defendant is dismissed with costs.",
+      "text": "The counterclaim by the 2nd defendant is dismissed with costs.",
+      "enumerated": true,
+      "marker": "B."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 42.52,
+            "t": 436.19401464843753,
+            "r": 142.301,
+            "b": 426.1356999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Orders accordingly.",
+      "text": "Orders accordingly.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 174.313,
+            "t": 394.6810146484375,
+            "r": 420.96599999999984,
+            "b": 384.6226999932651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "SIGNED BY: HON. JUSTICE STEPHEN KIBUNJA",
+      "text": "SIGNED BY: HON. JUSTICE STEPHEN KIBUNJA"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 190.183,
+            "t": 318.3130146484375,
+            "r": 405.0970000000006,
+            "b": 293.20939611395477,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "THE JUDICIARY OF KENYA. MOMBASA ENVIRONMENT AND LAND COURT",
+      "text": "THE JUDICIARY OF KENYA. MOMBASA ENVIRONMENT AND LAND COURT"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 227.206,
+            "t": 289.2980146484375,
+            "r": 368.0740000000001,
+            "b": 281.06848447602374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "ENVIRONMENT AND LAND COURT",
+      "text": "ENVIRONMENT AND LAND COURT"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 234.43,
+            "t": 277.77651464843757,
+            "r": 360.8499999999997,
+            "b": 270.9185728380927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "DATE: 2025-12-10 08:28:53+03",
+      "text": "DATE: 2025-12-10 08:28:53+03"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 278.101,
+            "t": 38.924414648437505,
+            "r": 393.4909999999998,
+            "b": 28.866099993265152,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Number: OOX42Y2025",
+      "text": "Number: OOX42Y2025"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 45.12,
+            "t": 63.95041464843757,
+            "r": 158.89299999999997,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "The Judiciary of Kenya",
+      "text": "The Judiciary of Kenya"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 183.6,
+            "t": 52.12441464843755,
+            "r": 487.9919999999994,
+            "b": 42.066099993265084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Doc IDENTITY: 1398802505184518064922138704 Tracking",
+      "text": "Doc IDENTITY: 1398802505184518064922138704 Tracking"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 512.323,
+            "t": 63.95041464843757,
+            "r": 540.8240000000001,
+            "b": 53.892099993265106,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "10/10",
+      "text": "10/10"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 185.5387725830078,
+            "t": 819.7235088348389,
+            "r": 277.8693542480469,
+            "b": 727.0985412597656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.2393798828125,
+            "t": 818.2363548278809,
+            "r": 397.2206726074219,
+            "b": 723.2178955078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 208.18338012695312,
+            "t": 88.84906005859375,
+            "r": 460.76824951171875,
+            "b": 57.917236328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 208.08517456054688,
+            "t": 88.9307861328125,
+            "r": 460.8397216796875,
+            "b": 58.00982666015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 208.03836059570312,
+            "t": 88.74249267578125,
+            "r": 460.75579833984375,
+            "b": 57.63751220703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 208.18426513671875,
+            "t": 88.66748046875,
+            "r": 460.7472229003906,
+            "b": 57.79888916015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 208.2012176513672,
+            "t": 88.72564697265625,
+            "r": 460.82061767578125,
+            "b": 57.83905029296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 208.01768493652344,
+            "t": 88.70654296875,
+            "r": 460.894287109375,
+            "b": 57.7093505859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 207.99671936035156,
+            "t": 88.88299560546875,
+            "r": 460.9134826660156,
+            "b": 57.82098388671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 208.06765747070312,
+            "t": 89.1328125,
+            "r": 460.9439697265625,
+            "b": 57.70208740234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 208.1181182861328,
+            "t": 88.815185546875,
+            "r": 460.91448974609375,
+            "b": 57.720458984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 265.6466369628906,
+            "t": 367.8943786621094,
+            "r": 328.18658447265625,
+            "b": 337.4579162597656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 207.92218017578125,
+            "t": 88.59014892578125,
+            "r": 460.9034118652344,
+            "b": 57.6396484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.280029296875,
+        "height": 841.8900146484375
+      },
+      "page_no": 10
+    }
+  }
+}

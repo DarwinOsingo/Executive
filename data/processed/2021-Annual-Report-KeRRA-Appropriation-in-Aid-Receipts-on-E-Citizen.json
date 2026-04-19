@@ -1,0 +1,5355 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2021-Annual-Report-KeRRA-Appropriation-in-Aid-Receipts-on-E-Citizen",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16999060771435687277,
+    "filename": "2021-Annual-Report-KeRRA-Appropriation-in-Aid-Receipts-on-E-Citizen.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/pictures/14"
+      },
+      {
+        "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/pictures/17"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/pictures/18"
+      },
+      {
+        "$ref": "#/pictures/19"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/pictures/20"
+      },
+      {
+        "$ref": "#/pictures/21"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/pictures/22"
+      },
+      {
+        "$ref": "#/pictures/23"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/24"
+      },
+      {
+        "$ref": "#/pictures/25"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/pictures/26"
+      },
+      {
+        "$ref": "#/pictures/27"
+      },
+      {
+        "$ref": "#/pictures/28"
+      },
+      {
+        "$ref": "#/pictures/29"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/pictures/30"
+      },
+      {
+        "$ref": "#/pictures/31"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/pictures/32"
+      },
+      {
+        "$ref": "#/pictures/33"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/pictures/34"
+      },
+      {
+        "$ref": "#/pictures/35"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/pictures/36"
+      },
+      {
+        "$ref": "#/pictures/37"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/pictures/38"
+      },
+      {
+        "$ref": "#/pictures/39"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/pictures/40"
+      },
+      {
+        "$ref": "#/pictures/41"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/42"
+      },
+      {
+        "$ref": "#/pictures/43"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 404.6666666666667,
+            "t": 554.8333333333334,
+            "r": 438.6666666666667,
+            "b": 544.8333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 386.6666666666667,
+            "t": 496.5,
+            "r": 457.3333333333333,
+            "b": 487.1666666666667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 411.37117186188135,
+            "t": 572.8001771410553,
+            "r": 441.96216147145196,
+            "b": 555.533156192278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.55392689368983,
+            "t": 560.56080348395,
+            "r": 413.1127397729768,
+            "b": 551.7725298493832,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 440.18110446481336,
+            "t": 560.8275315109448,
+            "r": 468.4855622018533,
+            "b": 513.1724684890552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 465.2676462263484,
+            "r": 745.7849951006239,
+            "b": 378.1114515107492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "ONBOARDING OF KENYA RURAL ROADS AUTHORITY (KeRRA) APPROPRIATION IN AID (AIA) RECEIPTS ON ECITIZEN",
+      "text": "ONBOARDING OF KENYA RURAL ROADS AUTHORITY (KeRRA) APPROPRIATION IN AID (AIA) RECEIPTS ON ECITIZEN",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 354.9484732229808,
+            "r": 295.2978097459241,
+            "b": 339.21593772395767,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Dear Valued Stakeholders, Dear Valued Stakeholders,",
+      "text": "Dear Valued Stakeholders, Dear Valued Stakeholders,",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 308.44847516048077,
+            "r": 781.0875138046857,
+            "b": 129.9659464427076,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1115
+          ]
+        }
+      ],
+      "orig": "We are writing to inform you of an important update regarding the collection of We are writing to inform you of an important update regarding the collection of AIA receipts. As part of our ongoing efforts to enhance efficiency and streamline AIA receipts. As part of our ongoing efforts to enhance efficiency and streamline our processes, we are introducing a new method for receiving AIA receipts. our processes, we are introducing a new method for receiving AIA receipts. Effective immediately, AIA receipts should no longer be deposited into the Effective immediately, AIA receipts should no longer be deposited into the Kenya Rural Roads Authority (KeRRA) bank account. Instead, all receipts must be Kenya Rural Roads Authority (KeRRA) bank account. Instead, all receipts must be submitted through the E-Citizen platform. This change aims to improve submitted through the E-Citizen platform. This change aims to improve transparency, reduce processing times, and enhance the overall experience for transparency, reduce processing times, and enhance the overall experience for our stakeholders. our stakeholders.",
+      "text": "We are writing to inform you of an important update regarding the collection of We are writing to inform you of an important update regarding the collection of AIA receipts. As part of our ongoing efforts to enhance efficiency and streamline AIA receipts. As part of our ongoing efforts to enhance efficiency and streamline our processes, we are introducing a new method for receiving AIA receipts. our processes, we are introducing a new method for receiving AIA receipts. Effective immediately, AIA receipts should no longer be deposited into the Effective immediately, AIA receipts should no longer be deposited into the Kenya Rural Roads Authority (KeRRA) bank account. Instead, all receipts must be Kenya Rural Roads Authority (KeRRA) bank account. Instead, all receipts must be submitted through the E-Citizen platform. This change aims to improve submitted through the E-Citizen platform. This change aims to improve transparency, reduce processing times, and enhance the overall experience for transparency, reduce processing times, and enhance the overall experience for our stakeholders. our stakeholders."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 404.0,
+            "t": 547.5,
+            "r": 439.0,
+            "b": 535.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 386.6666666666667,
+            "t": 487.8333333333333,
+            "r": 457.3333333333333,
+            "b": 478.8333333333333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 411.7225231407135,
+            "t": 565.1374745719797,
+            "r": 441.6108101926198,
+            "b": 546.8625254280203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "ROADS_",
+      "text": "ROADS_"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 379.19638946001413,
+            "t": 551.9010574973812,
+            "r": 413.13694387331924,
+            "b": 543.7656091692854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 469.119054465873,
+            "r": 628.19444700023,
+            "b": 454.3100242221721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "To ensure a smooth transition, please note the following key points: To ensure a smooth transition, please note the following key points:",
+      "text": "To ensure a smooth transition, please note the following key points: To ensure a smooth transition, please note the following key points:"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 425.619056278373,
+            "r": 776.0952453626966,
+            "b": 367.31002784717214,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "1. E-Citizen Platform: All AIA receipts must be uploaded and processed through the E1. E-Citizen Platform: All AIA receipts must be uploaded and processed through the ECitizen platform. This platform provides a secure and efficient way to manage your Citizen platform. This platform provides a secure and efficient way to manage your submissions. submissions.",
+      "text": "1. E-Citizen Platform: All AIA receipts must be uploaded and processed through the E1. E-Citizen Platform: All AIA receipts must be uploaded and processed through the ECitizen platform. This platform provides a secure and efficient way to manage your Citizen platform. This platform provides a secure and efficient way to manage your submissions. submissions."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 360.369058997123,
+            "r": 762.2904697878953,
+            "b": 302.06003056592215,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "2. Discontinuation of Bank Deposits: The KeRRA bank account will no longer accept 2. Discontinuation of Bank Deposits: The KeRRA bank account will no longer accept AIA receipts. Any receipts deposited into the bank account after this notice will not AIA receipts. Any receipts deposited into the bank account after this notice will not be processed. be processed.",
+      "text": "2. Discontinuation of Bank Deposits: The KeRRA bank account will no longer accept 2. Discontinuation of Bank Deposits: The KeRRA bank account will no longer accept AIA receipts. Any receipts deposited into the bank account after this notice will not AIA receipts. Any receipts deposited into the bank account after this notice will not be processed. be processed."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 295.119061715873,
+            "r": 761.4589880225404,
+            "b": 236.8100332846721,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            418
+          ]
+        }
+      ],
+      "orig": "3. Support and Assistance: If you encounter any difficulties or have questions about 3. Support and Assistance: If you encounter any difficulties or have questions about the new process, please do not hesitate to contact our support team via; the new process, please do not hesitate to contact our support team via; dg@kerra.go.ke dg@kerra.go.ke, , helpdesk@kerra.go.ke helpdesk@kerra.go.ke or Telephone: or Telephone:",
+      "text": "3. Support and Assistance: If you encounter any difficulties or have questions about 3. Support and Assistance: If you encounter any difficulties or have questions about the new process, please do not hesitate to contact our support team via; the new process, please do not hesitate to contact our support team via; dg@kerra.go.ke dg@kerra.go.ke, , helpdesk@kerra.go.ke helpdesk@kerra.go.ke or Telephone: or Telephone:"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 208.11906534087302,
+            "r": 783.1016646707624,
+            "b": 171.56003600342206,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "0711851103 We are committed to providing assistance and ensuring that this transition 0711851103 We are committed to providing assistance and ensuring that this transition is as seamless as possible. is as seamless as possible.",
+      "text": "0711851103 We are committed to providing assistance and ensuring that this transition 0711851103 We are committed to providing assistance and ensuring that this transition is as seamless as possible. is as seamless as possible."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 164.61906715337295,
+            "r": 748.341659269096,
+            "b": 106.31003872217212,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "We appreciate your understanding and cooperation in implementing this change. We appreciate your understanding and cooperation in implementing this change. Your support is invaluable to us, and we look forward to continuing to serve you Your support is invaluable to us, and we look forward to continuing to serve you effectively. effectively.",
+      "text": "We appreciate your understanding and cooperation in implementing this change. We appreciate your understanding and cooperation in implementing this change. Your support is invaluable to us, and we look forward to continuing to serve you Your support is invaluable to us, and we look forward to continuing to serve you effectively. effectively."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.5275551196851,
+            "t": 77.61907077837304,
+            "r": 423.65154784785125,
+            "b": 62.81004053467211,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Thank you for your attention to this matter. Thank you for your attention to this matter.",
+      "text": "Thank you for your attention to this matter. Thank you for your attention to this matter."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 284.85379573109134,
+            "t": 468.36625969723946,
+            "r": 558.5615085516027,
+            "b": 433.48072358386133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS USSD PAYMENT INSTRUCTIONS FOR ACCESS ROAD APPLICATIONS FOR ACCESS ROAD APPLICATIONS",
+      "text": "USSD PAYMENT INSTRUCTIONS USSD PAYMENT INSTRUCTIONS FOR ACCESS ROAD APPLICATIONS FOR ACCESS ROAD APPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 255.41629695765383,
+            "t": 405.36626232223944,
+            "r": 587.9988802000456,
+            "b": 286.48072970886136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            465
+          ]
+        }
+      ],
+      "orig": "73. Dial *222# on your phone. 73. Dial *222# on your phone. 74. Select OPTION 1 'Make Payment'. 74. Select OPTION 1 'Make Payment'. 75. Select OPTION 2 'Enter Service Code', 75. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for then proceed to enter the service code for the service. The service code is ACCRA the service. The service code is ACCRA 76. Provide the reference number (Client's 76. Provide the reference number (Client's",
+      "text": "73. Dial *222# on your phone. 73. Dial *222# on your phone. 74. Select OPTION 1 'Make Payment'. 74. Select OPTION 1 'Make Payment'. 75. Select OPTION 2 'Enter Service Code', 75. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for then proceed to enter the service code for the service. The service code is ACCRA the service. The service code is ACCRA 76. Provide the reference number (Client's 76. Provide the reference number (Client's"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 251.17410963441165,
+            "t": 279.36626757223945,
+            "r": 592.2317100736777,
+            "b": 97.48073758386136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            609
+          ]
+        }
+      ],
+      "orig": "Name or ID Number & Region) Name or ID Number & Region) 77. Specify the amount you wish to pay. 77. Specify the amount you wish to pay. 78. Review the payment details to confirm. 78. Review the payment details to confirm. 79. Complete the payment: If using MPESA, 79. Complete the payment: If using MPESA, enter your MPESA pin. enter your MPESA pin. 80. For other methods, click the checkout 80. For other methods, click the checkout link link sent via SMS and follow the instructions. sent via SMS and follow the instructions. 81. Receive a confirmation notification. 81. Receive a confirmation notification.",
+      "text": "Name or ID Number & Region) Name or ID Number & Region) 77. Specify the amount you wish to pay. 77. Specify the amount you wish to pay. 78. Review the payment details to confirm. 78. Review the payment details to confirm. 79. Complete the payment: If using MPESA, 79. Complete the payment: If using MPESA, enter your MPESA pin. enter your MPESA pin. 80. For other methods, click the checkout 80. For other methods, click the checkout link link sent via SMS and follow the instructions. sent via SMS and follow the instructions. 81. Receive a confirmation notification. 81. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 297.6191184492029,
+            "t": 468.36625969723946,
+            "r": 545.118891236712,
+            "b": 413.14363803123996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR ROADSIDE DEVELOPMENT APPLICATIONS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR ROADSIDE DEVELOPMENT APPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 241.63865203172242,
+            "t": 384.36626319723945,
+            "r": 601.098287704237,
+            "b": 98.14365115623997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            537
+          ]
+        }
+      ],
+      "orig": "64. Dial *222# on your phone. 65. Select OPTION 1 'Make Payment'. 66. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is RDSDA 67. Provide the reference number (Client's Name or ID Number & Region) 68. Specify the amount you wish to pay. 69. Review the payment details to confirm. 70. Complete the payment: If using MPESA, enter your MPESA pin. 71. For other methods, click the checkout link sent via SMS and follow the instructions. 72. Receive a confirmation notification.",
+      "text": "64. Dial *222# on your phone. 65. Select OPTION 1 'Make Payment'. 66. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is RDSDA 67. Provide the reference number (Client's Name or ID Number & Region) 68. Specify the amount you wish to pay. 69. Review the payment details to confirm. 70. Complete the payment: If using MPESA, enter your MPESA pin. 71. For other methods, click the checkout link sent via SMS and follow the instructions. 72. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/15"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/16"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 237.19923736669801,
+            "t": 468.36625969723946,
+            "r": 605.5388999692113,
+            "b": 413.14363803123996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR ADVERT & SINAGES APPLICATIONS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR ADVERT & SINAGES APPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 240.8789247133777,
+            "t": 384.36626319723945,
+            "r": 601.8685851471414,
+            "b": 98.14365115623997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            536
+          ]
+        }
+      ],
+      "orig": "55. Dial *222# on your phone. 56. Select OPTION 1 'Make Payment'. 57. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is AASA 58. Provide the reference number (Client's Name or ID Number & Region) 59. Specify the amount you wish to pay. 60. Review the payment details to confirm. 61. Complete the payment: If using MPESA, enter your MPESA pin. 62. For other methods, click the checkout link sent via SMS and follow the instructions. 63. Receive a confirmation notification.",
+      "text": "55. Dial *222# on your phone. 56. Select OPTION 1 'Make Payment'. 57. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is AASA 58. Provide the reference number (Client's Name or ID Number & Region) 59. Specify the amount you wish to pay. 60. Review the payment details to confirm. 61. Complete the payment: If using MPESA, enter your MPESA pin. 62. For other methods, click the checkout link sent via SMS and follow the instructions. 63. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/19"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/20"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 280.41592186600275,
+            "t": 457.8662601347395,
+            "r": 560.9606729516377,
+            "b": 423.64363759374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR WATER UTILITY APPLICATIONS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR WATER UTILITY APPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 240.32607978641292,
+            "t": 394.86626275973947,
+            "r": 601.060678805804,
+            "b": 108.64365071874005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            537
+          ]
+        }
+      ],
+      "orig": "46. Dial *222# on your phone. 47. Select OPTION 1 'Make Payment'. 48. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is WRALT 49. Provide the reference number (Client's Name or ID Number & Region) 50. Specify the amount you wish to pay. 51. Review the payment details to confirm. 52. Complete the payment: If using MPESA, enter your MPESA pin. 53. For other methods, click the checkout link sent via SMS and follow the instructions. 54. Receive a confirmation notification.",
+      "text": "46. Dial *222# on your phone. 47. Select OPTION 1 'Make Payment'. 48. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is WRALT 49. Provide the reference number (Client's Name or ID Number & Region) 50. Specify the amount you wish to pay. 51. Review the payment details to confirm. 52. Complete the payment: If using MPESA, enter your MPESA pin. 53. For other methods, click the checkout link sent via SMS and follow the instructions. 54. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/23"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/24"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 292.38181841742374,
+            "t": 465.65222701032417,
+            "r": 551.8515883811828,
+            "b": 431.42960446932466,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR ELECTRICITY APPLICATIONS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR ELECTRICITY APPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 242.54197674408388,
+            "t": 402.65222963532415,
+            "r": 601.7016354540976,
+            "b": 116.42961759432472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "37.Dial *222# on your phone. 38. Select OPTION 1'Make Payment'. 39. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is ELCAP 40. Provide the reference number (Client's Name or ID Number & Region) 41. Specify the amount you wish to pay. 42.Review the payment details to confirm. 43. Complete the payment: If using MPESA, enter your MPESA pin. 44.For other methods, click the checkout link sent via SMS and follow the instructions. 45. Receive a confirmation notification.",
+      "text": "37.Dial *222# on your phone. 38. Select OPTION 1'Make Payment'. 39. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is ELCAP 40. Provide the reference number (Client's Name or ID Number & Region) 41. Specify the amount you wish to pay. 42.Review the payment details to confirm. 43. Complete the payment: If using MPESA, enter your MPESA pin. 44.For other methods, click the checkout link sent via SMS and follow the instructions. 45. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/26"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/26"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/27"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/28"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 288.3857248339276,
+            "t": 466.25197738533456,
+            "r": 555.8654436889387,
+            "b": 411.02935571933506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR TELECOMMUNICATION LINES APPLICATION",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR TELECOMMUNICATION LINES APPLICATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 234.87791456341984,
+            "t": 382.25198088533455,
+            "r": 609.3675871846829,
+            "b": 243.02936271933504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "28.Dial *222# on your phone. 29. Select OPTION 1'Make Payment'. 30. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is TLLPP 31. Provide the reference number(Client's Name or ID Number & Region)",
+      "text": "28.Dial *222# on your phone. 29. Select OPTION 1'Make Payment'. 30. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is TLLPP 31. Provide the reference number(Client's Name or ID Number & Region)"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 253.89744502093936,
+            "t": 235.25198701033452,
+            "r": 590.347053527205,
+            "b": 201.02936446933506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "32. Specify the amount you wish to pay. 33. Review the payment details to confirm.",
+      "text": "Specify the amount you wish to pay. 33. Review the payment details to confirm.",
+      "enumerated": true,
+      "marker": "32."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 251.495101371037,
+            "t": 193.25198876033448,
+            "r": 592.7447967522992,
+            "b": 159.0293662193351,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "34. Complete the payment: If using MPESA, enter your MPESA pin.",
+      "text": "Complete the payment: If using MPESA, enter your MPESA pin.",
+      "enumerated": true,
+      "marker": "34."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 242.07322676361514,
+            "t": 151.2519905103345,
+            "r": 602.1629239848772,
+            "b": 117.02936796933511,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "35. For other methods, click the checkout link sent via SMS and follow the instructions.",
+      "text": "35. For other methods, click the checkout link sent via SMS and follow the instructions."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 267.42088195746277,
+            "t": 109.25199226033459,
+            "r": 576.8255845905996,
+            "b": 96.02936884433507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "36. Receive a confirmation notification.",
+      "text": "36. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/31"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/32"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 234.00967379959653,
+            "t": 466.25197738533456,
+            "r": 607.3682421429887,
+            "b": 411.02935571933506,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR DISPOSAL OF FIXED ASSETS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR DISPOSAL OF FIXED ASSETS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 240.20889229129574,
+            "t": 382.25198088533455,
+            "r": 601.1685693013087,
+            "b": 96.02936884433507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            536
+          ]
+        }
+      ],
+      "orig": "19.  Dial *222# on your phone. 20. Select OPTION 1'Make Payment'. 21. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is KERDFA 22.Provide the reference number (Client's Name or ID Number & Region) 23. Specify the amount you wish to pay. 24. Review the payment details to confirm. 25.Complete the payment: If using MPESA, enter your MPESA pin. 26. For other methods, click the checkout link sent via SMS and follow the instructions. 27. Receive a confirmation notification.",
+      "text": "19.  Dial *222# on your phone. 20. Select OPTION 1'Make Payment'. 21. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is KERDFA 22.Provide the reference number (Client's Name or ID Number & Region) 23. Specify the amount you wish to pay. 24. Review the payment details to confirm. 25.Complete the payment: If using MPESA, enter your MPESA pin. 26. For other methods, click the checkout link sent via SMS and follow the instructions. 27. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/35"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/36"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 237.64353944818544,
+            "t": 468.36625969723946,
+            "r": 606.6071101497026,
+            "b": 434.14363715623995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR SALES OF TENDERS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR SALES OF TENDERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 234.81932081586123,
+            "t": 405.36626232223944,
+            "r": 609.4140043077488,
+            "b": 119.14365028124001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            532
+          ]
+        }
+      ],
+      "orig": "10.Dial *222# on your phone. 11. Select OPTION 1'Make Payment'. 12. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is SATND 13.Provide the reference number (Client's Name or ID Number & Region) 14.Specify the amount you wish to pay. 15. Review the payment details to confirm. 16.Complete the payment: If using MPESA, enter your MPESA pin. 17. For other methods, click the checkout link sent via SMS and follow the instructions. 18. Receive a confirmation notification.",
+      "text": "10.Dial *222# on your phone. 11. Select OPTION 1'Make Payment'. 12. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is SATND 13.Provide the reference number (Client's Name or ID Number & Region) 14.Specify the amount you wish to pay. 15. Review the payment details to confirm. 16.Complete the payment: If using MPESA, enter your MPESA pin. 17. For other methods, click the checkout link sent via SMS and follow the instructions. 18. Receive a confirmation notification."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/39"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/40"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 129.21484411604794,
+            "t": 50.617330598445506,
+            "r": 200.80898933830844,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "@KeRRA_Ke",
+      "text": "@KeRRA_Ke"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 407.3333333333333,
+            "t": 568.8333333333334,
+            "r": 435.3333333333333,
+            "b": 560.1666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KeRRA",
+      "text": "KeRRA"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 391.6666666666667,
+            "t": 520.1666666666666,
+            "r": 451.3333333333333,
+            "b": 511.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Opening up Rural Kenya",
+      "text": "Opening up Rural Kenya"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 412.74550670072034,
+            "t": 583.800407870596,
+            "r": 437.92115996594634,
+            "b": 569.199592129404,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ROADS",
+      "text": "ROADS"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 385.8986790889075,
+            "t": 573.239502691165,
+            "r": 415.1013209110925,
+            "b": 566.0938306421683,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "RURAL",
+      "text": "RURAL"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 297.2787176133862,
+            "t": 457.8662601347395,
+            "r": 544.0884844296454,
+            "b": 423.64363759374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "USSD PAYMENT INSTRUCTIONS FOR KERRA RENTALS",
+      "text": "USSD PAYMENT INSTRUCTIONS FOR KERRA RENTALS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 233.32950152793703,
+            "t": 394.86626275973947,
+            "r": 608.0441649148254,
+            "b": 255.64364459373996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            246
+          ]
+        }
+      ],
+      "orig": "1. Dial *222# on your phone. 2. Select OPTION 1 'Make Payment'. 3. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is KRRT 4. Provide the reference number (Client's Name or ID Number)",
+      "text": "1. Dial *222# on your phone. 2. Select OPTION 1 'Make Payment'. 3. Select OPTION 2 'Enter Service Code', then proceed to enter the service code for the service. The service code is KRRT 4. Provide the reference number (Client's Name or ID Number)"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 256.45059431455815,
+            "t": 247.8662688847395,
+            "r": 584.9202380283224,
+            "b": 213.64364634374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "5. Specify the amount you wish to pay. 6. Review the payment details to confirm.",
+      "text": "Specify the amount you wish to pay. 6. Review the payment details to confirm.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 255.53653185264406,
+            "t": 205.86627063473952,
+            "r": 585.8362003151574,
+            "b": 171.64364809374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "7. Complete the payment: If using MPESA, enter your MPESA pin.",
+      "text": "Complete the payment: If using MPESA, enter your MPESA pin.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 244.45059481455812,
+            "t": 163.86627238473943,
+            "r": 596.9352813276957,
+            "b": 108.64365071874005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "8. For other methods, click the checkout link sent via SMS and follow the instructions. 9. Receive a confirmation notification.",
+      "text": "For other methods, click the checkout link sent via SMS and follow the instructions. 9. Receive a confirmation notification.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/43"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 632.5324431444803,
+            "t": 50.617330598445506,
+            "r": 731.6071246717185,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.kerra.go.ke",
+      "text": "www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 370.48454596314326,
+            "t": 50.617330598445506,
+            "r": 536.7546284705229,
+            "b": 40.92514776674409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Kenya Rural Roads Authority",
+      "text": "Kenya Rural Roads Authority"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 274.8904275962317,
+            "t": 25.071047767874006,
+            "r": 520.8788267717146,
+            "b": 14.492949035074389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "CONNECTING DEVOLVED KENYA",
+      "text": "CONNECTING DEVOLVED KENYA"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 364.1773376464844,
+            "t": 572.6886444091797,
+            "r": 476.2261047363281,
+            "b": 485.9033432006836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 95.04360961914062,
+            "t": 61.7825927734375,
+            "r": 200.97743225097656,
+            "b": 32.59356689453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 273.78192138671875,
+            "t": 61.03289794921875,
+            "r": 538.4003295898438,
+            "b": 12.8525390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 595.6491088867188,
+            "t": 60.55999755859375,
+            "r": 733.1617431640625,
+            "b": 32.6519775390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 364.4253234863281,
+            "t": 563.826530456543,
+            "r": 476.6436462402344,
+            "b": 477.05198669433594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 95.05443572998047,
+            "t": 61.25262451171875,
+            "r": 201.13418579101562,
+            "b": 32.9019775390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 334.2200927734375,
+            "t": 60.4703369140625,
+            "r": 363.6922607421875,
+            "b": 32.87298583984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 595.8021240234375,
+            "t": 59.7667236328125,
+            "r": 732.41943359375,
+            "b": 32.85015869140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 95.09837341308594,
+            "t": 61.63531494140625,
+            "r": 201.39793395996094,
+            "b": 32.7882080078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 373.653076171875,
+            "t": 583.4910316467285,
+            "r": 466.98284912109375,
+            "b": 510.7479782104492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 334.7333679199219,
+            "t": 60.82623291015625,
+            "r": 363.9215393066406,
+            "b": 32.83099365234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 595.6019897460938,
+            "t": 59.87872314453125,
+            "r": 732.6910400390625,
+            "b": 32.79364013671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.07158660888672,
+            "t": 61.62933349609375,
+            "r": 201.46273803710938,
+            "b": 32.7740478515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 373.7826232910156,
+            "t": 583.4471416473389,
+            "r": 467.0233459472656,
+            "b": 510.8144989013672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 334.7673034667969,
+            "t": 60.81298828125,
+            "r": 364.0912780761719,
+            "b": 32.81768798828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 595.4410400390625,
+            "t": 59.89471435546875,
+            "r": 732.7402954101562,
+            "b": 32.62249755859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 95.0902099609375,
+            "t": 61.58648681640625,
+            "r": 201.37606811523438,
+            "b": 32.80108642578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 373.85345458984375,
+            "t": 583.4028539657593,
+            "r": 467.0518493652344,
+            "b": 510.8566207885742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 334.827880859375,
+            "t": 60.78515625,
+            "r": 364.0577392578125,
+            "b": 32.8538818359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 595.4969482421875,
+            "t": 59.84613037109375,
+            "r": 732.7037353515625,
+            "b": 32.68310546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 95.00933074951172,
+            "t": 61.65777587890625,
+            "r": 201.49732971191406,
+            "b": 32.75445556640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 373.6515197753906,
+            "t": 583.4598903656006,
+            "r": 467.01800537109375,
+            "b": 510.7422637939453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 334.711669921875,
+            "t": 60.7864990234375,
+            "r": 364.08282470703125,
+            "b": 32.81317138671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 595.393310546875,
+            "t": 59.96417236328125,
+            "r": 732.7889404296875,
+            "b": 32.580322265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 94.99603271484375,
+            "t": 61.676513671875,
+            "r": 201.47398376464844,
+            "b": 32.7476806640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 373.6892395019531,
+            "t": 583.5101146697998,
+            "r": 467.0647888183594,
+            "b": 510.73462677001953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 273.3939208984375,
+            "t": 60.92413330078125,
+            "r": 538.5635375976562,
+            "b": 14.8717041015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 595.3430786132812,
+            "t": 60.0318603515625,
+            "r": 732.8385009765625,
+            "b": 32.59295654296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 95.16423034667969,
+            "t": 61.59906005859375,
+            "r": 201.47244262695312,
+            "b": 32.79718017578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 373.8506774902344,
+            "t": 583.4127712249756,
+            "r": 467.1490173339844,
+            "b": 510.8499450683594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 334.8403625488281,
+            "t": 60.8040771484375,
+            "r": 364.1387939453125,
+            "b": 32.82781982421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 595.4912719726562,
+            "t": 59.858642578125,
+            "r": 732.773193359375,
+            "b": 32.62548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/92"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 95.06283569335938,
+            "t": 61.57806396484375,
+            "r": 201.36204528808594,
+            "b": 32.80401611328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 373.72161865234375,
+            "t": 583.3961324691772,
+            "r": 466.964111328125,
+            "b": 510.83919525146484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 334.76214599609375,
+            "t": 60.78936767578125,
+            "r": 364.0231018066406,
+            "b": 32.83551025390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/99"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 595.4686279296875,
+            "t": 59.83392333984375,
+            "r": 732.7344970703125,
+            "b": 32.676513671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 95.10124206542969,
+            "t": 61.6044921875,
+            "r": 201.406494140625,
+            "b": 32.809814453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 373.72515869140625,
+            "t": 583.4421348571777,
+            "r": 467.00421142578125,
+            "b": 510.8178024291992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 334.8438415527344,
+            "t": 60.71929931640625,
+            "r": 364.0011901855469,
+            "b": 32.91259765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 595.5443725585938,
+            "t": 59.88555908203125,
+            "r": 732.7852172851562,
+            "b": 32.6895751953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/112"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 95.05032348632812,
+            "t": 61.58837890625,
+            "r": 201.39141845703125,
+            "b": 32.8160400390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 373.655029296875,
+            "t": 583.4129400253296,
+            "r": 466.9897155761719,
+            "b": 510.8079605102539,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 334.7522277832031,
+            "t": 60.7222900390625,
+            "r": 363.95794677734375,
+            "b": 32.8931884765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 595.4957885742188,
+            "t": 59.85943603515625,
+            "r": 732.7144165039062,
+            "b": 32.67926025390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.5
+      },
+      "page_no": 11
+    }
+  }
+}

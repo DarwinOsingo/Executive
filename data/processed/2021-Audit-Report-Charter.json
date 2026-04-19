@@ -1,0 +1,5932 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2021-Audit-Report-Charter",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 3527796510090838799,
+    "filename": "2021-Audit-Report-Charter.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/20"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 514.3333333333334,
+            "t": 792.3333333333334,
+            "r": 535.6666666666666,
+            "b": 785.6666666666666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "KuRRA",
+      "text": "KuRRA"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 518.782672877787,
+            "t": 802.6302486544175,
+            "r": 536.8839937888796,
+            "b": 791.7030846789158,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "aoads_",
+      "text": "aoads_"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 498.2194530711667,
+            "t": 795.105572809,
+            "r": 520.1138802621666,
+            "b": 790.2277605243332,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Rural",
+      "text": "Rural"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 89.66666666666667,
+            "t": 787.6666666666666,
+            "r": 487.0,
+            "b": 759.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "KENYA RURAL ROADS AUTHORITY",
+      "text": "KENYA RURAL ROADS AUTHORITY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 231.0,
+            "t": 755.0,
+            "r": 303.6666666666667,
+            "b": 733.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "(KeRRA)",
+      "text": "(KeRRA)"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 95.66666666666667,
+            "t": 721.0,
+            "r": 519.0,
+            "b": 690.3333333333334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "CITIZEN'S SERVICE DELIVERY CHARTER",
+      "text": "CITIZEN'S SERVICE DELIVERY CHARTER",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.0,
+            "t": 191.66666666666663,
+            "r": 478.3333333333333,
+            "b": 179.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "WE ARE COMMITTED TO COURTESY AND EXCELLENCE IN SERVICE DELIVERY",
+      "text": "WE ARE COMMITTED TO COURTESY AND EXCELLENCE IN SERVICE DELIVERY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.660675600960474,
+            "t": 178.28943271635023,
+            "r": 540.3333333333334,
+            "b": 149.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "servicelgood rendered that does not conform to the above standards or any officer who does not live up to commitment to courtesy and excellence in Service Delivery should be reported to: Any",
+      "text": "servicelgood rendered that does not conform to the above standards or any officer who does not live up to commitment to courtesy and excellence in Service Delivery should be reported to: Any"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.0,
+            "t": 135.0,
+            "r": 163.0,
+            "b": 123.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "THE DIRECTOR GENERAL",
+      "text": "THE DIRECTOR GENERAL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.333333333333332,
+            "t": 117.66666666666663,
+            "r": 206.0,
+            "b": 105.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "P.0. Box 48151 00100 Nairobi, Kenya.",
+      "text": "P.0. Box 48151 00100 Nairobi, Kenya."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.333333333333332,
+            "t": 105.66666666666663,
+            "r": 102.33333333333333,
+            "b": 93.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Telephone: 020",
+      "text": "Telephone: 020"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 107.33333333333333,
+            "t": 105.33333333333337,
+            "r": 176.66666666666666,
+            "b": 94.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "7807600/01-05",
+      "text": "7807600/01-05"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.666666666666668,
+            "t": 93.33333333333337,
+            "r": 91.33333333333333,
+            "b": 83.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "0711 851 103",
+      "text": "0711 851 103"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.0,
+            "t": 83.0,
+            "r": 133.33333333333334,
+            "b": 71.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Email: dg@kerra. go.ke",
+      "text": "Email: dg@kerra. go.ke"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.333333333333332,
+            "t": 70.66666666666663,
+            "r": 150.66666666666666,
+            "b": 59.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Website: www.kerra.go.ke",
+      "text": "Website: www.kerra.go.ke"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 322.3333333333333,
+            "t": 135.66666666666663,
+            "r": 548.0,
+            "b": 123.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "The Commission Secretary/Chief Executive Officer,",
+      "text": "The Commission Secretary/Chief Executive Officer,"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.0,
+            "t": 123.33333333333337,
+            "r": 547.6666666666666,
+            "b": 111.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Commission on Administrative Justice, 2nd Floor,",
+      "text": "Commission on Administrative Justice, 2nd Floor,"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 367.6666666666667,
+            "t": 110.66666666666663,
+            "r": 548.6666666666666,
+            "b": 98.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "West End Towers, Waiyaki Nairobi. Way,",
+      "text": "West End Towers, Waiyaki Nairobi. Way,"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 408.0,
+            "t": 97.33333333333337,
+            "r": 548.6666666666666,
+            "b": 87.33333333333337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "P.0. Box 20414 00200 Nairobi.",
+      "text": "P.0. Box 20414 00200 Nairobi."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 392.6666666666667,
+            "t": 84.66666666666663,
+            "r": 550.6666666666666,
+            "b": 74.0,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Tel: +254 (0) 20 2270000 / 2303000",
+      "text": "Tel: +254 (0) 20 2270000 / 2303000"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 140.33333333333334,
+            "t": 43.0,
+            "r": 455.0,
+            "b": 21.66666666666663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "HUDUMA BORA NI HAKI YAKO",
+      "text": "HUDUMA BORA NI HAKI YAKO"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 22.136978149414062,
+            "t": 806.3968353271484,
+            "r": 82.53450775146484,
+            "b": 741.7783737182617,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 491.0435791015625,
+            "t": 804.6262168884277,
+            "r": 558.7214965820312,
+            "b": 749.4254608154297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.57118797302246,
+            "t": 679.3107757568359,
+            "r": 545.6087646484375,
+            "b": 195.94744873046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 68.0,
+              "t": 166.0,
+              "r": 126.66666666666667,
+              "b": 176.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Service/ Good",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 160.66666666666666,
+              "t": 165.33333333333334,
+              "r": 260.0,
+              "b": 187.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Requirements to Obtain Service/ Good",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 307.0,
+              "t": 166.66666666666666,
+              "r": 364.6666666666667,
+              "b": 197.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Cost of Service/ Good (if any)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 438.0,
+              "t": 166.66666666666666,
+              "r": 475.3333333333333,
+              "b": 176.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 6,
+            "text": "Timeline",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.33333333333333,
+              "t": 194.0,
+              "r": 139.33333333333334,
+              "b": 204.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Attending to customers",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 200.33333333333334,
+              "t": 195.33333333333334,
+              "r": 260.6666666666667,
+              "b": 204.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Courtesy and clarity",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.6666666666667,
+              "t": 196.0,
+              "r": 484.6666666666667,
+              "b": 204.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 6,
+            "text": "Within 10 Minutes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.0,
+              "t": 204.0,
+              "r": 143.33333333333334,
+              "b": 223.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 5,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Complaints and Inqu ries Responses",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.33333333333334,
+              "t": 205.33333333333334,
+              "r": 283.6666666666667,
+              "b": 231.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 5,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1. Honesty and Integrity 2. Use of appropriate channels including: Physical visits",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 205.33333333333334,
+              "r": 411.3333333333333,
+              "b": 214.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Physical visit",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 506.0,
+              "t": 206.0,
+              "r": 540.6666666666666,
+              "b": 214.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "10 Minutes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.3333333333333,
+              "t": 219.0,
+              "r": 394.3333333333333,
+              "b": 225.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Letters",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 491.3333333333333,
+              "t": 216.66666666666666,
+              "r": 541.0,
+              "b": 228.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "21 working Bays",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 175.33333333333334,
+              "t": 232.0,
+              "r": 208.66666666666666,
+              "b": 240.66666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Telephone",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.6666666666667,
+              "t": 231.33333333333334,
+              "r": 392.6666666666667,
+              "b": 239.33333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "e mail",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 498.0,
+              "t": 230.0,
+              "r": 541.0,
+              "b": 241.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Working Days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 175.33333333333334,
+              "t": 241.33333333333334,
+              "r": 228.0,
+              "b": 259.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Letter or email Suggestion boxes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 243.66666666666666,
+              "r": 420.0,
+              "b": 253.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Field Inspection",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 491.3333333333333,
+              "t": 243.7333210604636,
+              "r": 540.6923124126422,
+              "b": 254.2666789395364,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "10 working days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.6666666666667,
+              "t": 257.0,
+              "r": 406.6666666666667,
+              "b": 266.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Emergency",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 471.3333333333333,
+              "t": 257.3333333333333,
+              "r": 541.3333333333334,
+              "b": 275.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "48 hours (Maximum of 14 Days)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.0,
+              "t": 274.6666666666667,
+              "r": 149.33333333333334,
+              "b": 291.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Procurement of Goods and Services",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.33333333333334,
+              "t": 274.0,
+              "r": 293.3333333333333,
+              "b": 319.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Ensure prequalificat on where applicable 2. Purchase/Download bid documents 3. Compliance with contract provisions Provide timely and adequate feedback 5 Adhere to applicable_laws and regulations",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 315.3333333333333,
+              "t": 275.3333333333333,
+              "r": 356.6666666666667,
+              "b": 283.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "As Advertised",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 274.6666666666667,
+              "r": 540.0,
+              "b": 292.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 6,
+            "text": "As per the Public Procurement & Asset Disposal Act 2015 and supporting legislation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.33333333333333,
+              "t": 317.3333333333333,
+              "r": 125.66666666666667,
+              "b": 337.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 4,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Road Planning and Development",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.0,
+              "t": 318.0,
+              "r": 355.3333333333333,
+              "b": 336.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 4,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Meeting Tax Obligations",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.6666666666667,
+              "t": 319.0,
+              "r": 426.6666666666667,
+              "b": 328.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Strategic Planning",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 518.0,
+              "t": 320.0,
+              "r": 541.3333333333334,
+              "b": 328.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "5 Years",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.0,
+              "t": 328.0,
+              "r": 207.33333333333334,
+              "b": 344.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 4,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2, Cooperation Feedback",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 329.6666666666667,
+              "r": 422.0,
+              "b": 339.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Annual Plannlng",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 476.0,
+              "t": 330.6666666666667,
+              "r": 540.6666666666666,
+              "b": 338.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "6 Months to Year End",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 341.3333333333333,
+              "r": 410.6666666666667,
+              "b": 350.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Road Design",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 512.0,
+              "t": 341.3333333333333,
+              "r": 540.6666666666666,
+              "b": 349.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "6 Months",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.3333333333333,
+              "t": 350.6666666666667,
+              "r": 446.0,
+              "b": 361.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Monitoring & Evaluation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 506.0,
+              "t": 352.6666666666667,
+              "r": 540.6666666666666,
+              "b": 361.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Bi-Annually",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.66666666666667,
+              "t": 361.6666666666667,
+              "r": 135.33333333333334,
+              "b": 370.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Constructlon of Roads",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.66666666666666,
+              "t": 362.0,
+              "r": 285.3333333333333,
+              "b": 387.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1, Public Participation via formal channels 2, Cooperation Feedback",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 317.0,
+              "t": 362.0,
+              "r": 355.3333333333333,
+              "b": 380.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Meeting Tax Obligations",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 362.3333333333333,
+              "r": 446.0,
+              "b": 371.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "New Roads Constructlo 1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 493.3333333333333,
+              "t": 363.3333333333333,
+              "r": 540.6666666666666,
+              "b": 372.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "As per Contract",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.6666666666667,
+              "t": 377.6666666666667,
+              "r": 427.3333333333333,
+              "b": 387.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Emergency Work",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 516.0,
+              "t": 378.0,
+              "r": 541.3333333333334,
+              "b": 387.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "60 Day;",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 392.6666666666667,
+              "r": 439.3333333333333,
+              "b": 409.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Public Notice for Roud Works",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 493.3333333333333,
+              "t": 392.3333333333333,
+              "r": 540.0380573430208,
+              "b": 402.59514335755193,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "3 Working Days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 69.33333333333333,
+              "t": 410.6666666666667,
+              "r": 136.66666666666666,
+              "b": 418.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 4,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 19,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Maintenance of Roads",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.33333333333334,
+              "t": 410.0,
+              "r": 285.3333333333333,
+              "b": 436.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 4,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 19,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1, Public Partlcipation via formal channels 2, Cooperation 3. Feedback",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 307.3333333333333,
+              "t": 411.3333333333333,
+              "r": 346.0,
+              "b": 428.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 4,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 19,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Meeting Tax Obl gations",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 410.6666666666667,
+              "r": 442.6666666666667,
+              "b": 419.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Annual Road Work Plan",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 476.0,
+              "t": 411.3333333333333,
+              "r": 540.0,
+              "b": 419.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "6 Months to Year End",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 419.3333333333333,
+              "r": 442.0,
+              "b": 428.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 16,
+            "end_row_offset_idx": 17,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Rehabilitation of Roads",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 493.3333333333333,
+              "t": 420.0,
+              "r": 540.6666666666666,
+              "b": 429.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 16,
+            "end_row_offset_idx": 17,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "As per Contract",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 429.3333333333333,
+              "r": 437.3333333333333,
+              "b": 437.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 17,
+            "end_row_offset_idx": 18,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Routine Maintenance",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 518.0,
+              "t": 430.0,
+              "r": 541.3333333333334,
+              "b": 438.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 17,
+            "end_row_offset_idx": 18,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Annual",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.6666666666667,
+              "t": 438.6666666666667,
+              "r": 436.6666666666667,
+              "b": 456.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 18,
+            "end_row_offset_idx": 19,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Approval of Roadside Development",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 489.3333333333333,
+              "t": 437.3333333333333,
+              "r": 541.0,
+              "b": 448.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 18,
+            "end_row_offset_idx": 19,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "30 Workíng Days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.0,
+              "t": 455.6666666666667,
+              "r": 139.33333333333334,
+              "b": 472.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 19,
+            "end_row_offset_idx": 22,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Payment for Goods and Services",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.0,
+              "t": 454.6666666666667,
+              "r": 298.6666666666667,
+              "b": 501.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 19,
+            "end_row_offset_idx": 22,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Timely availing of relevant documents such as; Bank Details as per KeRRA Form ({BD 1) Local Service/Purchase Order Invoices Delivery Notes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.3333333333333,
+              "t": 456.6666666666667,
+              "r": 344.6666666666667,
+              "b": 464.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 19,
+            "end_row_offset_idx": 22,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "None",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 456.6666666666667,
+              "r": 409.3333333333333,
+              "b": 464.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 19,
+            "end_row_offset_idx": 20,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Road Works",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 482.0,
+              "t": 456.6666666666667,
+              "r": 540.6666666666666,
+              "b": 465.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 19,
+            "end_row_offset_idx": 20,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "As per the Contract",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.6666666666667,
+              "t": 465.3333333333333,
+              "r": 435.3333333333333,
+              "b": 474.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 20,
+            "end_row_offset_idx": 21,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Consultancy Services",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 482.0,
+              "t": 466.6666666666667,
+              "r": 540.6666666666666,
+              "b": 475.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 20,
+            "end_row_offset_idx": 21,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "As per the Contract",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 484.3333333333333,
+              "r": 449.3333333333333,
+              "b": 493.6666666666667,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 21,
+            "end_row_offset_idx": 22,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Goods and Other Services",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 495.3333333333333,
+              "t": 484.6666666666667,
+              "r": 541.0,
+              "b": 494.3333333333333,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 21,
+            "end_row_offset_idx": 22,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Within 30 days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.33333333333334,
+              "t": 502.0,
+              "r": 300.0,
+              "b": 537.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 22,
+            "end_row_offset_idx": 23,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Duly signed payment certificates Measurement Records 1. Letter of Application 2. Requirements in response to Advertisement",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.66666666666667,
+              "t": 520.0,
+              "r": 107.33333333333333,
+              "b": 528.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 22,
+            "end_row_offset_idx": 23,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Recrultment",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.3333333333333,
+              "t": 520.0,
+              "r": 345.3333333333333,
+              "b": 528.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 22,
+            "end_row_offset_idx": 23,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "None",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.6666666666667,
+              "t": 520.0,
+              "r": 402.6666666666667,
+              "b": 528.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 22,
+            "end_row_offset_idx": 23,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 6,
+            "text": "3 Months",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.66666666666667,
+              "t": 536.6666666666666,
+              "r": 135.33333333333334,
+              "b": 546.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 23,
+            "end_row_offset_idx": 24,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Industrial Attachment",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.33333333333334,
+              "t": 537.3333333333334,
+              "r": 285.0,
+              "b": 572.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 23,
+            "end_row_offset_idx": 24,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1. Relevant letter from training institution 2. Letter of Application 3. Curriculum Vitae 4. Indemnity Insurance Cover",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.3333333333333,
+              "t": 538.0,
+              "r": 344.6666666666667,
+              "b": 546.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 23,
+            "end_row_offset_idx": 24,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "None",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.6666666666667,
+              "t": 538.0,
+              "r": 402.0,
+              "b": 546.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 23,
+            "end_row_offset_idx": 24,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 6,
+            "text": "3 Months",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 39.666666666666664,
+              "t": 573.6666666666666,
+              "r": 49.0,
+              "b": 580.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 5,
+            "col_span": 1,
+            "start_row_offset_idx": 24,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "10",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 68.66666666666667,
+              "t": 572.3333333333334,
+              "r": 134.66666666666666,
+              "b": 581.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 5,
+            "col_span": 1,
+            "start_row_offset_idx": 24,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Access to Information",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.0,
+              "t": 573.0,
+              "r": 283.6666666666667,
+              "b": 608.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 5,
+            "col_span": 1,
+            "start_row_offset_idx": 24,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Honesty and Integrity prescribed charges 3. Use of appropriate channels including: Physical visits Pay",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 307.0,
+              "t": 572.6666666666666,
+              "r": 356.6666666666667,
+              "b": 607.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 5,
+            "col_span": 1,
+            "start_row_offset_idx": 24,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "As prescribed in the Access Information Act, 2016",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 573.3333333333334,
+              "r": 411.3333333333333,
+              "b": 582.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 24,
+            "end_row_offset_idx": 25,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Physical visit",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 505.3333333333333,
+              "t": 574.0,
+              "r": 540.6666666666666,
+              "b": 582.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 24,
+            "end_row_offset_idx": 25,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "10 Minutes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 586.6666666666666,
+              "r": 394.6666666666667,
+              "b": 594.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 25,
+            "end_row_offset_idx": 26,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Letters",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 491.3333333333333,
+              "t": 587.0,
+              "r": 541.0,
+              "b": 596.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 25,
+            "end_row_offset_idx": 26,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "21 working days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.3333333333333,
+              "t": 596.6666666666666,
+              "r": 392.6666666666667,
+              "b": 604.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 26,
+            "end_row_offset_idx": 27,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "e-mail",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 495.3333333333333,
+              "t": 597.0,
+              "r": 541.0,
+              "b": 606.6666666666666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 26,
+            "end_row_offset_idx": 27,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "3 working days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 175.33333333333334,
+              "t": 608.6666666666666,
+              "r": 208.66666666666666,
+              "b": 618.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 27,
+            "end_row_offset_idx": 28,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Telephone",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 372.0,
+              "t": 606.6666666666666,
+              "r": 422.0,
+              "b": 615.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 27,
+            "end_row_offset_idx": 28,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "FieldInspection",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 491.3333333333333,
+              "t": 605.6666666666666,
+              "r": 540.6666666666666,
+              "b": 616.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 27,
+            "end_row_offset_idx": 28,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "10 working days",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 175.33333333333334,
+              "t": 618.0,
+              "r": 228.0,
+              "b": 636.0,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 28,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Letter or email Suggestion boxes",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 371.6666666666667,
+              "t": 618.3333333333334,
+              "r": 433.3333333333333,
+              "b": 636.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 28,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Exigent Information Requests",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 476.3333333333333,
+              "t": 619.3333333333334,
+              "r": 540.6666666666666,
+              "b": 645.3333333333334,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 28,
+            "end_row_offset_idx": 29,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "48 hours (Extendible once to maximum 14 days)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 29,
+        "num_cols": 6,
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 166.0,
+                "r": 126.66666666666667,
+                "b": 176.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Service/ Good",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 160.66666666666666,
+                "t": 165.33333333333334,
+                "r": 260.0,
+                "b": 187.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Requirements to Obtain Service/ Good",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.0,
+                "t": 166.66666666666666,
+                "r": 364.6666666666667,
+                "b": 197.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Cost of Service/ Good (if any)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 438.0,
+                "t": 166.66666666666666,
+                "r": 475.3333333333333,
+                "b": 176.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "Timeline",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 438.0,
+                "t": 166.66666666666666,
+                "r": 475.3333333333333,
+                "b": 176.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "Timeline",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.33333333333333,
+                "t": 194.0,
+                "r": 139.33333333333334,
+                "b": 204.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Attending to customers",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 200.33333333333334,
+                "t": 195.33333333333334,
+                "r": 260.6666666666667,
+                "b": 204.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Courtesy and clarity",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.6666666666667,
+                "t": 196.0,
+                "r": 484.6666666666667,
+                "b": 204.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "Within 10 Minutes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.6666666666667,
+                "t": 196.0,
+                "r": 484.6666666666667,
+                "b": 204.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "Within 10 Minutes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 204.0,
+                "r": 143.33333333333334,
+                "b": 223.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Complaints and Inqu ries Responses",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 205.33333333333334,
+                "r": 283.6666666666667,
+                "b": 231.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Honesty and Integrity 2. Use of appropriate channels including: Physical visits",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 205.33333333333334,
+                "r": 411.3333333333333,
+                "b": 214.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Physical visit",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 506.0,
+                "t": 206.0,
+                "r": 540.6666666666666,
+                "b": 214.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "10 Minutes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 204.0,
+                "r": 143.33333333333334,
+                "b": 223.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Complaints and Inqu ries Responses",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 205.33333333333334,
+                "r": 283.6666666666667,
+                "b": 231.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Honesty and Integrity 2. Use of appropriate channels including: Physical visits",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.3333333333333,
+                "t": 219.0,
+                "r": 394.3333333333333,
+                "b": 225.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Letters",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 491.3333333333333,
+                "t": 216.66666666666666,
+                "r": 541.0,
+                "b": 228.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "21 working Bays",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 204.0,
+                "r": 143.33333333333334,
+                "b": 223.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Complaints and Inqu ries Responses",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 175.33333333333334,
+                "t": 232.0,
+                "r": 208.66666666666666,
+                "b": 240.66666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Telephone",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.6666666666667,
+                "t": 231.33333333333334,
+                "r": 392.6666666666667,
+                "b": 239.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "e mail",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 498.0,
+                "t": 230.0,
+                "r": 541.0,
+                "b": 241.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Working Days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 204.0,
+                "r": 143.33333333333334,
+                "b": 223.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Complaints and Inqu ries Responses",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 175.33333333333334,
+                "t": 241.33333333333334,
+                "r": 228.0,
+                "b": 259.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Letter or email Suggestion boxes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 243.66666666666666,
+                "r": 420.0,
+                "b": 253.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Field Inspection",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 491.3333333333333,
+                "t": 243.7333210604636,
+                "r": 540.6923124126422,
+                "b": 254.2666789395364,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "10 working days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 204.0,
+                "r": 143.33333333333334,
+                "b": 223.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Complaints and Inqu ries Responses",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 205.33333333333334,
+                "r": 283.6666666666667,
+                "b": 231.33333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Honesty and Integrity 2. Use of appropriate channels including: Physical visits",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.6666666666667,
+                "t": 257.0,
+                "r": 406.6666666666667,
+                "b": 266.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Emergency",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 471.3333333333333,
+                "t": 257.3333333333333,
+                "r": 541.3333333333334,
+                "b": 275.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "48 hours (Maximum of 14 Days)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 274.6666666666667,
+                "r": 149.33333333333334,
+                "b": 291.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Procurement of Goods and Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 274.0,
+                "r": 293.3333333333333,
+                "b": 319.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Ensure prequalificat on where applicable 2. Purchase/Download bid documents 3. Compliance with contract provisions Provide timely and adequate feedback 5 Adhere to applicable_laws and regulations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 315.3333333333333,
+                "t": 275.3333333333333,
+                "r": 356.6666666666667,
+                "b": 283.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "As Advertised",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 274.6666666666667,
+                "r": 540.0,
+                "b": 292.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "As per the Public Procurement & Asset Disposal Act 2015 and supporting legislation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 274.6666666666667,
+                "r": 540.0,
+                "b": 292.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "As per the Public Procurement & Asset Disposal Act 2015 and supporting legislation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.33333333333333,
+                "t": 317.3333333333333,
+                "r": 125.66666666666667,
+                "b": 337.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Road Planning and Development",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 328.0,
+                "r": 207.33333333333334,
+                "b": 344.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 318.0,
+                "r": 355.3333333333333,
+                "b": 336.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.6666666666667,
+                "t": 319.0,
+                "r": 426.6666666666667,
+                "b": 328.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Strategic Planning",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 518.0,
+                "t": 320.0,
+                "r": 541.3333333333334,
+                "b": 328.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "5 Years",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.33333333333333,
+                "t": 317.3333333333333,
+                "r": 125.66666666666667,
+                "b": 337.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Road Planning and Development",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 328.0,
+                "r": 207.33333333333334,
+                "b": 344.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 318.0,
+                "r": 355.3333333333333,
+                "b": 336.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 329.6666666666667,
+                "r": 422.0,
+                "b": 339.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Annual Plannlng",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 476.0,
+                "t": 330.6666666666667,
+                "r": 540.6666666666666,
+                "b": 338.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "6 Months to Year End",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.33333333333333,
+                "t": 317.3333333333333,
+                "r": 125.66666666666667,
+                "b": 337.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Road Planning and Development",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 328.0,
+                "r": 207.33333333333334,
+                "b": 344.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 318.0,
+                "r": 355.3333333333333,
+                "b": 336.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 341.3333333333333,
+                "r": 410.6666666666667,
+                "b": 350.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Road Design",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 512.0,
+                "t": 341.3333333333333,
+                "r": 540.6666666666666,
+                "b": 349.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "6 Months",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.33333333333333,
+                "t": 317.3333333333333,
+                "r": 125.66666666666667,
+                "b": 337.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Road Planning and Development",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 328.0,
+                "r": 207.33333333333334,
+                "b": 344.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 318.0,
+                "r": 355.3333333333333,
+                "b": 336.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.3333333333333,
+                "t": 350.6666666666667,
+                "r": 446.0,
+                "b": 361.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Monitoring & Evaluation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 506.0,
+                "t": 352.6666666666667,
+                "r": 540.6666666666666,
+                "b": 361.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Bi-Annually",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 361.6666666666667,
+                "r": 135.33333333333334,
+                "b": 370.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Constructlon of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.66666666666666,
+                "t": 362.0,
+                "r": 285.3333333333333,
+                "b": 387.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Participation via formal channels 2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 362.0,
+                "r": 355.3333333333333,
+                "b": 380.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 362.3333333333333,
+                "r": 446.0,
+                "b": 371.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "New Roads Constructlo 1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 493.3333333333333,
+                "t": 363.3333333333333,
+                "r": 540.6666666666666,
+                "b": 372.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "As per Contract",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 361.6666666666667,
+                "r": 135.33333333333334,
+                "b": 370.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Constructlon of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.66666666666666,
+                "t": 362.0,
+                "r": 285.3333333333333,
+                "b": 387.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Participation via formal channels 2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 362.0,
+                "r": 355.3333333333333,
+                "b": 380.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.6666666666667,
+                "t": 377.6666666666667,
+                "r": 427.3333333333333,
+                "b": 387.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Emergency Work",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 516.0,
+                "t": 378.0,
+                "r": 541.3333333333334,
+                "b": 387.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "60 Day;",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 361.6666666666667,
+                "r": 135.33333333333334,
+                "b": 370.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Constructlon of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.66666666666666,
+                "t": 362.0,
+                "r": 285.3333333333333,
+                "b": 387.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Participation via formal channels 2, Cooperation Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 317.0,
+                "t": 362.0,
+                "r": 355.3333333333333,
+                "b": 380.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obligations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 392.6666666666667,
+                "r": 439.3333333333333,
+                "b": 409.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Public Notice for Roud Works",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 493.3333333333333,
+                "t": 392.3333333333333,
+                "r": 540.0380573430208,
+                "b": 402.59514335755193,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "3 Working Days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 69.33333333333333,
+                "t": 410.6666666666667,
+                "r": 136.66666666666666,
+                "b": 418.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Maintenance of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 410.0,
+                "r": 285.3333333333333,
+                "b": 436.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Partlcipation via formal channels 2, Cooperation 3. Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.3333333333333,
+                "t": 411.3333333333333,
+                "r": 346.0,
+                "b": 428.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obl gations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 410.6666666666667,
+                "r": 442.6666666666667,
+                "b": 419.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Annual Road Work Plan",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 476.0,
+                "t": 411.3333333333333,
+                "r": 540.0,
+                "b": 419.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "6 Months to Year End",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 16,
+              "end_row_offset_idx": 17,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 69.33333333333333,
+                "t": 410.6666666666667,
+                "r": 136.66666666666666,
+                "b": 418.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Maintenance of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 410.0,
+                "r": 285.3333333333333,
+                "b": 436.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Partlcipation via formal channels 2, Cooperation 3. Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.3333333333333,
+                "t": 411.3333333333333,
+                "r": 346.0,
+                "b": 428.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obl gations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 419.3333333333333,
+                "r": 442.0,
+                "b": 428.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 16,
+              "end_row_offset_idx": 17,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Rehabilitation of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 493.3333333333333,
+                "t": 420.0,
+                "r": 540.6666666666666,
+                "b": 429.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 16,
+              "end_row_offset_idx": 17,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "As per Contract",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 17,
+              "end_row_offset_idx": 18,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 69.33333333333333,
+                "t": 410.6666666666667,
+                "r": 136.66666666666666,
+                "b": 418.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Maintenance of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 410.0,
+                "r": 285.3333333333333,
+                "b": 436.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Partlcipation via formal channels 2, Cooperation 3. Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.3333333333333,
+                "t": 411.3333333333333,
+                "r": 346.0,
+                "b": 428.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obl gations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 429.3333333333333,
+                "r": 437.3333333333333,
+                "b": 437.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 17,
+              "end_row_offset_idx": 18,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Routine Maintenance",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 518.0,
+                "t": 430.0,
+                "r": 541.3333333333334,
+                "b": 438.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 17,
+              "end_row_offset_idx": 18,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Annual",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 18,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 69.33333333333333,
+                "t": 410.6666666666667,
+                "r": 136.66666666666666,
+                "b": 418.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Maintenance of Roads",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 410.0,
+                "r": 285.3333333333333,
+                "b": 436.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1, Public Partlcipation via formal channels 2, Cooperation 3. Feedback",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.3333333333333,
+                "t": 411.3333333333333,
+                "r": 346.0,
+                "b": 428.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 4,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Meeting Tax Obl gations",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.6666666666667,
+                "t": 438.6666666666667,
+                "r": 436.6666666666667,
+                "b": 456.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 18,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Approval of Roadside Development",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 489.3333333333333,
+                "t": 437.3333333333333,
+                "r": 541.0,
+                "b": 448.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 18,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "30 Workíng Days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 20,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 455.6666666666667,
+                "r": 139.33333333333334,
+                "b": 472.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Payment for Goods and Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.0,
+                "t": 454.6666666666667,
+                "r": 298.6666666666667,
+                "b": 501.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Timely availing of relevant documents such as; Bank Details as per KeRRA Form ({BD 1) Local Service/Purchase Order Invoices Delivery Notes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.3333333333333,
+                "t": 456.6666666666667,
+                "r": 344.6666666666667,
+                "b": 464.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "None",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 456.6666666666667,
+                "r": 409.3333333333333,
+                "b": 464.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 20,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Road Works",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 482.0,
+                "t": 456.6666666666667,
+                "r": 540.6666666666666,
+                "b": 465.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 20,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "As per the Contract",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 20,
+              "end_row_offset_idx": 21,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 455.6666666666667,
+                "r": 139.33333333333334,
+                "b": 472.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Payment for Goods and Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.0,
+                "t": 454.6666666666667,
+                "r": 298.6666666666667,
+                "b": 501.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Timely availing of relevant documents such as; Bank Details as per KeRRA Form ({BD 1) Local Service/Purchase Order Invoices Delivery Notes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.3333333333333,
+                "t": 456.6666666666667,
+                "r": 344.6666666666667,
+                "b": 464.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "None",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.6666666666667,
+                "t": 465.3333333333333,
+                "r": 435.3333333333333,
+                "b": 474.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 20,
+              "end_row_offset_idx": 21,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Consultancy Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 482.0,
+                "t": 466.6666666666667,
+                "r": 540.6666666666666,
+                "b": 475.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 20,
+              "end_row_offset_idx": 21,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "As per the Contract",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 21,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.0,
+                "t": 455.6666666666667,
+                "r": 139.33333333333334,
+                "b": 472.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Payment for Goods and Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.0,
+                "t": 454.6666666666667,
+                "r": 298.6666666666667,
+                "b": 501.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Timely availing of relevant documents such as; Bank Details as per KeRRA Form ({BD 1) Local Service/Purchase Order Invoices Delivery Notes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.3333333333333,
+                "t": 456.6666666666667,
+                "r": 344.6666666666667,
+                "b": 464.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "None",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 484.3333333333333,
+                "r": 449.3333333333333,
+                "b": 493.6666666666667,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 21,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Goods and Other Services",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 495.3333333333333,
+                "t": 484.6666666666667,
+                "r": 541.0,
+                "b": 494.3333333333333,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 21,
+              "end_row_offset_idx": 22,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Within 30 days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 22,
+              "end_row_offset_idx": 23,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 520.0,
+                "r": 107.33333333333333,
+                "b": 528.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 22,
+              "end_row_offset_idx": 23,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Recrultment",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 502.0,
+                "r": 300.0,
+                "b": 537.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 22,
+              "end_row_offset_idx": 23,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Duly signed payment certificates Measurement Records 1. Letter of Application 2. Requirements in response to Advertisement",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.3333333333333,
+                "t": 520.0,
+                "r": 345.3333333333333,
+                "b": 528.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 22,
+              "end_row_offset_idx": 23,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "None",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.6666666666667,
+                "t": 520.0,
+                "r": 402.6666666666667,
+                "b": 528.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 22,
+              "end_row_offset_idx": 23,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "3 Months",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.6666666666667,
+                "t": 520.0,
+                "r": 402.6666666666667,
+                "b": 528.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 22,
+              "end_row_offset_idx": 23,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "3 Months",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 23,
+              "end_row_offset_idx": 24,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 536.6666666666666,
+                "r": 135.33333333333334,
+                "b": 546.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 23,
+              "end_row_offset_idx": 24,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Industrial Attachment",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.33333333333334,
+                "t": 537.3333333333334,
+                "r": 285.0,
+                "b": 572.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 23,
+              "end_row_offset_idx": 24,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Relevant letter from training institution 2. Letter of Application 3. Curriculum Vitae 4. Indemnity Insurance Cover",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.3333333333333,
+                "t": 538.0,
+                "r": 344.6666666666667,
+                "b": 546.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 23,
+              "end_row_offset_idx": 24,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "None",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.6666666666667,
+                "t": 538.0,
+                "r": 402.0,
+                "b": 546.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 23,
+              "end_row_offset_idx": 24,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "3 Months",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.6666666666667,
+                "t": 538.0,
+                "r": 402.0,
+                "b": 546.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 23,
+              "end_row_offset_idx": 24,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 6,
+              "text": "3 Months",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 39.666666666666664,
+                "t": 573.6666666666666,
+                "r": 49.0,
+                "b": 580.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 572.3333333333334,
+                "r": 134.66666666666666,
+                "b": 581.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Access to Information",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 573.0,
+                "r": 283.6666666666667,
+                "b": 608.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Honesty and Integrity prescribed charges 3. Use of appropriate channels including: Physical visits Pay",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.0,
+                "t": 572.6666666666666,
+                "r": 356.6666666666667,
+                "b": 607.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "As prescribed in the Access Information Act, 2016",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 573.3333333333334,
+                "r": 411.3333333333333,
+                "b": 582.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 25,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Physical visit",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 505.3333333333333,
+                "t": 574.0,
+                "r": 540.6666666666666,
+                "b": 582.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 25,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "10 Minutes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 39.666666666666664,
+                "t": 573.6666666666666,
+                "r": 49.0,
+                "b": 580.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 572.3333333333334,
+                "r": 134.66666666666666,
+                "b": 581.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Access to Information",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 573.0,
+                "r": 283.6666666666667,
+                "b": 608.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Honesty and Integrity prescribed charges 3. Use of appropriate channels including: Physical visits Pay",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.0,
+                "t": 572.6666666666666,
+                "r": 356.6666666666667,
+                "b": 607.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "As prescribed in the Access Information Act, 2016",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 586.6666666666666,
+                "r": 394.6666666666667,
+                "b": 594.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 25,
+              "end_row_offset_idx": 26,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Letters",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 491.3333333333333,
+                "t": 587.0,
+                "r": 541.0,
+                "b": 596.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 25,
+              "end_row_offset_idx": 26,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "21 working days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 39.666666666666664,
+                "t": 573.6666666666666,
+                "r": 49.0,
+                "b": 580.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 572.3333333333334,
+                "r": 134.66666666666666,
+                "b": 581.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Access to Information",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.0,
+                "t": 573.0,
+                "r": 283.6666666666667,
+                "b": 608.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Honesty and Integrity prescribed charges 3. Use of appropriate channels including: Physical visits Pay",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.0,
+                "t": 572.6666666666666,
+                "r": 356.6666666666667,
+                "b": 607.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "As prescribed in the Access Information Act, 2016",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.3333333333333,
+                "t": 596.6666666666666,
+                "r": 392.6666666666667,
+                "b": 604.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 26,
+              "end_row_offset_idx": 27,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "e-mail",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 495.3333333333333,
+                "t": 597.0,
+                "r": 541.0,
+                "b": 606.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 26,
+              "end_row_offset_idx": 27,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "3 working days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 39.666666666666664,
+                "t": 573.6666666666666,
+                "r": 49.0,
+                "b": 580.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 572.3333333333334,
+                "r": 134.66666666666666,
+                "b": 581.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Access to Information",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 175.33333333333334,
+                "t": 608.6666666666666,
+                "r": 208.66666666666666,
+                "b": 618.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 27,
+              "end_row_offset_idx": 28,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Telephone",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.0,
+                "t": 572.6666666666666,
+                "r": 356.6666666666667,
+                "b": 607.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "As prescribed in the Access Information Act, 2016",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 372.0,
+                "t": 606.6666666666666,
+                "r": 422.0,
+                "b": 615.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 27,
+              "end_row_offset_idx": 28,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "FieldInspection",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 491.3333333333333,
+                "t": 605.6666666666666,
+                "r": 540.6666666666666,
+                "b": 616.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 27,
+              "end_row_offset_idx": 28,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "10 working days",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 39.666666666666664,
+                "t": 573.6666666666666,
+                "r": 49.0,
+                "b": 580.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 68.66666666666667,
+                "t": 572.3333333333334,
+                "r": 134.66666666666666,
+                "b": 581.6666666666666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Access to Information",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 175.33333333333334,
+                "t": 618.0,
+                "r": 228.0,
+                "b": 636.0,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 28,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Letter or email Suggestion boxes",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 307.0,
+                "t": 572.6666666666666,
+                "r": 356.6666666666667,
+                "b": 607.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 5,
+              "col_span": 1,
+              "start_row_offset_idx": 24,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "As prescribed in the Access Information Act, 2016",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 371.6666666666667,
+                "t": 618.3333333333334,
+                "r": 433.3333333333333,
+                "b": 636.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 28,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Exigent Information Requests",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 476.3333333333333,
+                "t": 619.3333333333334,
+                "r": 540.6666666666666,
+                "b": 645.3333333333334,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 28,
+              "end_row_offset_idx": 29,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "48 hours (Extendible once to maximum 14 days)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 596.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    }
+  }
+}

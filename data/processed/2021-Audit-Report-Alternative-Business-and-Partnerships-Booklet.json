@@ -1,0 +1,5569 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "2021-Audit-Report-Alternative-Business-and-Partnerships-Booklet",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 15679357590466468884,
+    "filename": "2021-Audit-Report-Alternative-Business-and-Partnerships-Booklet.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/pictures/14"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/texts/119"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/texts/121"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/texts/123"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/pictures/17"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/pictures/18"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/texts/149"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      },
+      {
+        "$ref": "#/pictures/19"
+      },
+      {
+        "$ref": "#/pictures/20"
+      },
+      {
+        "$ref": "#/texts/152"
+      },
+      {
+        "$ref": "#/texts/153"
+      },
+      {
+        "$ref": "#/texts/154"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.333333333333336,
+            "t": 140.60933430989581,
+            "r": 226.0,
+            "b": 63.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "ALTERNATIVE BUSINESS & PARTNERSHIP",
+      "text": "ALTERNATIVE BUSINESS & PARTNERSHIP",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.0,
+            "t": 534.9426676432291,
+            "r": 404.3333333333333,
+            "b": 514.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "KenGen",
+      "text": "KenGen"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 324.6666666666667,
+            "t": 515.9426676432291,
+            "r": 401.3333333333333,
+            "b": 504.9426676432292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Energy for the nation.",
+      "text": "Energy for the nation."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.3333333333333,
+            "t": 79.94266764322913,
+            "r": 385.3333333333333,
+            "b": 45.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2023",
+      "text": "2023"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.6929,
+            "t": 538.5177009765625,
+            "r": 154.6219,
+            "b": 527.4187150610695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "About KenGen",
+      "text": "About KenGen",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.6929,
+            "t": 516.5367009765625,
+            "r": 365.37090000000006,
+            "b": 423.99485684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            529
+          ]
+        }
+      ],
+      "orig": "Kenya Electricity Generating Company PLC (KenGen) stands as the premier electric power generation company in East Africa, with its establishment dating back to 1954 when it was formed under the name Kenya Power Company (KPC). The shareholders initially entrusted the management of KPC to East Africa Power & Lighting Company (EAP&L), which later evolved into Kenya Power and Lighting Company (KPLC) in 1983. From the outset, KenGen's key responsibilities  included  the  development,  management,  and  operation of power plants.",
+      "text": "Kenya Electricity Generating Company PLC (KenGen) stands as the premier electric power generation company in East Africa, with its establishment dating back to 1954 when it was formed under the name Kenya Power Company (KPC). The shareholders initially entrusted the management of KPC to East Africa Power & Lighting Company (EAP&L), which later evolved into Kenya Power and Lighting Company (KPLC) in 1983. From the outset, KenGen's key responsibilities  included  the  development,  management,  and  operation of power plants."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.6929,
+            "t": 412.53670097656254,
+            "r": 365.33289999999994,
+            "b": 367.99485684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            290
+          ]
+        }
+      ],
+      "orig": "In 1996, the Kenyan Government embarked on energy sector restructuring to  optimize  resource  usage  for  electricity  generation,  transmission,  and distribution.  This  effort  led  to  the  separation  of  KPC's  management  from KPLC, resulting in the birth of KenGen in January 1998.",
+      "text": "In 1996, the Kenyan Government embarked on energy sector restructuring to  optimize  resource  usage  for  electricity  generation,  transmission,  and distribution.  This  effort  led  to  the  separation  of  KPC's  management  from KPLC, resulting in the birth of KenGen in January 1998."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 209.7638,
+            "t": 360.0001009765625,
+            "r": 362.99280000000016,
+            "b": 183.45825684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "In  2006,  a  significant  milestone  was reached as the Government divested 30%  of  its  stake  in  KenGen  through a successful Initial Public Offer (IPO). Following this, KenGen achieved listing on  the  Nairobi  Securities  Exchange (NSE). Aligning with the organization's strategic objectives, shareholders participated in a successful rights issue in  2016.  Today,  with  a  commanding market share of about 65% and an impressive installed capacity of 1,904MW, KenGen proudly stands as the  predominant  energy  producer  in East Africa.",
+      "text": "In  2006,  a  significant  milestone  was reached as the Government divested 30%  of  its  stake  in  KenGen  through a successful Initial Public Offer (IPO). Following this, KenGen achieved listing on  the  Nairobi  Securities  Exchange (NSE). Aligning with the organization's strategic objectives, shareholders participated in a successful rights issue in  2016.  Today,  with  a  commanding market share of about 65% and an impressive installed capacity of 1,904MW, KenGen proudly stands as the  predominant  energy  producer  in East Africa."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 209.7638,
+            "t": 172.00010097656252,
+            "r": 362.9838,
+            "b": 79.45825684922988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "Beyond the Kenyan borders, KenGen extends its impact across Africa. The  company  is  actively  engaged  in collaboration with Ethiopia Electric Power (EEP), Tulu Moye Geothermal Operations (TMGO) in Ethiopia, and the  Djibouti  Office  of  Geothermal Energy Development (ODDEG).",
+      "text": "Beyond the Kenyan borders, KenGen extends its impact across Africa. The  company  is  actively  engaged  in collaboration with Ethiopia Electric Power (EEP), Tulu Moye Geothermal Operations (TMGO) in Ethiopia, and the  Djibouti  Office  of  Geothermal Energy Development (ODDEG)."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 359.3067,
+            "t": 36.78380097656259,
+            "r": 366.36269999999996,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.6929,
+            "t": 538.5827009765626,
+            "r": 365.3619,
+            "b": 446.04085684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            599
+          ]
+        }
+      ],
+      "orig": "KenGen's  core  strategy  revolves  around  delivering  accessible  clean  energy while driving value for shareholders through the expansion of energy installed capacity  and  diversification  of  revenue  streams.  The  company's  dynamic generation capacity is mainly drawn from renewable energy sources namely: Hydro (825.7MW), Geothermal (799MW), Thermal (253.5MW), and Wind (26MW).  KenGen's  reach  spans  five  official  operational  regions  in  Kenya: Geothermal Region, Western Region, Kipevu, Eastern Region, and Central office in Nairobi which covers the head office and Ngong wind farm.",
+      "text": "KenGen's  core  strategy  revolves  around  delivering  accessible  clean  energy while driving value for shareholders through the expansion of energy installed capacity  and  diversification  of  revenue  streams.  The  company's  dynamic generation capacity is mainly drawn from renewable energy sources namely: Hydro (825.7MW), Geothermal (799MW), Thermal (253.5MW), and Wind (26MW).  KenGen's  reach  spans  five  official  operational  regions  in  Kenya: Geothermal Region, Western Region, Kipevu, Eastern Region, and Central office in Nairobi which covers the head office and Ngong wind farm."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.6929,
+            "t": 434.58270097656253,
+            "r": 365.36089999999984,
+            "b": 246.04085684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1177
+          ]
+        }
+      ],
+      "orig": "Of all its regions, the Geothermal is the most active located in the Rift Valley and is host to several KenGen geothermal power plants and wellhead units that serve as steadfast baseload energy sources in Kenya. The Western region, which boasts 249.4MW in installed capacity, has four hydro stations and a thermal power plant (Turkwel, Sondu Miriu, Sang'oro, Gogo, and Muhoroni) which contribute significantly to stabilising the grid in western Kenya. Kipevu, housing  two  thermal  plants  in  Mombasa  County,  delivers  193.5MW.  The Eastern Region features five large power plants along the Tana River: Masinga, Kamburu, Gitaru, Kindaruma, and Kiambere, collectively providing 600.4MW. Also under Eastern Region is the Upper Tana which features Mesco, Wanjii, Sagana, and Tana power plants, boasting an installed capacity of 35.03MW. The Ngong wind plants, situated in the Central Office region, offer 26MW in capacity. Hydro retains its position as KenGen's leading energy source at 45%, with 825.69MW in installed capacity. Geothermal follows closely with 799MW, including 83.6MW harnessed from innovative wellheads technology, constituting 42% of the installed capacity.",
+      "text": "Of all its regions, the Geothermal is the most active located in the Rift Valley and is host to several KenGen geothermal power plants and wellhead units that serve as steadfast baseload energy sources in Kenya. The Western region, which boasts 249.4MW in installed capacity, has four hydro stations and a thermal power plant (Turkwel, Sondu Miriu, Sang'oro, Gogo, and Muhoroni) which contribute significantly to stabilising the grid in western Kenya. Kipevu, housing  two  thermal  plants  in  Mombasa  County,  delivers  193.5MW.  The Eastern Region features five large power plants along the Tana River: Masinga, Kamburu, Gitaru, Kindaruma, and Kiambere, collectively providing 600.4MW. Also under Eastern Region is the Upper Tana which features Mesco, Wanjii, Sagana, and Tana power plants, boasting an installed capacity of 35.03MW. The Ngong wind plants, situated in the Central Office region, offer 26MW in capacity. Hydro retains its position as KenGen's leading energy source at 45%, with 825.69MW in installed capacity. Geothermal follows closely with 799MW, including 83.6MW harnessed from innovative wellheads technology, constituting 42% of the installed capacity."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.6929,
+            "t": 234.58270097656253,
+            "r": 236.32890000000006,
+            "b": 226.04085684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Sample generation facilities are shown below.",
+      "text": "Sample generation facilities are shown below."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.0,
+            "t": 168.94266764322919,
+            "r": 114.66666666666667,
+            "b": 160.94266764322919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "01 NSTALLED CAPACITY",
+      "text": "01 NSTALLED CAPACITY"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 204.66666666666666,
+            "t": 168.94266764322919,
+            "r": 215.33333333333334,
+            "b": 160.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "05",
+      "text": "05"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.33333333333334,
+            "t": 166.60933430989581,
+            "r": 248.33333333333334,
+            "b": 161.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "EMFLOYEES",
+      "text": "EMFLOYEES"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 287.0,
+            "t": 167.2760009765625,
+            "r": 318.3333333333333,
+            "b": 161.94266764322919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "TURNOVER (KES)",
+      "text": "TURNOVER (KES)"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.33333333333333,
+            "t": 152.2760009765625,
+            "r": 120.66666666666667,
+            "b": 141.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "1,904 MW",
+      "text": "1,904 MW"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 154.66666666666669,
+            "t": 152.94266764322919,
+            "r": 182.66666666666666,
+            "b": 142.94266764322919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "262%",
+      "text": "262%"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 224.66666666666666,
+            "t": 153.60933430989581,
+            "r": 249.33333333333334,
+            "b": 142.94266764322919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2500",
+      "text": "2500"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 292.0,
+            "t": 152.94266764322919,
+            "r": 320.6666666666667,
+            "b": 142.94266764322919,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "49.2 B",
+      "text": "49.2 B"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 100.66666666666666,
+            "t": 111.60933430989581,
+            "r": 111.33333333333333,
+            "b": 103.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "02",
+      "text": "02"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 120.33333333333333,
+            "t": 109.94266764322919,
+            "r": 145.66666666666669,
+            "b": 104.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "GOK OWNED",
+      "text": "GOK OWNED"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 170.0,
+            "t": 111.60933430989581,
+            "r": 180.66666666666666,
+            "b": 103.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "04",
+      "text": "04"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 185.66666666666666,
+            "t": 109.94266764322919,
+            "r": 213.0,
+            "b": 105.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "ANNINERSARY",
+      "text": "ANNINERSARY"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 239.33333333333334,
+            "t": 111.60933430989581,
+            "r": 250.0,
+            "b": 103.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "06",
+      "text": "06"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 255.0,
+            "t": 109.94266764322919,
+            "r": 281.0,
+            "b": 104.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CONSULTANT",
+      "text": "CONSULTANT"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 264.66666666666663,
+            "t": 100.94266764322919,
+            "r": 276.0,
+            "b": 92.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "#1",
+      "text": "#1"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.0,
+            "t": 93.60933430989587,
+            "r": 145.33333333333331,
+            "b": 83.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "70%",
+      "text": "70%"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 180.66666666666666,
+            "t": 94.2760009765625,
+            "r": 225.33333333333334,
+            "b": 84.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "69 YEARS",
+      "text": "69 YEARS"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 257.66666666666663,
+            "t": 91.2760009765625,
+            "r": 285.0,
+            "b": 84.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "AFRICAN",
+      "text": "AFRICAN"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 250.33333333333334,
+            "t": 84.60933430989587,
+            "r": 291.66666666666663,
+            "b": 77.94266764322913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "GEOTHERMAL",
+      "text": "GEOTHERMAL"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 51.3829,
+            "t": 36.78380097656259,
+            "r": 62.0029,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6929,
+            "t": 533.8836009765625,
+            "r": 260.11560000000003,
+            "b": 522.7846150610695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "KenGen's Generation Portfolio",
+      "text": "KenGen's Generation Portfolio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.6929,
+            "t": 64.70260097656251,
+            "r": 251.2919,
+            "b": 56.16075684922998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Olkaria I AU IV, V & VI                           Olkaria II",
+      "text": "Olkaria I AU IV, V & VI                           Olkaria II"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 281.66666666666663,
+            "t": 492.94266764322913,
+            "r": 301.66666666666663,
+            "b": 486.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "HYDRO",
+      "text": "HYDRO"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 282.33333333333337,
+            "t": 486.94266764322913,
+            "r": 301.66666666666663,
+            "b": 480.94266764322913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "826MW",
+      "text": "826MW"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.0,
+            "t": 474.2760009765625,
+            "r": 91.66666666666666,
+            "b": 467.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "45%",
+      "text": "45%"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 76.33333333333333,
+            "t": 444.2760009765625,
+            "r": 91.0,
+            "b": 437.6093343098958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "41%",
+      "text": "41%"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 237.0,
+            "t": 406.9426676432292,
+            "r": 251.66666666666666,
+            "b": 401.6093343098958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "WIND",
+      "text": "WIND"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 233.66666666666666,
+            "t": 401.6093343098958,
+            "r": 255.0,
+            "b": 396.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "25.5MW",
+      "text": "25.5MW"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 155.66666666666669,
+            "t": 393.60933430989587,
+            "r": 181.0,
+            "b": 388.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "THERMAL",
+      "text": "THERMAL"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 157.0,
+            "t": 387.60933430989587,
+            "r": 180.33333333333334,
+            "b": 382.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "253.5MW",
+      "text": "253.5MW"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.0,
+            "t": 383.60933430989587,
+            "r": 91.66666666666666,
+            "b": 376.94266764322913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "13%",
+      "text": "13%"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 245.33333333333334,
+            "t": 372.2760009765625,
+            "r": 282.66666666666663,
+            "b": 366.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "GEOTHERMAL",
+      "text": "GEOTHERMAL"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.33333333333331,
+            "t": 367.60933430989587,
+            "r": 180.33333333333334,
+            "b": 362.94266764322913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "904 MW",
+      "text": "904 MW"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 255.0,
+            "t": 365.60933430989587,
+            "r": 274.33333333333337,
+            "b": 360.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "799MW",
+      "text": "799MW"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 141.66666666666669,
+            "t": 362.94266764322913,
+            "r": 197.66666666666666,
+            "b": 358.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "TOTAL INSTALLED CAPACITY",
+      "text": "TOTAL INSTALLED CAPACITY"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 90.66666666666666,
+            "t": 229.2760009765625,
+            "r": 167.33333333333331,
+            "b": 220.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Turkwel Hydropower Arc Dam",
+      "text": "Turkwel Hydropower Arc Dam"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 268.0,
+            "t": 220.60933430989581,
+            "r": 314.6666666666667,
+            "b": 212.60933430989581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ngong Wind Farm",
+      "text": "Ngong Wind Farm"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 357.5067,
+            "t": 36.78380097656259,
+            "r": 368.16270000000003,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6929,
+            "t": 398.67460097656254,
+            "r": 270.5559000000005,
+            "b": 390.13275684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Olkaria V                                                Wellhead Unit",
+      "text": "Olkaria V                                                Wellhead Unit"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6929,
+            "t": 351.0556009765625,
+            "r": 237.0392999999999,
+            "b": 318.3566150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "KenGen Green Energy Park Background",
+      "text": "KenGen Green Energy Park Background",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6929,
+            "t": 303.47460097656256,
+            "r": 365.36890000000005,
+            "b": 162.93275684922992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            816
+          ]
+        }
+      ],
+      "orig": "Aligned with Kenya's Kwanza Bottom-Up Economic Transformation Agenda, the Government of Kenya has initiated a turnaround strategy in the manufacturing sector, focusing on a value chain approach to enhance business competitiveness. The country's manufacturing sector is predominantly agriculture-based, with food processing and beverage manufacturing contributing 40% and 48% of GDP respectively. Embracing the Bottom-Up approach, the Kenyan Government aims for a transformative impact on the manufacturing sector, benefitting both the industry and the nation. In line with this,  KenGen  envisions  establishing  the  KenGen  Green  Energy  Park  at  the Olkaria geothermal hub in Naivasha. This will be a premier industrial park offering ample land and cost-effective power and steam sales for industries to thrive.",
+      "text": "Aligned with Kenya's Kwanza Bottom-Up Economic Transformation Agenda, the Government of Kenya has initiated a turnaround strategy in the manufacturing sector, focusing on a value chain approach to enhance business competitiveness. The country's manufacturing sector is predominantly agriculture-based, with food processing and beverage manufacturing contributing 40% and 48% of GDP respectively. Embracing the Bottom-Up approach, the Kenyan Government aims for a transformative impact on the manufacturing sector, benefitting both the industry and the nation. In line with this,  KenGen  envisions  establishing  the  KenGen  Green  Energy  Park  at  the Olkaria geothermal hub in Naivasha. This will be a premier industrial park offering ample land and cost-effective power and steam sales for industries to thrive."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 56.6929,
+            "t": 151.47460097656256,
+            "r": 365.35189999999994,
+            "b": 58.93275684922992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            564
+          ]
+        }
+      ],
+      "orig": "Leveraging its geothermal resources at Olkaria, KenGen plans to create the Energy Park, utilizing  approximately  342  hectares  (845  acres)  for  industrial development. The comprehensive masterplan encompasses industrial and  non-industrial  functions,  including  Offices,  Data  Centres,  Research & Development  Centres,  Hospitality, Visitor Experience Centres, and Administrative  and  Commercial  spaces.  The  industrial  sector  focuses  on Medium/Heavy Industries, Steam Intensive  Industries,  and  Light  Industries, harmonizing with the master plan.",
+      "text": "Leveraging its geothermal resources at Olkaria, KenGen plans to create the Energy Park, utilizing  approximately  342  hectares  (845  acres)  for  industrial development. The comprehensive masterplan encompasses industrial and  non-industrial  functions,  including  Offices,  Data  Centres,  Research & Development  Centres,  Hospitality, Visitor Experience Centres, and Administrative  and  Commercial  spaces.  The  industrial  sector  focuses  on Medium/Heavy Industries, Steam Intensive  Industries,  and  Light  Industries, harmonizing with the master plan."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 50.4919,
+            "t": 36.78380097656259,
+            "r": 62.8939,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.6929,
+            "t": 538.5827009765626,
+            "r": 365.37189999999987,
+            "b": 434.04085684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            672
+          ]
+        }
+      ],
+      "orig": "A  thorough  feasibility  study  has  been  conducted,  identifying  two  potential business  models  for  the  proposed  development.  The  Master  Developer model  envisions  KenGen  as  the  sole  developer  of  the  Energy  Park,  while the Sub-Developer model anticipates KenGen leasing parcels of land to subdevelopers. These sub-developers would then focus on specific components of the Green Energy Park and subsequently sub-lease the serviced Industrial Land. This presents an opportunity for land lease to sub-developers interested in  leveraging  geothermal  steam,  brine,  raw  water,  and  electricity  for  their operations within the master-planned parcel.",
+      "text": "A  thorough  feasibility  study  has  been  conducted,  identifying  two  potential business  models  for  the  proposed  development.  The  Master  Developer model  envisions  KenGen  as  the  sole  developer  of  the  Energy  Park,  while the Sub-Developer model anticipates KenGen leasing parcels of land to subdevelopers. These sub-developers would then focus on specific components of the Green Energy Park and subsequently sub-lease the serviced Industrial Land. This presents an opportunity for land lease to sub-developers interested in  leveraging  geothermal  steam,  brine,  raw  water,  and  electricity  for  their operations within the master-planned parcel."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.6929,
+            "t": 422.58270097656253,
+            "r": 365.37290000000013,
+            "b": 378.04085684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "Kenya  Electricity  Generating  Company  PLC  invites  expressions  of  interest from  both  sub-developers  and  individual  manufacturing/processing  firms to lease land for operations at the proposed KenGen Green Energy Park in Olkaria, Naivasha.",
+      "text": "Kenya  Electricity  Generating  Company  PLC  invites  expressions  of  interest from  both  sub-developers  and  individual  manufacturing/processing  firms to lease land for operations at the proposed KenGen Green Energy Park in Olkaria, Naivasha."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.6929,
+            "t": 364.9637009765625,
+            "r": 275.8312999999999,
+            "b": 353.86471506106955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Why KenGen Green Energy Park",
+      "text": "Why KenGen Green Energy Park",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.6929,
+            "t": 335.38270097656255,
+            "r": 365.3528999999998,
+            "b": 266.84085684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "KenGen has finalized plans to establish an Energy Park within its geothermal power  generation  hub  in  Olkaria,  Naivasha,  Kenya.  By  capitalizing  on  its geothermal resources at Olkaria, KenGen aims to establish this Energy Park. The development is scheduled in four phases spanning from 2025 to 2045, offering industrial, commercial, and recreational facilities. Quality and reliable utilities will be provided, managed either by the developer or sub-developers.",
+      "text": "KenGen has finalized plans to establish an Energy Park within its geothermal power  generation  hub  in  Olkaria,  Naivasha,  Kenya.  By  capitalizing  on  its geothermal resources at Olkaria, KenGen aims to establish this Energy Park. The development is scheduled in four phases spanning from 2025 to 2045, offering industrial, commercial, and recreational facilities. Quality and reliable utilities will be provided, managed either by the developer or sub-developers."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.6929,
+            "t": 255.38270097656255,
+            "r": 365.3618999999998,
+            "b": 162.84085684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            590
+          ]
+        }
+      ],
+      "orig": "Situated in Olkaria, Naivasha sub-county, 130 kilometers from Nairobi, the KenGen Green Energy Park will have convenient access via both railway and road  connections  to  major  seaports  and  airports.  The  park's  investment opportunities will include Medium and Heavy Industries (fertilizers, iron and steel,  plastics  and  packaging,  fabricated  metal  products),  Steam  Intensive Industries (pulp and paper, wood and wood products, textiles and apparel, food and beverages, leather industries), as well as Light Industries (warehousing and logistics, supporting light industries).",
+      "text": "Situated in Olkaria, Naivasha sub-county, 130 kilometers from Nairobi, the KenGen Green Energy Park will have convenient access via both railway and road  connections  to  major  seaports  and  airports.  The  park's  investment opportunities will include Medium and Heavy Industries (fertilizers, iron and steel,  plastics  and  packaging,  fabricated  metal  products),  Steam  Intensive Industries (pulp and paper, wood and wood products, textiles and apparel, food and beverages, leather industries), as well as Light Industries (warehousing and logistics, supporting light industries)."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 357.4798,
+            "t": 36.78380097656259,
+            "r": 368.1898,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6929,
+            "t": 533.8836009765625,
+            "r": 249.61029999999994,
+            "b": 501.18461506106956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "DIRECT GEOTHERMAL USE Geothermal Energy Resource",
+      "text": "DIRECT GEOTHERMAL USE Geothermal Energy Resource",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6929,
+            "t": 496.1896009765626,
+            "r": 172.30840000000003,
+            "b": 484.7799865187312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "What is Geothermal?",
+      "text": "What is Geothermal?"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 182.0,
+            "t": 393.2760009765625,
+            "r": 215.33333333333334,
+            "b": 386.6093343098958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "GEOILERMAL",
+      "text": "GEOILERMAL"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 328.0,
+            "t": 392.9426676432292,
+            "r": 356.0,
+            "b": 386.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "HOI WAIER",
+      "text": "HOI WAIER"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 185.33333333333334,
+            "t": 386.2760009765625,
+            "r": 212.0,
+            "b": 379.6093343098958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Reservor",
+      "text": "Reservor"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 324.6666666666667,
+            "t": 386.2760009765625,
+            "r": 359.3333333333333,
+            "b": 379.6093343098958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "REIURNING I0",
+      "text": "REIURNING I0"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 330.6666666666667,
+            "t": 379.6093343098958,
+            "r": 353.3333333333333,
+            "b": 373.6093343098958,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "SURFACE",
+      "text": "SURFACE"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 69.66666666666667,
+            "t": 358.60933430989587,
+            "r": 127.66666666666667,
+            "b": 350.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "SECIION OF EARIH",
+      "text": "SECIION OF EARIH"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 131.0,
+            "t": 358.60933430989587,
+            "r": 175.66666666666666,
+            "b": 350.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "TEMPERATURES",
+      "text": "TEMPERATURES"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 216.33333333333334,
+            "t": 359.2760009765625,
+            "r": 339.6666666666667,
+            "b": 350.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "RAIN FALLS ON THE EARIHS SURFACE AND",
+      "text": "RAIN FALLS ON THE EARIHS SURFACE AND"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 88.33333333333334,
+            "t": 350.60933430989587,
+            "r": 157.66666666666669,
+            "b": 342.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "REACH 5000 DEGREES",
+      "text": "REACH 5000 DEGREES"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 80.33333333333334,
+            "t": 342.60933430989587,
+            "r": 165.0,
+            "b": 333.94266764322913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "CENTIGRADE AI IHE CENIRE",
+      "text": "CENTIGRADE AI IHE CENIRE"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 220.33333333333334,
+            "t": 343.2760009765625,
+            "r": 335.6666666666667,
+            "b": 334.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "IHE WAIER HEAIS AND RETURNS IO THE",
+      "text": "IHE WAIER HEAIS AND RETURNS IO THE"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 263.66666666666663,
+            "t": 334.60933430989587,
+            "r": 292.33333333333337,
+            "b": 326.60933430989587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "SURFACE",
+      "text": "SURFACE"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6929,
+            "t": 305.90990097656254,
+            "r": 296.26859999999994,
+            "b": 294.8109150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Geothermal Direct Use Applications",
+      "text": "Geothermal Direct Use Applications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6929,
+            "t": 291.92890097656255,
+            "r": 365.3509,
+            "b": 247.38705684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "KenGen  is  actively  exploring  avenues  to  optimize  geothermal  resources, aligning with global geothermal leaders. Leveraging the availability of geothermal brine, the company is advancing direct utilization of geothermal resources.",
+      "text": "KenGen  is  actively  exploring  avenues  to  optimize  geothermal  resources, aligning with global geothermal leaders. Leveraging the availability of geothermal brine, the company is advancing direct utilization of geothermal resources."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6929,
+            "t": 234.37490097656257,
+            "r": 196.87060000000005,
+            "b": 223.29002020320058,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "The Olkaria Geothermal Spa",
+      "text": "The Olkaria Geothermal Spa",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 56.6929,
+            "t": 212.32890097656252,
+            "r": 365.3409000000001,
+            "b": 131.78705684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            518
+          ]
+        }
+      ],
+      "orig": "The  Olkaria  Geothermal  Spa  represents  the  first  direct  use  of  Olkaria's geothermal energy. Nestled in Hell's Gate National Park, this spa attracts local and international tourists with its captivating scenery, including  towering  cliffs,  gorges,  rock  towers,  volcanoes,  and  geothermal steam plumes.The spa's inviting ambiance, sparkling blue waters, and therapeutic benefits make it a sought-after destination for skin treatments,  improved  circulation,  pain  relief,  and  enhanced  sleep  quality.",
+      "text": "The  Olkaria  Geothermal  Spa  represents  the  first  direct  use  of  Olkaria's geothermal energy. Nestled in Hell's Gate National Park, this spa attracts local and international tourists with its captivating scenery, including  towering  cliffs,  gorges,  rock  towers,  volcanoes,  and  geothermal steam plumes.The spa's inviting ambiance, sparkling blue waters, and therapeutic benefits make it a sought-after destination for skin treatments,  improved  circulation,  pain  relief,  and  enhanced  sleep  quality."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 50.96,
+            "t": 36.78380097656259,
+            "r": 62.426,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 56.6929,
+            "t": 356.45260097656256,
+            "r": 146.98190000000002,
+            "b": 347.91075684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Olkaria Geothermal Spa",
+      "text": "Olkaria Geothermal Spa"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 56.6929,
+            "t": 334.8987009765625,
+            "r": 129.9076,
+            "b": 323.8138202032005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Flower Farming",
+      "text": "Flower Farming",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 56.6929,
+            "t": 312.8527009765625,
+            "r": 365.35289999999986,
+            "b": 244.31085684922994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "KenGen  currently  supplies  steam  to  Oserian  Development  Company,  a flower-farming enterprise near the Olkaria Geothermal Field. Oserian uses brine  to  heat  fresh  water  through  heat  exchangers.  The  heated  water  is circulated in greenhouses for temperature regulation and soil fumigation. This approach  significantly  reduces  operating  costs  and  environmental  impacts related to conventional pesticides.",
+      "text": "KenGen  currently  supplies  steam  to  Oserian  Development  Company,  a flower-farming enterprise near the Olkaria Geothermal Field. Oserian uses brine  to  heat  fresh  water  through  heat  exchangers.  The  heated  water  is circulated in greenhouses for temperature regulation and soil fumigation. This approach  significantly  reduces  operating  costs  and  environmental  impacts related to conventional pesticides."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 56.6929,
+            "t": 77.30260097656253,
+            "r": 309.6469000000002,
+            "b": 68.76075684922989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Pipes carrying geothermal brine in Oserian Flower Farm Greenhouse",
+      "text": "Pipes carrying geothermal brine in Oserian Flower Farm Greenhouse"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 357.2547,
+            "t": 36.78380097656259,
+            "r": 368.41470000000004,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "7",
+      "text": "7"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 533.8836009765625,
+            "r": 185.3656,
+            "b": 522.7846150610695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Direct Use Frontier",
+      "text": "Direct Use Frontier",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 518.3486009765626,
+            "r": 264.22099999999995,
+            "b": 507.26372020320053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Steam Utilization in KenGen's Energy Park",
+      "text": "Steam Utilization in KenGen's Energy Park",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 496.30260097656253,
+            "r": 365.37090000000006,
+            "b": 439.76075684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "With the goal of lowering operational costs and fostering sustainable industrial growth, KenGen has established an Energy Park in its Olkaria geothermal hub. By utilizing  Olkaria's  geothermal resources, the Energy Park aims to supply steam to steam-intensive industries. The proximity to drilled wells promises substantial operational cost reductions for industries within the park.",
+      "text": "With the goal of lowering operational costs and fostering sustainable industrial growth, KenGen has established an Energy Park in its Olkaria geothermal hub. By utilizing  Olkaria's  geothermal resources, the Energy Park aims to supply steam to steam-intensive industries. The proximity to drilled wells promises substantial operational cost reductions for industries within the park."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 426.74860097656256,
+            "r": 205.48829999999995,
+            "b": 415.66372020320057,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Mineral Harvesting from Brine",
+      "text": "Mineral Harvesting from Brine",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 404.70260097656256,
+            "r": 365.37089999999995,
+            "b": 348.16075684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            353
+          ]
+        }
+      ],
+      "orig": "All  KenGen's  geothermal  plants  are  single-flash  condensing  types,  yielding brine-containing mineral elements  like silica with potential  commercial applications.  A  study  is  underway  to  extract  silica  from  brine,  which  could provide  on-site  input  material  for  industries  in  the  Energy  Park,  fostering industrial development.",
+      "text": "All  KenGen's  geothermal  plants  are  single-flash  condensing  types,  yielding brine-containing mineral elements  like silica with potential  commercial applications.  A  study  is  underway  to  extract  silica  from  brine,  which  could provide  on-site  input  material  for  industries  in  the  Energy  Park,  fostering industrial development."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 329.0837009765625,
+            "r": 279.96659999999997,
+            "b": 274.7846150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "POWER GENERATION SERVICES Alternative Power Markets Captive Power Market",
+      "text": "POWER GENERATION SERVICES Alternative Power Markets Captive Power Market",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 271.90260097656255,
+            "r": 365.3628999999999,
+            "b": 167.36075684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            647
+          ]
+        }
+      ],
+      "orig": "An increasing number of small and medium-scale industries are expressing interest in generating power for their own consumption. These companies aim to capitalize on decreasing global technology costs, particularly in renewable sources such as solar, biogas/biomass, and wind. These technologies can be harnessed 'backyard' style for personal use.This trend is driven by volatile central grid power costs, supply unreliability, and the commitment to reduce greenhouse gas emissions by minimizing reliance on conventional fuel-based thermal sources. KenGen provides technical support and investment options for captive power through various models:",
+      "text": "An increasing number of small and medium-scale industries are expressing interest in generating power for their own consumption. These companies aim to capitalize on decreasing global technology costs, particularly in renewable sources such as solar, biogas/biomass, and wind. These technologies can be harnessed 'backyard' style for personal use.This trend is driven by volatile central grid power costs, supply unreliability, and the commitment to reduce greenhouse gas emissions by minimizing reliance on conventional fuel-based thermal sources. KenGen provides technical support and investment options for captive power through various models:"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 155.90260097656255,
+            "r": 365.33770000000015,
+            "b": 123.36075684922992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "Labour based contracts: Clients provide land and material requirements, while  KenGen  employs  its  expertise  for  project  implementation.  These contracts may also encompass Operation & Maintenance agreements.",
+      "text": "Labour based contracts: Clients provide land and material requirements, while  KenGen  employs  its  expertise  for  project  implementation.  These contracts may also encompass Operation & Maintenance agreements."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 56.6929,
+            "t": 111.90260097656255,
+            "r": 365.36460000000005,
+            "b": 79.36075684922992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "EPC Contracts: Clients  offer  land  or  rooftop  space,  engaging  in  Energy Supply Agreements (ESAs) with KenGen to construct the plant and supply energy over an agreed time frame at predetermined rates.",
+      "text": "EPC Contracts: Clients  offer  land  or  rooftop  space,  engaging  in  Energy Supply Agreements (ESAs) with KenGen to construct the plant and supply energy over an agreed time frame at predetermined rates."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 50.753,
+            "t": 36.78380097656259,
+            "r": 62.633,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 538.5827009765626,
+            "r": 365.3572,
+            "b": 518.04085684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "O&M Contracts: When clients already possess existing plants, KenGen can enter Operation & Maintenance service contracts for specified periods.",
+      "text": "O&M Contracts: When clients already possess existing plants, KenGen can enter Operation & Maintenance service contracts for specified periods."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 504.9637009765625,
+            "r": 361.9822999999999,
+            "b": 493.86471506106955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Power Supply to KenGen's Energy Park (100%",
+      "text": "Power Supply to KenGen's Energy Park (100%",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 483.36370097656254,
+            "r": 147.4849,
+            "b": 472.2647150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Green Power)",
+      "text": "Green Power)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 469.38270097656255,
+            "r": 365.35990000000015,
+            "b": 400.84085684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            408
+          ]
+        }
+      ],
+      "orig": "Direct supply from KenGen's independent grid system ensures that the  Energy  Park  exclusively  receives  competitively-priced  green  energy (geothermal).  The  master  plan  for  KenGen's  Energy  Park  accommodates both industrial and non-industrial activities, including Offices, Data Centres, Research & Development centres, Hospitality, Visitor Experience Centre, and Administrative & Commercial uses.",
+      "text": "Direct supply from KenGen's independent grid system ensures that the  Energy  Park  exclusively  receives  competitively-priced  green  energy (geothermal).  The  master  plan  for  KenGen's  Energy  Park  accommodates both industrial and non-industrial activities, including Offices, Data Centres, Research & Development centres, Hospitality, Visitor Experience Centre, and Administrative & Commercial uses."
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 381.7637009765625,
+            "r": 296.8405999999998,
+            "b": 370.66471506106956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Direct Power Sales to Other Parties",
+      "text": "Direct Power Sales to Other Parties",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 359.7827009765625,
+            "r": 365.3599000000001,
+            "b": 291.24085684922994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "The Energy Act 2019, under Open Access provisions, presents an opportunity for  KenGen  to  directly  sell  power  to  eligible  consumers,  transmitting  the power  through  existing  grid  networks  upon  payment  of  network  charges. KenGen's  distributed  generation  facilities,  largely  from  renewable  sources, offer competitive pricing  in  comparison  to  other  Independent  Power Producers (IPPs).",
+      "text": "The Energy Act 2019, under Open Access provisions, presents an opportunity for  KenGen  to  directly  sell  power  to  eligible  consumers,  transmitting  the power  through  existing  grid  networks  upon  payment  of  network  charges. KenGen's  distributed  generation  facilities,  largely  from  renewable  sources, offer competitive pricing  in  comparison  to  other  Independent  Power Producers (IPPs)."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 272.16370097656255,
+            "r": 291.09329999999994,
+            "b": 261.0647150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Technical Support and Partnerships",
+      "text": "Technical Support and Partnerships",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 258.18270097656256,
+            "r": 365.35590000000013,
+            "b": 225.64085684922998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "KenGen boasts extensive expertise across the energy value chain, focusing on energy generation, planning, operation, and maintenance, as well as areas like Instrumentation and Calibration.",
+      "text": "KenGen boasts extensive expertise across the energy value chain, focusing on energy generation, planning, operation, and maintenance, as well as areas like Instrumentation and Calibration."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 212.56370097656253,
+            "r": 313.0385999999999,
+            "b": 201.46471506106957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Partnership with County Governments",
+      "text": "Partnership with County Governments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 198.58270097656253,
+            "r": 365.3508999999999,
+            "b": 142.04085684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "KenGen,  as  a leading energy sector player, collaborates with county governments  to  offer  services  such  as  energy  master  plan  development, energy  resource  mapping  and  planning,  design  and  construction  of  energy infrastructure,  energy  audits  and  management,  and  technical  support  in accordance with the Energy Act 2019.",
+      "text": "KenGen,  as  a leading energy sector player, collaborates with county governments  to  offer  services  such  as  energy  master  plan  development, energy  resource  mapping  and  planning,  design  and  construction  of  energy infrastructure,  energy  audits  and  management,  and  technical  support  in accordance with the Energy Act 2019."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 128.96370097656256,
+            "r": 320.5383,
+            "b": 117.8647150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Instrumentation and Calibration Centre",
+      "text": "Instrumentation and Calibration Centre",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 56.6929,
+            "t": 114.98270097656257,
+            "r": 365.3429,
+            "b": 82.44085684922993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "KenGen  operates  a  state-of-the-art  calibration  center  catering  to  KenGen and external customers. Located at Tana Power Station, the center provides expert services including on-site calibration of volumetric flow meters.",
+      "text": "KenGen  operates  a  state-of-the-art  calibration  center  catering  to  KenGen and external customers. Located at Tana Power Station, the center provides expert services including on-site calibration of volumetric flow meters."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 357.1017,
+            "t": 36.78380097656259,
+            "r": 368.5677,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "9",
+      "text": "9"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 56.6929,
+            "t": 434.32660097656253,
+            "r": 365.33950000000004,
+            "b": 397.50275684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Flow: On-site Calibration of volumetric flow meters. Applicable to flowmeters used to measure river water, sea water, clean liquids or oils that have less than 3% by volume of particulate content.",
+      "text": "Flow: On-site Calibration of volumetric flow meters. Applicable to flowmeters used to measure river water, sea water, clean liquids or oils that have less than 3% by volume of particulate content."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 56.6929,
+            "t": 248.52660097656258,
+            "r": 362.88459999999986,
+            "b": 239.1432216662177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Torque: Calibration of Torque Wrenches with range of 4In Lb to 600 Ft Lb",
+      "text": "Torque: Calibration of Torque Wrenches with range of 4In Lb to 600 Ft Lb"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 56.6929,
+            "t": 127.12660097656254,
+            "r": 365.34139999999985,
+            "b": 105.90275684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "Temperature: Sensors,  transmitters,  indicators,  RTDs,  thermocouples, recorders, controllers, thermometers, process calibrators, PRTs, thermistors.",
+      "text": "Temperature: Sensors,  transmitters,  indicators,  RTDs,  thermocouples, recorders, controllers, thermometers, process calibrators, PRTs, thermistors."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 47.054,
+            "t": 36.78380097656259,
+            "r": 66.332,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 56.6929,
+            "t": 422.8846009765626,
+            "r": 365.3479000000001,
+            "b": 386.06085684922994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Pressure: Calibration of Pressure Gauges, calibrators, transducers, transmitters,  indicators,  switches,  valves,  controllers,  manometers,  chart recorders.",
+      "text": "Pressure: Calibration of Pressure Gauges, calibrators, transducers, transmitters,  indicators,  switches,  valves,  controllers,  manometers,  chart recorders."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 178.0,
+            "t": 351.60933430989587,
+            "r": 182.0,
+            "b": 344.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 56.6929,
+            "t": 259.84530097656256,
+            "r": 365.35490000000004,
+            "b": 214.38485270070043,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "Electronic: Calibration  of   Multimeters,  Alternating  and  Direct  Current and  voltage  signal  sources(up  to  22A,  1000V),  clamp  meters,  data  loggers, ohmmeters,  decade  boxes,  RCL(Resistance, Capacitance and  Inductance) meters, conductance meters, inductance meters, continuity testers",
+      "text": "Electronic: Calibration  of   Multimeters,  Alternating  and  Direct  Current and  voltage  signal  sources(up  to  22A,  1000V),  clamp  meters,  data  loggers, ohmmeters,  decade  boxes,  RCL(Resistance, Capacitance and  Inductance) meters, conductance meters, inductance meters, continuity testers"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 56.6929,
+            "t": 123.92780097656254,
+            "r": 58.8829,
+            "b": 115.67935270070046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 56.6929,
+            "t": 103.93980097656254,
+            "r": 365.3393999999999,
+            "b": 58.71595684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "Electrical  Test  and  Frequency: RCD  testers,  loop  testers,  earth ground  testers,  Insulation  Resistance  meters  ('Meggers'),  multifunction installation  testers,  oscilloscopes,  frequency  meters,  frequency  counters, timer counters, power quality analyzers.",
+      "text": "Electrical  Test  and  Frequency: RCD  testers,  loop  testers,  earth ground  testers,  Insulation  Resistance  meters  ('Meggers'),  multifunction installation  testers,  oscilloscopes,  frequency  meters,  frequency  counters, timer counters, power quality analyzers."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 355.7787,
+            "t": 36.78380097656259,
+            "r": 369.8907,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 538.5177009765625,
+            "r": 366.71689999999984,
+            "b": 511.8188150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Civil Engineering Materials Testing Laboratory (Olkaria)",
+      "text": "Civil Engineering Materials Testing Laboratory (Olkaria)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 500.93680097656255,
+            "r": 365.35889999999966,
+            "b": 452.79495684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            313
+          ]
+        }
+      ],
+      "orig": "This  laboratory  ensures  material  quality  for  ongoing  and  future  projects. KenGen's involvement in quality control activities and reduced project costs are key goals. The lab provides testing services for soils, gravels, aggregates, concrete, and more, enhancing project efficiency and cost-effectiveness.",
+      "text": "This  laboratory  ensures  material  quality  for  ongoing  and  future  projects. KenGen's involvement in quality control activities and reduced project costs are key goals. The lab provides testing services for soils, gravels, aggregates, concrete, and more, enhancing project efficiency and cost-effectiveness."
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 433.7177009765625,
+            "r": 235.7796,
+            "b": 422.61871506106957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "CONSULTANCY SERVICES",
+      "text": "CONSULTANCY SERVICES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 410.18280097656253,
+            "r": 203.4213,
+            "b": 399.09792020320054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "The African Geothermal Giant",
+      "text": "The African Geothermal Giant"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 214.91780097656255,
+            "r": 187.83560000000003,
+            "b": 203.81881506106959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Geothermal Drilling",
+      "text": "Geothermal Drilling",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 200.93680097656255,
+            "r": 365.3459000000002,
+            "b": 156.39495684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "KenGen's  cutting-edge  drilling  solutions  provide  access  to  hidden  Earth resources. With a focus on geothermal exploration, from surface exploration to well-siting and design methodologies, KenGen's experienced team offers unmatched drilling expertise.",
+      "text": "KenGen's  cutting-edge  drilling  solutions  provide  access  to  hidden  Earth resources. With a focus on geothermal exploration, from surface exploration to well-siting and design methodologies, KenGen's experienced team offers unmatched drilling expertise."
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 143.31780097656252,
+            "r": 213.9006,
+            "b": 132.21881506106956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Geoscientific Excellence",
+      "text": "Geoscientific Excellence",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 56.6929,
+            "t": 121.33680097656259,
+            "r": 365.3509,
+            "b": 73.19485684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "KenGen's  geoscientific  studies  span  the  globe,  from  Djibouti's  geothermal prospects to mineralogical studies in Rwanda. Expert geoscientists uncover hidden  resources,  assessing  the  feasibility  of  geothermal  potential  while maintaining environmental responsibility.",
+      "text": "KenGen's  geoscientific  studies  span  the  globe,  from  Djibouti's  geothermal prospects to mineralogical studies in Rwanda. Expert geoscientists uncover hidden  resources,  assessing  the  feasibility  of  geothermal  potential  while maintaining environmental responsibility."
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 47.8549,
+            "t": 36.78380097656259,
+            "r": 65.5309,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 56.6929,
+            "t": 533.8836009765625,
+            "r": 177.02090000000004,
+            "b": 522.7846150610695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Key Differentiator",
+      "text": "Key Differentiator",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 56.6929,
+            "t": 519.9026009765626,
+            "r": 365.34090000000003,
+            "b": 475.36075684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "KenGen's vertically integrated approach, coupling geoscientific studies with  a  dedicated  drilling  section  and  advanced  equipment,  streamlines  the exploration-to-power generation process, delivering efficient and sustainable energy solutions.",
+      "text": "KenGen's vertically integrated approach, coupling geoscientific studies with  a  dedicated  drilling  section  and  advanced  equipment,  streamlines  the exploration-to-power generation process, delivering efficient and sustainable energy solutions."
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 56.6929,
+            "t": 463.90260097656255,
+            "r": 365.31989999999985,
+            "b": 443.36075684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Lead the way with KenGen and embrace Earth's renewable energy potential for a greener, sustainable future.",
+      "text": "Lead the way with KenGen and embrace Earth's renewable energy potential for a greener, sustainable future."
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/pictures/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 157.0779,
+            "t": 259.23180097656257,
+            "r": 253.43590000000006,
+            "b": 250.68995684922993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Olkaria Discharging Wells",
+      "text": "Olkaria Discharging Wells"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 56.6929,
+            "t": 231.61280097656254,
+            "r": 201.55059999999995,
+            "b": 220.51381506106964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Reservoir Engineering",
+      "text": "Reservoir Engineering",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 56.6929,
+            "t": 217.63180097656254,
+            "r": 365.34989999999993,
+            "b": 149.08995684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "Unveil  the  hidden  potential  beneath  the  Earth's  surface  with  KenGen's Reservoir Engineering expertise. Our  groundbreaking offering ensures optimal geothermal energy extraction and reservoir management. Backed by decades of experience and an unwavering commitment to excellence, our skilled reservoir engineers are instrumental in driving successful geothermal projects worldwide.",
+      "text": "Unveil  the  hidden  potential  beneath  the  Earth's  surface  with  KenGen's Reservoir Engineering expertise. Our  groundbreaking offering ensures optimal geothermal energy extraction and reservoir management. Backed by decades of experience and an unwavering commitment to excellence, our skilled reservoir engineers are instrumental in driving successful geothermal projects worldwide."
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 56.6929,
+            "t": 137.63180097656254,
+            "r": 365.36190000000005,
+            "b": 93.08995684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "Our  services  cover  a  range  of  activities,  from  reservoir  assessment  and well  testing  to  re-injection  scheme  design  and  simulation  studies.  With our  comprehensive  approach,  we  ensure  efficient  and  sustainable  energy production.",
+      "text": "Our  services  cover  a  range  of  activities,  from  reservoir  assessment  and well  testing  to  re-injection  scheme  design  and  simulation  studies.  With our  comprehensive  approach,  we  ensure  efficient  and  sustainable  energy production."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 353.9787,
+            "t": 36.78380097656259,
+            "r": 371.6907,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "13",
+      "text": "13"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 56.6929,
+            "t": 533.8836009765625,
+            "r": 284.0225999999999,
+            "b": 522.7846150610695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Innovative Reservoir Management",
+      "text": "Innovative Reservoir Management",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 56.6929,
+            "t": 519.9026009765626,
+            "r": 365.3588999999999,
+            "b": 459.76075684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Leveraging  cutting-edge  techniques  and  simulation  models,  our  reservoir engineers  are  dedicated  to  predicting  field  life  and  enhancing  re-injection effects.  Through  innovation  and  continuous  improvement,  we  aim  to maximize the potential of your geothermal resources, leading to a brighter, greener future.",
+      "text": "Leveraging  cutting-edge  techniques  and  simulation  models,  our  reservoir engineers  are  dedicated  to  predicting  field  life  and  enhancing  re-injection effects.  Through  innovation  and  continuous  improvement,  we  aim  to maximize the potential of your geothermal resources, leading to a brighter, greener future."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 56.6929,
+            "t": 440.68360097656256,
+            "r": 233.4916,
+            "b": 429.5846150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Operations & Maintenance",
+      "text": "Operations & Maintenance",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 56.6929,
+            "t": 426.70260097656256,
+            "r": 365.35889999999995,
+            "b": 370.16075684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            349
+          ]
+        }
+      ],
+      "orig": "As geothermal industry leaders, we have redefined power plant management through decades of expertise and innovative practices. Our skilled team of engineers and technicians is at the forefront of advanced technologies, ensuring seamless plant operation, maintenance, and optimization. Our commitment to sustainability is integral to our operations.",
+      "text": "As geothermal industry leaders, we have redefined power plant management through decades of expertise and innovative practices. Our skilled team of engineers and technicians is at the forefront of advanced technologies, ensuring seamless plant operation, maintenance, and optimization. Our commitment to sustainability is integral to our operations."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 56.6929,
+            "t": 358.70260097656256,
+            "r": 365.3609000000001,
+            "b": 302.16075684923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            324
+          ]
+        }
+      ],
+      "orig": "With an ISO-certified Environmental Management System, we prioritize ecofriendly  practices,  minimizing  our  carbon  footprint  and  positively  impacting the  communities  we  serve.  At  KenGen,  responsible  geothermal  energy harnessing is our mission, leaving a lasting positive impact on our environment and society.",
+      "text": "With an ISO-certified Environmental Management System, we prioritize ecofriendly  practices,  minimizing  our  carbon  footprint  and  positively  impacting the  communities  we  serve.  At  KenGen,  responsible  geothermal  energy harnessing is our mission, leaving a lasting positive impact on our environment and society."
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 46.964,
+            "t": 36.78380097656259,
+            "r": 66.422,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 538.5177009765625,
+            "r": 258.7506000000001,
+            "b": 527.4187150610695,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Training and Capacity Building",
+      "text": "Training and Capacity Building",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 516.5367009765625,
+            "r": 365.3319000000001,
+            "b": 495.99485684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "Our training sessions provide a balanced blend of theoretical knowledge and hands-on practical experience, fostering holistic learning.",
+      "text": "Our training sessions provide a balanced blend of theoretical knowledge and hands-on practical experience, fostering holistic learning."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 484.53670097656254,
+            "r": 365.36090000000013,
+            "b": 451.99485684922996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Whether you're a local organization aiming to enhance local expertise or an international entity eager to tap into the rich geothermal potential, KenGen's training services cultivate a skilled workforce that drives success.",
+      "text": "Whether you're a local organization aiming to enhance local expertise or an international entity eager to tap into the rich geothermal potential, KenGen's training services cultivate a skilled workforce that drives success."
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 438.91780097656255,
+            "r": 172.84659999999997,
+            "b": 427.8188150610696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Array of offerings",
+      "text": "Array of offerings",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 416.93680097656255,
+            "r": 365.3669,
+            "b": 360.39495684922997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            344
+          ]
+        }
+      ],
+      "orig": "Empower  your  workforce  with  KenGen's  world-class  training  services, meticulously crafted for both local and international clients. Our deep-rooted commitment  to  knowledge-sharing  and  capacity-building  ensures  that  we nurture talent and equip professionals with the skills required to excel in the dynamic geothermal energy sector.",
+      "text": "Empower  your  workforce  with  KenGen's  world-class  training  services, meticulously crafted for both local and international clients. Our deep-rooted commitment  to  knowledge-sharing  and  capacity-building  ensures  that  we nurture talent and equip professionals with the skills required to excel in the dynamic geothermal energy sector."
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 347.3178009765625,
+            "r": 231.34659999999997,
+            "b": 336.21881506106956,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Other Supporting Services",
+      "text": "Other Supporting Services",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 325.33680097656253,
+            "r": 365.3599,
+            "b": 292.79495684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "In  addition  to  our  core  offerings,  KenGen  extends  a  range  of  supporting services,  including  Geomatics  consultancy,  Laboratory  testing  services,  and Geophysical surveys.",
+      "text": "In  addition  to  our  core  offerings,  KenGen  extends  a  range  of  supporting services,  including  Geomatics  consultancy,  Laboratory  testing  services,  and Geophysical surveys."
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 279.7177009765625,
+            "r": 192.6196,
+            "b": 268.61871506106957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Center of Excellence",
+      "text": "Center of Excellence",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 56.6929,
+            "t": 257.73670097656253,
+            "r": 365.3509000000001,
+            "b": 201.19485684922995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            341
+          ]
+        }
+      ],
+      "orig": "Through KenGen's Center of Excellence, empower your workforce with toptier  training  services  tailored  to  both  local  and  international  contexts.  Our steadfast dedication to knowledge-sharing and capacity-building underscores our commitment to fostering talent and equipping professionals for success in the geothermal energy sector.",
+      "text": "Through KenGen's Center of Excellence, empower your workforce with toptier  training  services  tailored  to  both  local  and  international  contexts.  Our steadfast dedication to knowledge-sharing and capacity-building underscores our commitment to fostering talent and equipping professionals for success in the geothermal energy sector."
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 17,
+          "bbox": {
+            "l": 353.9518,
+            "t": 36.78380097656259,
+            "r": 371.71779999999995,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 20,
+          "bbox": {
+            "l": 34.666666666666664,
+            "t": 93.94266764322919,
+            "r": 82.66666666666667,
+            "b": 85.2760009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "CONTACT:",
+      "text": "CONTACT:"
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 20,
+          "bbox": {
+            "l": 33.0,
+            "t": 78.94266764322913,
+            "r": 165.33333333333334,
+            "b": 48.94266764322913,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Managing Director and CEO pr@kengen.co.ke",
+      "text": "Managing Director and CEO pr@kengen.co.ke"
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 20,
+          "bbox": {
+            "l": 47.225,
+            "t": 36.78380097656259,
+            "r": 66.161,
+            "b": 21.068931088086742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "18",
+      "text": "18"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.1873779296875,
+            "t": 576.1772136688232,
+            "r": 402.3843994140625,
+            "b": 506.3081359863281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 293.4796142578125,
+            "t": 77.0108642578125,
+            "r": 383.0915832519531,
+            "b": 47.57305908203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.68927001953125,
+            "t": 361.3039093017578,
+            "r": 197.54627990722656,
+            "b": 59.1722412109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 55.779022216796875,
+            "t": 219.15689086914062,
+            "r": 363.3453063964844,
+            "b": 56.320068359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 55.78571701049805,
+            "t": 518.9543380737305,
+            "r": 363.56390380859375,
+            "b": 53.49212646484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.674903869628906,
+            "t": 539.763355255127,
+            "r": 205.9498748779297,
+            "b": 403.16819763183594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 213.8047332763672,
+            "t": 539.8147201538086,
+            "r": 363.8692932128906,
+            "b": 403.155029296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 61.3873291015625,
+            "t": 473.17423248291016,
+            "r": 360.65740966796875,
+            "b": 326.797607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 55.688438415527344,
+            "t": 539.5373802185059,
+            "r": 367.4720764160156,
+            "b": 369.1652069091797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 56.109371185302734,
+            "t": 237.85894775390625,
+            "r": 364.0006408691406,
+            "b": 93.9161376953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 56.38344955444336,
+            "t": 513.6159896850586,
+            "r": 184.30299377441406,
+            "b": 447.3352508544922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 75.31559753417969,
+            "t": 373.9484405517578,
+            "r": 256.44189453125,
+            "b": 273.3568115234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 12,
+          "bbox": {
+            "l": 57.6028938293457,
+            "t": 231.15621948242188,
+            "r": 125.891845703125,
+            "b": 141.62295532226562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 58.8707389831543,
+            "t": 535.2674751281738,
+            "r": 192.16073608398438,
+            "b": 438.36122131347656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/114"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 57.149356842041016,
+            "t": 378.30357360839844,
+            "r": 201.275146484375,
+            "b": 273.1170349121094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 13,
+          "bbox": {
+            "l": 68.91101837158203,
+            "t": 204.50942993164062,
+            "r": 131.68069458007812,
+            "b": 117.61920166015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 14,
+          "bbox": {
+            "l": 55.641334533691406,
+            "t": 395.96527099609375,
+            "r": 272.5314025878906,
+            "b": 232.02725219726562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/131"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 15,
+          "bbox": {
+            "l": 49.133636474609375,
+            "t": 429.42295837402344,
+            "r": 370.50518798828125,
+            "b": 269.4664001464844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/131"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 16,
+          "bbox": {
+            "l": 94.3482666015625,
+            "t": 286.364013671875,
+            "r": 325.4861755371094,
+            "b": 112.48699951171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 20,
+          "bbox": {
+            "l": 17.52536392211914,
+            "t": 62.91107177734375,
+            "r": 30.413860321044922,
+            "b": 49.09796142578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 20,
+          "bbox": {
+            "l": 33.42821502685547,
+            "t": 182.43487548828125,
+            "r": 110.35479736328125,
+            "b": 105.72982788085938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 13
+    },
+    "14": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 14
+    },
+    "15": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 15
+    },
+    "16": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 16
+    },
+    "17": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 17
+    },
+    "18": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 18
+    },
+    "19": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 19
+    },
+    "20": {
+      "size": {
+        "width": 419.52801513671875,
+        "height": 595.2760009765625
+      },
+      "page_no": 20
+    }
+  }
+}
