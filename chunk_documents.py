@@ -16,24 +16,43 @@ Architecture
   - Output                 : one JSONL per doc in data/chunks/
   - config.yaml            : generated from central_inventory.csv — never edit manually
 
-Cache format  (data/processed/<stem>.json written by Docling)
-─────────────────────────────────────────────────────────────
-  blocks[]:
-    block_type   — "paragraph" | "heading" | "list_item" | "caption" | "table"
-    heading_path — list[str]   e.g. ["1.2 Fiscal Policy Outlook"]
-    text         — str
-    block_index  — int
-    page_number  — int
+Cache format  (data/processed/<stem>.json — native DoclingDocument v1.10+)
+──────────────────────────────────────────────────────────────────────────
+  schema_name  : "DoclingDocument"
+  version      : "1.10.0"
+
+  texts[]:                         ← all text content lives here
+    self_ref       — "#/texts/N"
+    label          — "text" | "list_item" | "section_header" |
+                     "caption" | "page_header" | "page_footer" | ...
+    text           — str            ← the actual text
+    orig           — str            ← pre-normalisation original
+    prov[]         — [{"page_no": int, "bbox": {...}, ...}]
+    level          — int            ← heading level (section_header only)
 
   tables[]:
-    prov[]           — [{"page_no": int, ...}]
-    captions[]       — list of caption-ref objects (text resolved via blocks)
-    label            — str  e.g. "document_index" (table of contents → skip)
+    label          — str  e.g. "document_index" (table of contents → skip)
+    prov[]         — [{"page_no": int, ...}]
+    captions[]     — list of $ref objects (resolved via texts[])
     data:
-      grid[][]       — row-major list of cell dicts  {"text": str, "column_header": bool}
-      table_cells[]  — flat fallback list
-      num_rows       — int
-      num_cols       — int
+      grid[][]     — row-major list of cell dicts
+                     {"text": str, "column_header": bool, ...}
+      table_cells[]— flat fallback list
+      num_rows     — int
+      num_cols     — int
+
+Heading inference
+─────────────────
+  Native DoclingDocument does not pre-compute heading_path on text items.
+  We infer it by tracking the last seen section_header as we iterate texts[]
+  in document order.  Section headers are NOT added to chunk text — they
+  serve only as section boundary markers and chunk label prefixes.
+
+Labels used
+───────────
+  CONTENT_LABELS   — text items included in prose chunks
+  HEADING_LABEL    — triggers a heading-context update
+  SKIP_LABELS      — discarded entirely (running headers/footers, pictures)
 
 Chunking strategies
 ───────────────────
@@ -42,14 +61,6 @@ Chunking strategies
   audit_findings  same as legal  (finding boundaries via headings)
   tables_only     tables only, all text blocks skipped
   hybrid          text (narrative rules) + tables
-
-Cache file lookup
-─────────────────
-  Docling normalizes PDF filenames when writing cache stems:
-  all non-alphanumeric characters → underscores, runs collapsed, lowercased.
-  We apply the same canonical_stem() reduction to the config source_file
-  before comparing, so dots, commas, parens, em-dashes, and semicolons in
-  original filenames never cause a lookup miss.
 
 Usage
 ─────
@@ -104,25 +115,6 @@ def truncate_to_tokens(text: str, max_tokens: int) -> str:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def canonical_stem(name: str) -> str:
-    """
-    Reduce a filename stem or Docling cache stem to a canonical form.
-
-    Docling normalizes PDF filenames when writing cache JSON stems:
-    all non-alphanumeric characters are replaced with underscores and
-    consecutive underscores are collapsed.  We apply the same reduction to
-    config source_file values before comparing so that dots, commas,
-    parentheses, em-dashes, and semicolons in original filenames never cause
-    a lookup miss.
-
-    Examples
-    ────────
-        "RDM-1.2-Traffic-Surveys"                              → "rdm_1_2_traffic_surveys"
-        "CBK_16th Monetary Policy Committee Report, April 2016"→ "cbk_16th_monetary_policy_committee_report_april_2016"
-        "CBK_Annual Report 2015 16 (book)"                     → "cbk_annual_report_2015_16_book"
-        "2025-STRENGTHENING-OF-KANDWIA-–-KYUSO"               → "2025_strengthening_of_kandwia_kyuso"
-        "First Half NGBIRR FY 23-24 - COB final 13.3.14"      → "first_half_ngbirr_fy_23_24_cob_final_13_3_14"
-        "Office of the Controller of Budget;.pdf"              → "office_of_the_controller_of_budget"
-    """
     stem       = Path(name).stem if name.lower().endswith(".pdf") else name
     normalized = re.sub(r"[^a-z0-9]+", "_", stem.lower())
     return normalized.strip("_")
@@ -134,8 +126,6 @@ def build_cache_index(cache_dir: Path) -> dict:
     for json_file in cache_dir.glob("*.json"):
         key = canonical_stem(json_file.stem)
         if key in index:
-            # Two different cache files reduce to the same canonical stem —
-            # keep the one whose original stem is longer (more specific).
             if len(json_file.stem) > len(index[key].stem):
                 index[key] = json_file
         else:
@@ -144,25 +134,12 @@ def build_cache_index(cache_dir: Path) -> dict:
 
 
 def find_cache_file(cache_index: dict, source_file: str, doc_slug: str) -> Path | None:
-    """
-    Resolve a config entry → cache file using canonical stem matching.
-
-    Resolution order:
-        1. Canonical source_file stem  (primary — closest to original PDF name)
-        2. Canonical doc_slug          (fallback — dot-notation config slug)
-
-    The prefix-scan fallback present in earlier versions is intentionally
-    removed; canonical matching handles all real-world cases without the
-    false-positive collision risk of prefix matching.
-    """
     sf_key   = canonical_stem(source_file)
     slug_key = canonical_stem(doc_slug)
-
     if sf_key in cache_index:
         return cache_index[sf_key]
     if slug_key in cache_index:
         return cache_index[slug_key]
-
     return None
 
 
@@ -171,16 +148,8 @@ def find_cache_file(cache_index: dict, source_file: str, doc_slug: str) -> Path 
 # ══════════════════════════════════════════════════════════════════════════════
 
 def load_config(config_path: Path) -> tuple[dict, list]:
-    """
-    Load universal config.yaml.
-
-    Returns:
-        pipeline  — the pipeline: section dict
-        documents — list of per-document config dicts in config order
-    """
     with open(config_path, encoding="utf-8") as fh:
         config = yaml.safe_load(fh)
-
     pipeline  = config.get("pipeline", {})
     documents = config.get("documents", [])
     return pipeline, documents
@@ -190,8 +159,6 @@ def load_config(config_path: Path) -> tuple[dict, list]:
 # SKIP-SECTION CHECKER
 # ══════════════════════════════════════════════════════════════════════════════
 
-# Boilerplate section names per document_type.
-# A config-level skip_sections list (if present) overrides these entirely.
 DEFAULT_SKIP_SECTIONS: dict[str, list] = {
     "budget_policy_statement":  ["foreword", "acknowledgement", "table of contents"],
     "budget_review_outlook":    ["foreword", "acknowledgement", "table of contents"],
@@ -249,10 +216,6 @@ DEFAULT_SKIP_SECTIONS: dict[str, list] = {
 
 
 def get_skip_sections(doc_config: dict) -> list:
-    """
-    Return the skip_sections list for a document.
-    Config-level value (if present) takes precedence over type-level defaults.
-    """
     if "skip_sections" in doc_config:
         return doc_config["skip_sections"] or []
     doc_type = doc_config.get("document_type", "unknown")
@@ -260,10 +223,6 @@ def get_skip_sections(doc_config: dict) -> list:
 
 
 def make_skip_checker(skip_sections: list):
-    """
-    Return a callable: True if a heading should be skipped.
-    Matching is case-insensitive substring.
-    """
     skip_lower = [s.lower() for s in skip_sections]
 
     def should_skip(heading: str) -> bool:
@@ -276,70 +235,72 @@ def make_skip_checker(skip_sections: list):
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# BASE METADATA  (embedded in every chunk payload)
+# BASE METADATA
 # ══════════════════════════════════════════════════════════════════════════════
 
 def base_metadata(doc_config: dict) -> dict:
-    """
-    Build the rich metadata dict attached to every chunk.
-
-    agent_access is kept as a sorted list for Qdrant array filtering:
-        {"key": "agent_access", "match": {"any": ["finance"]}}
-
-    fiscal_year is always cast to str to avoid YAML int-parsing artefacts
-    (PyYAML reads  2016_17  as the integer 201617).
-    """
     topics       = doc_config.get("topics")       or []
     agent_access = doc_config.get("agent_access") or []
     primary      = doc_config.get("primary_agents") or []
 
     return {
-        # Identity
         "source_file":      doc_config.get("source_file",   ""),
         "doc_id":           doc_config.get("doc_id",         ""),
         "doc_slug":         doc_config.get("doc_slug",       ""),
-        # Agent routing / RBAC
         "agent_access":     sorted(agent_access),
         "primary_agents":   sorted(primary),
         "issuing_agent":    doc_config.get("issuing_agent",  "unknown"),
-        # Classification
         "document_type":    doc_config.get("document_type",  "unknown"),
         "domain":           doc_config.get("domain",         "unknown"),
         "topics":           sorted(topics),
-        # Temporal
         "fiscal_year":      str(doc_config.get("fiscal_year", "na")),
         "doc_year":         doc_config.get("doc_year",       None),
         "report_period":    doc_config.get("report_period",  "annual"),
-        # Retrieval weights
         "priority":         doc_config.get("priority",       "medium"),
         "rag_weight":       float(doc_config.get("rag_weight", 1.0)),
         "category":         doc_config.get("category",       0),
-        # Document properties
         "is_scanned":       bool(doc_config.get("is_scanned",     False)),
         "language":         doc_config.get("language",        "english"),
         "geographic_scope": doc_config.get("geographic_scope", "national"),
         "superseded":       bool(doc_config.get("superseded",     False)),
-        # Chunking strategy (useful for debugging / re-processing)
         "chunk_strategy":   doc_config.get("chunking_strategy", "narrative"),
     }
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# CAPTION LOOKUP  (used in table chunker for caption backfill)
+# NATIVE DOCLING DOCUMENT — TEXT ITEM HELPERS
 # ══════════════════════════════════════════════════════════════════════════════
 
-def build_caption_lookup(blocks: list) -> dict:
-    """
-    Build {page_number: caption_text} from caption-type blocks.
+# Labels treated as prose content (added to chunk text)
+CONTENT_LABELS = {"text", "list_item", "caption"}
 
-    Keeps the first caption per page (matches Docling's top-to-bottom ordering).
-    Used when a table's captions[] list is empty or unresolvable.
+# Label that updates the current heading context (not added to chunk text)
+HEADING_LABEL  = "section_header"
+
+# Labels discarded entirely — running headers/footers add noise to embeddings
+SKIP_LABELS    = {"page_header", "page_footer", "picture", "formula"}
+
+
+def _text_page(item: dict) -> int:
+    """Extract page number from a texts[] item's prov list."""
+    prov = item.get("prov") or []
+    if prov:
+        return prov[0].get("page_no", 1)
+    return 1
+
+
+def build_caption_lookup(doc: dict) -> dict:
+    """
+    Build {page_number: caption_text} from texts[] items with label 'caption'.
+
+    Keeps the first caption per page (Docling top-to-bottom ordering).
+    Used in table chunker when a table's captions[] list is empty.
     """
     lookup: dict[int, str] = {}
-    for block in blocks:
-        if block.get("block_type") == "caption":
-            page = block.get("page_number", 1)
-            text = block.get("text", "").strip()
+    for item in doc.get("texts", []):
+        if item.get("label") == "caption":
+            page = _text_page(item)
+            text = item.get("text", "").strip()
             if text and page not in lookup:
                 lookup[page] = text
     return lookup
@@ -353,23 +314,17 @@ def format_chunk_text(texts: list, heading: str) -> str:
     """
     Join block texts with blank-line separators, prefixed with [heading].
 
-    Output format (mirrors Finance prototype):
         [1.2 Fiscal Policy Outlook]
 
         In FY 2023/24, the fiscal deficit stood at 5.4% of GDP ...
-
-        The consolidation path targets a deficit of 4.8% ...
     """
     body = "\n\n".join(text for text in texts if text)
     return f"[{heading}]\n\n{body}" if heading else body
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# TEXT BLOCK CHUNKER
+# TEXT BLOCK CHUNKER  (native DoclingDocument)
 # ══════════════════════════════════════════════════════════════════════════════
-
-CONTENT_BLOCK_TYPES = {"paragraph", "list_item"}
-
 
 def chunk_text_blocks(
     doc:               dict,
@@ -380,45 +335,30 @@ def chunk_text_blocks(
     split_on_overflow: bool,
 ) -> list:
     """
-    Core text chunker shared by all text-bearing strategies.
+    Chunk prose text from a native DoclingDocument (texts[] array).
 
-    Flush rules
-    ───────────
-    Hard cut (heading_changed):
-        Always flush on section boundary. No overlap carried across headings —
-        different sections have independent context.
+    Heading inference
+    ─────────────────
+    Native DoclingDocument does not pre-compute heading_path.  We track the
+    last seen section_header label as we iterate texts[] in document order.
+    A new section_header always flushes the current accumulator and updates
+    the heading context — identical semantics to the old heading_changed cut.
 
-    Soft cut (token_overflow, narrative/hybrid only):
-        Flush when adding the next block would exceed chunk_size.
-        Carry the last block of the flushed chunk as the first block of the
-        next chunk (single-block overlap rather than a byte-count window).
-        This preserves inter-sentence coherence at chunk boundaries.
-
-    Legal / audit_findings:
-        split_on_overflow=False — one heading section = one chunk regardless
-        of length.  Legal clauses and audit findings must not be split mid-
-        section because the Qdrant reranker needs the full finding for scoring.
-
-    Args:
-        doc               — parsed Docling cache JSON
-        doc_config        — this document's config entry
-        meta              — pre-built base_metadata dict (shared across chunks)
-        chunk_size        — max tokens per chunk (already clamped to pipeline range)
-        chunk_overlap     — carried overlap token budget (informational; enforced
-                            via single-block carry, not a byte window)
-        split_on_overflow — True for narrative/hybrid, False for legal/audit_findings
+    Flush rules (unchanged from original)
+    ──────────────────────────────────────
+    Hard cut  — section_header encountered while accumulator is non-empty.
+    Soft cut  — token overflow (narrative/hybrid only); carry last item as
+                single-block overlap.
+    Legal     — split_on_overflow=False; one section = one chunk regardless
+                of length.
     """
-    blocks = [
-        block for block in doc.get("blocks", [])
-        if block.get("block_type") in CONTENT_BLOCK_TYPES
-    ]
-
-    skip   = make_skip_checker(get_skip_sections(doc_config))
-    chunks = []
+    texts_list = doc.get("texts", [])
+    skip        = make_skip_checker(get_skip_sections(doc_config))
+    chunks      = []
 
     # ── Accumulator state ─────────────────────────────────────────────────────
     cur_texts:      list[str]  = []
-    cur_block_objs: list[dict] = []
+    cur_item_objs:  list[dict] = []
     cur_tokens:     int        = 0
     cur_heading:    str        = ""
     cur_page:       int        = 1
@@ -440,74 +380,85 @@ def chunk_text_blocks(
         })
 
     # ── Main loop ──────────────────────────────────────────────────────────────
-    for block in blocks:
-        heading = (
-            block["heading_path"][0]
-            if block.get("heading_path") and isinstance(block["heading_path"], list)
-            else ""
-        )
+    for idx, item in enumerate(texts_list):
+        label = item.get("label", "")
 
-        if skip(heading):
+        # ── Update heading context on section_header ──────────────────────────
+        if label == HEADING_LABEL:
+            heading_text = item.get("text", "").strip()
+            if not heading_text:
+                continue
+            # Flush accumulator before switching section
+            if cur_texts:
+                emit_chunk()
+                cur_texts     = []
+                cur_item_objs = []
+                cur_tokens    = 0
+            # Only update heading if this section is not in the skip list
+            if not skip(heading_text):
+                cur_heading   = heading_text
+                cur_page      = _text_page(item)
+                cur_idx_start = idx
+                cur_idx_end   = idx
+            else:
+                # Entering a skipped section — blank the heading so content
+                # from the next section doesn't inherit the skipped label
+                cur_heading = ""
             continue
 
-        btext = block.get("text", "").strip()
-        if not btext:
+        # ── Discard noise labels ──────────────────────────────────────────────
+        if label in SKIP_LABELS:
             continue
 
-        btokens = count_tokens(btext)
-        bidx    = block.get("block_index", 0)
-        bpage   = block.get("page_number", 1)
+        # ── Only process content labels ───────────────────────────────────────
+        if label not in CONTENT_LABELS:
+            continue
 
-        heading_changed = bool(cur_texts) and (heading != cur_heading)
-        token_overflow  = (
+        # ── Skip if current heading is in the skip list ───────────────────────
+        if skip(cur_heading):
+            continue
+
+        itext = item.get("text", "").strip()
+        if not itext:
+            continue
+
+        itokens = count_tokens(itext)
+        ipage   = _text_page(item)
+
+        # ── Soft cut: token overflow ──────────────────────────────────────────
+        token_overflow = (
             split_on_overflow
             and bool(cur_texts)
-            and (cur_tokens + btokens > chunk_size)
+            and (cur_tokens + itokens > chunk_size)
         )
 
-        # ── Hard cut: heading change — no overlap across section boundaries ───
-        if heading_changed:
-            emit_chunk()
-            cur_texts      = []
-            cur_block_objs = []
-            cur_tokens     = 0
-
-        # ── Soft cut: token overflow — carry last block as overlap ────────────
-        elif token_overflow:
-            overlap_block = cur_block_objs[-1] if cur_block_objs else None
+        if token_overflow:
+            overlap_item = cur_item_objs[-1] if cur_item_objs else None
 
             emit_chunk()
-            cur_texts      = []
-            cur_block_objs = []
-            cur_tokens     = 0
+            cur_texts     = []
+            cur_item_objs = []
+            cur_tokens    = 0
 
-            if overlap_block is not None:
-                ob_text    = overlap_block.get("text", "").strip()
-                ob_heading = (
-                    overlap_block["heading_path"][0]
-                    if overlap_block.get("heading_path")
-                    and isinstance(overlap_block["heading_path"], list)
-                    else ""
-                )
-                cur_texts      = [ob_text]
-                cur_block_objs = [overlap_block]
-                cur_tokens     = count_tokens(ob_text)
-                cur_heading    = ob_heading
-                cur_page       = overlap_block.get("page_number", 1)
-                cur_idx_start  = overlap_block.get("block_index", 0)
-                cur_idx_end    = overlap_block.get("block_index", 0)
+            if overlap_item is not None:
+                ob_text   = overlap_item.get("text", "").strip()
+                cur_texts     = [ob_text]
+                cur_item_objs = [overlap_item]
+                cur_tokens    = count_tokens(ob_text)
+                cur_page      = _text_page(overlap_item)
+                cur_idx_start = texts_list.index(overlap_item) if overlap_item in texts_list else idx
+                cur_idx_end   = cur_idx_start
 
-        # ── Initialise accumulator on first block or after any flush ──────────
+        # ── Initialise accumulator on first item or after any flush ───────────
         if not cur_texts:
-            cur_heading   = heading
-            cur_page      = bpage
-            cur_idx_start = bidx
-            cur_idx_end   = bidx
+            cur_page      = ipage
+            cur_idx_start = idx
+            cur_idx_end   = idx
 
-        cur_texts.append(btext)
-        cur_block_objs.append(block)
-        cur_tokens  += btokens
-        cur_idx_end  = bidx
+        cur_texts.append(itext)
+        cur_item_objs.append(item)
+        cur_tokens  += itokens
+        cur_idx_end  = idx
 
     # ── Final flush ───────────────────────────────────────────────────────────
     emit_chunk()
@@ -525,21 +476,15 @@ def render_table_markdown(table: dict) -> str:
     Docling stores tables in data['grid'] (row-major list of cell dicts).
     Each cell dict has at minimum: {"text": str, "column_header": bool}.
     Falls back to data['table_cells'] (flat list) if grid is absent.
-
-    Header detection: if any cell in the first row has column_header=True,
-    the first row becomes the markdown table header row.
     """
     data = table.get("data", {})
     grid = data.get("grid")
 
     if grid:
-        # ── Build clean row list ──────────────────────────────────────────────
         rows: list[list[str]] = []
         for row_cells in grid:
-            # Docling repeats spanning cells across grid positions — deduplicate
-            # within each row while preserving order.
-            seen:  set         = set()
-            cells: list[str]   = []
+            seen:  set       = set()
+            cells: list[str] = []
             for cell in row_cells:
                 txt = cell.get("text", "").strip()
                 if txt not in seen:
@@ -559,12 +504,10 @@ def render_table_markdown(table: dict) -> str:
 
         lines: list[str] = []
         if is_header:
-            # First row is the header
             lines.append("| " + " | ".join(first_row) + " |")
             lines.append("| " + " | ".join(["---"] * len(first_row)) + " |")
             data_rows = rows[1:]
         else:
-            # No header — emit a blank header so the markdown is valid
             lines.append("| " + " | ".join([""] * num_cols) + " |")
             lines.append("| " + " | ".join(["---"] * num_cols) + " |")
             data_rows = rows
@@ -575,7 +518,7 @@ def render_table_markdown(table: dict) -> str:
 
         return "\n".join(lines)
 
-    # ── Fallback: flat table_cells ────────────────────────────────────────────
+    # Fallback: flat table_cells
     cells = data.get("table_cells", [])
     texts = [cell.get("text", "").strip() for cell in cells if cell.get("text", "").strip()]
     return "\n".join(texts)
@@ -586,41 +529,63 @@ def render_table_markdown(table: dict) -> str:
 # ══════════════════════════════════════════════════════════════════════════════
 
 def extract_table_page(table: dict) -> int:
-    """Extract page number from Docling prov list."""
     prov = table.get("prov", [])
     if prov:
         return prov[0].get("page_no", 1)
     return 1
 
 
+def resolve_caption_from_refs(table: dict, doc: dict) -> str:
+    """
+    Resolve caption text from a table's captions[] $ref list.
+
+    DoclingDocument captions[] contains objects like {"$ref": "#/texts/42"}.
+    We resolve each ref into the texts[] array and join any text found.
+    Falls back to empty string if refs are absent or unresolvable.
+    """
+    captions = table.get("captions", [])
+    if not captions:
+        return ""
+
+    texts_list = doc.get("texts", [])
+    parts = []
+    for cap_ref in captions:
+        ref = cap_ref.get("$ref", "")
+        # "#/texts/42" → index 42
+        match = re.match(r"#/texts/(\d+)$", ref)
+        if match:
+            text_idx = int(match.group(1))
+            if 0 <= text_idx < len(texts_list):
+                text = texts_list[text_idx].get("text", "").strip()
+                if text:
+                    parts.append(text)
+    return " ".join(parts)
+
+
 def extract_table_caption(
     table:          dict,
+    doc:            dict,
     caption_lookup: dict,
     table_idx:      int,
 ) -> str:
     """
-    Resolve table caption.
-
-    Resolution order:
-        1. caption-type block on same page (from blocks[] via caption_lookup)
-        2. Generated fallback: "Table N"
-
-    Note: Docling's captions[] list contains $ref objects pointing into the
-    document body, not embedded text. The caption text is already captured in
-    the blocks[] array as a "caption" block_type, so we use the page-level
-    lookup which is simpler and equivalent.
+    Resolve table caption with three-level fallback:
+        1. $ref resolution from table's captions[] list  (most accurate)
+        2. Page-level caption_lookup from texts[]         (proximity match)
+        3. Generated fallback: "Table N"
     """
+    ref_caption = resolve_caption_from_refs(table, doc)
+    if ref_caption:
+        return ref_caption
+
     page = extract_table_page(table)
     if page in caption_lookup:
         return caption_lookup[page]
+
     return f"Table {table_idx + 1}"
 
 
 def extract_table_columns(table: dict) -> list:
-    """
-    Extract column names from the first row of the grid if it is a header row.
-    Returns an empty list if no header row is detected.
-    """
     grid = table.get("data", {}).get("grid", [])
     if not grid:
         return []
@@ -643,27 +608,24 @@ def chunk_tables(
     """
     Produce one chunk per table.
 
-    Skips tables that Docling labelled "document_index" (table of contents).
+    Skips tables labelled "document_index" (table of contents).
     Skips tables whose rendered markdown is empty after truncation.
-
-    The caption is prepended to the markdown text so the embedding model
-    has semantic context for the numbers in the table.
+    Caption is prepended for embedding context.
     """
     tables = doc.get("tables", [])
     if not tables:
         return []
 
-    caption_lookup = build_caption_lookup(doc.get("blocks", []))
+    caption_lookup = build_caption_lookup(doc)
     doc_slug       = meta.get("doc_slug", "unknown")
     chunks         = []
 
     for idx, table in enumerate(tables):
-        # Skip Docling table-of-contents tables
         if table.get("label") == "document_index":
             continue
 
         page     = extract_table_page(table)
-        caption  = extract_table_caption(table, caption_lookup, idx)
+        caption  = extract_table_caption(table, doc, caption_lookup, idx)
         table_id = f"{doc_slug}_table_{idx:03d}"
 
         markdown = render_table_markdown(table)
@@ -672,7 +634,6 @@ def chunk_tables(
 
         markdown = truncate_to_tokens(markdown, chunk_size)
 
-        # Build chunk text: caption then markdown
         parts = [part for part in [caption, markdown] if part]
         text  = "\n\n".join(parts)
 
@@ -707,12 +668,6 @@ def chunk_document(
     chunk_min:  int,
     chunk_max:  int,
 ) -> list:
-    """
-    Route a document to the correct chunking strategy and return all chunks.
-
-    chunk_size is clamped to [chunk_min, chunk_max] from the pipeline section.
-    chunk_overlap is taken directly from config (pre-computed by generate_config.py).
-    """
     strategy      = doc_config.get("chunking_strategy", "narrative")
     chunk_size    = int(doc_config.get("chunk_size",    350))
     chunk_size    = max(chunk_min, min(chunk_max, chunk_size))
@@ -756,37 +711,18 @@ def main() -> None:
     parser = argparse.ArgumentParser(
         description="Universal document chunker — Kenya AI Executive Roundtable"
     )
-    parser.add_argument(
-        "--config", required=True,
-        help="Path to universal config.yaml",
-    )
-    parser.add_argument(
-        "--input", required=True,
-        help="Directory of parsed Docling cache JSONs (data/processed/)",
-    )
-    parser.add_argument(
-        "--output", required=True,
-        help="Directory for output JSONL files (data/chunks/)",
-    )
-    parser.add_argument(
-        "--force", action="store_true",
-        help="Re-chunk even if output JSONL already exists",
-    )
-    parser.add_argument(
-        "--slug", default=None,
-        help="Process only the document matching this doc_slug",
-    )
-    parser.add_argument(
-        "--agent", default=None,
-        help="Process only documents where AGENT is in primary_agents",
-    )
+    parser.add_argument("--config",  required=True, help="Path to universal config.yaml")
+    parser.add_argument("--input",   required=True, help="Directory of DoclingDocument JSONs (data/processed/)")
+    parser.add_argument("--output",  required=True, help="Directory for output JSONL files (data/chunks/)")
+    parser.add_argument("--force",   action="store_true", help="Re-chunk even if output JSONL already exists")
+    parser.add_argument("--slug",    default=None,  help="Process only the document matching this doc_slug")
+    parser.add_argument("--agent",   default=None,  help="Process only documents where AGENT is in primary_agents")
     args = parser.parse_args()
 
     config_path = Path(args.config)
     cache_dir   = Path(args.input)
     output_dir  = Path(args.output)
 
-    # ── Existence checks ──────────────────────────────────────────────────────
     if not config_path.exists():
         print(f"ERROR: config not found: {config_path}")
         sys.exit(1)
@@ -796,7 +732,6 @@ def main() -> None:
 
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    # ── Load config ───────────────────────────────────────────────────────────
     pipeline, documents = load_config(config_path)
     chunk_min  = int(pipeline.get("chunk_min_tokens", 100))
     chunk_max  = int(pipeline.get("chunk_max_tokens", 500))
@@ -810,11 +745,9 @@ def main() -> None:
     print(f"Token range     : {chunk_min}–{chunk_max}")
     print(f"Force re-chunk  : {args.force}")
 
-    # ── Build cache index ─────────────────────────────────────────────────────
     cache_index = build_cache_index(cache_dir)
     print(f"Cache files     : {len(cache_index)}")
 
-    # ── Apply filters ─────────────────────────────────────────────────────────
     if args.slug:
         documents = [d for d in documents if d.get("doc_slug") == args.slug]
         if not documents:
@@ -831,43 +764,35 @@ def main() -> None:
 
     print()
 
-    # ── Process documents ─────────────────────────────────────────────────────
-    total_chunks     = 0
-    processed:       list[tuple[str, int, str]] = []
-    skipped_hard:    list[str] = []
-    skipped_no_cache:list[str] = []
-    skipped_exists:  list[str] = []
-    skipped_error:   list[str] = []
-    skipped_collide: list[str] = []
+    total_chunks      = 0
+    processed:        list[tuple[str, int, str]] = []
+    skipped_hard:     list[str] = []
+    skipped_no_cache: list[str] = []
+    skipped_exists:   list[str] = []
+    skipped_error:    list[str] = []
+    skipped_collide:  list[str] = []
 
-    # Collision guard: one physical cache file → one config entry
-    used_cache_files: dict[str, str] = {}   # {str(cache_path): first_claiming_slug}
+    used_cache_files: dict[str, str] = {}
 
     for doc_config in documents:
         slug     = doc_config.get("doc_slug", "")
         fname    = doc_config.get("source_file", slug)
         strategy = doc_config.get("chunking_strategy", "narrative")
 
-        # ── Skip HARD-flagged documents ───────────────────────────────────────
-        # HARD flag is set by generate_config.py for unresolved classification,
-        # invalid doc_type, empty agent_access, doc_year anomalies, etc.
         if doc_config.get("HARD"):
-            reasons = doc_config.get("hard_reasons", ["see config HARD flag"])
+            reasons    = doc_config.get("hard_reasons", ["see config HARD flag"])
             reason_str = " | ".join(reasons)
             print(f"  SKIP (HARD)      : {fname}")
             print(f"                     {reason_str}")
             skipped_hard.append(fname)
             continue
 
-        # ── Locate cache file ─────────────────────────────────────────────────
         cache_file = find_cache_file(cache_index, fname, slug)
-
         if cache_file is None:
             print(f"  SKIP (no cache)  : {fname}")
             skipped_no_cache.append(fname)
             continue
 
-        # ── Collision detection ───────────────────────────────────────────────
         cache_key = str(cache_file)
         if cache_key in used_cache_files:
             first = used_cache_files[cache_key]
@@ -876,13 +801,11 @@ def main() -> None:
             continue
         used_cache_files[cache_key] = fname
 
-        # ── Skip if already chunked and not forcing ───────────────────────────
         out_file = output_dir / f"{slug}.jsonl"
         if out_file.exists() and not args.force:
             skipped_exists.append(slug)
             continue
 
-        # ── Load cache JSON ───────────────────────────────────────────────────
         try:
             with open(cache_file, encoding="utf-8") as fh:
                 doc = json.load(fh)
@@ -900,7 +823,11 @@ def main() -> None:
             skipped_error.append(fname)
             continue
 
-        # ── Chunk ─────────────────────────────────────────────────────────────
+        # Sanity check: warn if this is not a native DoclingDocument
+        if doc.get("schema_name") != "DoclingDocument":
+            print(f"  WARN (schema)    : {fname}  →  schema_name='{doc.get('schema_name')}' "
+                  f"(expected 'DoclingDocument') — attempting anyway")
+
         try:
             chunks = chunk_document(doc, doc_config, chunk_min, chunk_max)
         except Exception as err:
@@ -910,7 +837,13 @@ def main() -> None:
 
         n = len(chunks)
 
-        # ── Write JSONL ───────────────────────────────────────────────────────
+        # Warn loudly if a non-tables_only strategy produced zero text chunks
+        text_chunks  = sum(1 for chunk in chunks if chunk.get("chunk_type") == "text")
+        table_chunks = sum(1 for chunk in chunks if chunk.get("chunk_type") == "table")
+        if strategy != "tables_only" and text_chunks == 0 and n > 0:
+            print(f"  WARN (no prose)  : {fname}  →  {table_chunks} table chunks only, "
+                  f"0 text chunks — check texts[] labels in cache file")
+
         try:
             with open(out_file, "w", encoding="utf-8") as fh:
                 for chunk in chunks:
@@ -921,11 +854,11 @@ def main() -> None:
             continue
 
         access_str = "|".join(sorted(doc_config.get("agent_access") or []))
-        print(f"  ✓ {n:>4} chunks  [{strategy:<15}]  {slug}  [{access_str}]")
+        print(f"  ✓ {n:>4} chunks  [{strategy:<15}]  "
+              f"[txt={text_chunks} tbl={table_chunks}]  {slug}  [{access_str}]")
         total_chunks += n
         processed.append((slug, n, strategy))
 
-    # ── Summary ───────────────────────────────────────────────────────────────
     print()
     print("=" * 72)
     print(f"Processed         : {len(processed):>4} documents → {total_chunks:,} total chunks")
@@ -957,8 +890,8 @@ def main() -> None:
 
     if processed:
         print()
-        strat_counts:  Counter = Counter(strategy for _, _, strategy in processed)
-        chunks_by_strat: dict  = {}
+        strat_counts:    Counter = Counter(strategy for _, _, strategy in processed)
+        chunks_by_strat: dict   = {}
         for _, n, strategy in processed:
             chunks_by_strat[strategy] = chunks_by_strat.get(strategy, 0) + n
 
@@ -970,7 +903,6 @@ def main() -> None:
             )
         print()
 
-    # Exit non-zero if there were hard failures so CI pipelines can detect them
     if skipped_hard or skipped_error:
         sys.exit(1)
     sys.exit(0)
