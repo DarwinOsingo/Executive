@@ -11,7 +11,7 @@ Pipeline:
      — Split search when fiscal year filter active:
          dated docs: (TOP_K - NA_CAP) candidates, filtered by agent_access + domain
          na docs:    NA_CAP candidates, filtered by agent_access only
-  5. Cross-encoder rerank with priority + rag_weight boosting
+  5. Cross-encoder rerank with priority + rag_weight + recency boosting
   6. Return top 3 chunks with full payload (text + metadata)
 
 Agent filtering:
@@ -34,10 +34,13 @@ Fiscal year filter logic:
   - fiscal_year == "na"     → always included but capped at NA_CAP slots
 
 Priority boosting (applied after cross-encoder):
-  final_score = cross_encoder_score × priority_weight × rag_weight
+  final_score = cross_encoder_score × priority_weight × rag_weight × recency_multiplier
 
   Constitutional domain guard: constitutional chunks are capped at 0.8×
   on non-constitutional queries to prevent them dominating fiscal results.
+
+  Recency multiplier: dated documents are boosted by recency. na documents
+  (constitutional, structural) are not adjusted.
 
 Dependencies:
     pip install voyageai qdrant-client fastembed sentence-transformers groq python-dotenv
@@ -59,8 +62,9 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-# Load .env from same directory as this script
-load_dotenv(Path(__file__).parent / ".env")
+# Load .env from same directory as this script — override=True ensures
+# .env always wins over stale shell environment variables
+load_dotenv(Path(__file__).parent / ".env", override=True)
 
 import voyageai
 from groq import Groq
@@ -262,6 +266,11 @@ def classify_query(query: str) -> list[str]:
         parsed  = json.loads(raw)
         domains = parsed.get("domains", [])
         valid   = [d for d in domains if d in VALID_DOMAINS]
+
+        # Warn when Groq succeeded but returned no valid domains
+        if not valid:
+            print("  [classifier] WARNING: Groq returned no valid domains — falling back to full corpus")
+
         return valid if valid else []
 
     except Exception:
@@ -489,7 +498,39 @@ def hybrid_search(
     return [p.payload for p in dated_results.points] + [p.payload for p in na_results.points]
 
 
-# ── Reranking with priority + rag_weight boosting ─────────────────────────────
+# ── Recency multiplier ────────────────────────────────────────────────────────
+
+def get_recency_multiplier(fiscal_year: str) -> float:
+    """Return a recency multiplier based on fiscal year string.
+
+    na documents (constitutional, structural) are not adjusted — they are
+    timeless reference documents and should not be penalised for having no date.
+    Dated documents are boosted by recency so recent data beats old data
+    when cross-encoder scores are otherwise similar.
+
+    fiscal_year format: "2023_24" → fy_start = 2023
+    """
+    if fiscal_year == "na":
+        return 1.0
+
+    try:
+        fy_start = int(fiscal_year.split("_")[0])
+    except (ValueError, IndexError):
+        return 1.0
+
+    recency_weights = {
+        2025: 1.6,
+        2024: 1.4,
+        2023: 1.2,
+        2022: 1.0,
+        2021: 0.9,
+        2020: 0.8,
+    }
+    # anything older than 2020 gets 0.7
+    return recency_weights.get(fy_start, 0.7)
+
+
+# ── Reranking with priority + rag_weight + recency boosting ──────────────────
 
 def rerank_with_boost(
     query:                str,
@@ -497,9 +538,9 @@ def rerank_with_boost(
     top_k:                int  = TOP_K_FINAL,
     constitutional_query: bool = False,
 ) -> list[dict]:
-    """Cross-encoder rerank then boost by priority × rag_weight.
+    """Cross-encoder rerank then boost by priority × rag_weight × recency.
 
-    final_score = cross_encoder_score × priority_weight × rag_weight
+    final_score = cross_encoder_score × priority_weight × rag_weight × recency_multiplier
     """
     if not candidates:
         return []
@@ -512,13 +553,14 @@ def rerank_with_boost(
     for score, chunk in zip(scores, candidates):
         priority = chunk.get("priority", "medium")
         rag_w    = float(chunk.get("rag_weight", 1.0))
+        recency  = get_recency_multiplier(chunk.get("fiscal_year", "na"))
 
         if priority == "constitutional" and not constitutional_query:
             pw = CONSTITUTIONAL_NON_DOMAIN_WEIGHT
         else:
             pw = PRIORITY_WEIGHTS.get(priority, 1.0)
 
-        boosted.append((float(score) * pw * rag_w, chunk))
+        boosted.append((float(score) * pw * rag_w * recency, chunk))
 
     boosted.sort(key=lambda x: x[0], reverse=True)
     return [chunk for _, chunk in boosted[:top_k]]
@@ -580,8 +622,21 @@ def retrieve(
 
     candidates = hybrid_search(query, qdrant_filter, domains, agent)
 
+    # ── Deduplicate by source_file + page_number ──────────────────────────────
+    # Prevents the same page appearing twice in the candidate pool,
+    # which wastes a retrieval slot and skews reranking scores.
+    seen_ids          = set()
+    unique_candidates = []
+    for candidate in candidates:
+        doc_id = f"{candidate.get('source_file')}_{candidate.get('page_number')}"
+        if doc_id not in seen_ids:
+            seen_ids.add(doc_id)
+            unique_candidates.append(candidate)
+    candidates = unique_candidates
+    # ─────────────────────────────────────────────────────────────────────────
+
     if verbose:
-        print(f"  [retriever] Candidates    : {len(candidates)}")
+        print(f"  [retriever] Candidates    : {len(candidates)} (after dedup)")
 
     chunks = rerank_with_boost(query, candidates, TOP_K_FINAL, const_query)
 
