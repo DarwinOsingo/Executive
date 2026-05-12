@@ -6,13 +6,15 @@ Multi-agent RAG retriever for the Kenya AI Executive Roundtable pipeline.
 Pipeline:
   1. Detect fiscal year intent from query (regex)
   2. Classify query domain via Groq LLM call → list of domains
-  3. Embed query (Voyage dense + BM25 sparse)
-  4. Hybrid search in Qdrant (dense + BM25 via RRF fusion)
+  3. Optionally expand query with context hint (agent state / Kenya conditions)
+  4. Embed query (Voyage dense + BM25 sparse)
+  5. Hybrid search in Qdrant (dense + BM25 via RRF fusion)
      — Split search when fiscal year filter active:
          dated docs: (TOP_K - NA_CAP) candidates, filtered by agent_access + domain
          na docs:    NA_CAP candidates, filtered by agent_access only
-  5. Cross-encoder rerank with priority + rag_weight + recency boosting
-  6. Return top 3 chunks with full payload (text + metadata)
+  6. Cross-encoder rerank with priority + rag_weight + recency + source-diversity boosting
+  7. Semantic near-duplicate filtering on reranked candidates
+  8. Return top 3 chunks with full payload (text + metadata)
 
 Agent filtering:
   Each chunk has an agent_access[] array in its payload. Filtering uses
@@ -34,7 +36,7 @@ Fiscal year filter logic:
   - fiscal_year == "na"     → always included but capped at NA_CAP slots
 
 Priority boosting (applied after cross-encoder):
-  final_score = cross_encoder_score × priority_weight × rag_weight × recency_multiplier
+  final_score = cross_encoder_score × priority_weight × rag_weight × recency_multiplier × source_diversity_multiplier
 
   Constitutional domain guard: constitutional chunks are capped at 0.8×
   on non-constitutional queries to prevent them dominating fiscal results.
@@ -42,12 +44,33 @@ Priority boosting (applied after cross-encoder):
   Recency multiplier: dated documents are boosted by recency. na documents
   (constitutional, structural) are not adjusted.
 
+  Source diversity: chunks from the same source_file are penalised after
+  the second hit to prevent one report monopolising retrieval slots.
+
+Changes vs previous version:
+  - semantic_dedup(): token-overlap Jaccard filter replaces page-number dedup
+                      (page-number dedup was too coarse; same content on
+                      adjacent pages was not caught)
+  - source_diversity_multiplier(): penalises repeated source_file hits
+  - context_hint parameter on retrieve(): lets callers pass agent state /
+                      current Kenya conditions for query expansion without
+                      injecting debate history into the retriever itself
+  - memory_context parameter stub on retrieve(): future-safe hook for
+                      memory-aware retrieval (does nothing yet)
+
 Dependencies:
     pip install voyageai qdrant-client fastembed sentence-transformers groq python-dotenv
 
 Usage (as module):
     from retriever import retrieve
     chunks = retrieve("What was Kenya's GDP growth in 2019?", agent="finance")
+
+    # With context hint (query expansion):
+    chunks = retrieve(
+        "Should Kenya subsidize fuel?",
+        agent="finance",
+        context_hint="high public debt, IMF fiscal constraints, inflation pressure",
+    )
 
 Usage (CLI test):
     python retriever.py "What was Kenya's inflation rate in 2021?"
@@ -126,6 +149,15 @@ PRIORITY_WEIGHTS = {
 
 # Constitutional chunks on non-constitutional queries get this cap
 CONSTITUTIONAL_NON_DOMAIN_WEIGHT = 0.8
+
+# Source diversity: penalty multiplier applied to each hit beyond this count
+# from the same source_file. Set to 1.0 to disable.
+SOURCE_REPEAT_PENALTY   = 0.8   # multiplier per hit after SOURCE_REPEAT_THRESHOLD
+SOURCE_REPEAT_THRESHOLD = 2     # allow up to this many hits per source_file freely
+
+# Semantic dedup: chunks whose token-overlap Jaccard similarity exceeds this
+# threshold are considered near-duplicates and dropped.
+SEMANTIC_DEDUP_THRESHOLD = 0.7
 
 # All valid domain values across all 7 agents
 VALID_DOMAINS = {
@@ -334,6 +366,31 @@ def is_constitutional_query(query: str) -> bool:
     return any(kw in q for kw in CONSTITUTIONAL_KEYWORDS)
 
 
+# ── Query expansion ───────────────────────────────────────────────────────────
+
+def expand_query(query: str, context_hint: str | None) -> str:
+    """Append a context hint to the query for better retrieval targeting.
+
+    The context_hint should be a short phrase describing the current policy
+    environment — e.g. "high public debt, IMF fiscal constraints, inflation
+    pressure". It is set by the caller (agent turn logic), NOT generated
+    inside the retriever.
+
+    This keeps retrieval stateless while still allowing the debate orchestrator
+    to steer retrieval without injecting full debate history.
+
+    Args:
+        query:        original query string
+        context_hint: optional short phrase (1-2 sentences max)
+
+    Returns:
+        expanded query string, or original query if no hint provided
+    """
+    if not context_hint or not context_hint.strip():
+        return query
+    return f"{query.strip()} [{context_hint.strip()}]"
+
+
 # ── Qdrant filter builders ────────────────────────────────────────────────────
 
 def _agent_condition(agent: str) -> FieldCondition:
@@ -530,7 +587,87 @@ def get_recency_multiplier(fiscal_year: str) -> float:
     return recency_weights.get(fy_start, 0.7)
 
 
-# ── Reranking with priority + rag_weight + recency boosting ──────────────────
+# ── Semantic near-duplicate detection ────────────────────────────────────────
+
+def _token_set(text: str) -> set[str]:
+    """Lowercase word tokens from text, stripping punctuation."""
+    return set(re.findall(r'\b\w+\b', text.lower()))
+
+
+def is_near_duplicate(text1: str, text2: str, threshold: float = SEMANTIC_DEDUP_THRESHOLD) -> bool:
+    """Return True if two chunks are near-duplicates by token Jaccard similarity.
+
+    Jaccard = |intersection| / |union|
+
+    This catches paraphrased duplicates that page-number dedup misses, e.g.:
+        "Kenya debt increased to 68%"
+        "Public debt rose to 68 percent"
+
+    Threshold 0.7 is conservative — only catches near-identical restatements.
+    Lower it (e.g. 0.5) to be more aggressive; raise it to be more permissive.
+    """
+    if not text1 or not text2:
+        return False
+    tokens1 = _token_set(text1)
+    tokens2 = _token_set(text2)
+    if not tokens1 or not tokens2:
+        return False
+    intersection = len(tokens1 & tokens2)
+    union        = len(tokens1 | tokens2)
+    return (intersection / union) >= threshold
+
+
+def semantic_dedup(candidates: list[dict]) -> list[dict]:
+    """Remove near-duplicate chunks from the candidate pool.
+
+    Iterates candidates in order (preserving RRF rank), keeping a chunk only
+    if it is not a near-duplicate of any already-kept chunk.
+
+    This replaces the old page-number dedup which was too coarse.
+    """
+    kept = []
+    for candidate in candidates:
+        text = candidate.get("text", "")
+        if not any(is_near_duplicate(text, kept_chunk.get("text", "")) for kept_chunk in kept):
+            kept.append(candidate)
+    return kept
+
+
+# ── Source diversity multiplier ───────────────────────────────────────────────
+
+def apply_source_diversity(boosted: list[tuple[float, dict]]) -> list[tuple[float, dict]]:
+    """Penalise repeated hits from the same source_file.
+
+    Applied after cross-encoder scoring so diversity doesn't override a
+    genuinely much-better chunk from the same source.
+
+    Chunks beyond SOURCE_REPEAT_THRESHOLD from the same source_file are
+    multiplied by SOURCE_REPEAT_PENALTY per extra hit.
+
+    Example with threshold=2, penalty=0.8:
+        hit 1 from IMF_2024.pdf → ×1.0  (no penalty)
+        hit 2 from IMF_2024.pdf → ×1.0  (within threshold)
+        hit 3 from IMF_2024.pdf → ×0.8
+        hit 4 from IMF_2024.pdf → ×0.64  (0.8²)
+    """
+    source_counts: dict[str, int] = {}
+    result = []
+
+    for score, chunk in boosted:
+        source = chunk.get("source_file", "unknown")
+        count  = source_counts.get(source, 0)
+
+        if count >= SOURCE_REPEAT_THRESHOLD:
+            penalty = SOURCE_REPEAT_PENALTY ** (count - SOURCE_REPEAT_THRESHOLD + 1)
+            score   = score * penalty
+
+        source_counts[source] = count + 1
+        result.append((score, chunk))
+
+    return result
+
+
+# ── Reranking with priority + rag_weight + recency + source diversity ─────────
 
 def rerank_with_boost(
     query:                str,
@@ -538,9 +675,13 @@ def rerank_with_boost(
     top_k:                int  = TOP_K_FINAL,
     constitutional_query: bool = False,
 ) -> list[dict]:
-    """Cross-encoder rerank then boost by priority × rag_weight × recency.
+    """Cross-encoder rerank then boost by priority × rag_weight × recency × diversity.
 
-    final_score = cross_encoder_score × priority_weight × rag_weight × recency_multiplier
+    final_score = cross_encoder_score
+                  × priority_weight
+                  × rag_weight
+                  × recency_multiplier
+                  × source_diversity_multiplier
     """
     if not candidates:
         return []
@@ -562,7 +703,15 @@ def rerank_with_boost(
 
         boosted.append((float(score) * pw * rag_w * recency, chunk))
 
+    # Sort before diversity so penalty is applied to lower-ranked duplicates
     boosted.sort(key=lambda x: x[0], reverse=True)
+
+    # Apply source diversity penalty in rank order
+    boosted = apply_source_diversity(boosted)
+
+    # Re-sort after diversity adjustment
+    boosted.sort(key=lambda x: x[0], reverse=True)
+
     return [chunk for _, chunk in boosted[:top_k]]
 
 
@@ -582,27 +731,39 @@ def format_context(chunks: list[dict]) -> str:
 # ── Main retrieve function ────────────────────────────────────────────────────
 
 def retrieve(
-    query:   str,
-    agent:   str  = DEFAULT_AGENT,
-    verbose: bool = False,
+    query:          str,
+    agent:          str       = DEFAULT_AGENT,
+    context_hint:   str | None = None,
+    memory_context: str | None = None,  # future hook — not yet used
+    verbose:        bool      = False,
 ) -> list[dict]:
     """Full retrieval pipeline for any of the 7 Cabinet agents.
 
     Args:
-        query:   natural language question
-        agent:   one of: finance | education | agriculture | ict |
-                         infrastructure | anticorruption | president
-        verbose: print debug info
+        query:          natural language question
+        agent:          one of: finance | education | agriculture | ict |
+                                infrastructure | anticorruption | president
+        context_hint:   optional short phrase describing current policy
+                        environment or agent state. Appended to the query
+                        before embedding to steer retrieval without injecting
+                        debate history into the retriever.
+                        Example: "high public debt, IMF fiscal constraints"
+        memory_context: future hook for memory-aware retrieval. Accepted but
+                        not yet used. Pass None or omit.
+        verbose:        print debug info
 
     Returns:
         list of up to TOP_K_FINAL chunk dicts, each with full payload
         including text, source_file, fiscal_year, domain, priority,
         rag_weight, agent_access, topics, and all other metadata.
     """
-    year_intent   = detect_fiscal_year_intent(query)
+    # ── Query expansion ───────────────────────────────────────────────────────
+    expanded_query = expand_query(query, context_hint)
+
+    year_intent   = detect_fiscal_year_intent(query)  # use original for FY regex
     qdrant_filter = build_filter(year_intent, agent=agent)
     const_query   = is_constitutional_query(query)
-    domains       = classify_query(query)
+    domains       = classify_query(query)             # use original for classification
 
     if verbose:
         mode  = year_intent["mode"]
@@ -617,27 +778,25 @@ def retrieve(
         print(f"  [retriever] Agent         : {agent}")
         print(f"  [retriever] Domains       : {domains if domains else '(none — full corpus)'}")
         print(f"  [retriever] Constitutional : {const_query}")
+        if context_hint:
+            print(f"  [retriever] Context hint  : {context_hint}")
+            print(f"  [retriever] Expanded query: {expanded_query}")
         if year_intent["years"]:
             print(f"  [retriever] Split search  : {TOP_K_CANDIDATES - NA_CAP} dated + {NA_CAP} na slots")
 
-    candidates = hybrid_search(query, qdrant_filter, domains, agent)
+    # Use expanded query for embedding/search, original for classification/FY
+    candidates = hybrid_search(expanded_query, qdrant_filter, domains, agent)
 
-    # ── Deduplicate by source_file + page_number ──────────────────────────────
-    # Prevents the same page appearing twice in the candidate pool,
-    # which wastes a retrieval slot and skews reranking scores.
-    seen_ids          = set()
-    unique_candidates = []
-    for candidate in candidates:
-        doc_id = f"{candidate.get('source_file')}_{candidate.get('page_number')}"
-        if doc_id not in seen_ids:
-            seen_ids.add(doc_id)
-            unique_candidates.append(candidate)
-    candidates = unique_candidates
+    # ── Semantic deduplication ────────────────────────────────────────────────
+    # Replaces the old page-number dedup. Catches paraphrased duplicates
+    # (e.g. same debt figure stated differently across two chunks).
+    candidates = semantic_dedup(candidates)
     # ─────────────────────────────────────────────────────────────────────────
 
     if verbose:
-        print(f"  [retriever] Candidates    : {len(candidates)} (after dedup)")
+        print(f"  [retriever] Candidates    : {len(candidates)} (after semantic dedup)")
 
+    # Rerank with original query so scoring isn't skewed by appended hint
     chunks = rerank_with_boost(query, candidates, TOP_K_FINAL, const_query)
 
     if verbose:
@@ -666,14 +825,22 @@ if __name__ == "__main__":
                  "infrastructure", "anticorruption", "president"],
         help=f"Agent to retrieve for (default: {DEFAULT_AGENT})",
     )
+    parser.add_argument(
+        "--hint",
+        default=None,
+        help="Optional context hint for query expansion (e.g. 'high debt, IMF pressure')",
+    )
     args = parser.parse_args()
 
     query = " ".join(args.query) if args.query else "What is Kenya's fiscal deficit target?"
 
     print(f"\nQuery : {query}")
-    print(f"Agent : {args.agent}\n")
+    print(f"Agent : {args.agent}")
+    if args.hint:
+        print(f"Hint  : {args.hint}")
+    print()
 
-    results = retrieve(query, agent=args.agent, verbose=True)
+    results = retrieve(query, agent=args.agent, context_hint=args.hint, verbose=True)
 
     print(f"\n── Top {len(results)} chunks ──\n")
     for i, chunk in enumerate(results, 1):

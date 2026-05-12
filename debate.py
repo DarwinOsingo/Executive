@@ -73,6 +73,30 @@ def groq() -> Groq:
         GROQ = _groq_client()
     return GROQ
 
+
+def groq_call_with_retry(fn, retries: int = 3, delay: float = 4.0):
+    """Call a Groq API function with retry on transient network errors."""
+    last_exc = None
+    for attempt in range(retries):
+        try:
+            return fn()
+        except Exception as e:
+            last_exc = e
+            err = str(e)
+            # Transient: connection reset, timeout, rate limit
+            if any(x in err for x in ["Connection reset", "Connection aborted",
+                                       "Transport endpoint", "timed out",
+                                       "rate_limit", "503", "502"]):
+                wait = delay * (attempt + 1)
+                print(f"  [Groq transient error (attempt {attempt+1}/{retries}): retrying in {wait:.0f}s]")
+                time.sleep(wait)
+                # Re-initialise client on connection errors
+                global GROQ
+                GROQ = _groq_client()
+                continue
+            raise  # non-transient — re-raise immediately
+    raise last_exc
+
 # ── Routing ───────────────────────────────────────────────────────────────────
 
 ROUTER_SYSTEM = """You are the debate routing engine for Kenya's Cabinet.
@@ -119,20 +143,20 @@ def route_next_speaker(
     )
 
     try:
-        resp = groq().chat.completions.create(
-            model=GROQ_MODEL,
-            messages=[
-                {"role": "system", "content": ROUTER_SYSTEM},
-                {"role": "user",   "content": user_msg},
-            ],
-            max_tokens=ROUTER_MAX_TOKENS,
-            temperature=ROUTER_TEMPERATURE,
-        )
+        def _call():
+            return groq().chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[
+                    {"role": "system", "content": ROUTER_SYSTEM},
+                    {"role": "user",   "content": user_msg},
+                ],
+                max_tokens=ROUTER_MAX_TOKENS,
+                temperature=ROUTER_TEMPERATURE,
+            )
+        resp = groq_call_with_retry(_call)
         raw = resp.choices[0].message.content.strip()
-        # Strip markdown fences if present
         raw = re.sub(r"```(?:json)?", "", raw).strip().rstrip("```").strip()
         result = json.loads(raw)
-        # Validate
         if result.get("next") not in available_agents:
             result["next"] = _fallback_next(turn_history, available_agents)
         return result
@@ -177,15 +201,17 @@ Return ONLY valid JSON:
 def president_open(topic: str) -> dict:
     """President analyses topic and produces opening frame + lead agent."""
     try:
-        resp = groq().chat.completions.create(
-            model=GROQ_MODEL,
-            messages=[
-                {"role": "system", "content": OPENER_SYSTEM},
-                {"role": "user",   "content": f"Cabinet debate topic: {topic}"},
-            ],
-            max_tokens=300,
-            temperature=0.3,
-        )
+        def _call():
+            return groq().chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[
+                    {"role": "system", "content": OPENER_SYSTEM},
+                    {"role": "user",   "content": f"Cabinet debate topic: {topic}"},
+                ],
+                max_tokens=300,
+                temperature=0.3,
+            )
+        resp = groq_call_with_retry(_call)
         raw = resp.choices[0].message.content.strip()
         raw = re.sub(r"```(?:json)?", "", raw).strip().rstrip("```").strip()
         result = json.loads(raw)
@@ -225,15 +251,17 @@ def president_synthesise(topic: str, transcript: list[dict]) -> str:
         debate_text += f"{name} ({turn['speaker']}):\n{turn['response'][:400]}\n\n"
 
     try:
-        resp = groq().chat.completions.create(
-            model=GROQ_MODEL,
-            messages=[
-                {"role": "system",  "content": SYNTHESIS_PROMPT},
-                {"role": "user",    "content": debate_text[:6000]},  # stay within context
-            ],
-            max_tokens=600,
-            temperature=0.4,
-        )
+        def _call():
+            return groq().chat.completions.create(
+                model=GROQ_MODEL,
+                messages=[
+                    {"role": "system",  "content": SYNTHESIS_PROMPT},
+                    {"role": "user",    "content": debate_text[:6000]},
+                ],
+                max_tokens=600,
+                temperature=0.4,
+            )
+        resp = groq_call_with_retry(_call)
         return resp.choices[0].message.content.strip()
     except Exception as e:
         return f"[Synthesis error: {e}]"
@@ -365,6 +393,8 @@ def run_debate(
 
     transcript:   list[dict] = []
     turn_history: list[str]  = []   # agent_id sequence
+    excluded_after_deadlock: set[str] = set()  # agents blocked for 3 turns post-intervention
+    exclusion_expires_at: int = 0   # turn number when exclusion lifts
     turn_num = 0
 
     # ── Pre-load agents ────────────────────────────────────────────────────────
@@ -424,12 +454,14 @@ def run_debate(
         if turn_num == 1:
             message = first_message
         else:
-            # Last turn's response becomes the implicit context via history
-            # Agent responds to the debate as a whole
+            last_turn = transcript[-1]
+            last_speaker_name = AGENT_CONFIGS[last_turn["speaker"]]["name"]
             message = (
-                f"You are in a Cabinet debate on: {topic}\n"
-                f"React to the positions just stated and advance Kenya's policy interests "
-                f"from your ministerial mandate."
+                f"Debate topic: {topic}\n\n"
+                f"{last_speaker_name} just argued: {last_turn['response'][:400]}\n\n"
+                f"Do you agree or disagree with this specific position? "
+                f"State your stance clearly, cite data from your ministry's mandate, "
+                f"and identify one concrete point of disagreement or agreement."
             )
 
         # Agent speaks
@@ -459,37 +491,45 @@ def run_debate(
 
         # ── Stop condition: deadlock ───────────────────────────────────────────
         if is_deadlock(turn_history):
-            print(f"  [Deadlock detected ({', '.join(set(turn_history[-DEADLOCK_WINDOW:]))}) → President intervenes]")
-            # President intervenes with a bridging question
+            locked_pair = set(turn_history[-DEADLOCK_WINDOW:])
+            print(f"  [Deadlock detected ({', '.join(locked_pair)}) → President intervenes]")
             intervene_text = (
                 f"I note we have been circling between the same positions. "
                 f"Let me bring in a fresh perspective. "
                 f"What does the rest of Cabinet say?"
             )
             transcript.append({
-                "turn":       turn_num + 0.5,
-                "speaker":    "president",
-                "response":   intervene_text,
+                "turn":        turn_num + 0.5,
+                "speaker":     "president",
+                "response":    intervene_text,
                 "rag_sources": [],
-                "thinking":   "",
+                "thinking":    "",
             })
             print(f"\n  THE PRESIDENT (intervention): {intervene_text}\n")
-            # Force a different agent
-            used = set(turn_history[-DEADLOCK_WINDOW:])
-            remaining = [a for a in active_agents if a not in used]
+            # Exclude the deadlocked pair for the next 3 turns
+            excluded_after_deadlock = locked_pair
+            exclusion_expires_at    = turn_num + 3
+            remaining = [a for a in active_agents if a not in locked_pair]
             if remaining:
                 current_speaker = remaining[0]
                 continue
             else:
                 break
 
-        # ── Route next speaker ─────────────────────────────────────────────────
+        # ── Route next speaker (respecting post-deadlock exclusion) ───────────
+        # Build routing pool — exclude recently deadlocked agents while ban active
+        routing_pool = active_agents
+        if turn_num < exclusion_expires_at and excluded_after_deadlock:
+            routing_pool = [a for a in active_agents if a not in excluded_after_deadlock]
+            if not routing_pool:
+                routing_pool = active_agents  # safety: never leave empty
+
         route = route_next_speaker(
-            topic          = topic,
-            last_response  = result["response"],
-            last_speaker   = current_speaker,
-            turn_history   = turn_history,
-            available_agents = active_agents,
+            topic            = topic,
+            last_response    = result["response"],
+            last_speaker     = current_speaker,
+            turn_history     = turn_history,
+            available_agents = routing_pool,
         )
 
         if verbose:
@@ -543,14 +583,15 @@ if __name__ == "__main__":
         description="Kenya AI Executive Roundtable — Cabinet debate simulator"
     )
     parser.add_argument(
-        "topic", nargs="?",
+        "topic_pos", nargs="?",
         default=None,
-        help="Debate topic (wrap in quotes)",
+        metavar="TOPIC",
+        help="Debate topic as positional argument (wrap in quotes)",
     )
     parser.add_argument(
         "--topic", "-t",
         default=None,
-        help="Debate topic (alternative to positional)",
+        help="Debate topic (flag form)",
     )
     parser.add_argument(
         "--max-turns", "-m",
@@ -588,26 +629,12 @@ if __name__ == "__main__":
         sys.exit(0)
 
     # ── Debate mode ────────────────────────────────────────────────────────────
-    topic = args.topic or args.topic or (
+    # Resolve topic: --topic flag takes precedence, then positional, then default
+    DEFAULT_TOPIC = (
         "The Infrastructure CS is proposing a KSh 200 billion SGR extension "
         "to Uganda financed through a new sovereign bond. Should Kenya proceed?"
     )
-    # Handle positional topic
-    if hasattr(args, 'topic') and args.topic is None and len(sys.argv) > 1:
-        # Check if first positional arg was captured
-        pass
-
-    # Resolve topic from positional or flag
-    final_topic = None
-    for attr in [args.topic]:
-        if attr:
-            final_topic = attr
-            break
-    if not final_topic:
-        final_topic = (
-            "The Infrastructure CS is proposing a KSh 200 billion SGR extension "
-            "to Uganda financed through a new sovereign bond. Should Kenya proceed?"
-        )
+    final_topic = args.topic or getattr(args, 'topic_pos', None) or DEFAULT_TOPIC
 
     run_debate(
         topic         = final_topic,
