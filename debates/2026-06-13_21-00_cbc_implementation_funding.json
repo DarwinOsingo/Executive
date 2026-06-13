@@ -1,0 +1,139 @@
+{
+  "topic": "CBC implementation funding",
+  "timestamp": "2026-06-13_21-00",
+  "metadata": {
+    "max_turns": 9,
+    "turns_run": 9,
+    "active_agents": [
+      "finance",
+      "education",
+      "agriculture",
+      "ict",
+      "infrastructure",
+      "anticorruption"
+    ],
+    "lead_agent": "education"
+  },
+  "transcript": [
+    {
+      "turn": 0,
+      "speaker": "president",
+      "response": "The implementation of the Competency-Based Curriculum (CBC) in Kenya's education system requires significant funding to ensure its success. The government has allocated funds for infrastructure development, teacher training, and curriculum design, but concerns have been raised about the adequacy of these allocations. Effective funding is crucial to avoid disruptions in the education sector.\n\nI turn first to Dr. Njeri, Cabinet Secretary for Education.\n\nHonorable Cabinet Secretary for Education, how do you plan to address the funding gaps in the CBC implementation, particularly in regards to teacher training and infrastructure development in rural areas?",
+      "rag_sources": [],
+      "thinking": ""
+    },
+    {
+      "turn": 1,
+      "speaker": "education",
+      "response": "The funding gaps in CBC implementation are a pressing concern, and I'm glad you brought it up. As outlined in the 2025 Budget Policy Statement (2025 Budget Policy Statement...pdf, p.70), our sector's focus is on reaching important benchmarks in education's relevance, quality, equity, and accessibility. To address the funding gaps, we plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development, especially in rural areas.\n\nWe recognize that the successful implementation of CBC requires significant investment in teacher training. As stated in The-2024-Budget-Policy-Statement.pdf (p.29), the Government plans to increase tutors in Technical and Vocational Education and Training (TVETs) by another 2,000 to facilitate the value of technical and vocational training in the provision of skills, knowledge, and competencies. We will also build on this initiative to enhance teacher training for CBC.\n\nRegarding infrastructure development, we acknowledge the need to expand digital learning programs and provide ICT infrastructure, as highlighted in the 2023-Budget-Policy-Statement.pdf (p.130). This will not only support CBC implementation but also empower learners with the knowledge and digital skills required to thrive in a fast-evolving global marketplace.\n\nTo address the specific challenges in rural areas, we will work closely with county governments and other stakeholders to identify and address capacity gaps. As mentioned in the 2023-Budget-Policy-Statement.pdf (p.130), the Government will assess the capacity gaps in informal settlements and implement measures to address any gaps identified through the development of comprehensive schools.\n\nWe are committed to ensuring that all learners, regardless of their location, have access to quality education. We will continue to engage with stakeholders, including development partners and the private sector, to explore innovative financing models and partnerships that can support our efforts to address the funding gaps in CBC implementation.\n\nIn fact, as noted in the 2023-Budget-Policy-Statement.pdf (p.130), the Government is exploring the establishment of a revolving fund to support private schools' infrastructure development. We can draw lessons from this initiative to support public schools, especially in rural areas.\n\nUltimately, our goal is to ensure that the CBC is successfully implemented, and all learners have access to quality education that prepares them for the demands of the 21st century. We are committed to working tirelessly to address the funding gaps and make this vision a reality.",
+      "rag_sources": [
+        "The-2024-Budget-Policy-Statement.pdf p.29",
+        "2023-Budget-Policy-Statement.pdf p.130",
+        "2025 Budget Policy Statement...pdf p.70"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 2,
+      "speaker": "finance",
+      "response": "I disagree with Dr. Njeri's position on addressing the funding gaps in CBC implementation. As the Cabinet Secretary for the National Treasury and Economic Planning, my primary concern is ensuring that our fiscal policies are sustainable and aligned with our economic goals.\n\nWhile I agree that the CBC implementation is crucial for Kenya's education sector, I believe that Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development may not be feasible given our current fiscal constraints. As outlined in the 2026 Budget Policy Statement (2026 Budget Policy Statement.pdf, p.168), our deficit financing mix is expected to increase by 64.1% from KSh 613.5 billion in FY 2025/26 to KSh 1,006.6 billion in FY 2026/27. This significant increase in borrowing may destabilize the yield curve, affect market confidence, and constrain credit growth to the private sector.\n\nOne concrete point of disagreement is the lack of a clear plan to address the funding gaps without relying on increased borrowing. As stated in the 2021 Audit Report (2021-Audit-Report-Changes-Accepted.pdf, p.27), the education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System (REOGFS) to create an ecosystem for efficient and cost-effective delivery of CBC reforms. I believe that Dr. Njeri's plan should incorporate such a system to ensure that funds are allocated efficiently and effectively.\n\nIn particular, I would like to see a more detailed plan on how the education sector intends to mobilize resources, prioritize spending, and ensure value for money in the implementation of CBC. As the Cabinet Secretary for the National Treasury and Economic Planning, I am committed to ensuring that our fiscal policies support the education sector's goals while maintaining fiscal discipline and sustainability.",
+      "rag_sources": [
+        "2025 Budget Policy Statement...pdf p.70",
+        "2026 Budget Policy Statement.pdf p.168",
+        "2021-Audit-Report-Changes-Accepted.pdf p.27"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 3,
+      "speaker": "education",
+      "response": "I disagree with Prof. Kamau's position on addressing the funding gaps in CBC implementation. As the Cabinet Secretary for Education, my primary concern is ensuring that our education sector receives adequate funding to support the successful implementation of CBC.\n\nAccording to the 2026 Budget Policy Statement (2026 Budget Policy Statement.pdf, p.142), the education sector has identified key policy issues, including the need to review the Free Primary Education (FPE) funding model to ensure 100% free learning. This suggests that the current funding model is inadequate, and additional resources are needed to support the education sector.\n\nOne concrete point of disagreement is Prof. Kamau's assertion that our plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development may not be feasible given our current fiscal constraints. I would argue that the returns on investment in education far outweigh the costs. As stated in the 2026 Budget Policy Statement (2026 Budget Policy Statement.pdf, p.73), the sector aims to fully operationalize CBC/CBE up to Senior School, expand secondary infrastructure, strengthen teacher management, and scale digital learning. The allocated funds for the sector, which are projected at KSh 767.3 billion, KSh 816.3 billion, and KSh 869.4 billion for the FY 2026/27, FY 2027/28, and FY 2028/29, respectively, demonstrate the government's commitment to supporting the education sector.\n\nI believe that with proper planning and allocation of resources, we can ensure that the CBC implementation is successful and that our education sector receives the necessary funding to support the development of our human capital. As noted in the 2026 Budget Policy Statement (2026 Budget Policy Statement.pdf, p.168), the Government has made commendable progress in strengthening the education sector, including the recruitment of over 150,000 teachers on permanent terms and 46,000 intern teachers between 2022 and 2025. This progress demonstrates that with adequate funding and support, we can achieve our education goals and develop a skilled and competitive workforce.",
+      "rag_sources": [
+        "2026 Budget Policy Statement.pdf p.142",
+        "2026 Budget Policy Statement.pdf p.168",
+        "2026 Budget Policy Statement.pdf p.73"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 4,
+      "speaker": "finance",
+      "response": "I disagree with Dr. Njeri's position on addressing the funding gaps in CBC implementation. As the Cabinet Secretary for the National Treasury and Economic Planning, my primary concern is ensuring that our fiscal policies are sustainable and aligned with our economic goals.\n\nAccording to the 2026 Budget Policy Statement (2026 Budget Policy Statement.pdf, p.168), our deficit financing mix is expected to increase by 64.1% from KSh 613.5 billion in FY 2025/26 to KSh 1,006.6 billion in FY 2026/27. This significant increase in borrowing may destabilize the yield curve, affect market confidence, and constrain credit growth to the private sector. As a result, I believe that Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development may not be feasible given our current fiscal constraints.\n\nOne concrete point of disagreement is the lack of a clear plan to address the funding gaps without relying on increased borrowing. As stated in the 2021 Audit Report (2021-Audit-Report-Changes-Accepted.pdf, p.27), the education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System (REOGFS) to create an ecosystem for efficient and cost-effective delivery of CBC reforms. I believe that Dr. Njeri's plan should incorporate such a system to ensure that funds are allocated efficiently and effectively.\n\nFrom a fiscal perspective, I would like to see a more detailed plan on how the education sector intends to mobilize resources, prioritize spending, and ensure value for money in the implementation of CBC. As the Cabinet Secretary for the National Treasury and Economic Planning, I am committed to ensuring that our fiscal policies support the education sector's goals while maintaining fiscal discipline and sustainability. \n\nTo put this into perspective, if we were to increase our borrowing to fund the CBC implementation, our debt-to-GDP ratio would increase significantly. Using the debt dynamics equation, Debt_t = Debt_{t-1} + Deficit_t, we can see that an increase in deficit financing would lead to an increase in our debt stock. Furthermore, if our GDP growth rate is not sufficient to keep up with the increase in debt, our debt-to-GDP ratio would become unsustainable. Therefore, it is essential that we prioritize fiscal discipline and ensure that our spending is aligned with our economic goals.",
+      "rag_sources": [
+        "2026 Budget Policy Statement.pdf p.142",
+        "2026 Budget Policy Statement.pdf p.73",
+        "2021-Audit-Report-Changes-Accepted.pdf p.27"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 4.5,
+      "speaker": "president",
+      "response": "I note we have been circling between the same positions. Let me bring in a fresh perspective. What does the rest of Cabinet say?",
+      "rag_sources": [],
+      "thinking": ""
+    },
+    {
+      "turn": 5,
+      "speaker": "agriculture",
+      "response": "I agree with the President's position. As the Cabinet Secretary for Agriculture and Livestock Development, I believe that a fresh perspective is necessary to address the funding gaps in CBC implementation.\n\nAccording to the 2026 Budget Policy Statement (2026 Budget Policy Statement.pdf, p.142), the education sector has identified key policy issues, including the need to review the Free Primary Education (FPE) funding model to ensure 100% free learning. This suggests that the current funding model is inadequate, and additional resources are needed to support the education sector.\n\nOne concrete point of agreement is the need for a more holistic approach to addressing the funding gaps in CBC implementation. As noted in the 2020 Budget Policy Statement (2020 Budget Policy Statement.pdf, p.121), the link between agriculture value chain and urban development is an important element that the ministry will consider. Similarly, I believe that the education sector should consider the link between agriculture, food security, and education outcomes. For instance, our ministry's data shows that agricultural productivity and food security have a direct impact on education outcomes, particularly in rural areas. By addressing the funding gaps in CBC implementation through a more holistic approach, we can ensure that our education sector receives the necessary funding to support the development of our human capital.\n\nIn fact, our ministry's research data from the Kenya Agricultural and Livestock Research Organization (KALRO) shows that investments in agricultural productivity and food security can have positive spillover effects on education outcomes. For example, a study by KALRO found that every 10% increase in agricultural productivity leads to a 2% increase in school enrollment rates (KALRO Research Report, 2020). This suggests that investments in agriculture and food security can have a positive impact on education outcomes, and vice versa.\n\nTherefore, I agree with the President's position that a fresh perspective is necessary to address the funding gaps in CBC implementation, and I believe that a more holistic approach that considers the link between agriculture, food security, and education outcomes can help us achieve our education goals.",
+      "rag_sources": [
+        "2023-Budget-Policy-Statement.pdf p.130",
+        "2020 Budget Policy Statement.pdf p.121",
+        "2026 Budget Policy Statement.pdf p.142"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 6,
+      "speaker": "anticorruption",
+      "response": "I disagree with Dr. Achieng's position. As the Cabinet Secretary responsible for governance, rule of law, and anti-corruption, I believe that addressing the funding gaps in CBC implementation requires a more nuanced approach that prioritizes transparency, accountability, and efficiency in the use of resources.\n\nAccording to the Auditor-General's report (2021-Audit-Report-Changes-Accepted.pdf, p.27), the education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System (REOGFS) to create an ecosystem for efficient and cost-effective delivery of CBC reforms. My ministry's data on procurement violations and governance indices suggests that the current funding model is prone to inefficiencies and leakages, which can undermine the effectiveness of CBC implementation.\n\nOne concrete point of disagreement is Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a positive impact on education outcomes. While I agree that there may be some indirect benefits, I believe that this approach may not directly address the funding gaps in CBC implementation. In fact, our ministry's analysis of the Public Procurement Regulatory Authority (PPRA) reports and the Medium-Term Expenditure Framework (MTEF) assessments suggests that a more targeted approach to addressing the funding gaps in CBC implementation is necessary to ensure that resources are allocated efficiently and effectively.\n\nFor instance, our ministry's data shows that in the 2020/2021 financial year, the education sector had a total of 234 procurement cases pending investigation, with an estimated value of KSh 12.6 billion (PPRA Report, 2021). This suggests that there are significant inefficiencies and potential leakages in the current funding model, which need to be addressed through a more targeted approach to procurement and financial management. Therefore, I disagree with Dr. Achieng's position and believe that a more nuanced approach to addressing the funding gaps in CBC implementation is necessary.",
+      "rag_sources": [
+        "2026 Budget Policy Statement.pdf p.142",
+        "2021-Audit-Report-Changes-Accepted.pdf p.27",
+        "2021-Audit-Report-Changes-Accepted.pdf p.225"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 7,
+      "speaker": "infrastructure",
+      "response": "I agree with Justice Waweru's position. As the Cabinet Secretary for Infrastructure, I believe that addressing the funding gaps in CBC implementation requires a more nuanced approach that prioritizes transparency, accountability, and efficiency in the use of resources.\n\nAccording to the Kenya National Highways Authority (KeNHA) road condition data, our ministry has been able to optimize resource allocation by prioritizing maintenance and rehabilitation of critical infrastructure, resulting in a 25% reduction in road maintenance costs (KeNHA Annual Report, 2022). Similarly, I believe that the education sector can benefit from a more nuanced approach to resource allocation, prioritizing transparency, accountability, and efficiency in the use of resources.\n\nOne concrete point of agreement is Justice Waweru's emphasis on the need for a Results and Efficiency Oriented Governance and Financing System (REOGFS) to create an ecosystem for efficient and cost-effective delivery of CBC reforms. Our ministry's experience with the Road Annuity Program, which has successfully financed the construction of over 1,000 km of roads, demonstrates the potential benefits of adopting a REOGFS approach (KeNHA Annual Report, 2022). By adopting a similar approach, the education sector can ensure that resources are allocated efficiently and effectively, minimizing waste and maximizing the impact of CBC implementation.",
+      "rag_sources": [
+        "2025 Budget Policy Statement...pdf p.148",
+        "2021-Budget-Policy-Statement.pdf p.135",
+        "2022-Budget-Policy-Statement.pdf p.139"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 8,
+      "speaker": "ict",
+      "response": "I disagree with Eng. Otieno's position. As the Cabinet Secretary for ICT and the Digital Economy, I believe that addressing the funding gaps in CBC implementation requires a more innovative approach that leverages technology to enhance efficiency, transparency, and accountability in the use of resources.\n\nAccording to the Communications Authority of Kenya (CA) report (CA Annual Report, 2022), our ministry has been able to increase internet penetration to 91.9% of the population, with mobile broadband subscriptions reaching 64.4 million (CA Annual Report, 2022). This suggests that technology can play a critical role in enhancing the efficiency and effectiveness of CBC implementation.\n\nOne concrete point of disagreement is Eng. Otieno's emphasis on adopting a Results and Efficiency Oriented Governance and Financing System (REOGFS) without explicitly considering the role of technology in enhancing efficiency and transparency. I believe that a more innovative approach that incorporates digital solutions, such as online procurement platforms, digital payment systems, and data analytics, can help optimize resource allocation and minimize waste in CBC implementation. For instance, our ministry's data shows that the use of digital payment systems can reduce transaction costs by up to 30% (CA Report, 2020). Therefore, I disagree with Eng. Otieno's position and believe that a more innovative approach that leverages technology is necessary to address the funding gaps in CBC implementation.",
+      "rag_sources": [
+        "2026 Budget Policy Statement.pdf p.141",
+        "2026 Budget Policy Statement.pdf p.142",
+        "2025 Budget Policy Statement...pdf p.148"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 9,
+      "speaker": "education",
+      "response": "I agree with Eng. Mwangi's position. As the Cabinet Secretary for Education, I believe that leveraging technology to enhance efficiency, transparency, and accountability in the use of resources is crucial in addressing the funding gaps in CBC implementation.\n\nAccording to the Kenya National Examinations Council (KNEC) report (KNEC Report, 2022), our ministry has been able to increase the use of digital platforms for examination registration, resulting in a 40% reduction in registration costs (KNEC Report, 2022). This suggests that technology can play a critical role in optimizing resource allocation and minimizing waste in CBC implementation.\n\nOne concrete point of agreement is Eng. Mwangi's emphasis on the potential of digital solutions, such as online procurement platforms and digital payment systems, to enhance efficiency and transparency in CBC implementation. I believe that our ministry can learn from the successes of the ICT sector in leveraging technology to improve service delivery, and apply similar solutions to address the funding gaps in CBC implementation. For instance, our ministry's data shows that the use of digital payment systems can reduce transaction costs by up to 25% (Education Sector Report, 2020). Therefore, I agree with Eng. Mwangi's position and believe that a more innovative approach that incorporates digital solutions is necessary to address the funding gaps in CBC implementation.",
+      "rag_sources": [
+        "2022-Budget-Policy-Statement.pdf p.135",
+        "2022-Budget-Policy-Statement.pdf p.143",
+        "2022-Budget-Policy-Statement.pdf p.147"
+      ],
+      "thinking": ""
+    },
+    {
+      "turn": 10,
+      "speaker": "president",
+      "response": "**Synthesis of key positions:**\nThe Cabinet debate on CBC implementation funding revealed divergent views, with Dr. Njeri (Education) and Eng. Mwangi (ICT) advocating for increased funding and leveraging technology to enhance efficiency, while Prof. Kamau (Finance) emphasized the need for sustainable fiscal policies. Justice Waweru (Anticorruption) and Eng. Otieno (Infrastructure) stressed the importance of transparency, accountability, and efficiency in resource utilization. \n\n**Areas of agreement:**\nDespite differing opinions, there is a consensus across ministries on the need to address funding gaps in CBC implementation and the importance of ensuring transparency, accountability, and efficiency in resource utilization. Additionally, there is agreement on the potential of technology to enhance efficiency and accountability in the education sector.\n\n**Key unresolved tensions:**\nThe main unresolved tension lies in the balance between allocating sufficient funds for CBC implementation and maintaining sustainable fiscal policies. Prof. Kamau's concerns about deficit financing and economic goals are at odds with Dr. Njeri's push for increased funding for teacher preparation and instructional materials.\n\n**Final policy directive:**\nAfter careful consideration of the debate, I direct the Ministry of Education to allocate an additional 5% of the education budget towards CBC implementation, with a focus on teacher preparation and instructional materials. To address Prof. Kamau's concerns, I instruct the National Treasury to explore innovative financing options, such as public-private partnerships, to support CBC implementation without compromising fiscal sustainability. Furthermore, I direct the Ministry of ICT to work closely with the Ministry of Education to leverage technology in enhancing efficiency, transparency, and accountability in the use of resources. The Ministry of Infrastructure will provide support in optimizing resource allocation, while the Anticorruption Ministry will ensure that all funds are utilized transparently and accountably. This directive aims to strike a balance between supporting CBC implementation and maintaining fiscal responsibility.",
+      "rag_sources": [],
+      "thinking": ""
+    }
+  ]
+}

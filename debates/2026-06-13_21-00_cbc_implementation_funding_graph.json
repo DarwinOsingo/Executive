@@ -1,0 +1,2002 @@
+{
+  "topic": "CBC implementation funding",
+  "nodes": [
+    {
+      "id": "agent:agriculture",
+      "node_type": "agent",
+      "agent_id": "agriculture",
+      "name": "Dr. Achieng"
+    },
+    {
+      "id": "agent:education",
+      "node_type": "agent",
+      "agent_id": "education",
+      "name": "Dr. Njeri"
+    },
+    {
+      "id": "agent:president",
+      "node_type": "agent",
+      "agent_id": "president",
+      "name": "The President"
+    },
+    {
+      "id": "agent:ict",
+      "node_type": "agent",
+      "agent_id": "ict",
+      "name": "Eng. Mwangi"
+    },
+    {
+      "id": "agent:finance",
+      "node_type": "agent",
+      "agent_id": "finance",
+      "name": "Prof. Kamau"
+    },
+    {
+      "id": "agent:infrastructure",
+      "node_type": "agent",
+      "agent_id": "infrastructure",
+      "name": "Eng. Otieno"
+    },
+    {
+      "id": "agent:anticorruption",
+      "node_type": "agent",
+      "agent_id": "anticorruption",
+      "name": "Justice Waweru"
+    },
+    {
+      "id": "doc:The-2024-Budget-Policy-Statement.pdf",
+      "node_type": "document",
+      "source_file": "The-2024-Budget-Policy-Statement.pdf",
+      "cited_by": [
+        "education"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2023-Budget-Policy-Statement.pdf",
+      "node_type": "document",
+      "source_file": "2023-Budget-Policy-Statement.pdf",
+      "cited_by": [
+        "education",
+        "agriculture"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2025 Budget Policy Statement...pdf",
+      "node_type": "document",
+      "source_file": "2025 Budget Policy Statement...pdf",
+      "cited_by": [
+        "education",
+        "finance",
+        "infrastructure",
+        "ict"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2026 Budget Policy Statement.pdf",
+      "node_type": "document",
+      "source_file": "2026 Budget Policy Statement.pdf",
+      "cited_by": [
+        "finance",
+        "education",
+        "agriculture",
+        "anticorruption",
+        "ict"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2021-Audit-Report-Changes-Accepted.pdf",
+      "node_type": "document",
+      "source_file": "2021-Audit-Report-Changes-Accepted.pdf",
+      "cited_by": [
+        "finance",
+        "anticorruption"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2020 Budget Policy Statement.pdf",
+      "node_type": "document",
+      "source_file": "2020 Budget Policy Statement.pdf",
+      "cited_by": [
+        "agriculture"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2021-Budget-Policy-Statement.pdf",
+      "node_type": "document",
+      "source_file": "2021-Budget-Policy-Statement.pdf",
+      "cited_by": [
+        "infrastructure"
+      ],
+      "pages": []
+    },
+    {
+      "id": "doc:2022-Budget-Policy-Statement.pdf",
+      "node_type": "document",
+      "source_file": "2022-Budget-Policy-Statement.pdf",
+      "cited_by": [
+        "infrastructure",
+        "education"
+      ],
+      "pages": []
+    },
+    {
+      "id": "claim:education:t1:c0",
+      "node_type": "claim",
+      "text": "The Government plans to increase tutors in Technical and Vocational Education and Training by another 2,000",
+      "turn": 1,
+      "speaker": "education",
+      "figures": [
+        "2,000"
+      ],
+      "fiscal_year": "2024",
+      "sub_topics": [
+        "education_funding",
+        "infrastructure_cost"
+      ],
+      "opposes": "",
+      "supports": ""
+    },
+    {
+      "id": "topic:education_funding",
+      "node_type": "topic",
+      "label": "education_funding"
+    },
+    {
+      "id": "topic:infrastructure_cost",
+      "node_type": "topic",
+      "label": "infrastructure_cost"
+    },
+    {
+      "id": "claim:education:t1:c1",
+      "node_type": "claim",
+      "text": "The sector's focus is on reaching important benchmarks in education's relevance, quality, equity, and accessibility",
+      "turn": 1,
+      "speaker": "education",
+      "figures": [],
+      "fiscal_year": "2025",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": ""
+    },
+    {
+      "id": "topic:governance",
+      "node_type": "topic",
+      "label": "governance"
+    },
+    {
+      "id": "claim:education:t1:c2",
+      "node_type": "claim",
+      "text": "The Government will expand digital learning programs and provide ICT infrastructure",
+      "turn": 1,
+      "speaker": "education",
+      "figures": [],
+      "fiscal_year": "2023",
+      "sub_topics": [
+        "digital_economy",
+        "education_funding"
+      ],
+      "opposes": "",
+      "supports": ""
+    },
+    {
+      "id": "topic:digital_economy",
+      "node_type": "topic",
+      "label": "digital_economy"
+    },
+    {
+      "id": "claim:education:t1:c3",
+      "node_type": "claim",
+      "text": "The Government will prioritize funding for teacher preparation, instructional materials, and infrastructure development, especially in rural areas",
+      "turn": 1,
+      "speaker": "education",
+      "figures": [],
+      "fiscal_year": "2025",
+      "sub_topics": [
+        "education_funding",
+        "infrastructure_cost"
+      ],
+      "opposes": "",
+      "supports": ""
+    },
+    {
+      "id": "claim:finance:t2:c0",
+      "node_type": "claim",
+      "text": "The deficit financing mix is expected to increase by 64.1% from KSh 613.5 billion in FY 2025/26 to KSh 1,006.6 billion in FY 2026/27.",
+      "turn": 2,
+      "speaker": "finance",
+      "figures": [
+        "64.1%",
+        "KSh 613.5 billion",
+        "KSh 1,006.6 billion"
+      ],
+      "fiscal_year": "2025_26",
+      "sub_topics": [
+        "fiscal_policy",
+        "public_debt"
+      ],
+      "opposes": "Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development",
+      "supports": ""
+    },
+    {
+      "id": "topic:fiscal_policy",
+      "node_type": "topic",
+      "label": "fiscal_policy"
+    },
+    {
+      "id": "topic:public_debt",
+      "node_type": "topic",
+      "label": "public_debt"
+    },
+    {
+      "id": "claim:finance:t2:c1",
+      "node_type": "claim",
+      "text": "The education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System to create an ecosystem for efficient and cost-effective delivery of CBC reforms.",
+      "turn": 2,
+      "speaker": "finance",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "Dr. Njeri's plan",
+      "supports": "efficient allocation of funds"
+    },
+    {
+      "id": "claim:finance:t2:c2",
+      "node_type": "claim",
+      "text": "The 2026 Budget Policy Statement outlines an increase in borrowing that may destabilize the yield curve, affect market confidence, and constrain credit growth to the private sector.",
+      "turn": 2,
+      "speaker": "finance",
+      "figures": [],
+      "fiscal_year": "2026_27",
+      "sub_topics": [
+        "fiscal_policy",
+        "monetary_policy"
+      ],
+      "opposes": "Dr. Njeri's plan",
+      "supports": ""
+    },
+    {
+      "id": "topic:monetary_policy",
+      "node_type": "topic",
+      "label": "monetary_policy"
+    },
+    {
+      "id": "claim:education:t3:c0",
+      "node_type": "claim",
+      "text": "The education sector has identified key policy issues, including the need to review the Free Primary Education funding model to ensure 100% free learning.",
+      "turn": 3,
+      "speaker": "education",
+      "figures": [
+        "100%"
+      ],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding"
+      ],
+      "opposes": "",
+      "supports": "increased education funding"
+    },
+    {
+      "id": "claim:education:t3:c1",
+      "node_type": "claim",
+      "text": "The allocated funds for the sector are projected at KSh 767.3 billion, KSh 816.3 billion, and KSh 869.4 billion for the FY 2026/27, FY 2027/28, and FY 2028/29, respectively.",
+      "turn": 3,
+      "speaker": "education",
+      "figures": [
+        "767.3 billion",
+        "816.3 billion",
+        "869.4 billion"
+      ],
+      "fiscal_year": "2026_27",
+      "sub_topics": [
+        "education_funding",
+        "fiscal_policy"
+      ],
+      "opposes": "insufficient funding",
+      "supports": "adequate education funding"
+    },
+    {
+      "id": "claim:education:t3:c2",
+      "node_type": "claim",
+      "text": "The returns on investment in education far outweigh the costs.",
+      "turn": 3,
+      "speaker": "education",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "fiscal_policy"
+      ],
+      "opposes": "prioritization of funding is not feasible",
+      "supports": "increased education funding"
+    },
+    {
+      "id": "claim:education:t3:c3",
+      "node_type": "claim",
+      "text": "The sector aims to fully operationalize CBC/CBE up to Senior School, expand secondary infrastructure, strengthen teacher management, and scale digital learning.",
+      "turn": 3,
+      "speaker": "education",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "infrastructure_cost"
+      ],
+      "opposes": "",
+      "supports": "implementation of CBC"
+    },
+    {
+      "id": "claim:finance:t4:c0",
+      "node_type": "claim",
+      "text": "The deficit financing mix is expected to increase by 64.1% from KSh 613.5 billion in FY 2025/26 to KSh 1,006.6 billion in FY 2026/27",
+      "turn": 4,
+      "speaker": "finance",
+      "figures": [
+        "64.1%",
+        "KSh 613.5 billion",
+        "KSh 1,006.6 billion"
+      ],
+      "fiscal_year": "2025_26",
+      "sub_topics": [
+        "fiscal_policy",
+        "public_debt"
+      ],
+      "opposes": "Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development",
+      "supports": "fiscal sustainability"
+    },
+    {
+      "id": "claim:finance:t4:c1",
+      "node_type": "claim",
+      "text": "The education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System to create an ecosystem for efficient and cost-effective delivery of CBC reforms",
+      "turn": 4,
+      "speaker": "finance",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "Dr. Njeri's plan",
+      "supports": "efficient education funding"
+    },
+    {
+      "id": "claim:finance:t4:c2",
+      "node_type": "claim",
+      "text": "The 2026 Budget Policy Statement expects a significant increase in borrowing which may destabilize the yield curve, affect market confidence, and constrain credit growth to the private sector",
+      "turn": 4,
+      "speaker": "finance",
+      "figures": [],
+      "fiscal_year": "2026_27",
+      "sub_topics": [
+        "fiscal_policy",
+        "monetary_policy"
+      ],
+      "opposes": "Dr. Njeri's plan",
+      "supports": "fiscal prudence"
+    },
+    {
+      "id": "claim:agriculture:t5:c0",
+      "node_type": "claim",
+      "text": "The education sector has identified key policy issues, including the need to review the Free Primary Education funding model to ensure 100% free learning.",
+      "turn": 5,
+      "speaker": "agriculture",
+      "figures": [
+        "100"
+      ],
+      "fiscal_year": "2026_27",
+      "sub_topics": [
+        "education_funding",
+        "fiscal_policy"
+      ],
+      "opposes": "",
+      "supports": "President's position"
+    },
+    {
+      "id": "claim:agriculture:t5:c1",
+      "node_type": "claim",
+      "text": "The link between agriculture value chain and urban development is an important element that the ministry will consider.",
+      "turn": 5,
+      "speaker": "agriculture",
+      "figures": [],
+      "fiscal_year": "2020_21",
+      "sub_topics": [
+        "agriculture",
+        "fiscal_policy"
+      ],
+      "opposes": "",
+      "supports": "holistic approach to addressing funding gaps"
+    },
+    {
+      "id": "topic:agriculture",
+      "node_type": "topic",
+      "label": "agriculture"
+    },
+    {
+      "id": "claim:agriculture:t5:c2",
+      "node_type": "claim",
+      "text": "Agricultural productivity and food security have a direct impact on education outcomes, particularly in rural areas.",
+      "turn": 5,
+      "speaker": "agriculture",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "food_security",
+        "education_funding"
+      ],
+      "opposes": "",
+      "supports": "holistic approach to addressing funding gaps"
+    },
+    {
+      "id": "topic:food_security",
+      "node_type": "topic",
+      "label": "food_security"
+    },
+    {
+      "id": "claim:agriculture:t5:c3",
+      "node_type": "claim",
+      "text": "The current funding model is inadequate, and additional resources are needed to support the education sector.",
+      "turn": 5,
+      "speaker": "agriculture",
+      "figures": [],
+      "fiscal_year": "2026_27",
+      "sub_topics": [
+        "education_funding",
+        "fiscal_policy"
+      ],
+      "opposes": "",
+      "supports": "President's position"
+    },
+    {
+      "id": "claim:anticorruption:t6:c0",
+      "node_type": "claim",
+      "text": "The education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System to create an ecosystem for efficient and cost-effective delivery of CBC reforms.",
+      "turn": 6,
+      "speaker": "anticorruption",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": "addressing funding gaps in CBC implementation"
+    },
+    {
+      "id": "claim:anticorruption:t6:c1",
+      "node_type": "claim",
+      "text": "The current funding model is prone to inefficiencies and leakages, which can undermine the effectiveness of CBC implementation.",
+      "turn": 6,
+      "speaker": "anticorruption",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "procurement"
+      ],
+      "opposes": "Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a positive impact on education outcomes",
+      "supports": "a more targeted approach to addressing the funding gaps in CBC implementation"
+    },
+    {
+      "id": "topic:procurement",
+      "node_type": "topic",
+      "label": "procurement"
+    },
+    {
+      "id": "claim:anticorruption:t6:c2",
+      "node_type": "claim",
+      "text": "A more targeted approach to addressing the funding gaps in CBC implementation is necessary to ensure that resources are allocated efficiently and effectively.",
+      "turn": 6,
+      "speaker": "anticorruption",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a positive impact on education outcomes",
+      "supports": "a more nuanced approach that prioritizes transparency, accountability, and efficiency in the use of resources"
+    },
+    {
+      "id": "claim:anticorruption:t6:c3",
+      "node_type": "claim",
+      "text": "The Auditor-General's report recommends adopting a Results and Efficiency Oriented Governance and Financing System on page 27.",
+      "turn": 6,
+      "speaker": "anticorruption",
+      "figures": [
+        "27"
+      ],
+      "fiscal_year": "2021",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": "addressing funding gaps in CBC implementation"
+    },
+    {
+      "id": "claim:infrastructure:t7:c0",
+      "node_type": "claim",
+      "text": "The ministry has been able to optimize resource allocation by prioritizing maintenance and rehabilitation of critical infrastructure, resulting in a 25% reduction in road maintenance costs",
+      "turn": 7,
+      "speaker": "infrastructure",
+      "figures": [
+        "25%"
+      ],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "infrastructure_cost",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": "transparency, accountability, and efficiency in the use of resources"
+    },
+    {
+      "id": "claim:infrastructure:t7:c1",
+      "node_type": "claim",
+      "text": "The Road Annuity Program has successfully financed the construction of over 1,000 km of roads",
+      "turn": 7,
+      "speaker": "infrastructure",
+      "figures": [
+        "1,000"
+      ],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "infrastructure_cost",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": "Results and Efficiency Oriented Governance and Financing System (REOGFS)"
+    },
+    {
+      "id": "claim:infrastructure:t7:c2",
+      "node_type": "claim",
+      "text": "The education sector can benefit from a more nuanced approach to resource allocation, prioritizing transparency, accountability, and efficiency in the use of resources",
+      "turn": 7,
+      "speaker": "infrastructure",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": "Justice Waweru's position"
+    },
+    {
+      "id": "claim:infrastructure:t7:c3",
+      "node_type": "claim",
+      "text": "A Results and Efficiency Oriented Governance and Financing System (REOGFS) can create an ecosystem for efficient and cost-effective delivery of CBC reforms",
+      "turn": 7,
+      "speaker": "infrastructure",
+      "figures": [],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "governance",
+        "education_funding"
+      ],
+      "opposes": "",
+      "supports": "Justice Waweru's emphasis on REOGFS"
+    },
+    {
+      "id": "claim:ict:t8:c0",
+      "node_type": "claim",
+      "text": "Internet penetration has increased to 91.9% of the population",
+      "turn": 8,
+      "speaker": "ict",
+      "figures": [
+        "91.9%"
+      ],
+      "fiscal_year": "2022",
+      "sub_topics": [
+        "digital_economy"
+      ],
+      "opposes": "",
+      "supports": "leveraging technology for CBC implementation"
+    },
+    {
+      "id": "claim:ict:t8:c1",
+      "node_type": "claim",
+      "text": "Mobile broadband subscriptions have reached 64.4 million",
+      "turn": 8,
+      "speaker": "ict",
+      "figures": [
+        "64.4 million"
+      ],
+      "fiscal_year": "2022",
+      "sub_topics": [
+        "digital_economy"
+      ],
+      "opposes": "",
+      "supports": "leveraging technology for CBC implementation"
+    },
+    {
+      "id": "claim:ict:t8:c2",
+      "node_type": "claim",
+      "text": "The use of digital payment systems can reduce transaction costs by up to 30%",
+      "turn": 8,
+      "speaker": "ict",
+      "figures": [
+        "30%"
+      ],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "governance",
+        "procurement"
+      ],
+      "opposes": "adopting REOGFS without considering technology",
+      "supports": "using digital solutions for efficient resource allocation"
+    },
+    {
+      "id": "claim:ict:t8:c3",
+      "node_type": "claim",
+      "text": "The ministry's data shows that digital payment systems can reduce transaction costs",
+      "turn": 8,
+      "speaker": "ict",
+      "figures": [],
+      "fiscal_year": "2020",
+      "sub_topics": [
+        "governance",
+        "procurement"
+      ],
+      "opposes": "adopting REOGFS without considering technology",
+      "supports": "using digital solutions for efficient resource allocation"
+    },
+    {
+      "id": "claim:education:t9:c0",
+      "node_type": "claim",
+      "text": "The ministry has been able to increase the use of digital platforms for examination registration, resulting in a 40% reduction in registration costs.",
+      "turn": 9,
+      "speaker": "education",
+      "figures": [
+        "40%"
+      ],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "digital_economy"
+      ],
+      "opposes": "",
+      "supports": "leveraging technology to enhance efficiency, transparency, and accountability"
+    },
+    {
+      "id": "claim:education:t9:c1",
+      "node_type": "claim",
+      "text": "The use of digital payment systems can reduce transaction costs by up to 25%.",
+      "turn": 9,
+      "speaker": "education",
+      "figures": [
+        "25%"
+      ],
+      "fiscal_year": "na",
+      "sub_topics": [
+        "education_funding",
+        "digital_economy"
+      ],
+      "opposes": "",
+      "supports": "leveraging technology to enhance efficiency, transparency, and accountability"
+    },
+    {
+      "id": "claim:education:t9:c2",
+      "node_type": "claim",
+      "text": "The Kenya National Examinations Council report shows the ministry's success in using digital platforms for examination registration.",
+      "turn": 9,
+      "speaker": "education",
+      "figures": [],
+      "fiscal_year": "2022",
+      "sub_topics": [
+        "education_funding",
+        "governance"
+      ],
+      "opposes": "",
+      "supports": "leveraging technology to enhance efficiency, transparency, and accountability"
+    }
+  ],
+  "edges": [
+    {
+      "source": "agent:agriculture",
+      "target": "doc:2023-Budget-Policy-Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 5
+    },
+    {
+      "source": "agent:agriculture",
+      "target": "doc:2020 Budget Policy Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 5
+    },
+    {
+      "source": "agent:agriculture",
+      "target": "doc:2026 Budget Policy Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 5
+    },
+    {
+      "source": "agent:agriculture",
+      "target": "claim:agriculture:t5:c0",
+      "edge_type": "MADE",
+      "turn": 5
+    },
+    {
+      "source": "agent:agriculture",
+      "target": "claim:agriculture:t5:c1",
+      "edge_type": "MADE",
+      "turn": 5
+    },
+    {
+      "source": "agent:agriculture",
+      "target": "claim:agriculture:t5:c2",
+      "edge_type": "MADE",
+      "turn": 5
+    },
+    {
+      "source": "agent:agriculture",
+      "target": "claim:agriculture:t5:c3",
+      "edge_type": "MADE",
+      "turn": 5
+    },
+    {
+      "source": "agent:education",
+      "target": "doc:The-2024-Budget-Policy-Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "doc:2023-Budget-Policy-Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "doc:2025 Budget Policy Statement...pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "doc:2026 Budget Policy Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 3
+    },
+    {
+      "source": "agent:education",
+      "target": "doc:2022-Budget-Policy-Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 9
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t1:c0",
+      "edge_type": "MADE",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t1:c1",
+      "edge_type": "MADE",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t1:c2",
+      "edge_type": "MADE",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t1:c3",
+      "edge_type": "MADE",
+      "turn": 1
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t3:c0",
+      "edge_type": "MADE",
+      "turn": 3
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t3:c1",
+      "edge_type": "MADE",
+      "turn": 3
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t3:c2",
+      "edge_type": "MADE",
+      "turn": 3
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t3:c3",
+      "edge_type": "MADE",
+      "turn": 3
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t9:c0",
+      "edge_type": "MADE",
+      "turn": 9
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t9:c1",
+      "edge_type": "MADE",
+      "turn": 9
+    },
+    {
+      "source": "agent:education",
+      "target": "claim:education:t9:c2",
+      "edge_type": "MADE",
+      "turn": 9
+    },
+    {
+      "source": "agent:ict",
+      "target": "doc:2026 Budget Policy Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 8
+    },
+    {
+      "source": "agent:ict",
+      "target": "doc:2025 Budget Policy Statement...pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 8
+    },
+    {
+      "source": "agent:ict",
+      "target": "claim:ict:t8:c0",
+      "edge_type": "MADE",
+      "turn": 8
+    },
+    {
+      "source": "agent:ict",
+      "target": "claim:ict:t8:c1",
+      "edge_type": "MADE",
+      "turn": 8
+    },
+    {
+      "source": "agent:ict",
+      "target": "claim:ict:t8:c2",
+      "edge_type": "MADE",
+      "turn": 8
+    },
+    {
+      "source": "agent:ict",
+      "target": "claim:ict:t8:c3",
+      "edge_type": "MADE",
+      "turn": 8
+    },
+    {
+      "source": "agent:finance",
+      "target": "doc:2025 Budget Policy Statement...pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 2
+    },
+    {
+      "source": "agent:finance",
+      "target": "doc:2026 Budget Policy Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 4
+    },
+    {
+      "source": "agent:finance",
+      "target": "doc:2021-Audit-Report-Changes-Accepted.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 4
+    },
+    {
+      "source": "agent:finance",
+      "target": "claim:finance:t2:c0",
+      "edge_type": "MADE",
+      "turn": 2
+    },
+    {
+      "source": "agent:finance",
+      "target": "claim:finance:t2:c1",
+      "edge_type": "MADE",
+      "turn": 2
+    },
+    {
+      "source": "agent:finance",
+      "target": "claim:finance:t2:c2",
+      "edge_type": "MADE",
+      "turn": 2
+    },
+    {
+      "source": "agent:finance",
+      "target": "claim:finance:t4:c0",
+      "edge_type": "MADE",
+      "turn": 4
+    },
+    {
+      "source": "agent:finance",
+      "target": "claim:finance:t4:c1",
+      "edge_type": "MADE",
+      "turn": 4
+    },
+    {
+      "source": "agent:finance",
+      "target": "claim:finance:t4:c2",
+      "edge_type": "MADE",
+      "turn": 4
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "doc:2025 Budget Policy Statement...pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 7
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "doc:2021-Budget-Policy-Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 7
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "doc:2022-Budget-Policy-Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 7
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "claim:infrastructure:t7:c0",
+      "edge_type": "MADE",
+      "turn": 7
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "claim:infrastructure:t7:c1",
+      "edge_type": "MADE",
+      "turn": 7
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "claim:infrastructure:t7:c2",
+      "edge_type": "MADE",
+      "turn": 7
+    },
+    {
+      "source": "agent:infrastructure",
+      "target": "claim:infrastructure:t7:c3",
+      "edge_type": "MADE",
+      "turn": 7
+    },
+    {
+      "source": "agent:anticorruption",
+      "target": "doc:2026 Budget Policy Statement.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 6
+    },
+    {
+      "source": "agent:anticorruption",
+      "target": "doc:2021-Audit-Report-Changes-Accepted.pdf",
+      "edge_type": "CITES_DOC",
+      "turn": 6
+    },
+    {
+      "source": "agent:anticorruption",
+      "target": "claim:anticorruption:t6:c0",
+      "edge_type": "MADE",
+      "turn": 6
+    },
+    {
+      "source": "agent:anticorruption",
+      "target": "claim:anticorruption:t6:c1",
+      "edge_type": "MADE",
+      "turn": 6
+    },
+    {
+      "source": "agent:anticorruption",
+      "target": "claim:anticorruption:t6:c2",
+      "edge_type": "MADE",
+      "turn": 6
+    },
+    {
+      "source": "agent:anticorruption",
+      "target": "claim:anticorruption:t6:c3",
+      "edge_type": "MADE",
+      "turn": 6
+    },
+    {
+      "source": "claim:education:t1:c0",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c0",
+      "target": "topic:infrastructure_cost",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c0",
+      "target": "claim:education:t3:c0",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t1:c0",
+      "target": "claim:education:t3:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t1:c0",
+      "target": "claim:education:t9:c0",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t1:c0",
+      "target": "claim:education:t9:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t1:c1",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c1",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c2",
+      "target": "topic:digital_economy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c2",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c3",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t1:c3",
+      "target": "topic:infrastructure_cost",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t2:c0",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t2:c0",
+      "target": "topic:public_debt",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t2:c0",
+      "target": "claim:education:t1:c3",
+      "edge_type": "OPPOSES",
+      "reason": "Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrast"
+    },
+    {
+      "source": "claim:finance:t2:c1",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t2:c1",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t2:c2",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t2:c2",
+      "target": "topic:monetary_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c0",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c0",
+      "target": "claim:agriculture:t5:c3",
+      "edge_type": "SUPPORTS",
+      "reason": "increased education funding"
+    },
+    {
+      "source": "claim:education:t3:c0",
+      "target": "claim:education:t3:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t3:c0",
+      "target": "claim:education:t9:c0",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t3:c0",
+      "target": "claim:education:t9:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t3:c1",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c1",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c1",
+      "target": "claim:agriculture:t5:c3",
+      "edge_type": "SUPPORTS",
+      "reason": "adequate education funding"
+    },
+    {
+      "source": "claim:education:t3:c1",
+      "target": "claim:education:t9:c0",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t3:c1",
+      "target": "claim:education:t9:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding"
+      ]
+    },
+    {
+      "source": "claim:education:t3:c2",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c2",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c2",
+      "target": "claim:anticorruption:t6:c1",
+      "edge_type": "OPPOSES",
+      "reason": "prioritization of funding is not feasible"
+    },
+    {
+      "source": "claim:education:t3:c2",
+      "target": "claim:agriculture:t5:c3",
+      "edge_type": "SUPPORTS",
+      "reason": "increased education funding"
+    },
+    {
+      "source": "claim:education:t3:c3",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t3:c3",
+      "target": "topic:infrastructure_cost",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t4:c0",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t4:c0",
+      "target": "topic:public_debt",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t4:c0",
+      "target": "claim:education:t1:c3",
+      "edge_type": "OPPOSES",
+      "reason": "Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrast"
+    },
+    {
+      "source": "claim:finance:t4:c1",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t4:c1",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t4:c1",
+      "target": "claim:agriculture:t5:c3",
+      "edge_type": "SUPPORTS",
+      "reason": "efficient education funding"
+    },
+    {
+      "source": "claim:finance:t4:c2",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:finance:t4:c2",
+      "target": "topic:monetary_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c0",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c0",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c1",
+      "target": "topic:agriculture",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c1",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c1",
+      "target": "claim:anticorruption:t6:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "holistic approach to addressing funding gaps"
+    },
+    {
+      "source": "claim:agriculture:t5:c2",
+      "target": "topic:food_security",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c2",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c2",
+      "target": "claim:anticorruption:t6:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "holistic approach to addressing funding gaps"
+    },
+    {
+      "source": "claim:agriculture:t5:c3",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:agriculture:t5:c3",
+      "target": "topic:fiscal_policy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c0",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c0",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c0",
+      "target": "claim:anticorruption:t6:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "addressing funding gaps in CBC implementation"
+    },
+    {
+      "source": "claim:anticorruption:t6:c1",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c1",
+      "target": "topic:procurement",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c1",
+      "target": "claim:agriculture:t5:c2",
+      "edge_type": "OPPOSES",
+      "reason": "Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a po"
+    },
+    {
+      "source": "claim:anticorruption:t6:c1",
+      "target": "claim:anticorruption:t6:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "a more targeted approach to addressing the funding gaps in CBC implementation"
+    },
+    {
+      "source": "claim:anticorruption:t6:c2",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c2",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c2",
+      "target": "claim:agriculture:t5:c2",
+      "edge_type": "OPPOSES",
+      "reason": "Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a po"
+    },
+    {
+      "source": "claim:anticorruption:t6:c2",
+      "target": "claim:infrastructure:t7:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "a more nuanced approach that prioritizes transparency, accountability, and efficiency in the use of "
+    },
+    {
+      "source": "claim:anticorruption:t6:c3",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c3",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:anticorruption:t6:c3",
+      "target": "claim:anticorruption:t6:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "addressing funding gaps in CBC implementation"
+    },
+    {
+      "source": "claim:infrastructure:t7:c0",
+      "target": "topic:infrastructure_cost",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c0",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c0",
+      "target": "claim:infrastructure:t7:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "transparency, accountability, and efficiency in the use of resources"
+    },
+    {
+      "source": "claim:infrastructure:t7:c0",
+      "target": "claim:infrastructure:t7:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "infrastructure",
+      "topics": [
+        "infrastructure_cost",
+        "governance"
+      ]
+    },
+    {
+      "source": "claim:infrastructure:t7:c1",
+      "target": "topic:infrastructure_cost",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c1",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c1",
+      "target": "claim:anticorruption:t6:c3",
+      "edge_type": "SUPPORTS",
+      "reason": "Results and Efficiency Oriented Governance and Financing System (REOGFS)"
+    },
+    {
+      "source": "claim:infrastructure:t7:c2",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c2",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c3",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:infrastructure:t7:c3",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c0",
+      "target": "topic:digital_economy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c0",
+      "target": "claim:ict:t8:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "ict",
+      "topics": [
+        "digital_economy"
+      ]
+    },
+    {
+      "source": "claim:ict:t8:c1",
+      "target": "topic:digital_economy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c2",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c2",
+      "target": "topic:procurement",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c2",
+      "target": "claim:education:t9:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "using digital solutions for efficient resource allocation"
+    },
+    {
+      "source": "claim:ict:t8:c3",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c3",
+      "target": "topic:procurement",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:ict:t8:c3",
+      "target": "claim:education:t9:c2",
+      "edge_type": "SUPPORTS",
+      "reason": "using digital solutions for efficient resource allocation"
+    },
+    {
+      "source": "claim:education:t9:c0",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t9:c0",
+      "target": "topic:digital_economy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t9:c0",
+      "target": "claim:education:t9:c1",
+      "edge_type": "POSSIBLE_CONTRADICTION",
+      "agent": "education",
+      "topics": [
+        "education_funding",
+        "digital_economy"
+      ]
+    },
+    {
+      "source": "claim:education:t9:c1",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t9:c1",
+      "target": "topic:digital_economy",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t9:c2",
+      "target": "topic:education_funding",
+      "edge_type": "ADDRESSES"
+    },
+    {
+      "source": "claim:education:t9:c2",
+      "target": "topic:governance",
+      "edge_type": "ADDRESSES"
+    }
+  ],
+  "turn_claims": {
+    "1": [
+      {
+        "text": "The Government plans to increase tutors in Technical and Vocational Education and Training by another 2,000",
+        "figures": [
+          "2,000"
+        ],
+        "fiscal_year": "2024",
+        "opposes_claim_about": "",
+        "supports_claim_about": "",
+        "sub_topics": [
+          "education_funding",
+          "infrastructure_cost"
+        ]
+      },
+      {
+        "text": "The sector's focus is on reaching important benchmarks in education's relevance, quality, equity, and accessibility",
+        "figures": [],
+        "fiscal_year": "2025",
+        "opposes_claim_about": "",
+        "supports_claim_about": "",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      },
+      {
+        "text": "The Government will expand digital learning programs and provide ICT infrastructure",
+        "figures": [],
+        "fiscal_year": "2023",
+        "opposes_claim_about": "",
+        "supports_claim_about": "",
+        "sub_topics": [
+          "digital_economy",
+          "education_funding"
+        ]
+      },
+      {
+        "text": "The Government will prioritize funding for teacher preparation, instructional materials, and infrastructure development, especially in rural areas",
+        "figures": [],
+        "fiscal_year": "2025",
+        "opposes_claim_about": "",
+        "supports_claim_about": "",
+        "sub_topics": [
+          "education_funding",
+          "infrastructure_cost"
+        ]
+      }
+    ],
+    "2": [
+      {
+        "text": "The deficit financing mix is expected to increase by 64.1% from KSh 613.5 billion in FY 2025/26 to KSh 1,006.6 billion in FY 2026/27.",
+        "figures": [
+          "64.1%",
+          "KSh 613.5 billion",
+          "KSh 1,006.6 billion"
+        ],
+        "fiscal_year": "2025_26",
+        "opposes_claim_about": "Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development",
+        "supports_claim_about": "",
+        "sub_topics": [
+          "fiscal_policy",
+          "public_debt"
+        ]
+      },
+      {
+        "text": "The education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System to create an ecosystem for efficient and cost-effective delivery of CBC reforms.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "Dr. Njeri's plan",
+        "supports_claim_about": "efficient allocation of funds",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      },
+      {
+        "text": "The 2026 Budget Policy Statement outlines an increase in borrowing that may destabilize the yield curve, affect market confidence, and constrain credit growth to the private sector.",
+        "figures": [],
+        "fiscal_year": "2026_27",
+        "opposes_claim_about": "Dr. Njeri's plan",
+        "supports_claim_about": "",
+        "sub_topics": [
+          "fiscal_policy",
+          "monetary_policy"
+        ]
+      }
+    ],
+    "3": [
+      {
+        "text": "The education sector has identified key policy issues, including the need to review the Free Primary Education funding model to ensure 100% free learning.",
+        "figures": [
+          "100%"
+        ],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "increased education funding",
+        "sub_topics": [
+          "education_funding"
+        ]
+      },
+      {
+        "text": "The allocated funds for the sector are projected at KSh 767.3 billion, KSh 816.3 billion, and KSh 869.4 billion for the FY 2026/27, FY 2027/28, and FY 2028/29, respectively.",
+        "figures": [
+          "767.3 billion",
+          "816.3 billion",
+          "869.4 billion"
+        ],
+        "fiscal_year": "2026_27",
+        "opposes_claim_about": "insufficient funding",
+        "supports_claim_about": "adequate education funding",
+        "sub_topics": [
+          "education_funding",
+          "fiscal_policy"
+        ]
+      },
+      {
+        "text": "The returns on investment in education far outweigh the costs.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "prioritization of funding is not feasible",
+        "supports_claim_about": "increased education funding",
+        "sub_topics": [
+          "education_funding",
+          "fiscal_policy"
+        ]
+      },
+      {
+        "text": "The sector aims to fully operationalize CBC/CBE up to Senior School, expand secondary infrastructure, strengthen teacher management, and scale digital learning.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "implementation of CBC",
+        "sub_topics": [
+          "education_funding",
+          "infrastructure_cost"
+        ]
+      }
+    ],
+    "4": [
+      {
+        "text": "The deficit financing mix is expected to increase by 64.1% from KSh 613.5 billion in FY 2025/26 to KSh 1,006.6 billion in FY 2026/27",
+        "figures": [
+          "64.1%",
+          "KSh 613.5 billion",
+          "KSh 1,006.6 billion"
+        ],
+        "fiscal_year": "2025_26",
+        "opposes_claim_about": "Dr. Njeri's plan to prioritize funding for teacher preparation, instructional materials, and infrastructure development",
+        "supports_claim_about": "fiscal sustainability",
+        "sub_topics": [
+          "fiscal_policy",
+          "public_debt"
+        ]
+      },
+      {
+        "text": "The education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System to create an ecosystem for efficient and cost-effective delivery of CBC reforms",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "Dr. Njeri's plan",
+        "supports_claim_about": "efficient education funding",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      },
+      {
+        "text": "The 2026 Budget Policy Statement expects a significant increase in borrowing which may destabilize the yield curve, affect market confidence, and constrain credit growth to the private sector",
+        "figures": [],
+        "fiscal_year": "2026_27",
+        "opposes_claim_about": "Dr. Njeri's plan",
+        "supports_claim_about": "fiscal prudence",
+        "sub_topics": [
+          "fiscal_policy",
+          "monetary_policy"
+        ]
+      }
+    ],
+    "5": [
+      {
+        "text": "The education sector has identified key policy issues, including the need to review the Free Primary Education funding model to ensure 100% free learning.",
+        "figures": [
+          "100"
+        ],
+        "fiscal_year": "2026_27",
+        "opposes_claim_about": "",
+        "supports_claim_about": "President's position",
+        "sub_topics": [
+          "education_funding",
+          "fiscal_policy"
+        ]
+      },
+      {
+        "text": "The link between agriculture value chain and urban development is an important element that the ministry will consider.",
+        "figures": [],
+        "fiscal_year": "2020_21",
+        "opposes_claim_about": "",
+        "supports_claim_about": "holistic approach to addressing funding gaps",
+        "sub_topics": [
+          "agriculture",
+          "fiscal_policy"
+        ]
+      },
+      {
+        "text": "Agricultural productivity and food security have a direct impact on education outcomes, particularly in rural areas.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "holistic approach to addressing funding gaps",
+        "sub_topics": [
+          "food_security",
+          "education_funding"
+        ]
+      },
+      {
+        "text": "The current funding model is inadequate, and additional resources are needed to support the education sector.",
+        "figures": [],
+        "fiscal_year": "2026_27",
+        "opposes_claim_about": "",
+        "supports_claim_about": "President's position",
+        "sub_topics": [
+          "education_funding",
+          "fiscal_policy"
+        ]
+      }
+    ],
+    "6": [
+      {
+        "text": "The education sector needs to adopt a Results and Efficiency Oriented Governance and Financing System to create an ecosystem for efficient and cost-effective delivery of CBC reforms.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "addressing funding gaps in CBC implementation",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      },
+      {
+        "text": "The current funding model is prone to inefficiencies and leakages, which can undermine the effectiveness of CBC implementation.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a positive impact on education outcomes",
+        "supports_claim_about": "a more targeted approach to addressing the funding gaps in CBC implementation",
+        "sub_topics": [
+          "education_funding",
+          "procurement"
+        ]
+      },
+      {
+        "text": "A more targeted approach to addressing the funding gaps in CBC implementation is necessary to ensure that resources are allocated efficiently and effectively.",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "Dr. Achieng's suggestion that investing in agricultural productivity and food security can have a positive impact on education outcomes",
+        "supports_claim_about": "a more nuanced approach that prioritizes transparency, accountability, and efficiency in the use of resources",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      },
+      {
+        "text": "The Auditor-General's report recommends adopting a Results and Efficiency Oriented Governance and Financing System on page 27.",
+        "figures": [
+          "27"
+        ],
+        "fiscal_year": "2021",
+        "opposes_claim_about": "",
+        "supports_claim_about": "addressing funding gaps in CBC implementation",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      }
+    ],
+    "7": [
+      {
+        "text": "The ministry has been able to optimize resource allocation by prioritizing maintenance and rehabilitation of critical infrastructure, resulting in a 25% reduction in road maintenance costs",
+        "figures": [
+          "25%"
+        ],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "transparency, accountability, and efficiency in the use of resources",
+        "sub_topics": [
+          "infrastructure_cost",
+          "governance"
+        ]
+      },
+      {
+        "text": "The Road Annuity Program has successfully financed the construction of over 1,000 km of roads",
+        "figures": [
+          "1,000"
+        ],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "Results and Efficiency Oriented Governance and Financing System (REOGFS)",
+        "sub_topics": [
+          "infrastructure_cost",
+          "governance"
+        ]
+      },
+      {
+        "text": "The education sector can benefit from a more nuanced approach to resource allocation, prioritizing transparency, accountability, and efficiency in the use of resources",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "Justice Waweru's position",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      },
+      {
+        "text": "A Results and Efficiency Oriented Governance and Financing System (REOGFS) can create an ecosystem for efficient and cost-effective delivery of CBC reforms",
+        "figures": [],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "Justice Waweru's emphasis on REOGFS",
+        "sub_topics": [
+          "governance",
+          "education_funding"
+        ]
+      }
+    ],
+    "8": [
+      {
+        "text": "Internet penetration has increased to 91.9% of the population",
+        "figures": [
+          "91.9%"
+        ],
+        "fiscal_year": "2022",
+        "opposes_claim_about": "",
+        "supports_claim_about": "leveraging technology for CBC implementation",
+        "sub_topics": [
+          "digital_economy"
+        ]
+      },
+      {
+        "text": "Mobile broadband subscriptions have reached 64.4 million",
+        "figures": [
+          "64.4 million"
+        ],
+        "fiscal_year": "2022",
+        "opposes_claim_about": "",
+        "supports_claim_about": "leveraging technology for CBC implementation",
+        "sub_topics": [
+          "digital_economy"
+        ]
+      },
+      {
+        "text": "The use of digital payment systems can reduce transaction costs by up to 30%",
+        "figures": [
+          "30%"
+        ],
+        "fiscal_year": "na",
+        "opposes_claim_about": "adopting REOGFS without considering technology",
+        "supports_claim_about": "using digital solutions for efficient resource allocation",
+        "sub_topics": [
+          "governance",
+          "procurement"
+        ]
+      },
+      {
+        "text": "The ministry's data shows that digital payment systems can reduce transaction costs",
+        "figures": [],
+        "fiscal_year": "2020",
+        "opposes_claim_about": "adopting REOGFS without considering technology",
+        "supports_claim_about": "using digital solutions for efficient resource allocation",
+        "sub_topics": [
+          "governance",
+          "procurement"
+        ]
+      }
+    ],
+    "9": [
+      {
+        "text": "The ministry has been able to increase the use of digital platforms for examination registration, resulting in a 40% reduction in registration costs.",
+        "figures": [
+          "40%"
+        ],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "leveraging technology to enhance efficiency, transparency, and accountability",
+        "sub_topics": [
+          "education_funding",
+          "digital_economy"
+        ]
+      },
+      {
+        "text": "The use of digital payment systems can reduce transaction costs by up to 25%.",
+        "figures": [
+          "25%"
+        ],
+        "fiscal_year": "na",
+        "opposes_claim_about": "",
+        "supports_claim_about": "leveraging technology to enhance efficiency, transparency, and accountability",
+        "sub_topics": [
+          "education_funding",
+          "digital_economy"
+        ]
+      },
+      {
+        "text": "The Kenya National Examinations Council report shows the ministry's success in using digital platforms for examination registration.",
+        "figures": [],
+        "fiscal_year": "2022",
+        "opposes_claim_about": "",
+        "supports_claim_about": "leveraging technology to enhance efficiency, transparency, and accountability",
+        "sub_topics": [
+          "education_funding",
+          "governance"
+        ]
+      }
+    ]
+  },
+  "doc_agents": {
+    "The-2024-Budget-Policy-Statement.pdf": [
+      "education"
+    ],
+    "2023-Budget-Policy-Statement.pdf": [
+      "agriculture",
+      "education"
+    ],
+    "2025 Budget Policy Statement...pdf": [
+      "infrastructure",
+      "ict",
+      "education",
+      "finance"
+    ],
+    "2026 Budget Policy Statement.pdf": [
+      "agriculture",
+      "education",
+      "ict",
+      "finance",
+      "anticorruption"
+    ],
+    "2021-Audit-Report-Changes-Accepted.pdf": [
+      "anticorruption",
+      "finance"
+    ],
+    "2020 Budget Policy Statement.pdf": [
+      "agriculture"
+    ],
+    "2021-Budget-Policy-Statement.pdf": [
+      "infrastructure"
+    ],
+    "2022-Budget-Policy-Statement.pdf": [
+      "infrastructure",
+      "education"
+    ]
+  }
+}

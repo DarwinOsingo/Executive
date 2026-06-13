@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenya AI Executive Roundtable — Debate Viewer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        ::view-transition-group(*),
+        ::view-transition-old(*),
+        ::view-transition-new(*) {
+            animation-duration: 0.25s;
+            animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0A1F0F;
+            color: #E8E0CC;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 380px;
+            gap: 16px;
+            padding: 24px;
+            max-width: 1600px;
+            margin: 0 auto;
+            min-height: 100vh;
+        }
+
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            .sidebar {
+                order: 2;
+            }
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* HEADER */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        .header {
+            grid-column: 1 / -1;
+            border-bottom: 2px solid #C9A84C;
+            padding-bottom: 16px;
+            margin-bottom: 8px;
+        }
+
+        .header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.4rem;
+            font-weight: 800;
+            color: #C9A84C;
+            margin-bottom: 4px;
+            letter-spacing: -1px;
+        }
+
+        .header .topic {
+            font-size: 1.1rem;
+            color: #E8E0CC;
+            margin-bottom: 8px;
+        }
+
+        .header .metadata {
+            display: flex;
+            gap: 24px;
+            font-size: 0.9rem;
+            color: #2A5C34;
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* FILTER BAR */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        .filter-bar {
+            grid-column: 1 / 2;
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 12px;
+        }
+
+        .filter-btn {
+            padding: 6px 14px;
+            border: 1px solid #1C3D22;
+            background: #1C3D22;
+            color: #E8E0CC;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.2s ease;
+        }
+
+        .filter-btn:hover {
+            border-color: #C9A84C;
+            background: rgba(201, 168, 76, 0.1);
+        }
+
+        .filter-btn.active {
+            background: #C9A84C;
+            color: #0A1F0F;
+            border-color: #C9A84C;
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* DEBATE FEED */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        .feed {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .turn {
+            background: #1C3D22;
+            border-left: 4px solid #C9A84C;
+            padding: 16px;
+            border-radius: 4px;
+            animation: slideIn 0.4s cubic-bezier(0.19, 1, 0.22, 1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .turn:hover {
+            transform: translateX(4px);
+            box-shadow: 0 4px 16px rgba(201, 168, 76, 0.15);
+        }
+
+        .turn.president {
+            border-left-color: #8B2020;
+            background: rgba(139, 32, 32, 0.1);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .turn-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+
+        .turn-counter {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            color: #C9A84C;
+            font-weight: 600;
+            min-width: 45px;
+        }
+
+        .speaker-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 3px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .badge-fin { background: #1E5C8A; color: #E8E0CC; }
+        .badge-edu { background: #3D5C2E; color: #E8E0CC; }
+        .badge-agr { background: #6B4C1E; color: #E8E0CC; }
+        .badge-ict { background: #4A3E5C; color: #E8E0CC; }
+        .badge-inf { background: #5C3D1E; color: #E8E0CC; }
+        .badge-acr { background: #5C1E1E; color: #E8E0CC; }
+        .badge-pres { background: #2A1F1F; color: #C9A84C; }
+
+        .speaker-name {
+            font-weight: 600;
+            color: #C9A84C;
+            flex-grow: 1;
+        }
+
+        .turn-response {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            color: #E8E0CC;
+            margin-bottom: 12px;
+        }
+
+        .sources {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid rgba(201, 168, 76, 0.2);
+        }
+
+        .source-pill {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            background: rgba(42, 92, 52, 0.5);
+            color: #2A5C34;
+            padding: 4px 8px;
+            border-radius: 3px;
+            border: 1px solid #2A5C34;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 200px;
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* SIDEBAR */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .panel {
+            background: #1C3D22;
+            border: 1px solid #2A5C34;
+            border-radius: 4px;
+            padding: 16px;
+            animation: slideInRight 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+        }
+
+        @keyframes slideInRight {
+            from {
+                opacity: 0;
+                transform: translateX(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .panel h3 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2rem;
+            color: #C9A84C;
+            margin-bottom: 12px;
+            border-bottom: 2px solid #C9A84C;
+            padding-bottom: 8px;
+        }
+
+        .stat-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(42, 92, 52, 0.3);
+            font-size: 0.9rem;
+        }
+
+        .stat-row:last-child {
+            border-bottom: none;
+        }
+
+        .stat-label {
+            color: #2A5C34;
+        }
+
+        .stat-value {
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 600;
+            color: #C9A84C;
+        }
+
+        .theme-item {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(42, 92, 52, 0.3);
+            font-size: 0.9rem;
+        }
+
+        .theme-item:last-child {
+            border-bottom: none;
+        }
+
+        .theme-name {
+            color: #E8E0CC;
+            font-weight: 500;
+            margin-bottom: 4px;
+        }
+
+        .theme-bar {
+            height: 6px;
+            background: #4A4A4A;
+            border-radius: 2px;
+            overflow: hidden;
+        }
+
+        .theme-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #2A5C34, #C9A84C);
+            transition: width 0.3s ease;
+        }
+
+        .conflict-item {
+            padding: 8px;
+            background: rgba(139, 32, 32, 0.2);
+            border-left: 2px solid #8B2020;
+            border-radius: 2px;
+            margin-bottom: 8px;
+            font-size: 0.85rem;
+            color: #E8E0CC;
+        }
+
+        .conflict-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .coalition-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            background: #2A5C34;
+            color: #E8E0CC;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            margin: 4px 4px 4px 0;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .no-data {
+            color: #4A4A4A;
+            font-style: italic;
+            font-size: 0.9rem;
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* LOADING STATE */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #2A5C34;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid #2A5C34;
+            border-top-color: #C9A84C;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 16px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* SCROLLBAR */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0A1F0F;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #2A5C34;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #C9A84C;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>KENYA AI EXECUTIVE ROUNDTABLE</h1>
+            <div class="topic" id="topic">Loading debate...</div>
+            <div class="metadata">
+                <span id="timestamp">—</span>
+                <span id="turn-count">Turns: 0</span>
+                <span id="agent-count">Agents: 0</span>
+            </div>
+        </div>
+
+        <div class="filter-bar" id="filter-bar"></div>
+
+        <div class="feed" id="feed">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Loading debate transcript...</p>
+            </div>
+        </div>
+
+        <div class="sidebar" id="sidebar">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Loading graph analysis...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ─────────────────────────────────────────────────────────────────── 
+        // CONFIG & AGENT METADATA
+        // ─────────────────────────────────────────────────────────────────── 
+
+        const AGENT_CONFIG = {
+            finance: { name: 'Cabinet Secretary, National Treasury', title: 'Treasury & Finance', badge: 'FIN', badgeClass: 'badge-fin' },
+            education: { name: 'Cabinet Secretary, Education', title: 'Education & CBC', badge: 'EDU', badgeClass: 'badge-edu' },
+            agriculture: { name: 'Cabinet Secretary, Agriculture', title: 'Food Security', badge: 'AGR', badgeClass: 'badge-agr' },
+            ict: { name: 'Cabinet Secretary, ICT', title: 'Digital Economy', badge: 'ICT', badgeClass: 'badge-ict' },
+            infrastructure: { name: 'Cabinet Secretary, Infrastructure', title: 'Roads & Energy', badge: 'INF', badgeClass: 'badge-inf' },
+            anticorruption: { name: 'Cabinet Secretary, Anti-Corruption', title: 'Governance', badge: 'ACR', badgeClass: 'badge-acr' },
+            president: { name: 'The President', title: 'Executive', badge: 'PRES', badgeClass: 'badge-pres' },
+        };
+
+        let debateData = null;
+        let graphData = null;
+        let activeFilter = null;
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // LOAD DATA
+        // ─────────────────────────────────────────────────────────────────── 
+
+        async function loadData() {
+            try {
+                // Try to detect transcript files in this directory
+                const fileName = window.location.hash.slice(1) || getLatestDebateFile();
+                
+                if (fileName) {
+                    console.log(`Loading: ${fileName}`);
+                    const response = await fetch(fileName);
+                    debateData = await response.json();
+                    
+                    const graphFileName = fileName.replace('.json', '_graph.json');
+                    try {
+                        const graphResponse = await fetch(graphFileName);
+                        graphData = await graphResponse.json();
+                    } catch (e) {
+                        console.log('Graph data not found (building UI with transcript only)');
+                    }
+                    
+                    render();
+                } else {
+                    document.getElementById('feed').innerHTML = '<div class="loading"><p>No debate transcript found. Place this viewer in the debates/ directory.</p></div>';
+                }
+            } catch (error) {
+                console.error('Load error:', error);
+                document.getElementById('feed').innerHTML = `<div class="loading"><p>Error loading debate: ${error.message}</p></div>`;
+            }
+        }
+
+        function getLatestDebateFile() {
+            // In a real app, you'd make an API call to list files
+            // For now, this is a placeholder that the user can provide via hash
+            const timestamp = new Date().toISOString().split('T')[0].replace(/-/g, '-');
+            return null; // User will provide filename via hash
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // RENDER DEBATE FEED
+        // ─────────────────────────────────────────────────────────────────── 
+
+        function renderFeed() {
+            const feed = document.getElementById('feed');
+            feed.innerHTML = '';
+
+            const transcript = debateData.transcript || [];
+            const filtered = activeFilter 
+                ? transcript.filter(turn => turn.speaker === activeFilter)
+                : transcript;
+
+            if (filtered.length === 0) {
+                feed.innerHTML = '<div class="loading"><p>No turns match this filter.</p></div>';
+                return;
+            }
+
+            filtered.forEach((turn, idx) => {
+                const cfg = AGENT_CONFIG[turn.speaker] || {};
+                const turnEl = document.createElement('div');
+                turnEl.className = `turn ${turn.speaker === 'president' ? 'president' : ''}`;
+                
+                const turnNum = turn.turn || idx;
+                const headerHTML = `
+                    <div class="turn-header">
+                        <div class="turn-counter">#${turnNum}</div>
+                        <span class="speaker-badge ${cfg.badgeClass}">${cfg.badge}</span>
+                        <div class="speaker-name">${cfg.name}</div>
+                    </div>
+                `;
+
+                const responseHTML = `<div class="turn-response">${escapeHtml(turn.response)}</div>`;
+
+                let sourcesHTML = '';
+                if (turn.rag_sources && turn.rag_sources.length > 0) {
+                    sourcesHTML = `
+                        <div class="sources">
+                            ${turn.rag_sources.map(s => `<div class="source-pill">${escapeHtml(s)}</div>`).join('')}
+                        </div>
+                    `;
+                }
+
+                turnEl.innerHTML = headerHTML + responseHTML + sourcesHTML;
+                feed.appendChild(turnEl);
+            });
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // RENDER SIDEBAR PANELS
+        // ─────────────────────────────────────────────────────────────────── 
+
+        function renderSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            sidebar.innerHTML = '';
+
+            if (!graphData || !graphData.analysis) {
+                sidebar.innerHTML = '<div class="panel"><p class="no-data">Graph analysis not available.</p></div>';
+                return;
+            }
+
+            const analysis = graphData.analysis;
+
+            // Stats Panel
+            const statsPanel = createPanel('Debate Statistics', [
+                ['Total Claims', analysis.total_claims || 0],
+                ['Unique Themes', analysis.unique_themes || 0],
+                ['Contested Topics', analysis.contested_topics || 0],
+                ['Coalitions Found', (analysis.coalitions || []).length],
+            ]);
+            sidebar.appendChild(statsPanel);
+
+            // Core Themes
+            const themesPanel = document.createElement('div');
+            themesPanel.className = 'panel';
+            themesPanel.innerHTML = '<h3>Core Themes</h3>';
+            
+            if (analysis.themes && analysis.themes.length > 0) {
+                const maxCount = Math.max(...analysis.themes.map(t => t.count));
+                analysis.themes.slice(0, 5).forEach(theme => {
+                    const width = (theme.count / maxCount) * 100;
+                    const themeEl = document.createElement('div');
+                    themeEl.className = 'theme-item';
+                    themeEl.innerHTML = `
+                        <div class="theme-name">${escapeHtml(theme.theme)}</div>
+                        <div class="theme-bar">
+                            <div class="theme-fill" style="width: ${width}%"></div>
+                        </div>
+                    `;
+                    themesPanel.appendChild(themeEl);
+                });
+            } else {
+                themesPanel.innerHTML += '<p class="no-data">No themes extracted.</p>';
+            }
+            sidebar.appendChild(themesPanel);
+
+            // Conflicts
+            const conflictPanel = document.createElement('div');
+            conflictPanel.className = 'panel';
+            conflictPanel.innerHTML = '<h3>Unresolved Conflicts</h3>';
+            
+            if (analysis.conflicts && analysis.conflicts.length > 0) {
+                analysis.conflicts.slice(0, 4).forEach(conflict => {
+                    const conflictEl = document.createElement('div');
+                    conflictEl.className = 'conflict-item';
+                    conflictEl.textContent = `${conflict.agent1.toUpperCase()} ↔ ${conflict.agent2.toUpperCase()}: ${escapeHtml(conflict.issue.substring(0, 60))}...`;
+                    conflictPanel.appendChild(conflictEl);
+                });
+            } else {
+                conflictPanel.innerHTML += '<p class="no-data">No unresolved conflicts.</p>';
+            }
+            sidebar.appendChild(conflictPanel);
+
+            // Coalitions
+            const coalitionPanel = document.createElement('div');
+            coalitionPanel.className = 'panel';
+            coalitionPanel.innerHTML = '<h3>Coalitions</h3>';
+            
+            if (analysis.coalitions && analysis.coalitions.length > 0) {
+                analysis.coalitions.slice(0, 3).forEach(coalition => {
+                    const agents = (coalition.agents || []).join(' + ').toUpperCase();
+                    const coalitionEl = document.createElement('div');
+                    coalitionEl.style.marginBottom = '8px';
+                    coalitionEl.innerHTML = `
+                        <div style="color: #C9A84C; font-weight: 600; margin-bottom: 4px;">${coalition.position || 'Position'}</div>
+                        <div>${coalition.agents.map(a => `<span class="coalition-badge">${a.toUpperCase()}</span>`).join('')}</div>
+                    `;
+                    coalitionPanel.appendChild(coalitionEl);
+                });
+            } else {
+                coalitionPanel.innerHTML += '<p class="no-data">No coalitions detected.</p>';
+            }
+            sidebar.appendChild(coalitionPanel);
+        }
+
+        function createPanel(title, stats) {
+            const panel = document.createElement('div');
+            panel.className = 'panel';
+            panel.innerHTML = `<h3>${title}</h3>`;
+            
+            stats.forEach(([label, value]) => {
+                const row = document.createElement('div');
+                row.className = 'stat-row';
+                row.innerHTML = `
+                    <span class="stat-label">${label}</span>
+                    <span class="stat-value">${value}</span>
+                `;
+                panel.appendChild(row);
+            });
+            
+            return panel;
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // RENDER FILTER BAR
+        // ─────────────────────────────────────────────────────────────────── 
+
+        function renderFilterBar() {
+            const bar = document.getElementById('filter-bar');
+            bar.innerHTML = '';
+
+            const allBtn = document.createElement('button');
+            allBtn.className = 'filter-btn active';
+            allBtn.textContent = 'All Speakers';
+            allBtn.onclick = () => setFilter(null);
+            bar.appendChild(allBtn);
+
+            const agents = ['finance', 'education', 'agriculture', 'ict', 'infrastructure', 'anticorruption', 'president'];
+            agents.forEach(agent => {
+                const cfg = AGENT_CONFIG[agent];
+                const btn = document.createElement('button');
+                btn.className = 'filter-btn';
+                btn.textContent = cfg.badge;
+                btn.onclick = () => setFilter(agent);
+                bar.appendChild(btn);
+            });
+        }
+
+        function setFilter(agent) {
+            activeFilter = agent;
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            if (agent === null) {
+                document.querySelectorAll('.filter-btn')[0].classList.add('active');
+            } else {
+                document.querySelectorAll('.filter-btn').forEach(btn => {
+                    if (btn.textContent === AGENT_CONFIG[agent].badge) {
+                        btn.classList.add('active');
+                    }
+                });
+            }
+            renderFeed();
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // RENDER HEADER METADATA
+        // ─────────────────────────────────────────────────────────────────── 
+
+        function renderHeader() {
+            if (!debateData) return;
+
+            document.getElementById('topic').textContent = debateData.topic;
+            document.getElementById('timestamp').textContent = `Debate: ${debateData.timestamp}`;
+            
+            const transcript = debateData.transcript || [];
+            document.getElementById('turn-count').textContent = `Turns: ${transcript.length}`;
+            
+            const agents = new Set(transcript.map(t => t.speaker).filter(s => s !== 'president'));
+            document.getElementById('agent-count').textContent = `Agents: ${agents.size}`;
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // RENDER ALL
+        // ─────────────────────────────────────────────────────────────────── 
+
+        function render() {
+            renderHeader();
+            renderFilterBar();
+            renderFeed();
+            renderSidebar();
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // UTILITIES
+        // ─────────────────────────────────────────────────────────────────── 
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // ─────────────────────────────────────────────────────────────────── 
+        // INIT
+        // ─────────────────────────────────────────────────────────────────── 
+
+        window.addEventListener('hashchange', loadData);
+        loadData();
+
+        // Example: Load a specific file with viewer.html#filename.json
+    </script>
+</body>
+</html>
