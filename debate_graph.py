@@ -730,7 +730,7 @@ class DebateGraph:
                     f"  • {sc['agent_name']} may have shifted position on "
                     f"{', '.join(sc['sub_topics'])}:\n"
                     f"    Turn {sc['turn_a']}: \"{sc['claim_a'][:80]}\"\n"
-                    f"    Turn {sc['turn_b']}: \"{sc['claim_b'][:80']}\""
+                    f"    Turn {sc['turn_b']}: \"{sc['claim_b'][:80]}\""
                 )
             parts.append("")
 

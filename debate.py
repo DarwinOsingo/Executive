@@ -44,6 +44,7 @@ from groq import Groq
 
 sys.path.insert(0, str(Path(__file__).parent))
 from agent import Agent, AGENT_CONFIGS, GROQ_MODEL
+from debate_graph import DebateGraph
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 
@@ -572,6 +573,22 @@ def run_debate(
         _divider("═")
         print(f"  Transcript saved → {path}")
         _divider("═")
+
+        # ── Knowledge graph analysis ───────────────────────────────────────────
+        print("  [Building debate knowledge graph...]")
+        try:
+            dg = DebateGraph(topic, transcript)
+            dg.build(verbose=False)
+
+            graph_path = str(path).replace(".json", "_graph.json")
+            dg.save(graph_path)
+
+            print(dg.summary_report())
+            _divider("═")
+            print(f"  Graph saved → {graph_path}")
+            _divider("═")
+        except Exception as graph_err:
+            print(f"  [Graph build failed (non-fatal): {graph_err}]")
 
     return transcript
 
