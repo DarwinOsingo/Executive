@@ -492,4 +492,4 @@ if __name__ == "__main__":
     print(f"\n[Sources]")
     for src in result["rag_sources"]:
         print(f"  {src}")
-       # docker run -d --name qdrant -p 6333:6333 -v ~/qdrant_storage:/qdrant/storage qdrant/qdrant
+       
