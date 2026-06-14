@@ -39,6 +39,11 @@
             min-height: 100vh;
         }
 
+        .container-inner {
+            grid-column: 1 / -1;
+            display: contents;
+        }
+
         @media (max-width: 1024px) {
             .container {
                 grid-template-columns: 1fr;
@@ -46,6 +51,99 @@
             .sidebar {
                 order: 2;
             }
+        }
+
+        /* ─────────────────────────────────────────────────────────────────── */
+        /* FILE LOADER MODAL */
+        /* ─────────────────────────────────────────────────────────────────── */
+
+        .file-loader-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(10, 31, 15, 0.95);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            backdrop-filter: blur(4px);
+        }
+
+        .file-loader-modal.hidden {
+            display: none;
+        }
+
+        .file-loader-box {
+            background: #1C3D22;
+            border: 2px solid #C9A84C;
+            border-radius: 8px;
+            padding: 40px;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        .file-loader-box h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.8rem;
+            color: #C9A84C;
+            margin-bottom: 24px;
+            letter-spacing: -1px;
+        }
+
+        .transcript-list {
+            max-height: 60vh;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .transcript-item {
+            padding: 16px;
+            background: rgba(42, 92, 52, 0.2);
+            border: 1px solid #2A5C34;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: left;
+        }
+
+        .transcript-item:hover {
+            background: rgba(201, 168, 76, 0.1);
+            border-color: #C9A84C;
+            transform: translateX(4px);
+        }
+
+        .transcript-item-name {
+            color: #C9A84C;
+            font-weight: 600;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            margin-bottom: 4px;
+        }
+
+        .transcript-item-date {
+            color: #2A5C34;
+            font-size: 0.85rem;
+        }
+
+        .load-different-btn {
+            padding: 6px 12px;
+            background: transparent;
+            border: 1px solid #C9A84C;
+            color: #C9A84C;
+            border-radius: 3px;
+            font-size: 0.8rem;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.2s ease;
+            margin-left: auto;
+        }
+
+        .load-different-btn:hover {
+            background: rgba(201, 168, 76, 0.1);
         }
 
         /* ─────────────────────────────────────────────────────────────────── */
@@ -78,8 +176,7 @@
             display: flex;
             gap: 24px;
             font-size: 0.9rem;
-            color: #2A5C34;
-        }
+            color: #2A5C34;            align-items: center;        }
 
         /* ─────────────────────────────────────────────────────────────────── */
         /* FILTER BAR */
@@ -395,15 +492,24 @@
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h1>KENYA AI EXECUTIVE ROUNDTABLE</h1>
-            <div class="topic" id="topic">Loading debate...</div>
-            <div class="metadata">
-                <span id="timestamp">—</span>
-                <span id="turn-count">Turns: 0</span>
-                <span id="agent-count">Agents: 0</span>
+        <div class="file-loader-modal" id="fileLoaderModal">
+            <div class="file-loader-box">
+                <h2>Load Debate Transcript</h2>
+                <div id="transcriptList" class="transcript-list"></div>
             </div>
         </div>
+
+        <div class="container-inner">
+            <div class="header">
+                <h1>KENYA AI EXECUTIVE ROUNDTABLE</h1>
+                <div class="topic" id="topic">—</div>
+                <div class="metadata">
+                    <span id="timestamp">—</span>
+                    <span id="turn-count">Turns: 0</span>
+                    <span id="agent-count">Agents: 0</span>
+                    <button class="load-different-btn" onclick="showFileLoader()">Load Different Debate</button>
+                </div>
+            </div>
 
         <div class="filter-bar" id="filter-bar"></div>
 
@@ -440,44 +546,110 @@
         let debateData = null;
         let graphData = null;
         let activeFilter = null;
+        let currentFileName = null;
 
         // ─────────────────────────────────────────────────────────────────── 
-        // LOAD DATA
+        // FILE LOADER UI
         // ─────────────────────────────────────────────────────────────────── 
 
-        async function loadData() {
-            try {
-                // Try to detect transcript files in this directory
-                const fileName = window.location.hash.slice(1) || getLatestDebateFile();
-                
-                if (fileName) {
-                    console.log(`Loading: ${fileName}`);
-                    const response = await fetch(fileName);
-                    debateData = await response.json();
-                    
-                    const graphFileName = fileName.replace('.json', '_graph.json');
-                    try {
-                        const graphResponse = await fetch(graphFileName);
-                        graphData = await graphResponse.json();
-                    } catch (e) {
-                        console.log('Graph data not found (building UI with transcript only)');
-                    }
-                    
-                    render();
-                } else {
-                    document.getElementById('feed').innerHTML = '<div class="loading"><p>No debate transcript found. Place this viewer in the debates/ directory.</p></div>';
+        function showFileLoader() {
+            document.getElementById('fileLoaderModal').classList.remove('hidden');
+        }
+
+        function hideFileLoader() {
+            document.getElementById('fileLoaderModal').classList.add('hidden');
+        }
+
+        function setupFileLoader() {
+            const modal = document.getElementById('fileLoaderModal');
+            const listContainer = document.getElementById('transcriptList');
+
+            // Fetch and display available transcripts
+            fetchAvailableTranscripts().then(files => {
+                if (files.length === 0) {
+                    listContainer.innerHTML = '<p class="no-data">No debate transcripts found in this directory.</p>';
+                    return;
                 }
-            } catch (error) {
-                console.error('Load error:', error);
-                document.getElementById('feed').innerHTML = `<div class="loading"><p>Error loading debate: ${error.message}</p></div>`;
+
+                files.forEach(file => {
+                    const item = document.createElement('div');
+                    item.className = 'transcript-item';
+                    
+                    // Extract date and topic from filename
+                    // Format: YYYY-MM-DD_HH-MM_topic_name.json
+                    const parts = file.replace('.json', '').split('_');
+                    const date = parts.slice(0, 2).join(' ');
+                    const topic = parts.slice(2).join(' ').replace(/_/g, ' ');
+                    
+                    item.innerHTML = `
+                        <div class="transcript-item-name">${escapeHtml(file)}</div>
+                        <div class="transcript-item-date">${date}</div>
+                    `;
+                    
+                    item.onclick = () => loadTranscriptFromUrl(file);
+                    listContainer.appendChild(item);
+                });
+            });
+
+            // Try loading from URL hash first
+            if (window.location.hash) {
+                const fileName = window.location.hash.slice(1);
+                loadTranscriptFromUrl(fileName);
+            } else {
+                showFileLoader();
             }
         }
 
-        function getLatestDebateFile() {
-            // In a real app, you'd make an API call to list files
-            // For now, this is a placeholder that the user can provide via hash
-            const timestamp = new Date().toISOString().split('T')[0].replace(/-/g, '-');
-            return null; // User will provide filename via hash
+        async function fetchAvailableTranscripts() {
+            try {
+                const response = await fetch('./');
+                const html = await response.text();
+                
+                // Parse HTML directory listing to extract JSON files
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                
+                const files = [];
+                const links = doc.querySelectorAll('a');
+                
+                links.forEach(link => {
+                    const href = link.getAttribute('href');
+                    // Include .json files that are transcripts (not _graph.json)
+                    if (href && href.endsWith('.json') && !href.includes('_graph.json')) {
+                        files.push(href);
+                    }
+                });
+                
+                return files.sort().reverse(); // Most recent first
+            } catch (error) {
+                console.error('Error fetching transcript list:', error);
+                return [];
+            }
+        }
+
+        async function loadTranscriptFromUrl(fileName) {
+            try {
+                const response = await fetch(fileName);
+                if (!response.ok) throw new Error('File not found');
+                debateData = await response.json();
+                currentFileName = fileName;
+
+                // Try to load graph
+                const graphFileName = fileName.replace('.json', '_graph.json');
+                try {
+                    const graphResponse = await fetch(graphFileName);
+                    graphData = await graphResponse.json();
+                } catch (e) {
+                    graphData = null;
+                }
+
+                render();
+                hideFileLoader();
+                window.location.hash = fileName;
+            } catch (error) {
+                console.error('Error loading transcript:', error);
+                alert(`Could not load transcript: ${error.message}`);
+            }
         }
 
         // ─────────────────────────────────────────────────────────────────── 
@@ -717,10 +889,14 @@
         // INIT
         // ─────────────────────────────────────────────────────────────────── 
 
-        window.addEventListener('hashchange', loadData);
-        loadData();
+        window.addEventListener('hashchange', () => {
+            const fileName = window.location.hash.slice(1);
+            if (fileName) {
+                loadTranscriptFromUrl(fileName);
+            }
+        });
 
-        // Example: Load a specific file with viewer.html#filename.json
+        setupFileLoader();
     </script>
 </body>
 </html>
