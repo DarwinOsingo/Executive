@@ -642,6 +642,18 @@ if __name__ == "__main__":
 
     # ── Replay mode ────────────────────────────────────────────────────────────
     if args.replay:
+        replay_path = Path(args.replay)
+        if replay_path.is_dir():
+            print(f"[Error] --replay expects a transcript file, not a directory: {replay_path}")
+            json_files = sorted(replay_path.glob("*.json"))
+            if json_files:
+                print("Available debate transcripts:")
+                for p in json_files:
+                    print(f"  {p}")
+            else:
+                print("No JSON transcripts found in that directory.")
+            print("Use a JSON file path under the debates/ folder, e.g. --replay debates/2026-05-11_14-30_sgr_extension.json")
+            sys.exit(1)
         replay_transcript(args.replay)
         sys.exit(0)
 
